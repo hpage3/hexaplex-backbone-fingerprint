@@ -5,6 +5,7 @@ from __future__ import annotations
 from pathlib import Path
 from statistics import mean, median
 
+import numpy as np
 import pandas as pd
 
 from .band_mapping import BandCandidatePair
@@ -25,6 +26,16 @@ PLANE_FEATURE_COLUMNS = [
     "normal_y",
     "normal_z",
     "rms",
+    "ca_i_plane_dist",
+    "c_i_plane_dist",
+    "o_i_plane_dist",
+    "n_j_plane_dist",
+    "ca_j_plane_dist",
+    "hn_j_plane_dist",
+    "cno_to_peptide_normal_angle_deg",
+    "cno_centroid_to_peptide_plane_signed_dist",
+    "omega_like_deg",
+    "omega_deviation_from_trans_deg",
 ]
 
 BAND_CANDIDATE_COLUMNS = [
@@ -67,6 +78,16 @@ def write_plane_features_csv(planes: list[PeptidePlane], path: str | Path, model
                 "normal_y": plane.normal[1],
                 "normal_z": plane.normal[2],
                 "rms": plane.rms,
+                "ca_i_plane_dist": plane.ca_i_plane_dist,
+                "c_i_plane_dist": plane.c_i_plane_dist,
+                "o_i_plane_dist": plane.o_i_plane_dist,
+                "n_j_plane_dist": plane.n_j_plane_dist,
+                "ca_j_plane_dist": plane.ca_j_plane_dist,
+                "hn_j_plane_dist": plane.hn_j_plane_dist,
+                "cno_to_peptide_normal_angle_deg": plane.cno_to_peptide_normal_angle_deg,
+                "cno_centroid_to_peptide_plane_signed_dist": plane.cno_centroid_to_peptide_plane_signed_dist,
+                "omega_like_deg": plane.omega_like_deg,
+                "omega_deviation_from_trans_deg": plane.omega_deviation_from_trans_deg,
             }
         )
     _write_dataframe(rows, path, PLANE_FEATURE_COLUMNS)
@@ -114,6 +135,8 @@ def write_summary_markdown(
     c_candidates: list[BandCandidatePair],
     d_candidates: list[BandCandidatePair],
     histogram_path: str | Path | None,
+    distortion_plot_paths: list[str | Path],
+    planes: list[PeptidePlane],
 ) -> None:
     """Write a compact Markdown summary for one analysis run."""
     lines = [
@@ -139,6 +162,11 @@ def write_summary_markdown(
         "## Plots",
         "",
         _plot_summary(histogram_path),
+        *_distortion_plot_summary(distortion_plot_paths),
+        "",
+        "## Distortion Correlations",
+        "",
+        _correlation_summary(planes),
         "",
     ]
     Path(path).write_text("\n".join(lines), encoding="utf-8")
@@ -173,6 +201,54 @@ def write_band_candidate_histogram(
     return output_path
 
 
+def write_distortion_scatter_plots(planes: list[PeptidePlane], outdir: str | Path) -> list[Path]:
+    """Write simple scatter plots for peptide-plane distortion metrics."""
+    output_dir = Path(outdir)
+    plot_specs = [
+        (
+            "rms_vs_cno_angle.png",
+            "rms",
+            "cno_to_peptide_normal_angle_deg",
+            "Plane RMS (Angstrom)",
+            "CNO to peptide normal angle (deg)",
+        ),
+        (
+            "rms_vs_omega_deviation.png",
+            "rms",
+            "omega_deviation_from_trans_deg",
+            "Plane RMS (Angstrom)",
+            "Omega deviation from trans (deg)",
+        ),
+        (
+            "cno_angle_vs_omega_deviation.png",
+            "cno_to_peptide_normal_angle_deg",
+            "omega_deviation_from_trans_deg",
+            "CNO to peptide normal angle (deg)",
+            "Omega deviation from trans (deg)",
+        ),
+    ]
+
+    written: list[Path] = []
+    for filename, x_attr, y_attr, xlabel, ylabel in plot_specs:
+        pairs = _finite_pairs(planes, x_attr, y_attr)
+        if len(pairs) < 3:
+            continue
+
+        import matplotlib.pyplot as plt
+
+        output_path = output_dir / filename
+        fig, ax = plt.subplots(figsize=(5, 4))
+        ax.scatter([pair[0] for pair in pairs], [pair[1] for pair in pairs], s=18, alpha=0.75)
+        ax.set_xlabel(xlabel)
+        ax.set_ylabel(ylabel)
+        ax.set_title(filename.replace("_", " ").replace(".png", "").title())
+        fig.tight_layout()
+        fig.savefig(output_path, dpi=150)
+        plt.close(fig)
+        written.append(output_path)
+    return written
+
+
 def _write_dataframe(rows: list[dict], path: str | Path, columns: list[str]) -> None:
     output_path = Path(path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -204,3 +280,72 @@ def _plot_summary(histogram_path: str | Path | None) -> str:
     if histogram_path is None:
         return "No candidate distances found, so no histogram was written."
     return f"- Candidate distance histogram: `{Path(histogram_path).name}`"
+
+
+def _distortion_plot_summary(plot_paths: list[str | Path]) -> list[str]:
+    if not plot_paths:
+        return ["No distortion scatter plots were written because too few finite values were available."]
+    return [f"- Distortion scatter plot: `{Path(path).name}`" for path in plot_paths]
+
+
+def _correlation_summary(planes: list[PeptidePlane]) -> str:
+    correlations = [
+        (
+            "rms vs cno_to_peptide_normal_angle_deg",
+            "rms",
+            "cno_to_peptide_normal_angle_deg",
+            False,
+        ),
+        (
+            "rms vs absolute cno_centroid_to_peptide_plane_signed_dist",
+            "rms",
+            "cno_centroid_to_peptide_plane_signed_dist",
+            True,
+        ),
+        (
+            "rms vs omega_deviation_from_trans_deg",
+            "rms",
+            "omega_deviation_from_trans_deg",
+            False,
+        ),
+        (
+            "cno_to_peptide_normal_angle_deg vs omega_deviation_from_trans_deg",
+            "cno_to_peptide_normal_angle_deg",
+            "omega_deviation_from_trans_deg",
+            False,
+        ),
+    ]
+
+    lines = []
+    for label, x_attr, y_attr, use_abs_y in correlations:
+        pairs = _finite_pairs(planes, x_attr, y_attr, use_abs_y=use_abs_y)
+        if len(pairs) < 3:
+            lines.append(f"- {label}: too few finite values for Pearson correlation.")
+            continue
+        x_values = np.array([pair[0] for pair in pairs], dtype=float)
+        y_values = np.array([pair[1] for pair in pairs], dtype=float)
+        if np.isclose(np.std(x_values), 0.0) or np.isclose(np.std(y_values), 0.0):
+            lines.append(f"- {label}: undefined because one value series is constant.")
+            continue
+        corr = float(np.corrcoef(x_values, y_values)[0, 1])
+        lines.append(f"- {label}: r = {corr:.3f} (n = {len(pairs)})")
+    return "\n".join(lines)
+
+
+def _finite_pairs(
+    planes: list[PeptidePlane],
+    x_attr: str,
+    y_attr: str,
+    use_abs_y: bool = False,
+) -> list[tuple[float, float]]:
+    pairs = []
+    for plane in planes:
+        x_value = getattr(plane, x_attr)
+        y_value = getattr(plane, y_attr)
+        if x_value is None or y_value is None:
+            continue
+        if use_abs_y:
+            y_value = abs(y_value)
+        if np.isfinite(x_value) and np.isfinite(y_value):
+            pairs.append((float(x_value), float(y_value)))
+    return pairs

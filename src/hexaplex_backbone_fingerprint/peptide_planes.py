@@ -6,7 +6,7 @@ from dataclasses import dataclass
 
 import numpy as np
 
-from .geometry import fit_plane
+from .geometry import dihedral_degrees, fit_plane, signed_distance_to_plane, unsigned_normal_angle
 from .pdb_parser import Residue, ResidueKey, ResidueMap, is_peptide_linked, iter_residue_pairs
 
 
@@ -28,6 +28,17 @@ class PeptidePlane:
     ca_i: tuple[float, float, float] | None
     ca_j: tuple[float, float, float] | None
     hn_j: tuple[float, float, float] | None
+    ca_i_plane_dist: float
+    c_i_plane_dist: float
+    o_i_plane_dist: float
+    n_j_plane_dist: float
+    ca_j_plane_dist: float
+    hn_j_plane_dist: float | None
+    cno_normal: np.ndarray
+    cno_to_peptide_normal_angle_deg: float
+    cno_centroid_to_peptide_plane_signed_dist: float
+    omega_like_deg: float
+    omega_deviation_from_trans_deg: float
 
 
 def build_peptide_planes(resmap: ResidueMap) -> list[PeptidePlane]:
@@ -61,6 +72,14 @@ def _build_plane_record(
 
     points = np.array([atom.coord for atom in atoms if atom is not None], dtype=float)
     center, normal, rms = fit_plane(points)
+    cno_points = np.array([residue_i["C"].coord, residue_j["N"].coord, residue_i["O"].coord], dtype=float)
+    cno_centroid, cno_normal, _ = fit_plane(cno_points)
+    omega_like_deg = dihedral_degrees(
+        residue_i["CA"].coord,
+        residue_i["C"].coord,
+        residue_j["N"].coord,
+        residue_j["CA"].coord,
+    )
     return PeptidePlane(
         chain=key_i[0],
         res_i=key_i[1],
@@ -76,4 +95,15 @@ def _build_plane_record(
         ca_i=residue_i["CA"].coord,
         ca_j=residue_j["CA"].coord,
         hn_j=hn_atom.coord if hn_atom is not None else None,
+        ca_i_plane_dist=signed_distance_to_plane(residue_i["CA"].coord, center, normal),
+        c_i_plane_dist=signed_distance_to_plane(residue_i["C"].coord, center, normal),
+        o_i_plane_dist=signed_distance_to_plane(residue_i["O"].coord, center, normal),
+        n_j_plane_dist=signed_distance_to_plane(residue_j["N"].coord, center, normal),
+        ca_j_plane_dist=signed_distance_to_plane(residue_j["CA"].coord, center, normal),
+        hn_j_plane_dist=signed_distance_to_plane(hn_atom.coord, center, normal) if hn_atom is not None else None,
+        cno_normal=cno_normal,
+        cno_to_peptide_normal_angle_deg=unsigned_normal_angle(cno_normal, normal),
+        cno_centroid_to_peptide_plane_signed_dist=signed_distance_to_plane(cno_centroid, center, normal),
+        omega_like_deg=omega_like_deg,
+        omega_deviation_from_trans_deg=abs(abs(omega_like_deg) - 180.0),
     )

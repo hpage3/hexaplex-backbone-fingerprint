@@ -15,6 +15,7 @@ from hexaplex_backbone_fingerprint.band_mapping import find_band_candidate_pairs
 from hexaplex_backbone_fingerprint.io import (
     write_band_candidate_histogram,
     write_band_candidate_pairs_csv,
+    write_distortion_scatter_plots,
     write_plane_features_csv,
     write_summary_markdown,
 )
@@ -46,6 +47,7 @@ def main() -> int:
         d_candidates,
         outdir / "band_candidate_distance_histogram.png",
     )
+    distortion_plot_paths = write_distortion_scatter_plots(planes, outdir)
     write_summary_markdown(
         outdir / "summary.md",
         input_file=pdb_file,
@@ -57,6 +59,8 @@ def main() -> int:
         c_candidates=c_candidates,
         d_candidates=d_candidates,
         histogram_path=histogram_path,
+        distortion_plot_paths=distortion_plot_paths,
+        planes=planes,
     )
 
     print("Backbone fingerprint analysis complete")
