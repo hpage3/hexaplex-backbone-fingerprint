@@ -1,0 +1,3381 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+5k8p,A,5,5k8pAD02,2.0,,,,
+5k8p,A,6,5k8pAD02,2.0,,,,
+5k8p,A,7,5k8pAD02,2.0,,,,
+5k8p,A,8,5k8pAD02,2.0,,,,
+5k8p,A,9,5k8pAD02,2.0,,,,
+5k8p,A,10,5k8pAD02,2.0,,,,
+5k8p,A,11,5k8pAD02,2.0,,,,
+5k8p,A,12,5k8pAD02,2.0,,,,
+5k8p,A,13,5k8pAD02,2.0,,,,
+5k8p,A,14,5k8pAD02,2.0,,,,
+5k8p,A,15,5k8pAD02,2.0,,,,
+5k8p,A,16,5k8pAD02,2.0,,,,
+5k8p,A,17,5k8pAD02,2.0,,,,
+5k8p,A,18,5k8pAD02,2.0,,,,
+5k8p,A,19,5k8pAD02,2.0,,,,
+5k8p,A,20,5k8pAD02,2.0,,,,
+5k8p,A,21,5k8pAD02,2.0,,,,
+5k8p,A,22,5k8pAD02,2.0,,,,
+5k8p,A,23,5k8pAD02,2.0,,,,
+5k8p,A,24,5k8pAD02,2.0,,,,
+5k8p,A,25,5k8pAD02,2.0,,,,
+5k8p,A,26,5k8pAD02,2.0,,,,
+5k8p,A,27,5k8pAD02,2.0,,,,
+5k8p,A,28,5k8pAD02,2.0,,,,
+5k8p,A,29,5k8pAD02,2.0,,,,
+5k8p,A,30,5k8pAD02,2.0,,,,
+5k8p,A,31,5k8pAD02,2.0,,,,
+5k8p,A,32,5k8pAD02,2.0,,,,
+5k8p,A,33,5k8pAD02,2.0,,,,
+5k8p,A,34,5k8pAD02,2.0,,,,
+5k8p,A,35,5k8pAD02,2.0,,,,
+5k8p,A,36,5k8pAD02,2.0,,,,
+5k8p,A,37,5k8pAD02,2.0,,,,
+5k8p,A,38,5k8pAD02,2.0,,,,
+5k8p,A,39,5k8pAD02,2.0,,,,
+5k8p,A,40,5k8pAD02,2.0,,,,
+5k8p,A,41,5k8pAD02,2.0,,,,
+5k8p,A,42,5k8pAD02,2.0,,,,
+5k8p,A,43,5k8pAD02,2.0,,,,
+5k8p,A,44,5k8pAD02,2.0,,,,
+5k8p,A,45,5k8pAD02,2.0,,,,
+5k8p,A,46,5k8pAD02,2.0,,,,
+5k8p,A,47,5k8pAD02,2.0,,,,
+5k8p,A,48,5k8pAD02,2.0,,,,
+5k8p,A,49,5k8pAD02,2.0,,,,
+5k8p,A,50,5k8pAD02,2.0,,,,
+5k8p,A,51,5k8pAD02,2.0,,,,
+5k8p,A,52,5k8pAD02,2.0,,,,
+5k8p,A,53,5k8pAD02,2.0,,,,
+5k8p,A,54,5k8pAD02,2.0,,,,
+5k8p,A,55,5k8pAD02,2.0,,,,
+5k8p,A,56,5k8pAD02,2.0,,,,
+5k8p,A,57,5k8pAD02,2.0,,,,
+5k8p,A,58,5k8pAD02,2.0,,,,
+5k8p,A,59,5k8pAD02,2.0,,,,
+5k8p,A,60,5k8pAD02,2.0,,,,
+5k8p,A,61,5k8pAD02,2.0,,,,
+5k8p,A,62,5k8pAD02,2.0,,,,
+5k8p,A,63,5k8pAD02,2.0,,,,
+5k8p,A,64,5k8pAD02,2.0,,,,
+5k8p,A,65,5k8pAD02,2.0,,,,
+5k8p,A,66,5k8pAD02,2.0,,,,
+5k8p,A,67,5k8pAD02,2.0,,,,
+5k8p,A,68,5k8pAD02,2.0,,,,
+5k8p,A,69,5k8pAD02,2.0,,,,
+5k8p,A,70,5k8pAD02,2.0,,,,
+5k8p,A,71,5k8pAD02,2.0,,,,
+5k8p,A,72,5k8pAD02,2.0,,,,
+5k8p,A,73,5k8pAD02,2.0,,,,
+5k8p,A,74,5k8pAD02,2.0,,,,
+5k8p,A,75,5k8pAD02,2.0,,,,
+5k8p,A,76,5k8pAD02,2.0,,,,
+5k8p,A,77,5k8pAD02,2.0,,,,
+5k8p,A,78,5k8pAD02,2.0,,,,
+5k8p,A,79,5k8pAD02,2.0,,,,
+5k8p,A,80,5k8pAD02,2.0,,,,
+5k8p,A,81,5k8pAD02,2.0,,,,
+5k8p,A,82,5k8pAD02,2.0,,,,
+5k8p,A,83,5k8pAD02,2.0,,,,
+5k8p,A,84,5k8pAD02,2.0,,,,
+5k8p,A,85,5k8pAD02,2.0,,,,
+5k8p,A,86,5k8pAD02,2.0,,,,
+5k8p,A,87,5k8pAD02,2.0,,,,
+5k8p,A,88,5k8pAD02,2.0,,,,
+5k8p,A,89,5k8pAD02,2.0,,,,
+5k8p,A,90,5k8pAD02,2.0,,,,
+5k8p,A,91,5k8pAD02,2.0,,,,
+5k8p,A,92,5k8pAD02,2.0,,,,
+5k8p,A,93,5k8pAD02,2.0,,,,
+5k8p,A,94,5k8pAD02,2.0,,,,
+5k8p,A,95,5k8pAD02,2.0,,,,
+5k8p,A,96,5k8pAD02,2.0,,,,
+5k8p,A,97,5k8pAD02,2.0,,,,
+5k8p,A,98,5k8pAD02,2.0,,,,
+5k8p,A,99,5k8pAD02,2.0,,,,
+5k8p,A,100,5k8pAD02,2.0,,,,
+5k8p,A,101,5k8pAD02,2.0,,,,
+5k8p,A,102,5k8pAD02,2.0,,,,
+5k8p,A,103,5k8pAD02,2.0,,,,
+5k8p,A,104,5k8pAD02,2.0,,,,
+5k8p,A,105,5k8pAD02,2.0,,,,
+5k8p,A,106,5k8pAD02,2.0,,,,
+5k8p,A,107,5k8pAD02,2.0,,,,
+5k8p,A,108,5k8pAD02,2.0,,,,
+5k8p,A,109,5k8pAD02,2.0,,,,
+5k8p,A,110,5k8pAD02,2.0,,,,
+5k8p,A,111,5k8pAD02,2.0,,,,
+5k8p,A,112,5k8pAD02,2.0,,,,
+5k8p,A,113,5k8pAD02,2.0,,,,
+5k8p,A,114,5k8pAD02,2.0,,,,
+5k8p,A,115,5k8pAD02,2.0,,,,
+5k8p,A,116,5k8pAD02,2.0,,,,
+5k8p,A,117,5k8pAD02,2.0,,,,
+5k8p,A,118,5k8pAD02,2.0,,,,
+5k8p,A,119,5k8pAD02,2.0,,,,
+5k8p,A,120,5k8pAD02,2.0,,,,
+5k8p,A,121,5k8pAD02,2.0,,,,
+5k8p,A,122,5k8pAD02,2.0,,,,
+5k8p,A,123,5k8pAD02,2.0,,,,
+5k8p,A,124,5k8pAD02,2.0,,,,
+5k8p,A,125,5k8pAD02,2.0,,,,
+5k8p,A,126,5k8pAD02,2.0,,,,
+5k8p,A,127,5k8pAD02,2.0,,,,
+5k8p,A,128,5k8pAD02,2.0,,,,
+5k8p,A,129,5k8pAD02,2.0,,,,
+5k8p,A,130,5k8pAD02,2.0,,,,
+5k8p,A,131,5k8pAD02,2.0,,,,
+5k8p,A,132,5k8pAD02,2.0,,,,
+5k8p,A,133,5k8pAD02,2.0,,,,
+5k8p,A,134,5k8pAD02,2.0,,,,
+5k8p,A,135,5k8pAD02,2.0,,,,
+5k8p,A,136,5k8pAD02,2.0,,,,
+5k8p,A,137,5k8pAD02,2.0,,,,
+5k8p,A,138,5k8pAD02,2.0,,,,
+5k8p,A,139,5k8pAD02,2.0,,,,
+5k8p,A,140,5k8pAD02,2.0,,,,
+5k8p,A,141,5k8pAD02,2.0,,,,
+5k8p,A,142,5k8pAD02,2.0,,,,
+5k8p,A,143,5k8pAD02,2.0,,,,
+5k8p,A,144,5k8pAD02,2.0,,,,
+5k8p,A,145,5k8pAD02,2.0,,,,
+5k8p,A,146,5k8pAD02,2.0,,,,
+5k8p,A,147,5k8pAD02,2.0,,,,
+5k8p,A,148,5k8pAD02,2.0,,,,
+5k8p,A,149,5k8pAD02,2.0,,,,
+5k8p,A,150,5k8pAD02,2.0,,,,
+5k8p,A,151,5k8pAD02,2.0,,,,
+5k8p,A,152,5k8pAD02,2.0,,,,
+5k8p,A,153,5k8pAD02,2.0,,,,
+5k8p,A,154,5k8pAD02,2.0,,,,
+5k8p,A,155,5k8pAD02,2.0,,,,
+5k8p,A,156,5k8pAD02,2.0,,,,
+5k8p,A,157,5k8pAD02,2.0,,,,
+5k8p,A,158,5k8pAD02,2.0,,,,
+5k8p,A,159,5k8pAD02,2.0,,,,
+5k8p,A,160,5k8pAD02,2.0,,,,
+5k8p,A,161,5k8pAD02,2.0,,,,
+5k8p,A,162,5k8pAD02,2.0,,,,
+5k8p,A,163,5k8pAD02,2.0,,,,
+5k8p,A,164,5k8pAD02,2.0,,,,
+5k8p,A,165,5k8pAD02,2.0,,,,
+5k8p,A,166,5k8pAD02,2.0,,,,
+5k8p,A,167,5k8pAD02,2.0,,,,
+5k8p,A,168,5k8pAD02,2.0,,,,
+5k8p,A,169,5k8pAD02,2.0,,,,
+5k8p,A,170,5k8pAD02,2.0,,,,
+5k8p,A,171,5k8pAD02,2.0,,,,
+5k8p,A,172,5k8pAD02,2.0,,,,
+5k8p,A,173,5k8pAD02,2.0,,,,
+5k8p,A,174,5k8pAD02,2.0,,,,
+5k8p,A,175,5k8pAD02,2.0,,,,
+5k8p,A,176,5k8pAD02,2.0,,,,
+5k8p,A,177,5k8pAD02,2.0,,,,
+5k8p,A,178,5k8pAD02,2.0,,,,
+5k8p,A,179,5k8pAD02,2.0,,,,
+5k8p,A,180,5k8pAD02,2.0,,,,
+5k8p,A,181,5k8pAD02,2.0,,,,
+5k8p,A,182,5k8pAD02,2.0,,,,
+5k8p,A,183,5k8pAD02,2.0,,,,
+5k8p,A,184,5k8pAD02,2.0,,,,
+5k8p,A,185,5k8pAD02,2.0,,,,
+5k8p,A,186,5k8pAD02,2.0,,,,
+5k8p,A,187,5k8pAD02,2.0,,,,
+5k8p,A,188,5k8pAD02,2.0,,,,
+5k8p,A,189,5k8pAD02,2.0,,,,
+5k8p,A,190,5k8pAD02,2.0,,,,
+5k8p,A,191,5k8pAD02,2.0,,,,
+5k8p,A,192,5k8pAD02,2.0,,,,
+5k8p,A,193,5k8pAD02,2.0,,,,
+5k8p,A,194,5k8pAD02,2.0,,,,
+5k8p,A,195,5k8pAD02,2.0,,,,
+5k8p,A,196,5k8pAD02,2.0,,,,
+5k8p,A,197,5k8pAD02,2.0,,,,
+5k8p,A,198,5k8pAD02,2.0,,,,
+5k8p,A,199,5k8pAD02,2.0,,,,
+5k8p,A,200,5k8pAD02,2.0,,,,
+5k8p,A,201,5k8pAD02,2.0,,,,
+5k8p,A,202,5k8pAD02,2.0,,,,
+5k8p,A,203,5k8pAD02,2.0,,,,
+5k8p,A,204,5k8pAD02,2.0,,,,
+5k8p,A,205,5k8pAD02,2.0,,,,
+5k8p,A,206,,,,,,
+5k8p,A,207,,,,,,
+5k8p,A,208,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,209,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,210,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,211,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,212,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,213,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,214,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,215,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,216,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,217,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,218,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,219,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,220,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,221,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,222,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,223,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,224,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,225,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,226,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,227,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,228,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,229,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,230,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,231,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,232,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,233,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,234,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,235,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,236,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,237,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,238,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,239,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,240,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,241,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,242,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,243,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,244,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,245,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,246,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,247,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,248,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,249,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,250,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,251,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,252,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,253,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,254,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,255,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,256,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,257,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,258,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,259,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,260,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,261,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,262,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,263,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,264,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,265,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,266,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,267,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,268,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,269,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,270,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,271,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,272,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,273,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,274,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,275,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,276,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,277,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,278,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,279,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,280,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,281,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,282,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,283,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,284,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,285,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,286,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,287,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,288,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,289,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,290,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,291,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,292,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,293,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,294,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,295,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,296,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,297,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,298,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,299,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,300,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,301,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,302,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,303,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,304,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,305,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,306,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,307,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,308,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,309,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,310,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,311,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,312,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,313,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,314,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,315,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,316,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,317,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,318,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,319,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,320,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,321,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,322,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,323,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,324,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,325,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,326,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,327,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,328,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,329,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,330,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,331,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,332,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,333,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,334,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,335,,,e5k8pA2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,A,336,,,,,,
+5k8p,A,337,,,,,,
+5k8p,A,338,,,,,,
+5k8p,A,339,,,,,,
+5k8p,A,340,,,,,,
+5k8p,A,341,,,,,,
+5k8p,A,342,,,,,,
+5k8p,A,343,,,,,,
+5k8p,A,344,,,,,,
+5k8p,A,345,,,,,,
+5k8p,A,346,,,,,,
+5k8p,A,347,,,,,,
+5k8p,A,348,,,,,,
+5k8p,A,349,,,,,,
+5k8p,A,350,,,,,,
+5k8p,A,351,,,,,,
+5k8p,A,352,,,,,,
+5k8p,A,353,,,,,,
+5k8p,A,354,,,,,,
+5k8p,A,355,,,,,,
+5k8p,A,356,,,,,,
+5k8p,A,357,,,,,,
+5k8p,A,358,,,,,,
+5k8p,A,359,,,,,,
+5k8p,A,360,,,,,,
+5k8p,A,361,,,,,,
+5k8p,A,362,,,,,,
+5k8p,A,363,,,,,,
+5k8p,A,364,,,,,,
+5k8p,A,365,,,,,,
+5k8p,A,366,,,,,,
+5k8p,A,367,,,,,,
+5k8p,A,368,,,,,,
+5k8p,A,369,,,,,,
+5k8p,A,370,,,,,,
+5k8p,A,371,,,,,,
+5k8p,A,372,,,,,,
+5k8p,A,373,,,,,,
+5k8p,A,374,,,,,,
+5k8p,A,375,,,,,,
+5k8p,A,376,,,,,,
+5k8p,A,377,,,,,,
+5k8p,A,378,,,,,,
+5k8p,A,379,,,,,,
+5k8p,A,380,,,,,,
+5k8p,A,381,,,,,,
+5k8p,A,382,,,,,,
+5k8p,A,383,,,,,,
+5k8p,A,384,,,,,,
+5k8p,A,385,,,,,,
+5k8p,A,386,,,,,,
+5k8p,A,387,,,,,,
+5k8p,A,388,,,,,,
+5k8p,A,389,,,,,,
+5k8p,A,390,,,,,,
+5k8p,A,391,,,,,,
+5k8p,A,392,,,,,,
+5k8p,A,393,,,,,,
+5k8p,A,394,,,,,,
+5k8p,A,395,,,,,,
+5k8p,A,396,,,,,,
+5k8p,A,397,,,,,,
+5k8p,A,398,,,,,,
+5k8p,A,399,,,,,,
+5k8p,A,400,,,,,,
+5k8p,A,401,,,,,,
+5k8p,A,402,,,,,,
+5k8p,A,403,,,,,,
+5k8p,A,404,,,,,,
+5k8p,A,405,,,,,,
+5k8p,A,406,,,,,,
+5k8p,A,407,,,,,,
+5k8p,A,408,,,,,,
+5k8p,A,409,,,,,,
+5k8p,A,410,,,,,,
+5k8p,A,411,,,,,,
+5k8p,A,412,,,,,,
+5k8p,A,413,,,,,,
+5k8p,A,414,,,,,,
+5k8p,A,415,,,,,,
+5k8p,A,416,,,,,,
+5k8p,A,417,,,,,,
+5k8p,A,418,,,,,,
+5k8p,A,419,,,,,,
+5k8p,A,420,,,,,,
+5k8p,A,421,,,,,,
+5k8p,A,422,,,,,,
+5k8p,A,423,,,,,,
+5k8p,A,424,,,,,,
+5k8p,A,425,,,,,,
+5k8p,B,5,5k8pBD02,2.0,,,,
+5k8p,B,6,5k8pBD02,2.0,,,,
+5k8p,B,7,5k8pBD02,2.0,,,,
+5k8p,B,8,5k8pBD02,2.0,,,,
+5k8p,B,9,5k8pBD02,2.0,,,,
+5k8p,B,10,5k8pBD02,2.0,,,,
+5k8p,B,11,5k8pBD02,2.0,,,,
+5k8p,B,12,5k8pBD02,2.0,,,,
+5k8p,B,13,5k8pBD02,2.0,,,,
+5k8p,B,14,5k8pBD02,2.0,,,,
+5k8p,B,15,5k8pBD02,2.0,,,,
+5k8p,B,16,5k8pBD02,2.0,,,,
+5k8p,B,17,5k8pBD02,2.0,,,,
+5k8p,B,18,5k8pBD02,2.0,,,,
+5k8p,B,19,5k8pBD02,2.0,,,,
+5k8p,B,20,5k8pBD02,2.0,,,,
+5k8p,B,21,5k8pBD02,2.0,,,,
+5k8p,B,22,5k8pBD02,2.0,,,,
+5k8p,B,23,5k8pBD02,2.0,,,,
+5k8p,B,24,5k8pBD02,2.0,,,,
+5k8p,B,25,5k8pBD02,2.0,,,,
+5k8p,B,26,5k8pBD02,2.0,,,,
+5k8p,B,27,5k8pBD02,2.0,,,,
+5k8p,B,28,5k8pBD02,2.0,,,,
+5k8p,B,29,5k8pBD02,2.0,,,,
+5k8p,B,30,5k8pBD02,2.0,,,,
+5k8p,B,31,5k8pBD02,2.0,,,,
+5k8p,B,32,5k8pBD02,2.0,,,,
+5k8p,B,33,5k8pBD02,2.0,,,,
+5k8p,B,34,5k8pBD02,2.0,,,,
+5k8p,B,35,5k8pBD02,2.0,,,,
+5k8p,B,36,5k8pBD02,2.0,,,,
+5k8p,B,37,5k8pBD02,2.0,,,,
+5k8p,B,38,5k8pBD02,2.0,,,,
+5k8p,B,39,5k8pBD02,2.0,,,,
+5k8p,B,40,5k8pBD02,2.0,,,,
+5k8p,B,41,5k8pBD02,2.0,,,,
+5k8p,B,42,5k8pBD02,2.0,,,,
+5k8p,B,43,5k8pBD02,2.0,,,,
+5k8p,B,44,5k8pBD02,2.0,,,,
+5k8p,B,45,5k8pBD02,2.0,,,,
+5k8p,B,46,5k8pBD02,2.0,,,,
+5k8p,B,47,5k8pBD02,2.0,,,,
+5k8p,B,48,5k8pBD02,2.0,,,,
+5k8p,B,49,5k8pBD02,2.0,,,,
+5k8p,B,50,5k8pBD02,2.0,,,,
+5k8p,B,51,5k8pBD02,2.0,,,,
+5k8p,B,52,5k8pBD02,2.0,,,,
+5k8p,B,53,5k8pBD02,2.0,,,,
+5k8p,B,54,5k8pBD02,2.0,,,,
+5k8p,B,55,5k8pBD02,2.0,,,,
+5k8p,B,56,5k8pBD02,2.0,,,,
+5k8p,B,57,5k8pBD02,2.0,,,,
+5k8p,B,58,5k8pBD02,2.0,,,,
+5k8p,B,59,5k8pBD02,2.0,,,,
+5k8p,B,60,5k8pBD02,2.0,,,,
+5k8p,B,61,5k8pBD02,2.0,,,,
+5k8p,B,62,5k8pBD02,2.0,,,,
+5k8p,B,63,5k8pBD02,2.0,,,,
+5k8p,B,64,5k8pBD02,2.0,,,,
+5k8p,B,65,5k8pBD02,2.0,,,,
+5k8p,B,66,5k8pBD02,2.0,,,,
+5k8p,B,67,5k8pBD02,2.0,,,,
+5k8p,B,68,5k8pBD02,2.0,,,,
+5k8p,B,69,5k8pBD02,2.0,,,,
+5k8p,B,70,5k8pBD02,2.0,,,,
+5k8p,B,71,5k8pBD02,2.0,,,,
+5k8p,B,72,5k8pBD02,2.0,,,,
+5k8p,B,73,5k8pBD02,2.0,,,,
+5k8p,B,74,5k8pBD02,2.0,,,,
+5k8p,B,75,5k8pBD02,2.0,,,,
+5k8p,B,76,5k8pBD02,2.0,,,,
+5k8p,B,77,5k8pBD02,2.0,,,,
+5k8p,B,78,5k8pBD02,2.0,,,,
+5k8p,B,79,5k8pBD02,2.0,,,,
+5k8p,B,80,5k8pBD02,2.0,,,,
+5k8p,B,81,5k8pBD02,2.0,,,,
+5k8p,B,82,5k8pBD02,2.0,,,,
+5k8p,B,83,5k8pBD02,2.0,,,,
+5k8p,B,84,5k8pBD02,2.0,,,,
+5k8p,B,85,5k8pBD02,2.0,,,,
+5k8p,B,86,5k8pBD02,2.0,,,,
+5k8p,B,87,5k8pBD02,2.0,,,,
+5k8p,B,88,5k8pBD02,2.0,,,,
+5k8p,B,89,5k8pBD02,2.0,,,,
+5k8p,B,90,5k8pBD02,2.0,,,,
+5k8p,B,91,5k8pBD02,2.0,,,,
+5k8p,B,92,5k8pBD02,2.0,,,,
+5k8p,B,93,5k8pBD02,2.0,,,,
+5k8p,B,94,5k8pBD02,2.0,,,,
+5k8p,B,95,5k8pBD02,2.0,,,,
+5k8p,B,96,5k8pBD02,2.0,,,,
+5k8p,B,97,5k8pBD02,2.0,,,,
+5k8p,B,98,5k8pBD02,2.0,,,,
+5k8p,B,99,5k8pBD02,2.0,,,,
+5k8p,B,100,5k8pBD02,2.0,,,,
+5k8p,B,101,5k8pBD02,2.0,,,,
+5k8p,B,102,5k8pBD02,2.0,,,,
+5k8p,B,103,5k8pBD02,2.0,,,,
+5k8p,B,104,5k8pBD02,2.0,,,,
+5k8p,B,105,5k8pBD02,2.0,,,,
+5k8p,B,106,5k8pBD02,2.0,,,,
+5k8p,B,107,5k8pBD02,2.0,,,,
+5k8p,B,108,5k8pBD02,2.0,,,,
+5k8p,B,109,5k8pBD02,2.0,,,,
+5k8p,B,110,5k8pBD02,2.0,,,,
+5k8p,B,111,5k8pBD02,2.0,,,,
+5k8p,B,112,5k8pBD02,2.0,,,,
+5k8p,B,113,5k8pBD02,2.0,,,,
+5k8p,B,114,5k8pBD02,2.0,,,,
+5k8p,B,115,5k8pBD02,2.0,,,,
+5k8p,B,116,5k8pBD02,2.0,,,,
+5k8p,B,117,5k8pBD02,2.0,,,,
+5k8p,B,118,5k8pBD02,2.0,,,,
+5k8p,B,119,5k8pBD02,2.0,,,,
+5k8p,B,120,5k8pBD02,2.0,,,,
+5k8p,B,121,5k8pBD02,2.0,,,,
+5k8p,B,122,5k8pBD02,2.0,,,,
+5k8p,B,123,5k8pBD02,2.0,,,,
+5k8p,B,124,5k8pBD02,2.0,,,,
+5k8p,B,125,5k8pBD02,2.0,,,,
+5k8p,B,126,5k8pBD02,2.0,,,,
+5k8p,B,127,5k8pBD02,2.0,,,,
+5k8p,B,128,5k8pBD02,2.0,,,,
+5k8p,B,129,5k8pBD02,2.0,,,,
+5k8p,B,130,5k8pBD02,2.0,,,,
+5k8p,B,131,5k8pBD02,2.0,,,,
+5k8p,B,132,5k8pBD02,2.0,,,,
+5k8p,B,133,5k8pBD02,2.0,,,,
+5k8p,B,134,5k8pBD02,2.0,,,,
+5k8p,B,135,5k8pBD02,2.0,,,,
+5k8p,B,136,5k8pBD02,2.0,,,,
+5k8p,B,137,5k8pBD02,2.0,,,,
+5k8p,B,138,5k8pBD02,2.0,,,,
+5k8p,B,139,5k8pBD02,2.0,,,,
+5k8p,B,140,5k8pBD02,2.0,,,,
+5k8p,B,141,5k8pBD02,2.0,,,,
+5k8p,B,142,5k8pBD02,2.0,,,,
+5k8p,B,143,5k8pBD02,2.0,,,,
+5k8p,B,144,5k8pBD02,2.0,,,,
+5k8p,B,145,5k8pBD02,2.0,,,,
+5k8p,B,146,5k8pBD02,2.0,,,,
+5k8p,B,147,5k8pBD02,2.0,,,,
+5k8p,B,148,5k8pBD02,2.0,,,,
+5k8p,B,149,5k8pBD02,2.0,,,,
+5k8p,B,150,5k8pBD02,2.0,,,,
+5k8p,B,151,5k8pBD02,2.0,,,,
+5k8p,B,152,5k8pBD02,2.0,,,,
+5k8p,B,153,5k8pBD02,2.0,,,,
+5k8p,B,154,5k8pBD02,2.0,,,,
+5k8p,B,155,5k8pBD02,2.0,,,,
+5k8p,B,156,5k8pBD02,2.0,,,,
+5k8p,B,157,5k8pBD02,2.0,,,,
+5k8p,B,158,5k8pBD02,2.0,,,,
+5k8p,B,159,5k8pBD02,2.0,,,,
+5k8p,B,160,5k8pBD02,2.0,,,,
+5k8p,B,161,5k8pBD02,2.0,,,,
+5k8p,B,162,5k8pBD02,2.0,,,,
+5k8p,B,163,5k8pBD02,2.0,,,,
+5k8p,B,164,5k8pBD02,2.0,,,,
+5k8p,B,165,5k8pBD02,2.0,,,,
+5k8p,B,166,5k8pBD02,2.0,,,,
+5k8p,B,167,5k8pBD02,2.0,,,,
+5k8p,B,168,5k8pBD02,2.0,,,,
+5k8p,B,169,5k8pBD02,2.0,,,,
+5k8p,B,170,5k8pBD02,2.0,,,,
+5k8p,B,171,5k8pBD02,2.0,,,,
+5k8p,B,172,5k8pBD02,2.0,,,,
+5k8p,B,173,5k8pBD02,2.0,,,,
+5k8p,B,174,5k8pBD02,2.0,,,,
+5k8p,B,175,5k8pBD02,2.0,,,,
+5k8p,B,176,5k8pBD02,2.0,,,,
+5k8p,B,177,5k8pBD02,2.0,,,,
+5k8p,B,178,5k8pBD02,2.0,,,,
+5k8p,B,179,5k8pBD02,2.0,,,,
+5k8p,B,180,5k8pBD02,2.0,,,,
+5k8p,B,181,5k8pBD02,2.0,,,,
+5k8p,B,182,5k8pBD02,2.0,,,,
+5k8p,B,183,5k8pBD02,2.0,,,,
+5k8p,B,184,5k8pBD02,2.0,,,,
+5k8p,B,185,5k8pBD02,2.0,,,,
+5k8p,B,186,5k8pBD02,2.0,,,,
+5k8p,B,187,5k8pBD02,2.0,,,,
+5k8p,B,188,5k8pBD02,2.0,,,,
+5k8p,B,189,5k8pBD02,2.0,,,,
+5k8p,B,190,5k8pBD02,2.0,,,,
+5k8p,B,191,5k8pBD02,2.0,,,,
+5k8p,B,192,5k8pBD02,2.0,,,,
+5k8p,B,193,5k8pBD02,2.0,,,,
+5k8p,B,194,5k8pBD02,2.0,,,,
+5k8p,B,195,5k8pBD02,2.0,,,,
+5k8p,B,196,5k8pBD02,2.0,,,,
+5k8p,B,197,5k8pBD02,2.0,,,,
+5k8p,B,198,5k8pBD02,2.0,,,,
+5k8p,B,199,5k8pBD02,2.0,,,,
+5k8p,B,200,5k8pBD02,2.0,,,,
+5k8p,B,201,5k8pBD02,2.0,,,,
+5k8p,B,202,5k8pBD02,2.0,,,,
+5k8p,B,203,5k8pBD02,2.0,,,,
+5k8p,B,204,5k8pBD02,2.0,,,,
+5k8p,B,205,5k8pBD02,2.0,,,,
+5k8p,B,206,,,,,,
+5k8p,B,207,,,,,,
+5k8p,B,208,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,209,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,210,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,211,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,212,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,213,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,214,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,215,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,216,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,217,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,218,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,219,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,220,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,221,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,222,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,223,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,224,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,225,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,226,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,227,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,228,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,229,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,230,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,231,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,232,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,233,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,234,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,235,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,236,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,237,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,238,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,239,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,240,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,241,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,242,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,243,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,244,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,245,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,246,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,247,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,248,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,249,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,250,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,251,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,252,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,253,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,254,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,255,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,256,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,257,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,258,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,259,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,260,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,261,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,262,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,263,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,264,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,265,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,266,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,267,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,268,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,269,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,270,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,271,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,272,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,273,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,274,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,275,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,276,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,277,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,278,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,279,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,280,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,281,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,282,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,283,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,284,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,285,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,286,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,287,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,288,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,289,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,290,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,291,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,292,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,293,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,294,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,295,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,296,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,297,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,298,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,299,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,300,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,301,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,302,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,303,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,304,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,305,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,306,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,307,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,308,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,309,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,310,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,311,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,312,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,313,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,314,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,315,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,316,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,317,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,318,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,319,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,320,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,321,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,322,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,323,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,324,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,325,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,326,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,327,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,328,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,329,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,330,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,331,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,332,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,333,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,334,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,335,,,e5k8pB1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,B,336,,,,,,
+5k8p,B,337,,,,,,
+5k8p,B,338,,,,,,
+5k8p,B,339,,,,,,
+5k8p,B,340,,,,,,
+5k8p,B,341,,,,,,
+5k8p,B,342,,,,,,
+5k8p,B,343,,,,,,
+5k8p,B,344,,,,,,
+5k8p,B,345,,,,,,
+5k8p,B,346,,,,,,
+5k8p,B,347,,,,,,
+5k8p,B,348,,,,,,
+5k8p,B,349,,,,,,
+5k8p,B,350,,,,,,
+5k8p,B,351,,,,,,
+5k8p,B,352,,,,,,
+5k8p,B,353,,,,,,
+5k8p,B,354,,,,,,
+5k8p,B,355,,,,,,
+5k8p,B,356,,,,,,
+5k8p,B,357,,,,,,
+5k8p,B,358,,,,,,
+5k8p,B,359,,,,,,
+5k8p,B,360,,,,,,
+5k8p,B,361,,,,,,
+5k8p,B,362,,,,,,
+5k8p,B,363,,,,,,
+5k8p,B,364,,,,,,
+5k8p,B,365,,,,,,
+5k8p,B,366,,,,,,
+5k8p,B,367,,,,,,
+5k8p,B,368,,,,,,
+5k8p,B,369,,,,,,
+5k8p,B,370,,,,,,
+5k8p,B,371,,,,,,
+5k8p,B,372,,,,,,
+5k8p,B,373,,,,,,
+5k8p,B,374,,,,,,
+5k8p,B,375,,,,,,
+5k8p,B,376,,,,,,
+5k8p,B,377,,,,,,
+5k8p,B,378,,,,,,
+5k8p,B,379,,,,,,
+5k8p,B,380,,,,,,
+5k8p,B,381,,,,,,
+5k8p,B,382,,,,,,
+5k8p,B,383,,,,,,
+5k8p,B,384,,,,,,
+5k8p,B,385,,,,,,
+5k8p,B,386,,,,,,
+5k8p,B,387,,,,,,
+5k8p,B,388,,,,,,
+5k8p,B,389,,,,,,
+5k8p,B,390,,,,,,
+5k8p,B,391,,,,,,
+5k8p,B,392,,,,,,
+5k8p,B,393,,,,,,
+5k8p,B,394,,,,,,
+5k8p,B,395,,,,,,
+5k8p,B,396,,,,,,
+5k8p,B,397,,,,,,
+5k8p,B,398,,,,,,
+5k8p,B,399,,,,,,
+5k8p,B,400,,,,,,
+5k8p,B,401,,,,,,
+5k8p,B,402,,,,,,
+5k8p,B,403,,,,,,
+5k8p,B,404,,,,,,
+5k8p,B,405,,,,,,
+5k8p,B,406,,,,,,
+5k8p,B,407,,,,,,
+5k8p,B,408,,,,,,
+5k8p,B,409,,,,,,
+5k8p,B,410,,,,,,
+5k8p,B,411,,,,,,
+5k8p,B,412,,,,,,
+5k8p,B,413,,,,,,
+5k8p,B,414,,,,,,
+5k8p,B,415,,,,,,
+5k8p,B,416,,,,,,
+5k8p,B,417,,,,,,
+5k8p,B,418,,,,,,
+5k8p,B,419,,,,,,
+5k8p,B,420,,,,,,
+5k8p,B,421,,,,,,
+5k8p,B,422,,,,,,
+5k8p,B,423,,,,,,
+5k8p,B,424,,,,,,
+5k8p,B,425,,,,,,
+5k8p,C,4,5k8pCD02,2.0,,,,
+5k8p,C,5,5k8pCD02,2.0,,,,
+5k8p,C,6,5k8pCD02,2.0,,,,
+5k8p,C,7,5k8pCD02,2.0,,,,
+5k8p,C,8,5k8pCD02,2.0,,,,
+5k8p,C,9,5k8pCD02,2.0,,,,
+5k8p,C,10,5k8pCD02,2.0,,,,
+5k8p,C,11,5k8pCD02,2.0,,,,
+5k8p,C,12,5k8pCD02,2.0,,,,
+5k8p,C,13,5k8pCD02,2.0,,,,
+5k8p,C,14,5k8pCD02,2.0,,,,
+5k8p,C,15,5k8pCD02,2.0,,,,
+5k8p,C,16,5k8pCD02,2.0,,,,
+5k8p,C,17,5k8pCD02,2.0,,,,
+5k8p,C,18,5k8pCD02,2.0,,,,
+5k8p,C,19,5k8pCD02,2.0,,,,
+5k8p,C,20,5k8pCD02,2.0,,,,
+5k8p,C,21,5k8pCD02,2.0,,,,
+5k8p,C,22,5k8pCD02,2.0,,,,
+5k8p,C,23,5k8pCD02,2.0,,,,
+5k8p,C,24,5k8pCD02,2.0,,,,
+5k8p,C,25,5k8pCD02,2.0,,,,
+5k8p,C,26,5k8pCD02,2.0,,,,
+5k8p,C,27,5k8pCD02,2.0,,,,
+5k8p,C,28,5k8pCD02,2.0,,,,
+5k8p,C,29,5k8pCD02,2.0,,,,
+5k8p,C,30,5k8pCD02,2.0,,,,
+5k8p,C,31,5k8pCD02,2.0,,,,
+5k8p,C,32,5k8pCD02,2.0,,,,
+5k8p,C,33,5k8pCD02,2.0,,,,
+5k8p,C,34,5k8pCD02,2.0,,,,
+5k8p,C,35,5k8pCD02,2.0,,,,
+5k8p,C,36,5k8pCD02,2.0,,,,
+5k8p,C,37,5k8pCD02,2.0,,,,
+5k8p,C,38,5k8pCD02,2.0,,,,
+5k8p,C,39,5k8pCD02,2.0,,,,
+5k8p,C,40,5k8pCD02,2.0,,,,
+5k8p,C,41,5k8pCD02,2.0,,,,
+5k8p,C,42,5k8pCD02,2.0,,,,
+5k8p,C,43,5k8pCD02,2.0,,,,
+5k8p,C,44,5k8pCD02,2.0,,,,
+5k8p,C,45,5k8pCD02,2.0,,,,
+5k8p,C,46,5k8pCD02,2.0,,,,
+5k8p,C,47,5k8pCD02,2.0,,,,
+5k8p,C,48,5k8pCD02,2.0,,,,
+5k8p,C,49,5k8pCD02,2.0,,,,
+5k8p,C,50,5k8pCD02,2.0,,,,
+5k8p,C,51,5k8pCD02,2.0,,,,
+5k8p,C,52,5k8pCD02,2.0,,,,
+5k8p,C,53,5k8pCD02,2.0,,,,
+5k8p,C,54,5k8pCD02,2.0,,,,
+5k8p,C,55,5k8pCD02,2.0,,,,
+5k8p,C,56,5k8pCD02,2.0,,,,
+5k8p,C,57,5k8pCD02,2.0,,,,
+5k8p,C,58,5k8pCD02,2.0,,,,
+5k8p,C,59,5k8pCD02,2.0,,,,
+5k8p,C,60,5k8pCD02,2.0,,,,
+5k8p,C,61,5k8pCD02,2.0,,,,
+5k8p,C,62,5k8pCD02,2.0,,,,
+5k8p,C,63,5k8pCD02,2.0,,,,
+5k8p,C,64,5k8pCD02,2.0,,,,
+5k8p,C,65,5k8pCD02,2.0,,,,
+5k8p,C,66,5k8pCD02,2.0,,,,
+5k8p,C,67,5k8pCD02,2.0,,,,
+5k8p,C,68,5k8pCD02,2.0,,,,
+5k8p,C,69,5k8pCD02,2.0,,,,
+5k8p,C,70,5k8pCD02,2.0,,,,
+5k8p,C,71,5k8pCD02,2.0,,,,
+5k8p,C,72,5k8pCD02,2.0,,,,
+5k8p,C,73,5k8pCD02,2.0,,,,
+5k8p,C,74,5k8pCD02,2.0,,,,
+5k8p,C,75,5k8pCD02,2.0,,,,
+5k8p,C,76,5k8pCD02,2.0,,,,
+5k8p,C,77,5k8pCD02,2.0,,,,
+5k8p,C,78,5k8pCD02,2.0,,,,
+5k8p,C,79,5k8pCD02,2.0,,,,
+5k8p,C,80,5k8pCD02,2.0,,,,
+5k8p,C,81,5k8pCD02,2.0,,,,
+5k8p,C,82,5k8pCD02,2.0,,,,
+5k8p,C,83,5k8pCD02,2.0,,,,
+5k8p,C,84,5k8pCD02,2.0,,,,
+5k8p,C,85,5k8pCD02,2.0,,,,
+5k8p,C,86,5k8pCD02,2.0,,,,
+5k8p,C,87,5k8pCD02,2.0,,,,
+5k8p,C,88,5k8pCD02,2.0,,,,
+5k8p,C,89,5k8pCD02,2.0,,,,
+5k8p,C,90,5k8pCD02,2.0,,,,
+5k8p,C,91,5k8pCD02,2.0,,,,
+5k8p,C,92,5k8pCD02,2.0,,,,
+5k8p,C,93,5k8pCD02,2.0,,,,
+5k8p,C,94,5k8pCD02,2.0,,,,
+5k8p,C,95,5k8pCD02,2.0,,,,
+5k8p,C,96,5k8pCD02,2.0,,,,
+5k8p,C,97,5k8pCD02,2.0,,,,
+5k8p,C,98,5k8pCD02,2.0,,,,
+5k8p,C,99,5k8pCD02,2.0,,,,
+5k8p,C,100,5k8pCD02,2.0,,,,
+5k8p,C,101,5k8pCD02,2.0,,,,
+5k8p,C,102,5k8pCD02,2.0,,,,
+5k8p,C,103,5k8pCD02,2.0,,,,
+5k8p,C,104,5k8pCD02,2.0,,,,
+5k8p,C,105,5k8pCD02,2.0,,,,
+5k8p,C,106,5k8pCD02,2.0,,,,
+5k8p,C,107,5k8pCD02,2.0,,,,
+5k8p,C,108,5k8pCD02,2.0,,,,
+5k8p,C,109,5k8pCD02,2.0,,,,
+5k8p,C,110,5k8pCD02,2.0,,,,
+5k8p,C,111,5k8pCD02,2.0,,,,
+5k8p,C,112,5k8pCD02,2.0,,,,
+5k8p,C,113,5k8pCD02,2.0,,,,
+5k8p,C,114,5k8pCD02,2.0,,,,
+5k8p,C,115,5k8pCD02,2.0,,,,
+5k8p,C,116,5k8pCD02,2.0,,,,
+5k8p,C,117,5k8pCD02,2.0,,,,
+5k8p,C,118,5k8pCD02,2.0,,,,
+5k8p,C,119,5k8pCD02,2.0,,,,
+5k8p,C,120,5k8pCD02,2.0,,,,
+5k8p,C,121,5k8pCD02,2.0,,,,
+5k8p,C,122,5k8pCD02,2.0,,,,
+5k8p,C,123,5k8pCD02,2.0,,,,
+5k8p,C,124,5k8pCD02,2.0,,,,
+5k8p,C,125,5k8pCD02,2.0,,,,
+5k8p,C,126,5k8pCD02,2.0,,,,
+5k8p,C,127,5k8pCD02,2.0,,,,
+5k8p,C,128,5k8pCD02,2.0,,,,
+5k8p,C,129,5k8pCD02,2.0,,,,
+5k8p,C,130,5k8pCD02,2.0,,,,
+5k8p,C,131,5k8pCD02,2.0,,,,
+5k8p,C,132,5k8pCD02,2.0,,,,
+5k8p,C,133,5k8pCD02,2.0,,,,
+5k8p,C,134,5k8pCD02,2.0,,,,
+5k8p,C,135,5k8pCD02,2.0,,,,
+5k8p,C,136,5k8pCD02,2.0,,,,
+5k8p,C,137,5k8pCD02,2.0,,,,
+5k8p,C,138,5k8pCD02,2.0,,,,
+5k8p,C,139,5k8pCD02,2.0,,,,
+5k8p,C,140,5k8pCD02,2.0,,,,
+5k8p,C,141,5k8pCD02,2.0,,,,
+5k8p,C,142,5k8pCD02,2.0,,,,
+5k8p,C,143,5k8pCD02,2.0,,,,
+5k8p,C,144,5k8pCD02,2.0,,,,
+5k8p,C,145,5k8pCD02,2.0,,,,
+5k8p,C,146,5k8pCD02,2.0,,,,
+5k8p,C,147,5k8pCD02,2.0,,,,
+5k8p,C,148,5k8pCD02,2.0,,,,
+5k8p,C,149,5k8pCD02,2.0,,,,
+5k8p,C,150,5k8pCD02,2.0,,,,
+5k8p,C,151,5k8pCD02,2.0,,,,
+5k8p,C,152,5k8pCD02,2.0,,,,
+5k8p,C,153,5k8pCD02,2.0,,,,
+5k8p,C,154,5k8pCD02,2.0,,,,
+5k8p,C,155,5k8pCD02,2.0,,,,
+5k8p,C,156,5k8pCD02,2.0,,,,
+5k8p,C,157,5k8pCD02,2.0,,,,
+5k8p,C,158,5k8pCD02,2.0,,,,
+5k8p,C,159,5k8pCD02,2.0,,,,
+5k8p,C,160,5k8pCD02,2.0,,,,
+5k8p,C,161,5k8pCD02,2.0,,,,
+5k8p,C,162,5k8pCD02,2.0,,,,
+5k8p,C,163,5k8pCD02,2.0,,,,
+5k8p,C,164,5k8pCD02,2.0,,,,
+5k8p,C,165,5k8pCD02,2.0,,,,
+5k8p,C,166,5k8pCD02,2.0,,,,
+5k8p,C,167,5k8pCD02,2.0,,,,
+5k8p,C,168,5k8pCD02,2.0,,,,
+5k8p,C,169,5k8pCD02,2.0,,,,
+5k8p,C,170,5k8pCD02,2.0,,,,
+5k8p,C,171,5k8pCD02,2.0,,,,
+5k8p,C,172,5k8pCD02,2.0,,,,
+5k8p,C,173,5k8pCD02,2.0,,,,
+5k8p,C,174,5k8pCD02,2.0,,,,
+5k8p,C,175,5k8pCD02,2.0,,,,
+5k8p,C,176,5k8pCD02,2.0,,,,
+5k8p,C,177,5k8pCD02,2.0,,,,
+5k8p,C,178,5k8pCD02,2.0,,,,
+5k8p,C,179,5k8pCD02,2.0,,,,
+5k8p,C,180,5k8pCD02,2.0,,,,
+5k8p,C,181,5k8pCD02,2.0,,,,
+5k8p,C,182,5k8pCD02,2.0,,,,
+5k8p,C,183,5k8pCD02,2.0,,,,
+5k8p,C,184,5k8pCD02,2.0,,,,
+5k8p,C,185,5k8pCD02,2.0,,,,
+5k8p,C,186,5k8pCD02,2.0,,,,
+5k8p,C,187,5k8pCD02,2.0,,,,
+5k8p,C,188,5k8pCD02,2.0,,,,
+5k8p,C,189,5k8pCD02,2.0,,,,
+5k8p,C,190,5k8pCD02,2.0,,,,
+5k8p,C,191,5k8pCD02,2.0,,,,
+5k8p,C,192,5k8pCD02,2.0,,,,
+5k8p,C,193,5k8pCD02,2.0,,,,
+5k8p,C,194,5k8pCD02,2.0,,,,
+5k8p,C,195,5k8pCD02,2.0,,,,
+5k8p,C,196,5k8pCD02,2.0,,,,
+5k8p,C,197,5k8pCD02,2.0,,,,
+5k8p,C,198,5k8pCD02,2.0,,,,
+5k8p,C,199,5k8pCD02,2.0,,,,
+5k8p,C,200,5k8pCD02,2.0,,,,
+5k8p,C,201,5k8pCD02,2.0,,,,
+5k8p,C,202,5k8pCD02,2.0,,,,
+5k8p,C,203,5k8pCD02,2.0,,,,
+5k8p,C,204,5k8pCD02,2.0,,,,
+5k8p,C,205,5k8pCD02,2.0,,,,
+5k8p,C,206,,,,,,
+5k8p,C,207,,,,,,
+5k8p,C,208,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,209,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,210,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,211,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,212,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,213,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,214,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,215,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,216,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,217,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,218,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,219,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,220,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,221,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,222,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,223,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,224,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,225,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,226,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,227,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,228,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,229,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,230,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,231,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,232,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,233,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,234,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,235,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,236,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,237,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,238,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,239,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,240,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,241,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,242,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,243,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,244,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,245,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,246,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,247,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,248,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,249,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,250,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,251,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,252,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,253,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,254,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,255,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,256,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,257,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,258,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,259,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,260,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,261,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,262,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,263,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,264,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,265,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,266,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,267,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,268,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,269,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,270,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,271,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,272,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,273,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,274,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,275,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,276,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,277,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,278,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,279,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,280,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,281,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,282,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,283,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,284,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,285,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,286,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,287,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,288,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,289,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,290,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,291,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,292,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,293,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,294,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,295,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,296,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,297,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,298,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,299,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,300,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,301,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,302,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,303,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,304,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,305,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,306,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,307,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,308,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,309,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,310,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,311,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,312,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,313,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,314,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,315,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,316,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,317,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,318,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,319,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,320,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,321,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,322,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,323,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,324,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,325,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,326,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,327,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,328,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,329,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,330,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,331,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,332,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,333,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,334,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,335,,,e5k8pC1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,C,336,,,,,,
+5k8p,C,337,,,,,,
+5k8p,C,338,,,,,,
+5k8p,C,339,,,,,,
+5k8p,C,340,,,,,,
+5k8p,C,341,,,,,,
+5k8p,C,342,,,,,,
+5k8p,C,343,,,,,,
+5k8p,C,344,,,,,,
+5k8p,C,345,,,,,,
+5k8p,C,346,,,,,,
+5k8p,C,347,,,,,,
+5k8p,C,348,,,,,,
+5k8p,C,349,,,,,,
+5k8p,C,350,,,,,,
+5k8p,C,351,,,,,,
+5k8p,C,352,,,,,,
+5k8p,C,353,,,,,,
+5k8p,C,354,,,,,,
+5k8p,C,355,,,,,,
+5k8p,C,356,,,,,,
+5k8p,C,357,,,,,,
+5k8p,C,358,,,,,,
+5k8p,C,359,,,,,,
+5k8p,C,360,,,,,,
+5k8p,C,361,,,,,,
+5k8p,C,362,,,,,,
+5k8p,C,363,,,,,,
+5k8p,C,364,,,,,,
+5k8p,C,365,,,,,,
+5k8p,C,366,,,,,,
+5k8p,C,367,,,,,,
+5k8p,C,368,,,,,,
+5k8p,C,369,,,,,,
+5k8p,C,370,,,,,,
+5k8p,C,371,,,,,,
+5k8p,C,372,,,,,,
+5k8p,C,373,,,,,,
+5k8p,C,374,,,,,,
+5k8p,C,375,,,,,,
+5k8p,C,376,,,,,,
+5k8p,C,377,,,,,,
+5k8p,C,378,,,,,,
+5k8p,C,379,,,,,,
+5k8p,C,380,,,,,,
+5k8p,C,381,,,,,,
+5k8p,C,382,,,,,,
+5k8p,C,383,,,,,,
+5k8p,C,384,,,,,,
+5k8p,C,385,,,,,,
+5k8p,C,386,,,,,,
+5k8p,C,387,,,,,,
+5k8p,C,388,,,,,,
+5k8p,C,389,,,,,,
+5k8p,C,390,,,,,,
+5k8p,C,391,,,,,,
+5k8p,C,392,,,,,,
+5k8p,C,393,,,,,,
+5k8p,C,394,,,,,,
+5k8p,C,395,,,,,,
+5k8p,C,396,,,,,,
+5k8p,C,397,,,,,,
+5k8p,C,398,,,,,,
+5k8p,C,399,,,,,,
+5k8p,C,400,,,,,,
+5k8p,C,401,,,,,,
+5k8p,C,402,,,,,,
+5k8p,C,403,,,,,,
+5k8p,C,404,,,,,,
+5k8p,C,405,,,,,,
+5k8p,C,406,,,,,,
+5k8p,C,407,,,,,,
+5k8p,C,408,,,,,,
+5k8p,C,409,,,,,,
+5k8p,C,410,,,,,,
+5k8p,C,411,,,,,,
+5k8p,C,412,,,,,,
+5k8p,C,413,,,,,,
+5k8p,C,414,,,,,,
+5k8p,C,415,,,,,,
+5k8p,C,416,,,,,,
+5k8p,C,417,,,,,,
+5k8p,C,418,,,,,,
+5k8p,C,419,,,,,,
+5k8p,C,420,,,,,,
+5k8p,C,421,,,,,,
+5k8p,C,422,,,,,,
+5k8p,C,423,,,,,,
+5k8p,C,424,,,,,,
+5k8p,C,425,,,,,,
+5k8p,D,1,5k8pDD02,2.0,,,,
+5k8p,D,2,5k8pDD02,2.0,,,,
+5k8p,D,3,5k8pDD02,2.0,,,,
+5k8p,D,4,5k8pDD02,2.0,,,,
+5k8p,D,5,5k8pDD02,2.0,,,,
+5k8p,D,6,5k8pDD02,2.0,,,,
+5k8p,D,7,5k8pDD02,2.0,,,,
+5k8p,D,8,5k8pDD02,2.0,,,,
+5k8p,D,9,5k8pDD02,2.0,,,,
+5k8p,D,10,5k8pDD02,2.0,,,,
+5k8p,D,11,5k8pDD02,2.0,,,,
+5k8p,D,12,5k8pDD02,2.0,,,,
+5k8p,D,13,5k8pDD02,2.0,,,,
+5k8p,D,14,5k8pDD02,2.0,,,,
+5k8p,D,15,5k8pDD02,2.0,,,,
+5k8p,D,16,5k8pDD02,2.0,,,,
+5k8p,D,17,5k8pDD02,2.0,,,,
+5k8p,D,18,5k8pDD02,2.0,,,,
+5k8p,D,19,5k8pDD02,2.0,,,,
+5k8p,D,20,5k8pDD02,2.0,,,,
+5k8p,D,21,5k8pDD02,2.0,,,,
+5k8p,D,22,5k8pDD02,2.0,,,,
+5k8p,D,23,5k8pDD02,2.0,,,,
+5k8p,D,24,5k8pDD02,2.0,,,,
+5k8p,D,25,5k8pDD02,2.0,,,,
+5k8p,D,26,5k8pDD02,2.0,,,,
+5k8p,D,27,5k8pDD02,2.0,,,,
+5k8p,D,28,5k8pDD02,2.0,,,,
+5k8p,D,29,5k8pDD02,2.0,,,,
+5k8p,D,30,5k8pDD02,2.0,,,,
+5k8p,D,31,5k8pDD02,2.0,,,,
+5k8p,D,32,5k8pDD02,2.0,,,,
+5k8p,D,33,5k8pDD02,2.0,,,,
+5k8p,D,34,5k8pDD02,2.0,,,,
+5k8p,D,35,5k8pDD02,2.0,,,,
+5k8p,D,36,5k8pDD02,2.0,,,,
+5k8p,D,37,5k8pDD02,2.0,,,,
+5k8p,D,38,5k8pDD02,2.0,,,,
+5k8p,D,39,5k8pDD02,2.0,,,,
+5k8p,D,40,5k8pDD02,2.0,,,,
+5k8p,D,41,5k8pDD02,2.0,,,,
+5k8p,D,42,5k8pDD02,2.0,,,,
+5k8p,D,43,5k8pDD02,2.0,,,,
+5k8p,D,44,5k8pDD02,2.0,,,,
+5k8p,D,45,5k8pDD02,2.0,,,,
+5k8p,D,46,5k8pDD02,2.0,,,,
+5k8p,D,47,5k8pDD02,2.0,,,,
+5k8p,D,48,5k8pDD02,2.0,,,,
+5k8p,D,49,5k8pDD02,2.0,,,,
+5k8p,D,50,5k8pDD02,2.0,,,,
+5k8p,D,51,5k8pDD02,2.0,,,,
+5k8p,D,52,5k8pDD02,2.0,,,,
+5k8p,D,53,5k8pDD02,2.0,,,,
+5k8p,D,54,5k8pDD02,2.0,,,,
+5k8p,D,55,5k8pDD02,2.0,,,,
+5k8p,D,56,5k8pDD02,2.0,,,,
+5k8p,D,57,5k8pDD02,2.0,,,,
+5k8p,D,58,5k8pDD02,2.0,,,,
+5k8p,D,59,5k8pDD02,2.0,,,,
+5k8p,D,60,5k8pDD02,2.0,,,,
+5k8p,D,61,5k8pDD02,2.0,,,,
+5k8p,D,62,5k8pDD02,2.0,,,,
+5k8p,D,63,5k8pDD02,2.0,,,,
+5k8p,D,64,5k8pDD02,2.0,,,,
+5k8p,D,65,5k8pDD02,2.0,,,,
+5k8p,D,66,5k8pDD02,2.0,,,,
+5k8p,D,67,5k8pDD02,2.0,,,,
+5k8p,D,68,5k8pDD02,2.0,,,,
+5k8p,D,69,5k8pDD02,2.0,,,,
+5k8p,D,70,5k8pDD02,2.0,,,,
+5k8p,D,71,5k8pDD02,2.0,,,,
+5k8p,D,72,5k8pDD02,2.0,,,,
+5k8p,D,73,5k8pDD02,2.0,,,,
+5k8p,D,74,5k8pDD02,2.0,,,,
+5k8p,D,75,5k8pDD02,2.0,,,,
+5k8p,D,76,5k8pDD02,2.0,,,,
+5k8p,D,77,5k8pDD02,2.0,,,,
+5k8p,D,78,5k8pDD02,2.0,,,,
+5k8p,D,79,5k8pDD02,2.0,,,,
+5k8p,D,80,5k8pDD02,2.0,,,,
+5k8p,D,81,5k8pDD02,2.0,,,,
+5k8p,D,82,5k8pDD02,2.0,,,,
+5k8p,D,83,5k8pDD02,2.0,,,,
+5k8p,D,84,5k8pDD02,2.0,,,,
+5k8p,D,85,5k8pDD02,2.0,,,,
+5k8p,D,86,5k8pDD02,2.0,,,,
+5k8p,D,87,5k8pDD02,2.0,,,,
+5k8p,D,88,5k8pDD02,2.0,,,,
+5k8p,D,89,5k8pDD02,2.0,,,,
+5k8p,D,90,5k8pDD02,2.0,,,,
+5k8p,D,91,5k8pDD02,2.0,,,,
+5k8p,D,92,5k8pDD02,2.0,,,,
+5k8p,D,93,5k8pDD02,2.0,,,,
+5k8p,D,94,5k8pDD02,2.0,,,,
+5k8p,D,95,5k8pDD02,2.0,,,,
+5k8p,D,96,5k8pDD02,2.0,,,,
+5k8p,D,97,5k8pDD02,2.0,,,,
+5k8p,D,98,5k8pDD02,2.0,,,,
+5k8p,D,99,5k8pDD02,2.0,,,,
+5k8p,D,100,5k8pDD02,2.0,,,,
+5k8p,D,101,5k8pDD02,2.0,,,,
+5k8p,D,102,5k8pDD02,2.0,,,,
+5k8p,D,103,5k8pDD02,2.0,,,,
+5k8p,D,104,5k8pDD02,2.0,,,,
+5k8p,D,105,5k8pDD02,2.0,,,,
+5k8p,D,106,5k8pDD02,2.0,,,,
+5k8p,D,107,5k8pDD02,2.0,,,,
+5k8p,D,108,5k8pDD02,2.0,,,,
+5k8p,D,109,5k8pDD02,2.0,,,,
+5k8p,D,110,5k8pDD02,2.0,,,,
+5k8p,D,111,5k8pDD02,2.0,,,,
+5k8p,D,112,5k8pDD02,2.0,,,,
+5k8p,D,113,5k8pDD02,2.0,,,,
+5k8p,D,114,5k8pDD02,2.0,,,,
+5k8p,D,115,5k8pDD02,2.0,,,,
+5k8p,D,116,5k8pDD02,2.0,,,,
+5k8p,D,117,5k8pDD02,2.0,,,,
+5k8p,D,118,5k8pDD02,2.0,,,,
+5k8p,D,119,5k8pDD02,2.0,,,,
+5k8p,D,120,5k8pDD02,2.0,,,,
+5k8p,D,121,5k8pDD02,2.0,,,,
+5k8p,D,122,5k8pDD02,2.0,,,,
+5k8p,D,123,5k8pDD02,2.0,,,,
+5k8p,D,124,5k8pDD02,2.0,,,,
+5k8p,D,125,5k8pDD02,2.0,,,,
+5k8p,D,126,5k8pDD02,2.0,,,,
+5k8p,D,127,5k8pDD02,2.0,,,,
+5k8p,D,128,5k8pDD02,2.0,,,,
+5k8p,D,129,5k8pDD02,2.0,,,,
+5k8p,D,130,5k8pDD02,2.0,,,,
+5k8p,D,131,5k8pDD02,2.0,,,,
+5k8p,D,132,5k8pDD02,2.0,,,,
+5k8p,D,133,5k8pDD02,2.0,,,,
+5k8p,D,134,5k8pDD02,2.0,,,,
+5k8p,D,135,5k8pDD02,2.0,,,,
+5k8p,D,136,5k8pDD02,2.0,,,,
+5k8p,D,137,5k8pDD02,2.0,,,,
+5k8p,D,138,5k8pDD02,2.0,,,,
+5k8p,D,139,5k8pDD02,2.0,,,,
+5k8p,D,140,5k8pDD02,2.0,,,,
+5k8p,D,141,5k8pDD02,2.0,,,,
+5k8p,D,142,5k8pDD02,2.0,,,,
+5k8p,D,143,5k8pDD02,2.0,,,,
+5k8p,D,144,5k8pDD02,2.0,,,,
+5k8p,D,145,5k8pDD02,2.0,,,,
+5k8p,D,146,5k8pDD02,2.0,,,,
+5k8p,D,147,5k8pDD02,2.0,,,,
+5k8p,D,148,5k8pDD02,2.0,,,,
+5k8p,D,149,5k8pDD02,2.0,,,,
+5k8p,D,150,5k8pDD02,2.0,,,,
+5k8p,D,151,5k8pDD02,2.0,,,,
+5k8p,D,152,5k8pDD02,2.0,,,,
+5k8p,D,153,5k8pDD02,2.0,,,,
+5k8p,D,154,5k8pDD02,2.0,,,,
+5k8p,D,155,5k8pDD02,2.0,,,,
+5k8p,D,156,5k8pDD02,2.0,,,,
+5k8p,D,157,5k8pDD02,2.0,,,,
+5k8p,D,158,5k8pDD02,2.0,,,,
+5k8p,D,159,5k8pDD02,2.0,,,,
+5k8p,D,160,5k8pDD02,2.0,,,,
+5k8p,D,161,5k8pDD02,2.0,,,,
+5k8p,D,162,5k8pDD02,2.0,,,,
+5k8p,D,163,5k8pDD02,2.0,,,,
+5k8p,D,164,5k8pDD02,2.0,,,,
+5k8p,D,165,5k8pDD02,2.0,,,,
+5k8p,D,166,5k8pDD02,2.0,,,,
+5k8p,D,167,5k8pDD02,2.0,,,,
+5k8p,D,168,5k8pDD02,2.0,,,,
+5k8p,D,169,5k8pDD02,2.0,,,,
+5k8p,D,170,5k8pDD02,2.0,,,,
+5k8p,D,171,5k8pDD02,2.0,,,,
+5k8p,D,172,5k8pDD02,2.0,,,,
+5k8p,D,173,5k8pDD02,2.0,,,,
+5k8p,D,174,5k8pDD02,2.0,,,,
+5k8p,D,175,5k8pDD02,2.0,,,,
+5k8p,D,176,5k8pDD02,2.0,,,,
+5k8p,D,177,5k8pDD02,2.0,,,,
+5k8p,D,178,5k8pDD02,2.0,,,,
+5k8p,D,179,5k8pDD02,2.0,,,,
+5k8p,D,180,5k8pDD02,2.0,,,,
+5k8p,D,181,5k8pDD02,2.0,,,,
+5k8p,D,182,5k8pDD02,2.0,,,,
+5k8p,D,183,5k8pDD02,2.0,,,,
+5k8p,D,184,5k8pDD02,2.0,,,,
+5k8p,D,185,5k8pDD02,2.0,,,,
+5k8p,D,186,5k8pDD02,2.0,,,,
+5k8p,D,187,5k8pDD02,2.0,,,,
+5k8p,D,188,5k8pDD02,2.0,,,,
+5k8p,D,189,5k8pDD02,2.0,,,,
+5k8p,D,190,5k8pDD02,2.0,,,,
+5k8p,D,191,5k8pDD02,2.0,,,,
+5k8p,D,192,5k8pDD02,2.0,,,,
+5k8p,D,193,5k8pDD02,2.0,,,,
+5k8p,D,194,5k8pDD02,2.0,,,,
+5k8p,D,195,5k8pDD02,2.0,,,,
+5k8p,D,196,5k8pDD02,2.0,,,,
+5k8p,D,197,5k8pDD02,2.0,,,,
+5k8p,D,198,5k8pDD02,2.0,,,,
+5k8p,D,199,5k8pDD02,2.0,,,,
+5k8p,D,200,5k8pDD02,2.0,,,,
+5k8p,D,201,5k8pDD02,2.0,,,,
+5k8p,D,202,5k8pDD02,2.0,,,,
+5k8p,D,203,5k8pDD02,2.0,,,,
+5k8p,D,204,5k8pDD02,2.0,,,,
+5k8p,D,205,5k8pDD02,2.0,,,,
+5k8p,D,206,,,,,,
+5k8p,D,207,,,,,,
+5k8p,D,208,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,209,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,210,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,211,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,212,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,213,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,214,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,215,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,216,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,217,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,218,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,219,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,220,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,221,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,222,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,223,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,224,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,225,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,226,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,227,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,228,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,229,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,230,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,231,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,232,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,233,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,234,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,235,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,236,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,237,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,238,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,239,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,240,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,241,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,242,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,243,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,244,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,245,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,246,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,247,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,248,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,249,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,250,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,251,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,252,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,253,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,254,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,255,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,256,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,257,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,258,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,259,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,260,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,261,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,262,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,263,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,264,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,265,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,266,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,267,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,268,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,269,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,270,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,271,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,272,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,273,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,274,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,275,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,276,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,277,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,278,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,279,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,280,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,281,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,282,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,283,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,284,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,285,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,286,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,287,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,288,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,289,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,290,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,291,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,292,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,293,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,294,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,295,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,296,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,297,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,298,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,299,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,300,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,301,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,302,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,303,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,304,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,305,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,306,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,307,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,308,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,309,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,310,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,311,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,312,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,313,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,314,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,315,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,316,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,317,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,318,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,319,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,320,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,321,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,322,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,323,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,324,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,325,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,326,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,327,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,328,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,329,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,330,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,331,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,332,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,333,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,334,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,335,,,e5k8pD2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,D,336,,,,,,
+5k8p,D,337,,,,,,
+5k8p,D,338,,,,,,
+5k8p,D,339,,,,,,
+5k8p,D,340,,,,,,
+5k8p,D,341,,,,,,
+5k8p,D,342,,,,,,
+5k8p,D,343,,,,,,
+5k8p,D,344,,,,,,
+5k8p,D,345,,,,,,
+5k8p,D,346,,,,,,
+5k8p,D,347,,,,,,
+5k8p,D,348,,,,,,
+5k8p,D,349,,,,,,
+5k8p,D,350,,,,,,
+5k8p,D,351,,,,,,
+5k8p,D,352,,,,,,
+5k8p,D,353,,,,,,
+5k8p,D,354,,,,,,
+5k8p,D,355,,,,,,
+5k8p,D,356,,,,,,
+5k8p,D,357,,,,,,
+5k8p,D,358,,,,,,
+5k8p,D,359,,,,,,
+5k8p,D,360,,,,,,
+5k8p,D,361,,,,,,
+5k8p,D,362,,,,,,
+5k8p,D,363,,,,,,
+5k8p,D,364,,,,,,
+5k8p,D,365,,,,,,
+5k8p,D,366,,,,,,
+5k8p,D,367,,,,,,
+5k8p,D,368,,,,,,
+5k8p,D,369,,,,,,
+5k8p,D,370,,,,,,
+5k8p,D,371,,,,,,
+5k8p,D,372,,,,,,
+5k8p,D,373,,,,,,
+5k8p,D,374,,,,,,
+5k8p,D,375,,,,,,
+5k8p,D,376,,,,,,
+5k8p,D,377,,,,,,
+5k8p,D,378,,,,,,
+5k8p,D,379,,,,,,
+5k8p,D,380,,,,,,
+5k8p,D,381,,,,,,
+5k8p,D,382,,,,,,
+5k8p,D,383,,,,,,
+5k8p,D,384,,,,,,
+5k8p,D,385,,,,,,
+5k8p,D,386,,,,,,
+5k8p,D,387,,,,,,
+5k8p,D,388,,,,,,
+5k8p,D,389,,,,,,
+5k8p,D,390,,,,,,
+5k8p,D,391,,,,,,
+5k8p,D,392,,,,,,
+5k8p,D,393,,,,,,
+5k8p,D,394,,,,,,
+5k8p,D,395,,,,,,
+5k8p,D,396,,,,,,
+5k8p,D,397,,,,,,
+5k8p,D,398,,,,,,
+5k8p,D,399,,,,,,
+5k8p,D,400,,,,,,
+5k8p,D,401,,,,,,
+5k8p,D,402,,,,,,
+5k8p,D,403,,,,,,
+5k8p,D,404,,,,,,
+5k8p,D,405,,,,,,
+5k8p,D,406,,,,,,
+5k8p,D,407,,,,,,
+5k8p,D,408,,,,,,
+5k8p,D,409,,,,,,
+5k8p,D,410,,,,,,
+5k8p,D,411,,,,,,
+5k8p,D,412,,,,,,
+5k8p,D,413,,,,,,
+5k8p,D,414,,,,,,
+5k8p,D,415,,,,,,
+5k8p,D,416,,,,,,
+5k8p,D,417,,,,,,
+5k8p,D,418,,,,,,
+5k8p,D,419,,,,,,
+5k8p,D,420,,,,,,
+5k8p,D,421,,,,,,
+5k8p,D,422,,,,,,
+5k8p,D,423,,,,,,
+5k8p,D,424,,,,,,
+5k8p,D,425,,,,,,
+5k8p,E,3,5k8pED02,2.0,,,,
+5k8p,E,4,5k8pED02,2.0,,,,
+5k8p,E,5,5k8pED02,2.0,,,,
+5k8p,E,6,5k8pED02,2.0,,,,
+5k8p,E,7,5k8pED02,2.0,,,,
+5k8p,E,8,5k8pED02,2.0,,,,
+5k8p,E,9,5k8pED02,2.0,,,,
+5k8p,E,10,5k8pED02,2.0,,,,
+5k8p,E,11,5k8pED02,2.0,,,,
+5k8p,E,12,5k8pED02,2.0,,,,
+5k8p,E,13,5k8pED02,2.0,,,,
+5k8p,E,14,5k8pED02,2.0,,,,
+5k8p,E,15,5k8pED02,2.0,,,,
+5k8p,E,16,5k8pED02,2.0,,,,
+5k8p,E,17,5k8pED02,2.0,,,,
+5k8p,E,18,5k8pED02,2.0,,,,
+5k8p,E,19,5k8pED02,2.0,,,,
+5k8p,E,20,5k8pED02,2.0,,,,
+5k8p,E,21,5k8pED02,2.0,,,,
+5k8p,E,22,5k8pED02,2.0,,,,
+5k8p,E,23,5k8pED02,2.0,,,,
+5k8p,E,24,5k8pED02,2.0,,,,
+5k8p,E,25,5k8pED02,2.0,,,,
+5k8p,E,26,5k8pED02,2.0,,,,
+5k8p,E,27,5k8pED02,2.0,,,,
+5k8p,E,28,5k8pED02,2.0,,,,
+5k8p,E,29,5k8pED02,2.0,,,,
+5k8p,E,30,5k8pED02,2.0,,,,
+5k8p,E,31,5k8pED02,2.0,,,,
+5k8p,E,32,5k8pED02,2.0,,,,
+5k8p,E,33,5k8pED02,2.0,,,,
+5k8p,E,34,5k8pED02,2.0,,,,
+5k8p,E,35,5k8pED02,2.0,,,,
+5k8p,E,36,5k8pED02,2.0,,,,
+5k8p,E,37,5k8pED02,2.0,,,,
+5k8p,E,38,5k8pED02,2.0,,,,
+5k8p,E,39,5k8pED02,2.0,,,,
+5k8p,E,40,5k8pED02,2.0,,,,
+5k8p,E,41,5k8pED02,2.0,,,,
+5k8p,E,42,5k8pED02,2.0,,,,
+5k8p,E,43,5k8pED02,2.0,,,,
+5k8p,E,44,5k8pED02,2.0,,,,
+5k8p,E,45,5k8pED02,2.0,,,,
+5k8p,E,46,5k8pED02,2.0,,,,
+5k8p,E,47,5k8pED02,2.0,,,,
+5k8p,E,48,5k8pED02,2.0,,,,
+5k8p,E,49,5k8pED02,2.0,,,,
+5k8p,E,50,5k8pED02,2.0,,,,
+5k8p,E,51,5k8pED02,2.0,,,,
+5k8p,E,52,5k8pED02,2.0,,,,
+5k8p,E,53,5k8pED02,2.0,,,,
+5k8p,E,54,5k8pED02,2.0,,,,
+5k8p,E,55,5k8pED02,2.0,,,,
+5k8p,E,56,5k8pED02,2.0,,,,
+5k8p,E,57,5k8pED02,2.0,,,,
+5k8p,E,58,5k8pED02,2.0,,,,
+5k8p,E,59,5k8pED02,2.0,,,,
+5k8p,E,60,5k8pED02,2.0,,,,
+5k8p,E,61,5k8pED02,2.0,,,,
+5k8p,E,62,5k8pED02,2.0,,,,
+5k8p,E,63,5k8pED02,2.0,,,,
+5k8p,E,64,5k8pED02,2.0,,,,
+5k8p,E,65,5k8pED02,2.0,,,,
+5k8p,E,66,5k8pED02,2.0,,,,
+5k8p,E,67,5k8pED02,2.0,,,,
+5k8p,E,68,5k8pED02,2.0,,,,
+5k8p,E,69,5k8pED02,2.0,,,,
+5k8p,E,70,5k8pED02,2.0,,,,
+5k8p,E,71,5k8pED02,2.0,,,,
+5k8p,E,72,5k8pED02,2.0,,,,
+5k8p,E,73,5k8pED02,2.0,,,,
+5k8p,E,74,5k8pED02,2.0,,,,
+5k8p,E,75,5k8pED02,2.0,,,,
+5k8p,E,76,5k8pED02,2.0,,,,
+5k8p,E,77,5k8pED02,2.0,,,,
+5k8p,E,78,5k8pED02,2.0,,,,
+5k8p,E,79,5k8pED02,2.0,,,,
+5k8p,E,80,5k8pED02,2.0,,,,
+5k8p,E,81,5k8pED02,2.0,,,,
+5k8p,E,82,5k8pED02,2.0,,,,
+5k8p,E,83,5k8pED02,2.0,,,,
+5k8p,E,84,5k8pED02,2.0,,,,
+5k8p,E,85,5k8pED02,2.0,,,,
+5k8p,E,86,5k8pED02,2.0,,,,
+5k8p,E,87,5k8pED02,2.0,,,,
+5k8p,E,88,5k8pED02,2.0,,,,
+5k8p,E,89,5k8pED02,2.0,,,,
+5k8p,E,90,5k8pED02,2.0,,,,
+5k8p,E,91,5k8pED02,2.0,,,,
+5k8p,E,92,5k8pED02,2.0,,,,
+5k8p,E,93,5k8pED02,2.0,,,,
+5k8p,E,94,5k8pED02,2.0,,,,
+5k8p,E,95,5k8pED02,2.0,,,,
+5k8p,E,96,5k8pED02,2.0,,,,
+5k8p,E,97,5k8pED02,2.0,,,,
+5k8p,E,98,5k8pED02,2.0,,,,
+5k8p,E,99,5k8pED02,2.0,,,,
+5k8p,E,100,5k8pED02,2.0,,,,
+5k8p,E,101,5k8pED02,2.0,,,,
+5k8p,E,102,5k8pED02,2.0,,,,
+5k8p,E,103,5k8pED02,2.0,,,,
+5k8p,E,104,5k8pED02,2.0,,,,
+5k8p,E,105,5k8pED02,2.0,,,,
+5k8p,E,106,5k8pED02,2.0,,,,
+5k8p,E,107,5k8pED02,2.0,,,,
+5k8p,E,108,5k8pED02,2.0,,,,
+5k8p,E,109,5k8pED02,2.0,,,,
+5k8p,E,110,5k8pED02,2.0,,,,
+5k8p,E,111,5k8pED02,2.0,,,,
+5k8p,E,112,5k8pED02,2.0,,,,
+5k8p,E,113,5k8pED02,2.0,,,,
+5k8p,E,114,5k8pED02,2.0,,,,
+5k8p,E,115,5k8pED02,2.0,,,,
+5k8p,E,116,5k8pED02,2.0,,,,
+5k8p,E,117,5k8pED02,2.0,,,,
+5k8p,E,118,5k8pED02,2.0,,,,
+5k8p,E,119,5k8pED02,2.0,,,,
+5k8p,E,120,5k8pED02,2.0,,,,
+5k8p,E,121,5k8pED02,2.0,,,,
+5k8p,E,122,5k8pED02,2.0,,,,
+5k8p,E,123,5k8pED02,2.0,,,,
+5k8p,E,124,5k8pED02,2.0,,,,
+5k8p,E,125,5k8pED02,2.0,,,,
+5k8p,E,126,5k8pED02,2.0,,,,
+5k8p,E,127,5k8pED02,2.0,,,,
+5k8p,E,128,5k8pED02,2.0,,,,
+5k8p,E,129,5k8pED02,2.0,,,,
+5k8p,E,130,5k8pED02,2.0,,,,
+5k8p,E,131,5k8pED02,2.0,,,,
+5k8p,E,132,5k8pED02,2.0,,,,
+5k8p,E,133,5k8pED02,2.0,,,,
+5k8p,E,134,5k8pED02,2.0,,,,
+5k8p,E,135,5k8pED02,2.0,,,,
+5k8p,E,136,5k8pED02,2.0,,,,
+5k8p,E,137,5k8pED02,2.0,,,,
+5k8p,E,138,5k8pED02,2.0,,,,
+5k8p,E,139,5k8pED02,2.0,,,,
+5k8p,E,140,5k8pED02,2.0,,,,
+5k8p,E,141,5k8pED02,2.0,,,,
+5k8p,E,142,5k8pED02,2.0,,,,
+5k8p,E,143,5k8pED02,2.0,,,,
+5k8p,E,144,5k8pED02,2.0,,,,
+5k8p,E,145,5k8pED02,2.0,,,,
+5k8p,E,146,5k8pED02,2.0,,,,
+5k8p,E,147,5k8pED02,2.0,,,,
+5k8p,E,148,5k8pED02,2.0,,,,
+5k8p,E,149,5k8pED02,2.0,,,,
+5k8p,E,150,5k8pED02,2.0,,,,
+5k8p,E,151,5k8pED02,2.0,,,,
+5k8p,E,152,5k8pED02,2.0,,,,
+5k8p,E,153,5k8pED02,2.0,,,,
+5k8p,E,154,5k8pED02,2.0,,,,
+5k8p,E,155,5k8pED02,2.0,,,,
+5k8p,E,156,5k8pED02,2.0,,,,
+5k8p,E,157,5k8pED02,2.0,,,,
+5k8p,E,158,5k8pED02,2.0,,,,
+5k8p,E,159,5k8pED02,2.0,,,,
+5k8p,E,160,5k8pED02,2.0,,,,
+5k8p,E,161,5k8pED02,2.0,,,,
+5k8p,E,162,5k8pED02,2.0,,,,
+5k8p,E,163,5k8pED02,2.0,,,,
+5k8p,E,164,5k8pED02,2.0,,,,
+5k8p,E,165,5k8pED02,2.0,,,,
+5k8p,E,166,5k8pED02,2.0,,,,
+5k8p,E,167,5k8pED02,2.0,,,,
+5k8p,E,168,5k8pED02,2.0,,,,
+5k8p,E,169,5k8pED02,2.0,,,,
+5k8p,E,170,5k8pED02,2.0,,,,
+5k8p,E,171,5k8pED02,2.0,,,,
+5k8p,E,172,5k8pED02,2.0,,,,
+5k8p,E,173,5k8pED02,2.0,,,,
+5k8p,E,174,5k8pED02,2.0,,,,
+5k8p,E,175,5k8pED02,2.0,,,,
+5k8p,E,176,5k8pED02,2.0,,,,
+5k8p,E,177,5k8pED02,2.0,,,,
+5k8p,E,178,5k8pED02,2.0,,,,
+5k8p,E,179,5k8pED02,2.0,,,,
+5k8p,E,180,5k8pED02,2.0,,,,
+5k8p,E,181,5k8pED02,2.0,,,,
+5k8p,E,182,5k8pED02,2.0,,,,
+5k8p,E,183,5k8pED02,2.0,,,,
+5k8p,E,184,5k8pED02,2.0,,,,
+5k8p,E,185,5k8pED02,2.0,,,,
+5k8p,E,186,5k8pED02,2.0,,,,
+5k8p,E,187,5k8pED02,2.0,,,,
+5k8p,E,188,5k8pED02,2.0,,,,
+5k8p,E,189,5k8pED02,2.0,,,,
+5k8p,E,190,5k8pED02,2.0,,,,
+5k8p,E,191,5k8pED02,2.0,,,,
+5k8p,E,192,5k8pED02,2.0,,,,
+5k8p,E,193,5k8pED02,2.0,,,,
+5k8p,E,194,5k8pED02,2.0,,,,
+5k8p,E,195,5k8pED02,2.0,,,,
+5k8p,E,196,5k8pED02,2.0,,,,
+5k8p,E,197,5k8pED02,2.0,,,,
+5k8p,E,198,5k8pED02,2.0,,,,
+5k8p,E,199,5k8pED02,2.0,,,,
+5k8p,E,200,5k8pED02,2.0,,,,
+5k8p,E,201,5k8pED02,2.0,,,,
+5k8p,E,202,5k8pED02,2.0,,,,
+5k8p,E,203,5k8pED02,2.0,,,,
+5k8p,E,204,5k8pED02,2.0,,,,
+5k8p,E,205,5k8pED02,2.0,,,,
+5k8p,E,206,,,,,,
+5k8p,E,207,,,,,,
+5k8p,E,208,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,209,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,210,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,211,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,212,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,213,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,214,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,215,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,216,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,217,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,218,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,219,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,220,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,221,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,222,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,223,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,224,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,225,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,226,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,227,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,228,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,229,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,230,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,231,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,232,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,233,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,234,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,235,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,236,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,237,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,238,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,239,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,240,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,241,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,242,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,243,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,244,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,245,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,246,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,247,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,248,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,249,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,250,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,251,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,252,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,253,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,254,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,255,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,256,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,257,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,258,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,259,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,260,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,261,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,262,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,263,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,264,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,265,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,266,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,267,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,268,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,269,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,270,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,271,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,272,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,273,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,274,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,275,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,276,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,277,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,278,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,279,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,280,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,281,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,282,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,283,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,284,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,285,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,286,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,287,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,288,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,289,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,290,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,291,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,292,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,293,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,294,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,295,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,296,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,297,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,298,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,299,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,300,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,301,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,302,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,303,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,304,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,305,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,306,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,307,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,308,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,309,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,310,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,311,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,312,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,313,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,314,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,315,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,316,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,317,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,318,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,319,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,320,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,321,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,322,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,323,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,324,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,325,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,326,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,327,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,328,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,329,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,330,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,331,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,332,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,333,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,334,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,335,,,e5k8pE1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,E,336,,,,,,
+5k8p,E,337,,,,,,
+5k8p,E,338,,,,,,
+5k8p,E,339,,,,,,
+5k8p,E,340,,,,,,
+5k8p,E,341,,,,,,
+5k8p,E,342,,,,,,
+5k8p,E,343,,,,,,
+5k8p,E,344,,,,,,
+5k8p,E,345,,,,,,
+5k8p,E,346,,,,,,
+5k8p,E,347,,,,,,
+5k8p,E,348,,,,,,
+5k8p,E,349,,,,,,
+5k8p,E,350,,,,,,
+5k8p,E,351,,,,,,
+5k8p,E,352,,,,,,
+5k8p,E,353,,,,,,
+5k8p,E,354,,,,,,
+5k8p,E,355,,,,,,
+5k8p,E,356,,,,,,
+5k8p,E,357,,,,,,
+5k8p,E,358,,,,,,
+5k8p,E,359,,,,,,
+5k8p,E,360,,,,,,
+5k8p,E,361,,,,,,
+5k8p,E,362,,,,,,
+5k8p,E,363,,,,,,
+5k8p,E,364,,,,,,
+5k8p,E,365,,,,,,
+5k8p,E,366,,,,,,
+5k8p,E,367,,,,,,
+5k8p,E,368,,,,,,
+5k8p,E,369,,,,,,
+5k8p,E,370,,,,,,
+5k8p,E,371,,,,,,
+5k8p,E,372,,,,,,
+5k8p,E,373,,,,,,
+5k8p,E,374,,,,,,
+5k8p,E,375,,,,,,
+5k8p,E,376,,,,,,
+5k8p,E,377,,,,,,
+5k8p,E,378,,,,,,
+5k8p,E,379,,,,,,
+5k8p,E,380,,,,,,
+5k8p,E,381,,,,,,
+5k8p,E,382,,,,,,
+5k8p,E,383,,,,,,
+5k8p,E,384,,,,,,
+5k8p,E,385,,,,,,
+5k8p,E,386,,,,,,
+5k8p,E,387,,,,,,
+5k8p,E,388,,,,,,
+5k8p,E,389,,,,,,
+5k8p,E,390,,,,,,
+5k8p,E,391,,,,,,
+5k8p,E,392,,,,,,
+5k8p,E,393,,,,,,
+5k8p,E,394,,,,,,
+5k8p,E,395,,,,,,
+5k8p,E,396,,,,,,
+5k8p,E,397,,,,,,
+5k8p,E,398,,,,,,
+5k8p,E,399,,,,,,
+5k8p,E,400,,,,,,
+5k8p,E,401,,,,,,
+5k8p,E,402,,,,,,
+5k8p,E,403,,,,,,
+5k8p,E,404,,,,,,
+5k8p,E,405,,,,,,
+5k8p,E,406,,,,,,
+5k8p,E,407,,,,,,
+5k8p,E,408,,,,,,
+5k8p,E,409,,,,,,
+5k8p,E,410,,,,,,
+5k8p,E,411,,,,,,
+5k8p,E,412,,,,,,
+5k8p,E,413,,,,,,
+5k8p,E,414,,,,,,
+5k8p,E,415,,,,,,
+5k8p,E,416,,,,,,
+5k8p,E,417,,,,,,
+5k8p,E,418,,,,,,
+5k8p,E,419,,,,,,
+5k8p,E,420,,,,,,
+5k8p,E,421,,,,,,
+5k8p,E,422,,,,,,
+5k8p,E,423,,,,,,
+5k8p,E,424,,,,,,
+5k8p,E,425,,,,,,
+5k8p,F,1,5k8pFD02,2.0,,,,
+5k8p,F,2,5k8pFD02,2.0,,,,
+5k8p,F,3,5k8pFD02,2.0,,,,
+5k8p,F,4,5k8pFD02,2.0,,,,
+5k8p,F,5,5k8pFD02,2.0,,,,
+5k8p,F,6,5k8pFD02,2.0,,,,
+5k8p,F,7,5k8pFD02,2.0,,,,
+5k8p,F,8,5k8pFD02,2.0,,,,
+5k8p,F,9,5k8pFD02,2.0,,,,
+5k8p,F,10,5k8pFD02,2.0,,,,
+5k8p,F,11,5k8pFD02,2.0,,,,
+5k8p,F,12,5k8pFD02,2.0,,,,
+5k8p,F,13,5k8pFD02,2.0,,,,
+5k8p,F,14,5k8pFD02,2.0,,,,
+5k8p,F,15,5k8pFD02,2.0,,,,
+5k8p,F,16,5k8pFD02,2.0,,,,
+5k8p,F,17,5k8pFD02,2.0,,,,
+5k8p,F,18,5k8pFD02,2.0,,,,
+5k8p,F,19,5k8pFD02,2.0,,,,
+5k8p,F,20,5k8pFD02,2.0,,,,
+5k8p,F,21,5k8pFD02,2.0,,,,
+5k8p,F,22,5k8pFD02,2.0,,,,
+5k8p,F,23,5k8pFD02,2.0,,,,
+5k8p,F,24,5k8pFD02,2.0,,,,
+5k8p,F,25,5k8pFD02,2.0,,,,
+5k8p,F,26,5k8pFD02,2.0,,,,
+5k8p,F,27,5k8pFD02,2.0,,,,
+5k8p,F,28,5k8pFD02,2.0,,,,
+5k8p,F,29,5k8pFD02,2.0,,,,
+5k8p,F,30,5k8pFD02,2.0,,,,
+5k8p,F,31,5k8pFD02,2.0,,,,
+5k8p,F,32,5k8pFD02,2.0,,,,
+5k8p,F,33,5k8pFD02,2.0,,,,
+5k8p,F,34,5k8pFD02,2.0,,,,
+5k8p,F,35,5k8pFD02,2.0,,,,
+5k8p,F,36,5k8pFD02,2.0,,,,
+5k8p,F,37,5k8pFD02,2.0,,,,
+5k8p,F,38,5k8pFD02,2.0,,,,
+5k8p,F,39,5k8pFD02,2.0,,,,
+5k8p,F,40,5k8pFD02,2.0,,,,
+5k8p,F,41,5k8pFD02,2.0,,,,
+5k8p,F,42,5k8pFD02,2.0,,,,
+5k8p,F,43,5k8pFD02,2.0,,,,
+5k8p,F,44,5k8pFD02,2.0,,,,
+5k8p,F,45,5k8pFD02,2.0,,,,
+5k8p,F,46,5k8pFD02,2.0,,,,
+5k8p,F,47,5k8pFD02,2.0,,,,
+5k8p,F,48,5k8pFD02,2.0,,,,
+5k8p,F,49,5k8pFD02,2.0,,,,
+5k8p,F,50,5k8pFD02,2.0,,,,
+5k8p,F,51,5k8pFD02,2.0,,,,
+5k8p,F,52,5k8pFD02,2.0,,,,
+5k8p,F,53,5k8pFD02,2.0,,,,
+5k8p,F,54,5k8pFD02,2.0,,,,
+5k8p,F,55,5k8pFD02,2.0,,,,
+5k8p,F,56,5k8pFD02,2.0,,,,
+5k8p,F,57,5k8pFD02,2.0,,,,
+5k8p,F,58,5k8pFD02,2.0,,,,
+5k8p,F,59,5k8pFD02,2.0,,,,
+5k8p,F,60,5k8pFD02,2.0,,,,
+5k8p,F,61,5k8pFD02,2.0,,,,
+5k8p,F,62,5k8pFD02,2.0,,,,
+5k8p,F,63,5k8pFD02,2.0,,,,
+5k8p,F,64,5k8pFD02,2.0,,,,
+5k8p,F,65,5k8pFD02,2.0,,,,
+5k8p,F,66,5k8pFD02,2.0,,,,
+5k8p,F,67,5k8pFD02,2.0,,,,
+5k8p,F,68,5k8pFD02,2.0,,,,
+5k8p,F,69,5k8pFD02,2.0,,,,
+5k8p,F,70,5k8pFD02,2.0,,,,
+5k8p,F,71,5k8pFD02,2.0,,,,
+5k8p,F,72,5k8pFD02,2.0,,,,
+5k8p,F,73,5k8pFD02,2.0,,,,
+5k8p,F,74,5k8pFD02,2.0,,,,
+5k8p,F,75,5k8pFD02,2.0,,,,
+5k8p,F,76,5k8pFD02,2.0,,,,
+5k8p,F,77,5k8pFD02,2.0,,,,
+5k8p,F,78,5k8pFD02,2.0,,,,
+5k8p,F,79,5k8pFD02,2.0,,,,
+5k8p,F,80,5k8pFD02,2.0,,,,
+5k8p,F,81,5k8pFD02,2.0,,,,
+5k8p,F,82,5k8pFD02,2.0,,,,
+5k8p,F,83,5k8pFD02,2.0,,,,
+5k8p,F,84,5k8pFD02,2.0,,,,
+5k8p,F,85,5k8pFD02,2.0,,,,
+5k8p,F,86,5k8pFD02,2.0,,,,
+5k8p,F,87,5k8pFD02,2.0,,,,
+5k8p,F,88,5k8pFD02,2.0,,,,
+5k8p,F,89,5k8pFD02,2.0,,,,
+5k8p,F,90,5k8pFD02,2.0,,,,
+5k8p,F,91,5k8pFD02,2.0,,,,
+5k8p,F,92,5k8pFD02,2.0,,,,
+5k8p,F,93,5k8pFD02,2.0,,,,
+5k8p,F,94,5k8pFD02,2.0,,,,
+5k8p,F,95,5k8pFD02,2.0,,,,
+5k8p,F,96,5k8pFD02,2.0,,,,
+5k8p,F,97,5k8pFD02,2.0,,,,
+5k8p,F,98,5k8pFD02,2.0,,,,
+5k8p,F,99,5k8pFD02,2.0,,,,
+5k8p,F,100,5k8pFD02,2.0,,,,
+5k8p,F,101,5k8pFD02,2.0,,,,
+5k8p,F,102,5k8pFD02,2.0,,,,
+5k8p,F,103,5k8pFD02,2.0,,,,
+5k8p,F,104,5k8pFD02,2.0,,,,
+5k8p,F,105,5k8pFD02,2.0,,,,
+5k8p,F,106,5k8pFD02,2.0,,,,
+5k8p,F,107,5k8pFD02,2.0,,,,
+5k8p,F,108,5k8pFD02,2.0,,,,
+5k8p,F,109,5k8pFD02,2.0,,,,
+5k8p,F,110,5k8pFD02,2.0,,,,
+5k8p,F,111,5k8pFD02,2.0,,,,
+5k8p,F,112,5k8pFD02,2.0,,,,
+5k8p,F,113,5k8pFD02,2.0,,,,
+5k8p,F,114,5k8pFD02,2.0,,,,
+5k8p,F,115,5k8pFD02,2.0,,,,
+5k8p,F,116,5k8pFD02,2.0,,,,
+5k8p,F,117,5k8pFD02,2.0,,,,
+5k8p,F,118,5k8pFD02,2.0,,,,
+5k8p,F,119,5k8pFD02,2.0,,,,
+5k8p,F,120,5k8pFD02,2.0,,,,
+5k8p,F,121,5k8pFD02,2.0,,,,
+5k8p,F,122,5k8pFD02,2.0,,,,
+5k8p,F,123,5k8pFD02,2.0,,,,
+5k8p,F,124,5k8pFD02,2.0,,,,
+5k8p,F,125,5k8pFD02,2.0,,,,
+5k8p,F,126,5k8pFD02,2.0,,,,
+5k8p,F,127,5k8pFD02,2.0,,,,
+5k8p,F,128,5k8pFD02,2.0,,,,
+5k8p,F,129,5k8pFD02,2.0,,,,
+5k8p,F,130,5k8pFD02,2.0,,,,
+5k8p,F,131,5k8pFD02,2.0,,,,
+5k8p,F,132,5k8pFD02,2.0,,,,
+5k8p,F,133,5k8pFD02,2.0,,,,
+5k8p,F,134,5k8pFD02,2.0,,,,
+5k8p,F,135,5k8pFD02,2.0,,,,
+5k8p,F,136,5k8pFD02,2.0,,,,
+5k8p,F,137,5k8pFD02,2.0,,,,
+5k8p,F,138,5k8pFD02,2.0,,,,
+5k8p,F,139,5k8pFD02,2.0,,,,
+5k8p,F,140,5k8pFD02,2.0,,,,
+5k8p,F,141,5k8pFD02,2.0,,,,
+5k8p,F,142,5k8pFD02,2.0,,,,
+5k8p,F,143,5k8pFD02,2.0,,,,
+5k8p,F,144,5k8pFD02,2.0,,,,
+5k8p,F,145,5k8pFD02,2.0,,,,
+5k8p,F,146,5k8pFD02,2.0,,,,
+5k8p,F,147,5k8pFD02,2.0,,,,
+5k8p,F,148,5k8pFD02,2.0,,,,
+5k8p,F,149,5k8pFD02,2.0,,,,
+5k8p,F,150,5k8pFD02,2.0,,,,
+5k8p,F,151,5k8pFD02,2.0,,,,
+5k8p,F,152,5k8pFD02,2.0,,,,
+5k8p,F,153,5k8pFD02,2.0,,,,
+5k8p,F,154,5k8pFD02,2.0,,,,
+5k8p,F,155,5k8pFD02,2.0,,,,
+5k8p,F,156,5k8pFD02,2.0,,,,
+5k8p,F,157,5k8pFD02,2.0,,,,
+5k8p,F,158,5k8pFD02,2.0,,,,
+5k8p,F,159,5k8pFD02,2.0,,,,
+5k8p,F,160,5k8pFD02,2.0,,,,
+5k8p,F,161,5k8pFD02,2.0,,,,
+5k8p,F,162,5k8pFD02,2.0,,,,
+5k8p,F,163,5k8pFD02,2.0,,,,
+5k8p,F,164,5k8pFD02,2.0,,,,
+5k8p,F,165,5k8pFD02,2.0,,,,
+5k8p,F,166,5k8pFD02,2.0,,,,
+5k8p,F,167,5k8pFD02,2.0,,,,
+5k8p,F,168,5k8pFD02,2.0,,,,
+5k8p,F,169,5k8pFD02,2.0,,,,
+5k8p,F,170,5k8pFD02,2.0,,,,
+5k8p,F,171,5k8pFD02,2.0,,,,
+5k8p,F,172,5k8pFD02,2.0,,,,
+5k8p,F,173,5k8pFD02,2.0,,,,
+5k8p,F,174,5k8pFD02,2.0,,,,
+5k8p,F,175,5k8pFD02,2.0,,,,
+5k8p,F,176,5k8pFD02,2.0,,,,
+5k8p,F,177,5k8pFD02,2.0,,,,
+5k8p,F,178,5k8pFD02,2.0,,,,
+5k8p,F,179,5k8pFD02,2.0,,,,
+5k8p,F,180,5k8pFD02,2.0,,,,
+5k8p,F,181,5k8pFD02,2.0,,,,
+5k8p,F,182,5k8pFD02,2.0,,,,
+5k8p,F,183,5k8pFD02,2.0,,,,
+5k8p,F,184,5k8pFD02,2.0,,,,
+5k8p,F,185,5k8pFD02,2.0,,,,
+5k8p,F,186,5k8pFD02,2.0,,,,
+5k8p,F,187,5k8pFD02,2.0,,,,
+5k8p,F,188,5k8pFD02,2.0,,,,
+5k8p,F,189,5k8pFD02,2.0,,,,
+5k8p,F,190,5k8pFD02,2.0,,,,
+5k8p,F,191,5k8pFD02,2.0,,,,
+5k8p,F,192,5k8pFD02,2.0,,,,
+5k8p,F,193,5k8pFD02,2.0,,,,
+5k8p,F,194,5k8pFD02,2.0,,,,
+5k8p,F,195,5k8pFD02,2.0,,,,
+5k8p,F,196,5k8pFD02,2.0,,,,
+5k8p,F,197,5k8pFD02,2.0,,,,
+5k8p,F,198,5k8pFD02,2.0,,,,
+5k8p,F,199,5k8pFD02,2.0,,,,
+5k8p,F,200,5k8pFD02,2.0,,,,
+5k8p,F,201,5k8pFD02,2.0,,,,
+5k8p,F,202,5k8pFD02,2.0,,,,
+5k8p,F,203,5k8pFD02,2.0,,,,
+5k8p,F,204,5k8pFD02,2.0,,,,
+5k8p,F,205,5k8pFD02,2.0,,,,
+5k8p,F,206,,,,,,
+5k8p,F,207,,,,,,
+5k8p,F,208,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,209,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,210,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,211,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,212,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,213,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,214,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,215,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,216,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,217,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,218,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,219,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,220,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,221,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,222,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,223,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,224,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,225,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,226,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,227,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,228,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,229,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,230,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,231,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,232,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,233,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,234,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,235,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,236,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,237,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,238,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,239,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,240,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,241,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,242,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,243,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,244,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,245,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,246,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,247,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,248,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,249,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,250,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,251,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,252,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,253,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,254,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,255,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,256,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,257,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,258,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,259,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,260,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,261,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,262,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,263,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,264,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,265,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,266,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,267,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,268,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,269,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,270,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,271,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,272,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,273,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,274,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,275,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,276,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,277,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,278,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,279,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,280,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,281,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,282,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,283,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,284,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,285,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,286,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,287,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,288,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,289,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,290,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,291,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,292,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,293,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,294,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,295,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,296,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,297,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,298,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,299,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,300,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,301,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,302,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,303,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,304,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,305,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,306,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,307,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,308,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,309,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,310,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,311,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,312,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,313,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,314,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,315,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,316,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,317,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,318,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,319,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,320,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,321,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,322,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,323,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,324,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,325,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,326,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,327,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,328,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,329,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,330,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,331,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,332,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,333,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,334,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,335,,,e5k8pF2,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,F,336,,,,,,
+5k8p,F,337,,,,,,
+5k8p,F,338,,,,,,
+5k8p,F,339,,,,,,
+5k8p,F,340,,,,,,
+5k8p,F,341,,,,,,
+5k8p,F,342,,,,,,
+5k8p,F,343,,,,,,
+5k8p,F,344,,,,,,
+5k8p,F,345,,,,,,
+5k8p,F,346,,,,,,
+5k8p,F,347,,,,,,
+5k8p,F,348,,,,,,
+5k8p,F,349,,,,,,
+5k8p,F,350,,,,,,
+5k8p,F,351,,,,,,
+5k8p,F,352,,,,,,
+5k8p,F,353,,,,,,
+5k8p,F,354,,,,,,
+5k8p,F,355,,,,,,
+5k8p,F,356,,,,,,
+5k8p,F,357,,,,,,
+5k8p,F,358,,,,,,
+5k8p,F,359,,,,,,
+5k8p,F,360,,,,,,
+5k8p,F,361,,,,,,
+5k8p,F,362,,,,,,
+5k8p,F,363,,,,,,
+5k8p,F,364,,,,,,
+5k8p,F,365,,,,,,
+5k8p,F,366,,,,,,
+5k8p,F,367,,,,,,
+5k8p,F,368,,,,,,
+5k8p,F,369,,,,,,
+5k8p,F,370,,,,,,
+5k8p,F,371,,,,,,
+5k8p,F,372,,,,,,
+5k8p,F,373,,,,,,
+5k8p,F,374,,,,,,
+5k8p,F,375,,,,,,
+5k8p,F,376,,,,,,
+5k8p,F,377,,,,,,
+5k8p,F,378,,,,,,
+5k8p,F,379,,,,,,
+5k8p,F,380,,,,,,
+5k8p,F,381,,,,,,
+5k8p,F,382,,,,,,
+5k8p,F,383,,,,,,
+5k8p,F,384,,,,,,
+5k8p,F,385,,,,,,
+5k8p,F,386,,,,,,
+5k8p,F,387,,,,,,
+5k8p,F,388,,,,,,
+5k8p,F,389,,,,,,
+5k8p,F,390,,,,,,
+5k8p,F,391,,,,,,
+5k8p,F,392,,,,,,
+5k8p,F,393,,,,,,
+5k8p,F,394,,,,,,
+5k8p,F,395,,,,,,
+5k8p,F,396,,,,,,
+5k8p,F,397,,,,,,
+5k8p,F,398,,,,,,
+5k8p,F,399,,,,,,
+5k8p,F,400,,,,,,
+5k8p,F,401,,,,,,
+5k8p,F,402,,,,,,
+5k8p,F,403,,,,,,
+5k8p,F,404,,,,,,
+5k8p,F,405,,,,,,
+5k8p,F,406,,,,,,
+5k8p,F,407,,,,,,
+5k8p,F,408,,,,,,
+5k8p,F,409,,,,,,
+5k8p,F,410,,,,,,
+5k8p,F,411,,,,,,
+5k8p,F,412,,,,,,
+5k8p,F,413,,,,,,
+5k8p,F,414,,,,,,
+5k8p,F,415,,,,,,
+5k8p,F,416,,,,,,
+5k8p,F,417,,,,,,
+5k8p,F,418,,,,,,
+5k8p,F,419,,,,,,
+5k8p,F,420,,,,,,
+5k8p,F,421,,,,,,
+5k8p,F,422,,,,,,
+5k8p,F,423,,,,,,
+5k8p,F,424,,,,,,
+5k8p,F,425,,,,,,
+5k8p,G,5,5k8pGD02,2.0,,,,
+5k8p,G,6,5k8pGD02,2.0,,,,
+5k8p,G,7,5k8pGD02,2.0,,,,
+5k8p,G,8,5k8pGD02,2.0,,,,
+5k8p,G,9,5k8pGD02,2.0,,,,
+5k8p,G,10,5k8pGD02,2.0,,,,
+5k8p,G,11,5k8pGD02,2.0,,,,
+5k8p,G,12,5k8pGD02,2.0,,,,
+5k8p,G,13,5k8pGD02,2.0,,,,
+5k8p,G,14,5k8pGD02,2.0,,,,
+5k8p,G,15,5k8pGD02,2.0,,,,
+5k8p,G,16,5k8pGD02,2.0,,,,
+5k8p,G,17,5k8pGD02,2.0,,,,
+5k8p,G,18,5k8pGD02,2.0,,,,
+5k8p,G,19,5k8pGD02,2.0,,,,
+5k8p,G,20,5k8pGD02,2.0,,,,
+5k8p,G,21,5k8pGD02,2.0,,,,
+5k8p,G,22,5k8pGD02,2.0,,,,
+5k8p,G,23,5k8pGD02,2.0,,,,
+5k8p,G,24,5k8pGD02,2.0,,,,
+5k8p,G,25,5k8pGD02,2.0,,,,
+5k8p,G,26,5k8pGD02,2.0,,,,
+5k8p,G,27,5k8pGD02,2.0,,,,
+5k8p,G,28,5k8pGD02,2.0,,,,
+5k8p,G,29,5k8pGD02,2.0,,,,
+5k8p,G,30,5k8pGD02,2.0,,,,
+5k8p,G,31,5k8pGD02,2.0,,,,
+5k8p,G,32,5k8pGD02,2.0,,,,
+5k8p,G,33,5k8pGD02,2.0,,,,
+5k8p,G,34,5k8pGD02,2.0,,,,
+5k8p,G,35,5k8pGD02,2.0,,,,
+5k8p,G,36,5k8pGD02,2.0,,,,
+5k8p,G,37,5k8pGD02,2.0,,,,
+5k8p,G,38,5k8pGD02,2.0,,,,
+5k8p,G,39,5k8pGD02,2.0,,,,
+5k8p,G,40,5k8pGD02,2.0,,,,
+5k8p,G,41,5k8pGD02,2.0,,,,
+5k8p,G,42,5k8pGD02,2.0,,,,
+5k8p,G,43,5k8pGD02,2.0,,,,
+5k8p,G,44,5k8pGD02,2.0,,,,
+5k8p,G,45,5k8pGD02,2.0,,,,
+5k8p,G,46,5k8pGD02,2.0,,,,
+5k8p,G,47,5k8pGD02,2.0,,,,
+5k8p,G,48,5k8pGD02,2.0,,,,
+5k8p,G,49,5k8pGD02,2.0,,,,
+5k8p,G,50,5k8pGD02,2.0,,,,
+5k8p,G,51,5k8pGD02,2.0,,,,
+5k8p,G,52,5k8pGD02,2.0,,,,
+5k8p,G,53,5k8pGD02,2.0,,,,
+5k8p,G,54,5k8pGD02,2.0,,,,
+5k8p,G,55,5k8pGD02,2.0,,,,
+5k8p,G,56,5k8pGD02,2.0,,,,
+5k8p,G,57,5k8pGD02,2.0,,,,
+5k8p,G,58,5k8pGD02,2.0,,,,
+5k8p,G,59,5k8pGD02,2.0,,,,
+5k8p,G,60,5k8pGD02,2.0,,,,
+5k8p,G,61,5k8pGD02,2.0,,,,
+5k8p,G,62,5k8pGD02,2.0,,,,
+5k8p,G,63,5k8pGD02,2.0,,,,
+5k8p,G,64,5k8pGD02,2.0,,,,
+5k8p,G,65,5k8pGD02,2.0,,,,
+5k8p,G,66,5k8pGD02,2.0,,,,
+5k8p,G,67,5k8pGD02,2.0,,,,
+5k8p,G,68,5k8pGD02,2.0,,,,
+5k8p,G,69,5k8pGD02,2.0,,,,
+5k8p,G,70,5k8pGD02,2.0,,,,
+5k8p,G,71,5k8pGD02,2.0,,,,
+5k8p,G,72,5k8pGD02,2.0,,,,
+5k8p,G,73,5k8pGD02,2.0,,,,
+5k8p,G,74,5k8pGD02,2.0,,,,
+5k8p,G,75,5k8pGD02,2.0,,,,
+5k8p,G,76,5k8pGD02,2.0,,,,
+5k8p,G,77,5k8pGD02,2.0,,,,
+5k8p,G,78,5k8pGD02,2.0,,,,
+5k8p,G,79,5k8pGD02,2.0,,,,
+5k8p,G,80,5k8pGD02,2.0,,,,
+5k8p,G,81,5k8pGD02,2.0,,,,
+5k8p,G,82,5k8pGD02,2.0,,,,
+5k8p,G,83,5k8pGD02,2.0,,,,
+5k8p,G,84,5k8pGD02,2.0,,,,
+5k8p,G,85,5k8pGD02,2.0,,,,
+5k8p,G,86,5k8pGD02,2.0,,,,
+5k8p,G,87,5k8pGD02,2.0,,,,
+5k8p,G,88,5k8pGD02,2.0,,,,
+5k8p,G,89,5k8pGD02,2.0,,,,
+5k8p,G,90,5k8pGD02,2.0,,,,
+5k8p,G,91,5k8pGD02,2.0,,,,
+5k8p,G,92,5k8pGD02,2.0,,,,
+5k8p,G,93,5k8pGD02,2.0,,,,
+5k8p,G,94,5k8pGD02,2.0,,,,
+5k8p,G,95,5k8pGD02,2.0,,,,
+5k8p,G,96,5k8pGD02,2.0,,,,
+5k8p,G,97,5k8pGD02,2.0,,,,
+5k8p,G,98,5k8pGD02,2.0,,,,
+5k8p,G,99,5k8pGD02,2.0,,,,
+5k8p,G,100,5k8pGD02,2.0,,,,
+5k8p,G,101,5k8pGD02,2.0,,,,
+5k8p,G,102,5k8pGD02,2.0,,,,
+5k8p,G,103,5k8pGD02,2.0,,,,
+5k8p,G,104,5k8pGD02,2.0,,,,
+5k8p,G,105,5k8pGD02,2.0,,,,
+5k8p,G,106,5k8pGD02,2.0,,,,
+5k8p,G,107,5k8pGD02,2.0,,,,
+5k8p,G,108,5k8pGD02,2.0,,,,
+5k8p,G,109,5k8pGD02,2.0,,,,
+5k8p,G,110,5k8pGD02,2.0,,,,
+5k8p,G,111,5k8pGD02,2.0,,,,
+5k8p,G,112,5k8pGD02,2.0,,,,
+5k8p,G,113,5k8pGD02,2.0,,,,
+5k8p,G,114,5k8pGD02,2.0,,,,
+5k8p,G,115,5k8pGD02,2.0,,,,
+5k8p,G,116,5k8pGD02,2.0,,,,
+5k8p,G,117,5k8pGD02,2.0,,,,
+5k8p,G,118,5k8pGD02,2.0,,,,
+5k8p,G,119,5k8pGD02,2.0,,,,
+5k8p,G,120,5k8pGD02,2.0,,,,
+5k8p,G,121,5k8pGD02,2.0,,,,
+5k8p,G,122,5k8pGD02,2.0,,,,
+5k8p,G,123,5k8pGD02,2.0,,,,
+5k8p,G,124,5k8pGD02,2.0,,,,
+5k8p,G,125,5k8pGD02,2.0,,,,
+5k8p,G,126,5k8pGD02,2.0,,,,
+5k8p,G,127,5k8pGD02,2.0,,,,
+5k8p,G,128,5k8pGD02,2.0,,,,
+5k8p,G,129,5k8pGD02,2.0,,,,
+5k8p,G,130,5k8pGD02,2.0,,,,
+5k8p,G,131,5k8pGD02,2.0,,,,
+5k8p,G,132,5k8pGD02,2.0,,,,
+5k8p,G,133,5k8pGD02,2.0,,,,
+5k8p,G,134,5k8pGD02,2.0,,,,
+5k8p,G,135,5k8pGD02,2.0,,,,
+5k8p,G,136,5k8pGD02,2.0,,,,
+5k8p,G,137,5k8pGD02,2.0,,,,
+5k8p,G,138,5k8pGD02,2.0,,,,
+5k8p,G,139,5k8pGD02,2.0,,,,
+5k8p,G,140,5k8pGD02,2.0,,,,
+5k8p,G,141,5k8pGD02,2.0,,,,
+5k8p,G,142,5k8pGD02,2.0,,,,
+5k8p,G,143,5k8pGD02,2.0,,,,
+5k8p,G,144,5k8pGD02,2.0,,,,
+5k8p,G,145,5k8pGD02,2.0,,,,
+5k8p,G,146,5k8pGD02,2.0,,,,
+5k8p,G,147,5k8pGD02,2.0,,,,
+5k8p,G,148,5k8pGD02,2.0,,,,
+5k8p,G,149,5k8pGD02,2.0,,,,
+5k8p,G,150,5k8pGD02,2.0,,,,
+5k8p,G,151,5k8pGD02,2.0,,,,
+5k8p,G,152,5k8pGD02,2.0,,,,
+5k8p,G,153,5k8pGD02,2.0,,,,
+5k8p,G,154,5k8pGD02,2.0,,,,
+5k8p,G,155,5k8pGD02,2.0,,,,
+5k8p,G,156,5k8pGD02,2.0,,,,
+5k8p,G,157,5k8pGD02,2.0,,,,
+5k8p,G,158,5k8pGD02,2.0,,,,
+5k8p,G,159,5k8pGD02,2.0,,,,
+5k8p,G,160,5k8pGD02,2.0,,,,
+5k8p,G,161,5k8pGD02,2.0,,,,
+5k8p,G,162,5k8pGD02,2.0,,,,
+5k8p,G,163,5k8pGD02,2.0,,,,
+5k8p,G,164,5k8pGD02,2.0,,,,
+5k8p,G,165,5k8pGD02,2.0,,,,
+5k8p,G,166,5k8pGD02,2.0,,,,
+5k8p,G,167,5k8pGD02,2.0,,,,
+5k8p,G,168,5k8pGD02,2.0,,,,
+5k8p,G,169,5k8pGD02,2.0,,,,
+5k8p,G,170,5k8pGD02,2.0,,,,
+5k8p,G,171,5k8pGD02,2.0,,,,
+5k8p,G,172,5k8pGD02,2.0,,,,
+5k8p,G,173,5k8pGD02,2.0,,,,
+5k8p,G,174,5k8pGD02,2.0,,,,
+5k8p,G,175,5k8pGD02,2.0,,,,
+5k8p,G,176,5k8pGD02,2.0,,,,
+5k8p,G,177,5k8pGD02,2.0,,,,
+5k8p,G,178,5k8pGD02,2.0,,,,
+5k8p,G,179,5k8pGD02,2.0,,,,
+5k8p,G,180,5k8pGD02,2.0,,,,
+5k8p,G,181,5k8pGD02,2.0,,,,
+5k8p,G,182,5k8pGD02,2.0,,,,
+5k8p,G,183,5k8pGD02,2.0,,,,
+5k8p,G,184,5k8pGD02,2.0,,,,
+5k8p,G,185,5k8pGD02,2.0,,,,
+5k8p,G,186,5k8pGD02,2.0,,,,
+5k8p,G,187,5k8pGD02,2.0,,,,
+5k8p,G,188,5k8pGD02,2.0,,,,
+5k8p,G,189,5k8pGD02,2.0,,,,
+5k8p,G,190,5k8pGD02,2.0,,,,
+5k8p,G,191,5k8pGD02,2.0,,,,
+5k8p,G,192,5k8pGD02,2.0,,,,
+5k8p,G,193,5k8pGD02,2.0,,,,
+5k8p,G,194,5k8pGD02,2.0,,,,
+5k8p,G,195,5k8pGD02,2.0,,,,
+5k8p,G,196,5k8pGD02,2.0,,,,
+5k8p,G,197,5k8pGD02,2.0,,,,
+5k8p,G,198,5k8pGD02,2.0,,,,
+5k8p,G,199,5k8pGD02,2.0,,,,
+5k8p,G,200,5k8pGD02,2.0,,,,
+5k8p,G,201,5k8pGD02,2.0,,,,
+5k8p,G,202,5k8pGD02,2.0,,,,
+5k8p,G,203,5k8pGD02,2.0,,,,
+5k8p,G,204,5k8pGD02,2.0,,,,
+5k8p,G,205,5k8pGD02,2.0,,,,
+5k8p,G,206,,,,,,
+5k8p,G,207,,,,,,
+5k8p,G,208,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,209,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,210,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,211,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,212,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,213,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,214,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,215,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,216,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,217,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,218,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,219,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,220,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,221,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,222,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,223,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,224,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,225,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,226,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,227,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,228,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,229,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,230,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,231,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,232,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,233,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,234,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,235,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,236,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,237,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,238,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,239,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,240,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,241,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,242,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,243,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,244,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,245,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,246,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,247,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,248,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,249,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,250,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,251,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,252,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,253,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,254,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,255,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,256,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,257,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,258,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,259,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,260,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,261,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,262,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,263,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,264,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,265,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,266,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,267,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,268,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,269,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,270,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,271,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,272,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,273,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,274,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,275,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,276,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,277,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,278,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,279,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,280,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,281,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,282,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,283,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,284,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,285,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,286,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,287,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,288,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,289,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,290,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,291,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,292,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,293,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,294,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,295,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,296,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,297,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,298,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,299,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,300,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,301,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,302,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,303,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,304,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,305,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,306,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,307,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,308,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,309,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,310,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,311,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,312,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,313,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,314,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,315,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,316,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,317,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,318,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,319,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,320,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,321,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,322,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,323,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,324,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,325,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,326,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,327,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,328,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,329,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,330,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,331,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,332,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,333,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,334,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,335,,,e5k8pG1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,G,336,,,,,,
+5k8p,G,337,,,,,,
+5k8p,G,338,,,,,,
+5k8p,G,339,,,,,,
+5k8p,G,340,,,,,,
+5k8p,G,341,,,,,,
+5k8p,G,342,,,,,,
+5k8p,G,343,,,,,,
+5k8p,G,344,,,,,,
+5k8p,G,345,,,,,,
+5k8p,G,346,,,,,,
+5k8p,G,347,,,,,,
+5k8p,G,348,,,,,,
+5k8p,G,349,,,,,,
+5k8p,G,350,,,,,,
+5k8p,G,351,,,,,,
+5k8p,G,352,,,,,,
+5k8p,G,353,,,,,,
+5k8p,G,354,,,,,,
+5k8p,G,355,,,,,,
+5k8p,G,356,,,,,,
+5k8p,G,357,,,,,,
+5k8p,G,358,,,,,,
+5k8p,G,359,,,,,,
+5k8p,G,360,,,,,,
+5k8p,G,361,,,,,,
+5k8p,G,362,,,,,,
+5k8p,G,363,,,,,,
+5k8p,G,364,,,,,,
+5k8p,G,365,,,,,,
+5k8p,G,366,,,,,,
+5k8p,G,367,,,,,,
+5k8p,G,368,,,,,,
+5k8p,G,369,,,,,,
+5k8p,G,370,,,,,,
+5k8p,G,371,,,,,,
+5k8p,G,372,,,,,,
+5k8p,G,373,,,,,,
+5k8p,G,374,,,,,,
+5k8p,G,375,,,,,,
+5k8p,G,376,,,,,,
+5k8p,G,377,,,,,,
+5k8p,G,378,,,,,,
+5k8p,G,379,,,,,,
+5k8p,G,380,,,,,,
+5k8p,G,381,,,,,,
+5k8p,G,382,,,,,,
+5k8p,G,383,,,,,,
+5k8p,G,384,,,,,,
+5k8p,G,385,,,,,,
+5k8p,G,386,,,,,,
+5k8p,G,387,,,,,,
+5k8p,G,388,,,,,,
+5k8p,G,389,,,,,,
+5k8p,G,390,,,,,,
+5k8p,G,391,,,,,,
+5k8p,G,392,,,,,,
+5k8p,G,393,,,,,,
+5k8p,G,394,,,,,,
+5k8p,G,395,,,,,,
+5k8p,G,396,,,,,,
+5k8p,G,397,,,,,,
+5k8p,G,398,,,,,,
+5k8p,G,399,,,,,,
+5k8p,G,400,,,,,,
+5k8p,G,401,,,,,,
+5k8p,G,402,,,,,,
+5k8p,G,403,,,,,,
+5k8p,G,404,,,,,,
+5k8p,G,405,,,,,,
+5k8p,G,406,,,,,,
+5k8p,G,407,,,,,,
+5k8p,G,408,,,,,,
+5k8p,G,409,,,,,,
+5k8p,G,410,,,,,,
+5k8p,G,411,,,,,,
+5k8p,G,412,,,,,,
+5k8p,G,413,,,,,,
+5k8p,G,414,,,,,,
+5k8p,G,415,,,,,,
+5k8p,G,416,,,,,,
+5k8p,G,417,,,,,,
+5k8p,G,418,,,,,,
+5k8p,G,419,,,,,,
+5k8p,G,420,,,,,,
+5k8p,G,421,,,,,,
+5k8p,G,422,,,,,,
+5k8p,G,423,,,,,,
+5k8p,G,424,,,,,,
+5k8p,G,425,,,,,,
+5k8p,H,4,5k8pHD02,2.0,,,,
+5k8p,H,5,5k8pHD02,2.0,,,,
+5k8p,H,6,5k8pHD02,2.0,,,,
+5k8p,H,7,5k8pHD02,2.0,,,,
+5k8p,H,8,5k8pHD02,2.0,,,,
+5k8p,H,9,5k8pHD02,2.0,,,,
+5k8p,H,10,5k8pHD02,2.0,,,,
+5k8p,H,11,5k8pHD02,2.0,,,,
+5k8p,H,12,5k8pHD02,2.0,,,,
+5k8p,H,13,5k8pHD02,2.0,,,,
+5k8p,H,14,5k8pHD02,2.0,,,,
+5k8p,H,15,5k8pHD02,2.0,,,,
+5k8p,H,16,5k8pHD02,2.0,,,,
+5k8p,H,17,5k8pHD02,2.0,,,,
+5k8p,H,18,5k8pHD02,2.0,,,,
+5k8p,H,19,5k8pHD02,2.0,,,,
+5k8p,H,20,5k8pHD02,2.0,,,,
+5k8p,H,21,5k8pHD02,2.0,,,,
+5k8p,H,22,5k8pHD02,2.0,,,,
+5k8p,H,23,5k8pHD02,2.0,,,,
+5k8p,H,24,5k8pHD02,2.0,,,,
+5k8p,H,25,5k8pHD02,2.0,,,,
+5k8p,H,26,5k8pHD02,2.0,,,,
+5k8p,H,27,5k8pHD02,2.0,,,,
+5k8p,H,28,5k8pHD02,2.0,,,,
+5k8p,H,29,5k8pHD02,2.0,,,,
+5k8p,H,30,5k8pHD02,2.0,,,,
+5k8p,H,31,5k8pHD02,2.0,,,,
+5k8p,H,32,5k8pHD02,2.0,,,,
+5k8p,H,33,5k8pHD02,2.0,,,,
+5k8p,H,34,5k8pHD02,2.0,,,,
+5k8p,H,35,5k8pHD02,2.0,,,,
+5k8p,H,36,5k8pHD02,2.0,,,,
+5k8p,H,37,5k8pHD02,2.0,,,,
+5k8p,H,38,5k8pHD02,2.0,,,,
+5k8p,H,39,5k8pHD02,2.0,,,,
+5k8p,H,40,5k8pHD02,2.0,,,,
+5k8p,H,41,5k8pHD02,2.0,,,,
+5k8p,H,42,5k8pHD02,2.0,,,,
+5k8p,H,43,5k8pHD02,2.0,,,,
+5k8p,H,44,5k8pHD02,2.0,,,,
+5k8p,H,45,5k8pHD02,2.0,,,,
+5k8p,H,46,5k8pHD02,2.0,,,,
+5k8p,H,47,5k8pHD02,2.0,,,,
+5k8p,H,48,5k8pHD02,2.0,,,,
+5k8p,H,49,5k8pHD02,2.0,,,,
+5k8p,H,50,5k8pHD02,2.0,,,,
+5k8p,H,51,5k8pHD02,2.0,,,,
+5k8p,H,52,5k8pHD02,2.0,,,,
+5k8p,H,53,5k8pHD02,2.0,,,,
+5k8p,H,54,5k8pHD02,2.0,,,,
+5k8p,H,55,5k8pHD02,2.0,,,,
+5k8p,H,56,5k8pHD02,2.0,,,,
+5k8p,H,57,5k8pHD02,2.0,,,,
+5k8p,H,58,5k8pHD02,2.0,,,,
+5k8p,H,59,5k8pHD02,2.0,,,,
+5k8p,H,60,5k8pHD02,2.0,,,,
+5k8p,H,61,5k8pHD02,2.0,,,,
+5k8p,H,62,5k8pHD02,2.0,,,,
+5k8p,H,63,5k8pHD02,2.0,,,,
+5k8p,H,64,5k8pHD02,2.0,,,,
+5k8p,H,65,5k8pHD02,2.0,,,,
+5k8p,H,66,5k8pHD02,2.0,,,,
+5k8p,H,67,5k8pHD02,2.0,,,,
+5k8p,H,68,5k8pHD02,2.0,,,,
+5k8p,H,69,5k8pHD02,2.0,,,,
+5k8p,H,70,5k8pHD02,2.0,,,,
+5k8p,H,71,5k8pHD02,2.0,,,,
+5k8p,H,72,5k8pHD02,2.0,,,,
+5k8p,H,73,5k8pHD02,2.0,,,,
+5k8p,H,74,5k8pHD02,2.0,,,,
+5k8p,H,75,5k8pHD02,2.0,,,,
+5k8p,H,76,5k8pHD02,2.0,,,,
+5k8p,H,77,5k8pHD02,2.0,,,,
+5k8p,H,78,5k8pHD02,2.0,,,,
+5k8p,H,79,5k8pHD02,2.0,,,,
+5k8p,H,80,5k8pHD02,2.0,,,,
+5k8p,H,81,5k8pHD02,2.0,,,,
+5k8p,H,82,5k8pHD02,2.0,,,,
+5k8p,H,83,5k8pHD02,2.0,,,,
+5k8p,H,84,5k8pHD02,2.0,,,,
+5k8p,H,85,5k8pHD02,2.0,,,,
+5k8p,H,86,5k8pHD02,2.0,,,,
+5k8p,H,87,5k8pHD02,2.0,,,,
+5k8p,H,88,5k8pHD02,2.0,,,,
+5k8p,H,89,5k8pHD02,2.0,,,,
+5k8p,H,90,5k8pHD02,2.0,,,,
+5k8p,H,91,5k8pHD02,2.0,,,,
+5k8p,H,92,5k8pHD02,2.0,,,,
+5k8p,H,93,5k8pHD02,2.0,,,,
+5k8p,H,94,5k8pHD02,2.0,,,,
+5k8p,H,95,5k8pHD02,2.0,,,,
+5k8p,H,96,5k8pHD02,2.0,,,,
+5k8p,H,97,5k8pHD02,2.0,,,,
+5k8p,H,98,5k8pHD02,2.0,,,,
+5k8p,H,99,5k8pHD02,2.0,,,,
+5k8p,H,100,5k8pHD02,2.0,,,,
+5k8p,H,101,5k8pHD02,2.0,,,,
+5k8p,H,102,5k8pHD02,2.0,,,,
+5k8p,H,103,5k8pHD02,2.0,,,,
+5k8p,H,104,5k8pHD02,2.0,,,,
+5k8p,H,105,5k8pHD02,2.0,,,,
+5k8p,H,106,5k8pHD02,2.0,,,,
+5k8p,H,107,5k8pHD02,2.0,,,,
+5k8p,H,108,5k8pHD02,2.0,,,,
+5k8p,H,109,5k8pHD02,2.0,,,,
+5k8p,H,110,5k8pHD02,2.0,,,,
+5k8p,H,111,5k8pHD02,2.0,,,,
+5k8p,H,112,5k8pHD02,2.0,,,,
+5k8p,H,113,5k8pHD02,2.0,,,,
+5k8p,H,114,5k8pHD02,2.0,,,,
+5k8p,H,115,5k8pHD02,2.0,,,,
+5k8p,H,116,5k8pHD02,2.0,,,,
+5k8p,H,117,5k8pHD02,2.0,,,,
+5k8p,H,118,5k8pHD02,2.0,,,,
+5k8p,H,119,5k8pHD02,2.0,,,,
+5k8p,H,120,5k8pHD02,2.0,,,,
+5k8p,H,121,5k8pHD02,2.0,,,,
+5k8p,H,122,5k8pHD02,2.0,,,,
+5k8p,H,123,5k8pHD02,2.0,,,,
+5k8p,H,124,5k8pHD02,2.0,,,,
+5k8p,H,125,5k8pHD02,2.0,,,,
+5k8p,H,126,5k8pHD02,2.0,,,,
+5k8p,H,127,5k8pHD02,2.0,,,,
+5k8p,H,128,5k8pHD02,2.0,,,,
+5k8p,H,129,5k8pHD02,2.0,,,,
+5k8p,H,130,5k8pHD02,2.0,,,,
+5k8p,H,131,5k8pHD02,2.0,,,,
+5k8p,H,132,5k8pHD02,2.0,,,,
+5k8p,H,133,5k8pHD02,2.0,,,,
+5k8p,H,134,5k8pHD02,2.0,,,,
+5k8p,H,135,5k8pHD02,2.0,,,,
+5k8p,H,136,5k8pHD02,2.0,,,,
+5k8p,H,137,5k8pHD02,2.0,,,,
+5k8p,H,138,5k8pHD02,2.0,,,,
+5k8p,H,139,5k8pHD02,2.0,,,,
+5k8p,H,140,5k8pHD02,2.0,,,,
+5k8p,H,141,5k8pHD02,2.0,,,,
+5k8p,H,142,5k8pHD02,2.0,,,,
+5k8p,H,143,5k8pHD02,2.0,,,,
+5k8p,H,144,5k8pHD02,2.0,,,,
+5k8p,H,145,5k8pHD02,2.0,,,,
+5k8p,H,146,5k8pHD02,2.0,,,,
+5k8p,H,147,5k8pHD02,2.0,,,,
+5k8p,H,148,5k8pHD02,2.0,,,,
+5k8p,H,149,5k8pHD02,2.0,,,,
+5k8p,H,150,5k8pHD02,2.0,,,,
+5k8p,H,151,5k8pHD02,2.0,,,,
+5k8p,H,152,5k8pHD02,2.0,,,,
+5k8p,H,153,5k8pHD02,2.0,,,,
+5k8p,H,154,5k8pHD02,2.0,,,,
+5k8p,H,155,5k8pHD02,2.0,,,,
+5k8p,H,156,5k8pHD02,2.0,,,,
+5k8p,H,157,5k8pHD02,2.0,,,,
+5k8p,H,158,5k8pHD02,2.0,,,,
+5k8p,H,159,5k8pHD02,2.0,,,,
+5k8p,H,160,5k8pHD02,2.0,,,,
+5k8p,H,161,5k8pHD02,2.0,,,,
+5k8p,H,162,5k8pHD02,2.0,,,,
+5k8p,H,163,5k8pHD02,2.0,,,,
+5k8p,H,164,5k8pHD02,2.0,,,,
+5k8p,H,165,5k8pHD02,2.0,,,,
+5k8p,H,166,5k8pHD02,2.0,,,,
+5k8p,H,167,5k8pHD02,2.0,,,,
+5k8p,H,168,5k8pHD02,2.0,,,,
+5k8p,H,169,5k8pHD02,2.0,,,,
+5k8p,H,170,5k8pHD02,2.0,,,,
+5k8p,H,171,5k8pHD02,2.0,,,,
+5k8p,H,172,5k8pHD02,2.0,,,,
+5k8p,H,173,5k8pHD02,2.0,,,,
+5k8p,H,174,5k8pHD02,2.0,,,,
+5k8p,H,175,5k8pHD02,2.0,,,,
+5k8p,H,176,5k8pHD02,2.0,,,,
+5k8p,H,177,5k8pHD02,2.0,,,,
+5k8p,H,178,5k8pHD02,2.0,,,,
+5k8p,H,179,5k8pHD02,2.0,,,,
+5k8p,H,180,5k8pHD02,2.0,,,,
+5k8p,H,181,5k8pHD02,2.0,,,,
+5k8p,H,182,5k8pHD02,2.0,,,,
+5k8p,H,183,5k8pHD02,2.0,,,,
+5k8p,H,184,5k8pHD02,2.0,,,,
+5k8p,H,185,5k8pHD02,2.0,,,,
+5k8p,H,186,5k8pHD02,2.0,,,,
+5k8p,H,187,5k8pHD02,2.0,,,,
+5k8p,H,188,5k8pHD02,2.0,,,,
+5k8p,H,189,5k8pHD02,2.0,,,,
+5k8p,H,190,5k8pHD02,2.0,,,,
+5k8p,H,191,5k8pHD02,2.0,,,,
+5k8p,H,192,5k8pHD02,2.0,,,,
+5k8p,H,193,5k8pHD02,2.0,,,,
+5k8p,H,194,5k8pHD02,2.0,,,,
+5k8p,H,195,5k8pHD02,2.0,,,,
+5k8p,H,196,5k8pHD02,2.0,,,,
+5k8p,H,197,5k8pHD02,2.0,,,,
+5k8p,H,198,5k8pHD02,2.0,,,,
+5k8p,H,199,5k8pHD02,2.0,,,,
+5k8p,H,200,5k8pHD02,2.0,,,,
+5k8p,H,201,5k8pHD02,2.0,,,,
+5k8p,H,202,5k8pHD02,2.0,,,,
+5k8p,H,203,5k8pHD02,2.0,,,,
+5k8p,H,204,5k8pHD02,2.0,,,,
+5k8p,H,205,5k8pHD02,2.0,,,,
+5k8p,H,206,,,,,,
+5k8p,H,207,,,,,,
+5k8p,H,208,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,209,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,210,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,211,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,212,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,213,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,214,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,215,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,216,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,217,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,218,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,219,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,220,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,221,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,222,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,223,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,224,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,225,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,226,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,227,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,228,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,229,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,230,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,231,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,232,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,233,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,234,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,235,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,236,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,237,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,238,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,239,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,240,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,241,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,242,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,243,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,244,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,245,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,246,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,247,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,248,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,249,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,250,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,251,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,252,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,253,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,254,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,255,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,256,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,257,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,258,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,259,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,260,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,261,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,262,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,263,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,264,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,265,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,266,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,267,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,268,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,269,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,270,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,271,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,272,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,273,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,274,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,275,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,276,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,277,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,278,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,279,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,280,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,281,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,282,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,283,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,284,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,285,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,286,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,287,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,288,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,289,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,290,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,291,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,292,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,293,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,294,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,295,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,296,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,297,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,298,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,299,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,300,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,301,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,302,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,303,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,304,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,305,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,306,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,307,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,308,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,309,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,310,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,311,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,312,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,313,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,314,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,315,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,316,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,317,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,318,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,319,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,320,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,321,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,322,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,323,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,324,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,325,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,326,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,327,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,328,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,329,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,330,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,331,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,332,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,333,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,334,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,335,,,e5k8pH1,304.25.1.4,Bacterial exopeptidase dimerisation domain,M20_dimer_1
+5k8p,H,336,,,,,,
+5k8p,H,337,,,,,,
+5k8p,H,338,,,,,,
+5k8p,H,339,,,,,,
+5k8p,H,340,,,,,,
+5k8p,H,341,,,,,,
+5k8p,H,342,,,,,,
+5k8p,H,343,,,,,,
+5k8p,H,344,,,,,,
+5k8p,H,345,,,,,,
+5k8p,H,346,,,,,,
+5k8p,H,347,,,,,,
+5k8p,H,348,,,,,,
+5k8p,H,349,,,,,,
+5k8p,H,350,,,,,,
+5k8p,H,351,,,,,,
+5k8p,H,352,,,,,,
+5k8p,H,353,,,,,,
+5k8p,H,354,,,,,,
+5k8p,H,355,,,,,,
+5k8p,H,356,,,,,,
+5k8p,H,357,,,,,,
+5k8p,H,358,,,,,,
+5k8p,H,359,,,,,,
+5k8p,H,360,,,,,,
+5k8p,H,361,,,,,,
+5k8p,H,362,,,,,,
+5k8p,H,363,,,,,,
+5k8p,H,364,,,,,,
+5k8p,H,365,,,,,,
+5k8p,H,366,,,,,,
+5k8p,H,367,,,,,,
+5k8p,H,368,,,,,,
+5k8p,H,369,,,,,,
+5k8p,H,370,,,,,,
+5k8p,H,371,,,,,,
+5k8p,H,372,,,,,,
+5k8p,H,373,,,,,,
+5k8p,H,374,,,,,,
+5k8p,H,375,,,,,,
+5k8p,H,376,,,,,,
+5k8p,H,377,,,,,,
+5k8p,H,378,,,,,,
+5k8p,H,379,,,,,,
+5k8p,H,380,,,,,,
+5k8p,H,381,,,,,,
+5k8p,H,382,,,,,,
+5k8p,H,383,,,,,,
+5k8p,H,384,,,,,,
+5k8p,H,385,,,,,,
+5k8p,H,386,,,,,,
+5k8p,H,387,,,,,,
+5k8p,H,388,,,,,,
+5k8p,H,389,,,,,,
+5k8p,H,390,,,,,,
+5k8p,H,391,,,,,,
+5k8p,H,392,,,,,,
+5k8p,H,393,,,,,,
+5k8p,H,394,,,,,,
+5k8p,H,395,,,,,,
+5k8p,H,396,,,,,,
+5k8p,H,397,,,,,,
+5k8p,H,398,,,,,,
+5k8p,H,399,,,,,,
+5k8p,H,400,,,,,,
+5k8p,H,401,,,,,,
+5k8p,H,402,,,,,,
+5k8p,H,403,,,,,,
+5k8p,H,404,,,,,,
+5k8p,H,405,,,,,,
+5k8p,H,406,,,,,,
+5k8p,H,407,,,,,,
+5k8p,H,408,,,,,,
+5k8p,H,409,,,,,,
+5k8p,H,410,,,,,,
+5k8p,H,411,,,,,,
+5k8p,H,412,,,,,,
+5k8p,H,413,,,,,,
+5k8p,H,414,,,,,,
+5k8p,H,415,,,,,,
+5k8p,H,416,,,,,,
+5k8p,H,417,,,,,,
+5k8p,H,418,,,,,,
+5k8p,H,419,,,,,,
+5k8p,H,420,,,,,,
+5k8p,H,421,,,,,,
+5k8p,H,422,,,,,,
+5k8p,H,423,,,,,,
+5k8p,H,424,,,,,,
+5k8p,H,425,,,,,,

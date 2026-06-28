@@ -1,0 +1,1032 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+3pgv,A,2,3pgvAD02,2.0,,,,
+3pgv,A,3,3pgvAD02,2.0,,,,
+3pgv,A,4,3pgvAD02,2.0,,,,
+3pgv,A,5,3pgvAD02,2.0,,,,
+3pgv,A,6,3pgvAD02,2.0,,,,
+3pgv,A,7,3pgvAD02,2.0,,,,
+3pgv,A,8,3pgvAD02,2.0,,,,
+3pgv,A,9,3pgvAD02,2.0,,,,
+3pgv,A,10,3pgvAD02,2.0,,,,
+3pgv,A,11,3pgvAD02,2.0,,,,
+3pgv,A,12,3pgvAD02,2.0,,,,
+3pgv,A,13,3pgvAD02,2.0,,,,
+3pgv,A,14,3pgvAD02,2.0,,,,
+3pgv,A,15,3pgvAD02,2.0,,,,
+3pgv,A,16,3pgvAD02,2.0,,,,
+3pgv,A,17,3pgvAD02,2.0,,,,
+3pgv,A,18,3pgvAD02,2.0,,,,
+3pgv,A,19,3pgvAD02,2.0,,,,
+3pgv,A,20,3pgvAD02,2.0,,,,
+3pgv,A,21,3pgvAD02,2.0,,,,
+3pgv,A,22,3pgvAD02,2.0,,,,
+3pgv,A,23,3pgvAD02,2.0,,,,
+3pgv,A,24,3pgvAD02,2.0,,,,
+3pgv,A,25,3pgvAD02,2.0,,,,
+3pgv,A,26,3pgvAD02,2.0,,,,
+3pgv,A,27,3pgvAD02,2.0,,,,
+3pgv,A,28,3pgvAD02,2.0,,,,
+3pgv,A,29,3pgvAD02,2.0,,,,
+3pgv,A,30,3pgvAD02,2.0,,,,
+3pgv,A,31,3pgvAD02,2.0,,,,
+3pgv,A,32,3pgvAD02,2.0,,,,
+3pgv,A,33,3pgvAD02,2.0,,,,
+3pgv,A,34,3pgvAD02,2.0,,,,
+3pgv,A,35,3pgvAD02,2.0,,,,
+3pgv,A,36,3pgvAD02,2.0,,,,
+3pgv,A,37,3pgvAD02,2.0,,,,
+3pgv,A,38,3pgvAD02,2.0,,,,
+3pgv,A,39,3pgvAD02,2.0,,,,
+3pgv,A,40,3pgvAD02,2.0,,,,
+3pgv,A,41,3pgvAD02,2.0,,,,
+3pgv,A,42,3pgvAD02,2.0,,,,
+3pgv,A,43,3pgvAD02,2.0,,,,
+3pgv,A,44,3pgvAD02,2.0,,,,
+3pgv,A,45,3pgvAD02,2.0,,,,
+3pgv,A,46,3pgvAD02,2.0,,,,
+3pgv,A,47,3pgvAD02,2.0,,,,
+3pgv,A,48,3pgvAD02,2.0,,,,
+3pgv,A,49,3pgvAD02,2.0,,,,
+3pgv,A,50,3pgvAD02,2.0,,,,
+3pgv,A,51,3pgvAD02,2.0,,,,
+3pgv,A,52,3pgvAD02,2.0,,,,
+3pgv,A,53,3pgvAD02,2.0,,,,
+3pgv,A,54,3pgvAD02,2.0,,,,
+3pgv,A,55,3pgvAD02,2.0,,,,
+3pgv,A,56,3pgvAD02,2.0,,,,
+3pgv,A,57,3pgvAD02,2.0,,,,
+3pgv,A,58,3pgvAD02,2.0,,,,
+3pgv,A,59,3pgvAD02,2.0,,,,
+3pgv,A,60,3pgvAD02,2.0,,,,
+3pgv,A,61,3pgvAD02,2.0,,,,
+3pgv,A,62,3pgvAD02,2.0,,,,
+3pgv,A,63,3pgvAD02,2.0,,,,
+3pgv,A,64,3pgvAD02,2.0,,,,
+3pgv,A,65,3pgvAD02,2.0,,,,
+3pgv,A,66,3pgvAD02,2.0,,,,
+3pgv,A,67,3pgvAD02,2.0,,,,
+3pgv,A,68,3pgvAD02,2.0,,,,
+3pgv,A,69,3pgvAD02,2.0,,,,
+3pgv,A,70,3pgvAD02,2.0,,,,
+3pgv,A,71,3pgvAD02,2.0,,,,
+3pgv,A,72,3pgvAD02,2.0,,,,
+3pgv,A,73,3pgvAD02,2.0,,,,
+3pgv,A,74,3pgvAD02,2.0,,,,
+3pgv,A,75,3pgvAD02,2.0,,,,
+3pgv,A,76,3pgvAD02,2.0,,,,
+3pgv,A,77,3pgvAD02,2.0,,,,
+3pgv,A,78,3pgvAD02,2.0,,,,
+3pgv,A,79,3pgvAD02,2.0,,,,
+3pgv,A,80,3pgvAD02,2.0,,,,
+3pgv,A,81,3pgvAD02,2.0,,,,
+3pgv,A,82,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,83,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,84,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,85,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,86,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,87,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,88,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,89,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,90,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,91,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,92,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,93,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,94,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,95,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,96,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,97,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,98,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,99,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,100,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,101,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,102,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,103,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,104,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,105,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,106,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,107,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,108,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,109,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,110,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,111,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,112,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,113,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,114,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,115,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,116,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,117,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,123,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,124,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,125,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,126,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,127,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,128,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,129,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,130,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,131,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,132,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,133,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,134,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,135,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,136,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,137,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,138,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,139,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,140,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,141,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,142,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,143,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,144,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,145,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,146,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,147,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,148,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,149,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,150,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,151,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,152,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,153,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,154,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,155,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,156,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,157,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,158,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,159,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,160,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,161,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,162,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,163,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,164,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,165,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,166,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,167,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,168,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,169,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,170,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,171,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,172,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,173,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,174,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,175,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,176,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,177,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,178,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,179,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,180,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,181,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,182,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,183,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,184,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,185,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,186,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,187,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,188,,,e3pgvA2,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,A,189,,,,,,
+3pgv,A,190,,,,,,
+3pgv,A,191,,,,,,
+3pgv,A,192,,,,,,
+3pgv,A,193,,,,,,
+3pgv,A,194,,,,,,
+3pgv,A,195,,,,,,
+3pgv,A,196,,,,,,
+3pgv,A,197,,,,,,
+3pgv,A,198,,,,,,
+3pgv,A,199,,,,,,
+3pgv,A,200,,,,,,
+3pgv,A,201,,,,,,
+3pgv,A,202,,,,,,
+3pgv,A,203,,,,,,
+3pgv,A,204,,,,,,
+3pgv,A,205,,,,,,
+3pgv,A,206,,,,,,
+3pgv,A,207,,,,,,
+3pgv,A,208,,,,,,
+3pgv,A,209,,,,,,
+3pgv,A,210,,,,,,
+3pgv,A,211,,,,,,
+3pgv,A,212,,,,,,
+3pgv,A,213,,,,,,
+3pgv,A,214,,,,,,
+3pgv,A,215,,,,,,
+3pgv,A,216,,,,,,
+3pgv,A,217,,,,,,
+3pgv,A,218,,,,,,
+3pgv,A,219,,,,,,
+3pgv,A,220,,,,,,
+3pgv,A,221,,,,,,
+3pgv,A,222,,,,,,
+3pgv,A,223,,,,,,
+3pgv,A,224,,,,,,
+3pgv,A,225,,,,,,
+3pgv,A,226,,,,,,
+3pgv,A,227,,,,,,
+3pgv,A,228,,,,,,
+3pgv,A,229,,,,,,
+3pgv,A,230,,,,,,
+3pgv,A,231,,,,,,
+3pgv,A,232,,,,,,
+3pgv,A,233,,,,,,
+3pgv,A,234,,,,,,
+3pgv,A,235,,,,,,
+3pgv,A,236,,,,,,
+3pgv,A,237,,,,,,
+3pgv,A,238,,,,,,
+3pgv,A,239,,,,,,
+3pgv,A,240,,,,,,
+3pgv,A,241,,,,,,
+3pgv,A,242,,,,,,
+3pgv,A,243,,,,,,
+3pgv,A,244,,,,,,
+3pgv,A,245,,,,,,
+3pgv,A,246,,,,,,
+3pgv,A,247,,,,,,
+3pgv,A,248,,,,,,
+3pgv,A,249,,,,,,
+3pgv,A,250,,,,,,
+3pgv,A,251,,,,,,
+3pgv,A,252,,,,,,
+3pgv,A,253,,,,,,
+3pgv,A,254,,,,,,
+3pgv,A,255,,,,,,
+3pgv,A,256,,,,,,
+3pgv,A,257,,,,,,
+3pgv,A,258,,,,,,
+3pgv,A,259,,,,,,
+3pgv,A,260,,,,,,
+3pgv,A,261,,,,,,
+3pgv,A,262,,,,,,
+3pgv,A,263,,,,,,
+3pgv,A,264,,,,,,
+3pgv,A,265,,,,,,
+3pgv,B,1,,,,,,
+3pgv,B,2,3pgvBD02,2.0,,,,
+3pgv,B,3,3pgvBD02,2.0,,,,
+3pgv,B,4,3pgvBD02,2.0,,,,
+3pgv,B,5,3pgvBD02,2.0,,,,
+3pgv,B,6,3pgvBD02,2.0,,,,
+3pgv,B,7,3pgvBD02,2.0,,,,
+3pgv,B,8,3pgvBD02,2.0,,,,
+3pgv,B,9,3pgvBD02,2.0,,,,
+3pgv,B,10,3pgvBD02,2.0,,,,
+3pgv,B,11,3pgvBD02,2.0,,,,
+3pgv,B,12,3pgvBD02,2.0,,,,
+3pgv,B,13,3pgvBD02,2.0,,,,
+3pgv,B,14,3pgvBD02,2.0,,,,
+3pgv,B,15,3pgvBD02,2.0,,,,
+3pgv,B,16,3pgvBD02,2.0,,,,
+3pgv,B,17,3pgvBD02,2.0,,,,
+3pgv,B,18,3pgvBD02,2.0,,,,
+3pgv,B,19,3pgvBD02,2.0,,,,
+3pgv,B,20,3pgvBD02,2.0,,,,
+3pgv,B,21,3pgvBD02,2.0,,,,
+3pgv,B,22,3pgvBD02,2.0,,,,
+3pgv,B,23,3pgvBD02,2.0,,,,
+3pgv,B,24,3pgvBD02,2.0,,,,
+3pgv,B,25,3pgvBD02,2.0,,,,
+3pgv,B,26,3pgvBD02,2.0,,,,
+3pgv,B,27,3pgvBD02,2.0,,,,
+3pgv,B,28,3pgvBD02,2.0,,,,
+3pgv,B,29,3pgvBD02,2.0,,,,
+3pgv,B,30,3pgvBD02,2.0,,,,
+3pgv,B,31,3pgvBD02,2.0,,,,
+3pgv,B,32,3pgvBD02,2.0,,,,
+3pgv,B,33,3pgvBD02,2.0,,,,
+3pgv,B,34,3pgvBD02,2.0,,,,
+3pgv,B,35,3pgvBD02,2.0,,,,
+3pgv,B,36,3pgvBD02,2.0,,,,
+3pgv,B,37,3pgvBD02,2.0,,,,
+3pgv,B,38,3pgvBD02,2.0,,,,
+3pgv,B,39,3pgvBD02,2.0,,,,
+3pgv,B,40,3pgvBD02,2.0,,,,
+3pgv,B,41,3pgvBD02,2.0,,,,
+3pgv,B,42,3pgvBD02,2.0,,,,
+3pgv,B,43,3pgvBD02,2.0,,,,
+3pgv,B,44,3pgvBD02,2.0,,,,
+3pgv,B,45,3pgvBD02,2.0,,,,
+3pgv,B,46,3pgvBD02,2.0,,,,
+3pgv,B,47,3pgvBD02,2.0,,,,
+3pgv,B,48,3pgvBD02,2.0,,,,
+3pgv,B,49,3pgvBD02,2.0,,,,
+3pgv,B,50,3pgvBD02,2.0,,,,
+3pgv,B,51,3pgvBD02,2.0,,,,
+3pgv,B,52,3pgvBD02,2.0,,,,
+3pgv,B,53,3pgvBD02,2.0,,,,
+3pgv,B,54,3pgvBD02,2.0,,,,
+3pgv,B,55,3pgvBD02,2.0,,,,
+3pgv,B,56,3pgvBD02,2.0,,,,
+3pgv,B,57,3pgvBD02,2.0,,,,
+3pgv,B,58,3pgvBD02,2.0,,,,
+3pgv,B,59,3pgvBD02,2.0,,,,
+3pgv,B,60,3pgvBD02,2.0,,,,
+3pgv,B,61,3pgvBD02,2.0,,,,
+3pgv,B,62,3pgvBD02,2.0,,,,
+3pgv,B,63,3pgvBD02,2.0,,,,
+3pgv,B,64,3pgvBD02,2.0,,,,
+3pgv,B,65,3pgvBD02,2.0,,,,
+3pgv,B,66,3pgvBD02,2.0,,,,
+3pgv,B,67,3pgvBD02,2.0,,,,
+3pgv,B,68,3pgvBD02,2.0,,,,
+3pgv,B,69,3pgvBD02,2.0,,,,
+3pgv,B,70,3pgvBD02,2.0,,,,
+3pgv,B,71,3pgvBD02,2.0,,,,
+3pgv,B,72,3pgvBD02,2.0,,,,
+3pgv,B,73,3pgvBD02,2.0,,,,
+3pgv,B,74,3pgvBD02,2.0,,,,
+3pgv,B,75,3pgvBD02,2.0,,,,
+3pgv,B,76,3pgvBD02,2.0,,,,
+3pgv,B,77,3pgvBD02,2.0,,,,
+3pgv,B,78,3pgvBD02,2.0,,,,
+3pgv,B,79,3pgvBD02,2.0,,,,
+3pgv,B,80,3pgvBD02,2.0,,,,
+3pgv,B,81,3pgvBD02,2.0,,,,
+3pgv,B,82,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,83,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,84,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,85,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,86,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,87,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,88,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,89,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,90,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,91,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,92,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,93,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,94,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,95,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,96,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,97,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,98,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,99,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,100,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,101,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,102,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,103,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,104,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,105,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,106,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,107,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,108,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,109,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,110,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,111,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,112,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,113,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,114,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,115,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,116,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,117,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,118,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,128,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,129,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,130,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,131,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,132,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,133,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,134,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,135,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,136,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,137,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,138,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,139,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,140,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,141,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,142,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,143,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,144,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,145,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,146,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,147,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,148,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,149,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,150,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,151,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,152,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,153,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,154,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,155,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,156,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,157,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,158,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,159,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,160,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,161,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,162,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,163,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,164,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,165,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,166,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,167,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,168,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,169,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,170,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,171,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,172,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,173,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,174,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,175,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,176,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,177,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,178,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,179,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,180,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,181,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,182,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,183,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,184,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,185,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,186,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,187,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,188,,,e3pgvB1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,B,189,,,,,,
+3pgv,B,190,,,,,,
+3pgv,B,191,,,,,,
+3pgv,B,192,,,,,,
+3pgv,B,193,,,,,,
+3pgv,B,194,,,,,,
+3pgv,B,195,,,,,,
+3pgv,B,196,,,,,,
+3pgv,B,197,,,,,,
+3pgv,B,198,,,,,,
+3pgv,B,199,,,,,,
+3pgv,B,200,,,,,,
+3pgv,B,201,,,,,,
+3pgv,B,202,,,,,,
+3pgv,B,203,,,,,,
+3pgv,B,204,,,,,,
+3pgv,B,205,,,,,,
+3pgv,B,206,,,,,,
+3pgv,B,207,,,,,,
+3pgv,B,208,,,,,,
+3pgv,B,209,,,,,,
+3pgv,B,210,,,,,,
+3pgv,B,211,,,,,,
+3pgv,B,212,,,,,,
+3pgv,B,213,,,,,,
+3pgv,B,214,,,,,,
+3pgv,B,215,,,,,,
+3pgv,B,216,,,,,,
+3pgv,B,217,,,,,,
+3pgv,B,218,,,,,,
+3pgv,B,219,,,,,,
+3pgv,B,220,,,,,,
+3pgv,B,221,,,,,,
+3pgv,B,222,,,,,,
+3pgv,B,223,,,,,,
+3pgv,B,224,,,,,,
+3pgv,B,225,,,,,,
+3pgv,B,226,,,,,,
+3pgv,B,227,,,,,,
+3pgv,B,228,,,,,,
+3pgv,B,229,,,,,,
+3pgv,B,230,,,,,,
+3pgv,B,231,,,,,,
+3pgv,B,232,,,,,,
+3pgv,B,233,,,,,,
+3pgv,B,234,,,,,,
+3pgv,B,235,,,,,,
+3pgv,B,236,,,,,,
+3pgv,B,237,,,,,,
+3pgv,B,238,,,,,,
+3pgv,B,239,,,,,,
+3pgv,B,240,,,,,,
+3pgv,B,241,,,,,,
+3pgv,B,242,,,,,,
+3pgv,B,243,,,,,,
+3pgv,B,244,,,,,,
+3pgv,B,245,,,,,,
+3pgv,B,246,,,,,,
+3pgv,B,247,,,,,,
+3pgv,B,248,,,,,,
+3pgv,B,249,,,,,,
+3pgv,B,250,,,,,,
+3pgv,B,251,,,,,,
+3pgv,B,252,,,,,,
+3pgv,B,253,,,,,,
+3pgv,B,254,,,,,,
+3pgv,B,255,,,,,,
+3pgv,B,256,,,,,,
+3pgv,B,257,,,,,,
+3pgv,B,258,,,,,,
+3pgv,B,259,,,,,,
+3pgv,B,260,,,,,,
+3pgv,B,261,,,,,,
+3pgv,B,262,,,,,,
+3pgv,B,263,,,,,,
+3pgv,B,264,,,,,,
+3pgv,B,265,,,,,,
+3pgv,B,266,,,,,,
+3pgv,C,1,,,,,,
+3pgv,C,2,3pgvCD02,2.0,,,,
+3pgv,C,3,3pgvCD02,2.0,,,,
+3pgv,C,4,3pgvCD02,2.0,,,,
+3pgv,C,5,3pgvCD02,2.0,,,,
+3pgv,C,6,3pgvCD02,2.0,,,,
+3pgv,C,7,3pgvCD02,2.0,,,,
+3pgv,C,8,3pgvCD02,2.0,,,,
+3pgv,C,9,3pgvCD02,2.0,,,,
+3pgv,C,10,3pgvCD02,2.0,,,,
+3pgv,C,11,3pgvCD02,2.0,,,,
+3pgv,C,12,3pgvCD02,2.0,,,,
+3pgv,C,13,3pgvCD02,2.0,,,,
+3pgv,C,14,3pgvCD02,2.0,,,,
+3pgv,C,15,3pgvCD02,2.0,,,,
+3pgv,C,16,3pgvCD02,2.0,,,,
+3pgv,C,17,3pgvCD02,2.0,,,,
+3pgv,C,18,3pgvCD02,2.0,,,,
+3pgv,C,19,3pgvCD02,2.0,,,,
+3pgv,C,20,3pgvCD02,2.0,,,,
+3pgv,C,21,3pgvCD02,2.0,,,,
+3pgv,C,22,3pgvCD02,2.0,,,,
+3pgv,C,23,3pgvCD02,2.0,,,,
+3pgv,C,24,3pgvCD02,2.0,,,,
+3pgv,C,25,3pgvCD02,2.0,,,,
+3pgv,C,26,3pgvCD02,2.0,,,,
+3pgv,C,27,3pgvCD02,2.0,,,,
+3pgv,C,28,3pgvCD02,2.0,,,,
+3pgv,C,29,3pgvCD02,2.0,,,,
+3pgv,C,30,3pgvCD02,2.0,,,,
+3pgv,C,31,3pgvCD02,2.0,,,,
+3pgv,C,32,3pgvCD02,2.0,,,,
+3pgv,C,33,3pgvCD02,2.0,,,,
+3pgv,C,34,3pgvCD02,2.0,,,,
+3pgv,C,35,3pgvCD02,2.0,,,,
+3pgv,C,36,3pgvCD02,2.0,,,,
+3pgv,C,37,3pgvCD02,2.0,,,,
+3pgv,C,38,3pgvCD02,2.0,,,,
+3pgv,C,39,3pgvCD02,2.0,,,,
+3pgv,C,40,3pgvCD02,2.0,,,,
+3pgv,C,41,3pgvCD02,2.0,,,,
+3pgv,C,42,3pgvCD02,2.0,,,,
+3pgv,C,43,3pgvCD02,2.0,,,,
+3pgv,C,44,3pgvCD02,2.0,,,,
+3pgv,C,45,3pgvCD02,2.0,,,,
+3pgv,C,46,3pgvCD02,2.0,,,,
+3pgv,C,47,3pgvCD02,2.0,,,,
+3pgv,C,48,3pgvCD02,2.0,,,,
+3pgv,C,49,3pgvCD02,2.0,,,,
+3pgv,C,50,3pgvCD02,2.0,,,,
+3pgv,C,51,3pgvCD02,2.0,,,,
+3pgv,C,52,3pgvCD02,2.0,,,,
+3pgv,C,53,3pgvCD02,2.0,,,,
+3pgv,C,54,3pgvCD02,2.0,,,,
+3pgv,C,55,3pgvCD02,2.0,,,,
+3pgv,C,56,3pgvCD02,2.0,,,,
+3pgv,C,57,3pgvCD02,2.0,,,,
+3pgv,C,58,3pgvCD02,2.0,,,,
+3pgv,C,59,3pgvCD02,2.0,,,,
+3pgv,C,60,3pgvCD02,2.0,,,,
+3pgv,C,61,3pgvCD02,2.0,,,,
+3pgv,C,62,3pgvCD02,2.0,,,,
+3pgv,C,63,3pgvCD02,2.0,,,,
+3pgv,C,64,3pgvCD02,2.0,,,,
+3pgv,C,65,3pgvCD02,2.0,,,,
+3pgv,C,66,3pgvCD02,2.0,,,,
+3pgv,C,67,3pgvCD02,2.0,,,,
+3pgv,C,68,3pgvCD02,2.0,,,,
+3pgv,C,69,3pgvCD02,2.0,,,,
+3pgv,C,70,3pgvCD02,2.0,,,,
+3pgv,C,71,3pgvCD02,2.0,,,,
+3pgv,C,72,3pgvCD02,2.0,,,,
+3pgv,C,73,3pgvCD02,2.0,,,,
+3pgv,C,74,3pgvCD02,2.0,,,,
+3pgv,C,75,3pgvCD02,2.0,,,,
+3pgv,C,76,3pgvCD02,2.0,,,,
+3pgv,C,77,3pgvCD02,2.0,,,,
+3pgv,C,78,3pgvCD02,2.0,,,,
+3pgv,C,79,3pgvCD02,2.0,,,,
+3pgv,C,80,3pgvCD02,2.0,,,,
+3pgv,C,81,3pgvCD02,2.0,,,,
+3pgv,C,82,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,83,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,84,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,85,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,86,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,87,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,88,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,89,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,90,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,91,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,92,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,93,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,94,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,95,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,96,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,97,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,98,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,99,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,100,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,101,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,102,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,103,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,104,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,105,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,106,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,107,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,108,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,109,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,110,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,111,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,112,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,113,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,114,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,115,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,116,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,117,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,118,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,127,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,128,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,129,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,130,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,131,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,132,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,133,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,134,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,135,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,136,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,137,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,138,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,139,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,140,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,141,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,142,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,143,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,144,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,145,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,146,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,147,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,148,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,149,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,150,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,151,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,152,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,153,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,154,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,155,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,156,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,157,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,158,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,159,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,160,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,161,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,162,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,163,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,164,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,165,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,166,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,167,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,168,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,169,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,170,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,171,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,172,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,173,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,174,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,175,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,176,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,177,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,178,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,179,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,180,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,181,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,182,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,183,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,184,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,185,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,186,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,187,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,188,,,e3pgvC1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,C,189,,,,,,
+3pgv,C,190,,,,,,
+3pgv,C,191,,,,,,
+3pgv,C,192,,,,,,
+3pgv,C,193,,,,,,
+3pgv,C,194,,,,,,
+3pgv,C,195,,,,,,
+3pgv,C,196,,,,,,
+3pgv,C,197,,,,,,
+3pgv,C,198,,,,,,
+3pgv,C,199,,,,,,
+3pgv,C,200,,,,,,
+3pgv,C,201,,,,,,
+3pgv,C,202,,,,,,
+3pgv,C,203,,,,,,
+3pgv,C,204,,,,,,
+3pgv,C,205,,,,,,
+3pgv,C,206,,,,,,
+3pgv,C,207,,,,,,
+3pgv,C,208,,,,,,
+3pgv,C,209,,,,,,
+3pgv,C,210,,,,,,
+3pgv,C,211,,,,,,
+3pgv,C,212,,,,,,
+3pgv,C,213,,,,,,
+3pgv,C,214,,,,,,
+3pgv,C,215,,,,,,
+3pgv,C,216,,,,,,
+3pgv,C,217,,,,,,
+3pgv,C,218,,,,,,
+3pgv,C,219,,,,,,
+3pgv,C,220,,,,,,
+3pgv,C,221,,,,,,
+3pgv,C,222,,,,,,
+3pgv,C,223,,,,,,
+3pgv,C,224,,,,,,
+3pgv,C,225,,,,,,
+3pgv,C,226,,,,,,
+3pgv,C,227,,,,,,
+3pgv,C,228,,,,,,
+3pgv,C,229,,,,,,
+3pgv,C,230,,,,,,
+3pgv,C,231,,,,,,
+3pgv,C,232,,,,,,
+3pgv,C,233,,,,,,
+3pgv,C,234,,,,,,
+3pgv,C,235,,,,,,
+3pgv,C,236,,,,,,
+3pgv,C,237,,,,,,
+3pgv,C,238,,,,,,
+3pgv,C,239,,,,,,
+3pgv,C,240,,,,,,
+3pgv,C,241,,,,,,
+3pgv,C,242,,,,,,
+3pgv,C,243,,,,,,
+3pgv,C,244,,,,,,
+3pgv,C,245,,,,,,
+3pgv,C,246,,,,,,
+3pgv,C,247,,,,,,
+3pgv,C,248,,,,,,
+3pgv,C,249,,,,,,
+3pgv,C,250,,,,,,
+3pgv,C,251,,,,,,
+3pgv,C,252,,,,,,
+3pgv,C,253,,,,,,
+3pgv,C,254,,,,,,
+3pgv,C,255,,,,,,
+3pgv,C,256,,,,,,
+3pgv,C,257,,,,,,
+3pgv,C,258,,,,,,
+3pgv,C,259,,,,,,
+3pgv,C,260,,,,,,
+3pgv,C,261,,,,,,
+3pgv,C,262,,,,,,
+3pgv,C,263,,,,,,
+3pgv,C,264,,,,,,
+3pgv,C,265,,,,,,
+3pgv,C,266,,,,,,
+3pgv,D,1,,,,,,
+3pgv,D,2,3pgvDD02,2.0,,,,
+3pgv,D,3,3pgvDD02,2.0,,,,
+3pgv,D,4,3pgvDD02,2.0,,,,
+3pgv,D,5,3pgvDD02,2.0,,,,
+3pgv,D,6,3pgvDD02,2.0,,,,
+3pgv,D,7,3pgvDD02,2.0,,,,
+3pgv,D,8,3pgvDD02,2.0,,,,
+3pgv,D,9,3pgvDD02,2.0,,,,
+3pgv,D,10,3pgvDD02,2.0,,,,
+3pgv,D,11,3pgvDD02,2.0,,,,
+3pgv,D,12,3pgvDD02,2.0,,,,
+3pgv,D,13,3pgvDD02,2.0,,,,
+3pgv,D,14,3pgvDD02,2.0,,,,
+3pgv,D,15,3pgvDD02,2.0,,,,
+3pgv,D,16,3pgvDD02,2.0,,,,
+3pgv,D,17,3pgvDD02,2.0,,,,
+3pgv,D,18,3pgvDD02,2.0,,,,
+3pgv,D,19,3pgvDD02,2.0,,,,
+3pgv,D,20,3pgvDD02,2.0,,,,
+3pgv,D,21,3pgvDD02,2.0,,,,
+3pgv,D,22,3pgvDD02,2.0,,,,
+3pgv,D,23,3pgvDD02,2.0,,,,
+3pgv,D,24,3pgvDD02,2.0,,,,
+3pgv,D,25,3pgvDD02,2.0,,,,
+3pgv,D,26,3pgvDD02,2.0,,,,
+3pgv,D,27,3pgvDD02,2.0,,,,
+3pgv,D,28,3pgvDD02,2.0,,,,
+3pgv,D,29,3pgvDD02,2.0,,,,
+3pgv,D,30,3pgvDD02,2.0,,,,
+3pgv,D,31,3pgvDD02,2.0,,,,
+3pgv,D,32,3pgvDD02,2.0,,,,
+3pgv,D,33,3pgvDD02,2.0,,,,
+3pgv,D,34,3pgvDD02,2.0,,,,
+3pgv,D,35,3pgvDD02,2.0,,,,
+3pgv,D,36,3pgvDD02,2.0,,,,
+3pgv,D,37,3pgvDD02,2.0,,,,
+3pgv,D,38,3pgvDD02,2.0,,,,
+3pgv,D,39,3pgvDD02,2.0,,,,
+3pgv,D,40,3pgvDD02,2.0,,,,
+3pgv,D,41,3pgvDD02,2.0,,,,
+3pgv,D,42,3pgvDD02,2.0,,,,
+3pgv,D,43,3pgvDD02,2.0,,,,
+3pgv,D,44,3pgvDD02,2.0,,,,
+3pgv,D,45,3pgvDD02,2.0,,,,
+3pgv,D,46,3pgvDD02,2.0,,,,
+3pgv,D,47,3pgvDD02,2.0,,,,
+3pgv,D,48,3pgvDD02,2.0,,,,
+3pgv,D,49,3pgvDD02,2.0,,,,
+3pgv,D,50,3pgvDD02,2.0,,,,
+3pgv,D,51,3pgvDD02,2.0,,,,
+3pgv,D,52,3pgvDD02,2.0,,,,
+3pgv,D,53,3pgvDD02,2.0,,,,
+3pgv,D,54,3pgvDD02,2.0,,,,
+3pgv,D,55,3pgvDD02,2.0,,,,
+3pgv,D,56,3pgvDD02,2.0,,,,
+3pgv,D,57,3pgvDD02,2.0,,,,
+3pgv,D,58,3pgvDD02,2.0,,,,
+3pgv,D,59,3pgvDD02,2.0,,,,
+3pgv,D,60,3pgvDD02,2.0,,,,
+3pgv,D,61,3pgvDD02,2.0,,,,
+3pgv,D,62,3pgvDD02,2.0,,,,
+3pgv,D,63,3pgvDD02,2.0,,,,
+3pgv,D,64,3pgvDD02,2.0,,,,
+3pgv,D,65,3pgvDD02,2.0,,,,
+3pgv,D,66,3pgvDD02,2.0,,,,
+3pgv,D,67,3pgvDD02,2.0,,,,
+3pgv,D,68,3pgvDD02,2.0,,,,
+3pgv,D,69,3pgvDD02,2.0,,,,
+3pgv,D,70,3pgvDD02,2.0,,,,
+3pgv,D,71,3pgvDD02,2.0,,,,
+3pgv,D,72,3pgvDD02,2.0,,,,
+3pgv,D,73,3pgvDD02,2.0,,,,
+3pgv,D,74,3pgvDD02,2.0,,,,
+3pgv,D,75,3pgvDD02,2.0,,,,
+3pgv,D,76,3pgvDD02,2.0,,,,
+3pgv,D,77,3pgvDD02,2.0,,,,
+3pgv,D,78,3pgvDD02,2.0,,,,
+3pgv,D,79,3pgvDD02,2.0,,,,
+3pgv,D,80,3pgvDD02,2.0,,,,
+3pgv,D,81,3pgvDD02,2.0,,,,
+3pgv,D,82,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,83,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,84,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,85,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,86,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,87,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,88,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,89,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,90,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,91,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,92,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,93,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,94,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,95,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,96,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,97,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,98,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,99,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,100,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,101,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,102,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,103,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,104,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,105,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,106,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,107,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,108,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,109,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,110,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,111,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,112,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,113,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,114,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,115,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,116,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,117,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,118,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,128,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,129,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,130,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,131,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,132,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,133,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,134,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,135,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,136,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,137,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,138,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,139,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,140,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,141,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,142,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,143,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,144,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,145,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,146,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,147,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,148,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,149,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,150,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,151,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,152,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,153,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,154,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,155,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,156,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,157,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,158,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,159,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,160,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,161,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,162,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,163,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,164,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,165,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,166,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,167,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,168,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,169,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,170,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,171,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,172,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,173,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,174,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,175,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,176,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,177,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,178,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,179,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,180,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,181,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,182,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,183,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,184,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,185,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,186,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,187,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,188,,,e3pgvD1,3012.1.1.13,Cof C2 cap domain,Hydrolase_3
+3pgv,D,189,,,,,,
+3pgv,D,190,,,,,,
+3pgv,D,191,,,,,,
+3pgv,D,192,,,,,,
+3pgv,D,193,,,,,,
+3pgv,D,194,,,,,,
+3pgv,D,195,,,,,,
+3pgv,D,196,,,,,,
+3pgv,D,197,,,,,,
+3pgv,D,198,,,,,,
+3pgv,D,199,,,,,,
+3pgv,D,200,,,,,,
+3pgv,D,201,,,,,,
+3pgv,D,202,,,,,,
+3pgv,D,203,,,,,,
+3pgv,D,204,,,,,,
+3pgv,D,205,,,,,,
+3pgv,D,206,,,,,,
+3pgv,D,207,,,,,,
+3pgv,D,208,,,,,,
+3pgv,D,209,,,,,,
+3pgv,D,210,,,,,,
+3pgv,D,211,,,,,,
+3pgv,D,212,,,,,,
+3pgv,D,213,,,,,,
+3pgv,D,214,,,,,,
+3pgv,D,215,,,,,,
+3pgv,D,216,,,,,,
+3pgv,D,217,,,,,,
+3pgv,D,218,,,,,,
+3pgv,D,219,,,,,,
+3pgv,D,220,,,,,,
+3pgv,D,221,,,,,,
+3pgv,D,222,,,,,,
+3pgv,D,223,,,,,,
+3pgv,D,224,,,,,,
+3pgv,D,225,,,,,,
+3pgv,D,226,,,,,,
+3pgv,D,227,,,,,,
+3pgv,D,228,,,,,,
+3pgv,D,229,,,,,,
+3pgv,D,230,,,,,,
+3pgv,D,231,,,,,,
+3pgv,D,232,,,,,,
+3pgv,D,233,,,,,,
+3pgv,D,234,,,,,,
+3pgv,D,235,,,,,,
+3pgv,D,236,,,,,,
+3pgv,D,237,,,,,,
+3pgv,D,238,,,,,,
+3pgv,D,239,,,,,,
+3pgv,D,240,,,,,,
+3pgv,D,241,,,,,,
+3pgv,D,242,,,,,,
+3pgv,D,243,,,,,,
+3pgv,D,244,,,,,,
+3pgv,D,245,,,,,,
+3pgv,D,246,,,,,,
+3pgv,D,247,,,,,,
+3pgv,D,248,,,,,,
+3pgv,D,249,,,,,,
+3pgv,D,250,,,,,,
+3pgv,D,251,,,,,,
+3pgv,D,252,,,,,,
+3pgv,D,253,,,,,,
+3pgv,D,254,,,,,,
+3pgv,D,255,,,,,,
+3pgv,D,256,,,,,,
+3pgv,D,257,,,,,,
+3pgv,D,258,,,,,,
+3pgv,D,259,,,,,,
+3pgv,D,260,,,,,,
+3pgv,D,261,,,,,,
+3pgv,D,262,,,,,,
+3pgv,D,263,,,,,,
+3pgv,D,264,,,,,,
+3pgv,D,265,,,,,,
+3pgv,D,266,,,,,,

@@ -1,0 +1,435 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+5trd,A,5,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,6,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,7,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,8,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,9,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,10,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,11,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,12,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,13,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,14,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,15,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,16,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,17,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,18,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,19,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,20,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,21,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,22,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,23,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,24,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,25,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,26,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,27,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,28,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,29,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,30,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,31,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,32,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,33,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,34,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,35,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,36,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,37,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,38,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,39,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,40,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,41,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,42,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,43,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,44,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,45,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,46,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,47,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,48,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,49,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,50,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,51,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,52,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,53,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,54,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,55,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,56,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,57,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,58,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,59,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,60,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,61,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,62,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,63,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,64,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,65,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,66,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,67,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,68,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,69,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,70,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,71,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,72,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,73,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,74,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,75,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,76,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,77,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,78,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,79,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,80,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,81,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,82,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,83,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,84,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,85,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,86,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,87,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,88,5trdAD02,1.0,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,89,,,e5trdA2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,A,90,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,91,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,92,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,93,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,94,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,95,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,96,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,97,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,98,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,99,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,100,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,101,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,102,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,103,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,104,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,105,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,106,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,107,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,108,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,109,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,110,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,111,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,112,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,113,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,114,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,115,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,116,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,117,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,118,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,119,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,120,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,121,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,122,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,123,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,124,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,125,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,126,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,127,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,128,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,129,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,130,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,131,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,132,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,133,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,134,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,135,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,136,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,137,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,138,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,139,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,140,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,141,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,142,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,143,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,144,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,145,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,146,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,147,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,148,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,149,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,150,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,151,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,152,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,153,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,154,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,155,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,156,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,157,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,158,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,159,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,160,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,161,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,162,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,163,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,164,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,165,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,166,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,167,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,168,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,169,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,170,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,171,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,172,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,173,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,174,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,175,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,176,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,177,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,178,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,179,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,180,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,181,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,182,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,183,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,184,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,185,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,186,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,187,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,188,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,189,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,190,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,191,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,192,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,193,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,194,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,195,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,196,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,197,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,198,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,199,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,200,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,201,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,202,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,203,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,204,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,205,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,206,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,207,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,208,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,209,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,210,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,211,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,212,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,213,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,214,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,215,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,216,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,217,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,218,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,219,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,220,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,221,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,222,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,A,223,,,e5trdA1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,7,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,8,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,9,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,10,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,11,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,12,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,13,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,14,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,15,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,16,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,17,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,18,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,19,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,20,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,21,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,22,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,23,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,24,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,25,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,26,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,27,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,28,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,29,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,30,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,31,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,32,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,33,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,34,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,35,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,36,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,37,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,38,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,39,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,40,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,41,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,42,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,43,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,44,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,45,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,46,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,47,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,48,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,49,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,50,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,51,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,52,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,53,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,54,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,55,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,56,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,57,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,58,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,59,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,60,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,61,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,62,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,63,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,64,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,65,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,66,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,67,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,68,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,69,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,70,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,71,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,72,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,73,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,74,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,75,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,76,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,77,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,78,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,79,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,80,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,81,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,82,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,83,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,84,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,85,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,86,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,87,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,88,5trdBD02,1.0,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,89,,,e5trdB2,101.1.2.212,winged,Fe_dep_repress_1
+5trd,B,90,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,91,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,92,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,93,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,94,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,95,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,96,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,97,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,98,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,99,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,100,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,101,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,102,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,103,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,104,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,105,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,106,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,107,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,108,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,109,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,110,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,111,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,112,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,113,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,114,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,115,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,116,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,117,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,118,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,119,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,120,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,121,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,122,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,123,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,124,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,125,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,126,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,127,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,128,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,129,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,130,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,131,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,132,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,133,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,134,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,135,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,136,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,137,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,138,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,139,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,140,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,141,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,142,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,143,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,144,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,145,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,146,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,147,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,148,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,149,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,150,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,151,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,152,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,153,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,154,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,155,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,156,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,157,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,158,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,159,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,160,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,161,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,162,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,163,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,164,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,165,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,166,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,167,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,168,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,169,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,170,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,171,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,172,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,173,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,174,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,175,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,176,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,177,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,178,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,179,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,180,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,181,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,182,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,183,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,184,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,185,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,186,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,187,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,188,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,189,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,190,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,191,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,192,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,193,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,194,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,195,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,196,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,197,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,198,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,199,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,200,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,201,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,202,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,203,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,204,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,205,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,206,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,207,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,208,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,209,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,210,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,211,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,212,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,213,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,214,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,215,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,216,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,217,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,218,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,219,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,220,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase
+5trd,B,221,,,e5trdB1,1.1.7.8,Alanine racemase-C,CTP-dep_RFKase

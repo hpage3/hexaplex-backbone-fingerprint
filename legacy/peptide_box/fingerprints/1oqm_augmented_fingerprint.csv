@@ -1,0 +1,791 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+1oqm,A,1,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,2,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,3,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,4,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,5,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,6,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,7,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,8,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,9,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,10,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,11,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,12,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,13,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,14,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,15,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,16,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,17,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,18,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,19,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,20,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,21,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,22,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,23,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,24,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,25,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,26,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,27,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,28,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,29,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,30,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,31,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,32,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,33,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,34,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,35,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,36,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,37,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,38,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,39,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,40,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,41,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,42,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,43,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,44,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,45,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,46,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,47,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,48,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,49,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,50,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,51,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,52,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,53,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,54,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,55,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,56,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,57,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,58,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,59,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,60,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,61,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,62,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,63,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,64,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,65,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,66,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,67,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,68,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,69,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,70,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,71,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,72,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,73,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,74,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,75,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,76,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,77,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,78,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,79,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,80,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,81,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,82,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,83,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,84,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,85,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,86,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,87,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,88,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,89,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,90,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,91,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,92,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,93,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,94,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,95,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,96,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,97,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,98,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,99,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,100,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,101,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,102,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,103,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,104,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,105,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,106,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,107,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,108,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,109,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,110,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,111,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,112,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,113,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,114,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,115,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,116,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,117,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,118,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,119,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,120,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,121,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,122,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,A,123,1oqmAD01,1,e1oqmA1,235.1.1.9,Lysozyme-like,Lys
+1oqm,B,131,1oqmBD01,1,,,,
+1oqm,B,132,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,133,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,134,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,135,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,136,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,137,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,138,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,139,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,140,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,141,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,142,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,143,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,144,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,145,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,146,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,147,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,148,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,149,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,150,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,151,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,152,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,153,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,154,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,155,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,156,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,157,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,158,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,159,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,160,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,161,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,162,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,163,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,164,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,165,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,166,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,167,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,168,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,169,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,170,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,171,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,172,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,173,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,174,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,175,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,176,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,177,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,178,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,179,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,180,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,181,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,182,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,183,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,184,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,185,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,186,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,187,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,188,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,189,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,190,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,191,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,192,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,193,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,194,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,195,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,196,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,197,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,198,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,199,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,200,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,201,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,202,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,203,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,204,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,205,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,206,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,207,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,208,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,209,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,210,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,211,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,212,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,213,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,214,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,215,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,216,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,217,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,218,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,219,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,220,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,221,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,222,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,223,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,224,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,225,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,226,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,227,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,228,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,229,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,230,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,231,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,232,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,233,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,234,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,235,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,236,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,237,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,238,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,239,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,240,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,241,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,242,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,243,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,244,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,245,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,246,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,247,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,248,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,249,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,250,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,251,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,252,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,253,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,254,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,255,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,256,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,257,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,258,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,259,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,260,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,261,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,262,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,263,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,264,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,265,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,266,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,267,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,268,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,269,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,270,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,271,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,272,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,273,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,274,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,275,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,276,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,277,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,278,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,279,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,280,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,281,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,282,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,283,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,284,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,285,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,286,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,287,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,288,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,289,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,290,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,291,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,292,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,293,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,294,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,295,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,296,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,297,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,298,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,299,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,300,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,301,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,302,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,303,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,304,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,305,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,306,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,307,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,308,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,309,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,310,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,311,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,312,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,313,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,314,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,315,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,316,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,317,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,318,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,319,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,320,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,321,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,322,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,323,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,324,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,325,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,326,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,327,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,328,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,329,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,330,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,331,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,332,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,333,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,334,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,335,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,336,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,337,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,338,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,339,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,340,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,341,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,342,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,343,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,344,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,345,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,346,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,347,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,348,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,349,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,350,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,351,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,352,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,353,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,354,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,355,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,356,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,357,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,358,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,359,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,360,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,361,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,362,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,363,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,364,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,365,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,366,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,367,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,368,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,369,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,370,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,371,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,372,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,373,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,374,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,375,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,376,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,377,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,378,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,379,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,380,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,381,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,382,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,383,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,384,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,385,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,386,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,387,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,388,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,389,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,390,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,391,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,392,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,393,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,394,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,395,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,396,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,397,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,398,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,399,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,400,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,401,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,B,402,1oqmBD01,1,e1oqmB1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,C,1,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,2,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,3,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,4,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,5,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,6,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,7,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,8,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,9,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,10,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,11,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,12,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,13,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,14,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,15,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,16,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,17,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,18,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,19,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,20,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,21,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,22,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,23,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,24,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,25,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,26,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,27,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,28,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,29,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,30,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,31,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,32,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,33,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,34,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,35,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,36,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,37,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,38,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,39,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,40,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,41,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,42,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,43,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,44,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,45,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,46,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,47,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,48,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,49,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,50,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,51,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,52,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,53,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,54,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,55,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,56,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,57,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,58,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,59,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,60,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,61,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,62,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,63,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,64,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,65,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,66,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,67,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,68,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,69,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,70,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,71,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,72,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,73,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,74,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,75,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,76,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,77,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,78,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,79,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,80,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,81,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,82,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,83,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,84,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,85,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,86,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,87,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,88,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,89,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,90,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,91,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,92,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,93,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,94,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,95,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,96,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,97,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,98,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,99,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,100,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,101,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,102,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,103,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,104,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,105,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,106,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,107,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,108,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,109,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,110,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,111,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,112,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,113,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,114,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,115,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,116,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,117,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,118,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,119,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,120,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,121,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,122,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,C,123,1oqmCD01,1,e1oqmC1,235.1.1.9,Lysozyme-like,Lys
+1oqm,D,131,1oqmDD01,1,,,,
+1oqm,D,132,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,133,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,134,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,135,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,136,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,137,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,138,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,139,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,140,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,141,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,142,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,143,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,144,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,145,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,146,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,147,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,148,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,149,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,150,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,151,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,152,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,153,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,154,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,155,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,156,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,157,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,158,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,159,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,160,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,161,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,162,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,163,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,164,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,165,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,166,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,167,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,168,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,169,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,170,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,171,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,172,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,173,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,174,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,175,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,176,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,177,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,178,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,179,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,180,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,181,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,182,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,183,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,184,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,185,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,186,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,187,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,188,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,189,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,190,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,191,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,192,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,193,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,194,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,195,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,196,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,197,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,198,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,199,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,200,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,201,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,202,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,203,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,204,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,205,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,206,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,207,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,208,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,209,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,210,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,211,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,212,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,213,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,214,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,215,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,216,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,217,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,218,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,219,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,220,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,221,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,222,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,223,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,224,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,225,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,226,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,227,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,228,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,229,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,230,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,231,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,232,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,233,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,234,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,235,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,236,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,237,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,238,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,239,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,240,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,241,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,242,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,243,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,244,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,245,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,246,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,247,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,248,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,249,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,250,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,251,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,252,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,253,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,254,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,255,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,256,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,257,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,258,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,259,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,260,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,261,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,262,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,263,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,264,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,265,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,266,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,267,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,268,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,269,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,270,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,271,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,272,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,273,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,274,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,275,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,276,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,277,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,278,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,279,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,280,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,281,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,282,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,283,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,284,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,285,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,286,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,287,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,288,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,289,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,290,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,291,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,292,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,293,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,294,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,295,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,296,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,297,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,298,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,299,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,300,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,301,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,302,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,303,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,304,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,305,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,306,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,307,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,308,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,309,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,310,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,311,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,312,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,313,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,314,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,315,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,316,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,317,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,318,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,319,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,320,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,321,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,322,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,323,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,324,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,325,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,326,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,327,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,328,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,329,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,330,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,331,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,332,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,333,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,334,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,335,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,336,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,337,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,338,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,339,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,340,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,341,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,342,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,343,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,344,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,345,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,346,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,347,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,348,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,349,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,350,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,351,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,352,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,353,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,354,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,355,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,356,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,357,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,358,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,359,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,360,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,361,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,362,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,363,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,364,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,365,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,366,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,367,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,368,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,369,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,370,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,371,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,372,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,373,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,374,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,375,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,376,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,377,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,378,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,379,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,380,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,381,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,382,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,383,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,384,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,385,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,386,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,387,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,388,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,389,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,390,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,391,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,392,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,393,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,394,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,395,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,396,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,397,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,398,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,399,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,400,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,401,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N
+1oqm,D,402,1oqmDD01,1,e1oqmD1,7516.1.1.23,Nucleotide-diphospho-sugar transferases,Glyco_transf_7N

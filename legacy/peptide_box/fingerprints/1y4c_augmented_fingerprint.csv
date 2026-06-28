@@ -1,0 +1,481 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+1y4c,A,4,1y4cAD03,2.0,,,,
+1y4c,A,5,1y4cAD03,2.0,,,,
+1y4c,A,6,1y4cAD03,2.0,,,,
+1y4c,A,7,1y4cAD03,2.0,,,,
+1y4c,A,8,1y4cAD03,2.0,,,,
+1y4c,A,9,1y4cAD03,2.0,,,,
+1y4c,A,10,1y4cAD03,2.0,,,,
+1y4c,A,11,1y4cAD03,2.0,,,,
+1y4c,A,12,1y4cAD03,2.0,,,,
+1y4c,A,13,1y4cAD03,2.0,,,,
+1y4c,A,14,1y4cAD03,2.0,,,,
+1y4c,A,15,1y4cAD03,2.0,,,,
+1y4c,A,16,1y4cAD03,2.0,,,,
+1y4c,A,17,1y4cAD03,2.0,,,,
+1y4c,A,18,1y4cAD03,2.0,,,,
+1y4c,A,19,1y4cAD03,2.0,,,,
+1y4c,A,20,1y4cAD03,2.0,,,,
+1y4c,A,21,1y4cAD03,2.0,,,,
+1y4c,A,22,1y4cAD03,2.0,,,,
+1y4c,A,23,1y4cAD03,2.0,,,,
+1y4c,A,24,1y4cAD03,2.0,,,,
+1y4c,A,25,1y4cAD03,2.0,,,,
+1y4c,A,26,1y4cAD03,2.0,,,,
+1y4c,A,27,1y4cAD03,2.0,,,,
+1y4c,A,28,1y4cAD03,2.0,,,,
+1y4c,A,29,1y4cAD03,2.0,,,,
+1y4c,A,30,1y4cAD03,2.0,,,,
+1y4c,A,31,1y4cAD03,2.0,,,,
+1y4c,A,32,1y4cAD03,2.0,,,,
+1y4c,A,33,1y4cAD03,2.0,,,,
+1y4c,A,34,1y4cAD03,2.0,,,,
+1y4c,A,35,1y4cAD03,2.0,,,,
+1y4c,A,36,1y4cAD03,2.0,,,,
+1y4c,A,37,1y4cAD03,2.0,,,,
+1y4c,A,38,1y4cAD03,2.0,,,,
+1y4c,A,39,1y4cAD03,2.0,,,,
+1y4c,A,40,1y4cAD03,2.0,,,,
+1y4c,A,41,1y4cAD03,2.0,,,,
+1y4c,A,42,1y4cAD03,2.0,,,,
+1y4c,A,43,1y4cAD03,2.0,,,,
+1y4c,A,44,1y4cAD03,2.0,,,,
+1y4c,A,45,1y4cAD03,2.0,,,,
+1y4c,A,46,1y4cAD03,2.0,,,,
+1y4c,A,47,1y4cAD03,2.0,,,,
+1y4c,A,48,1y4cAD03,2.0,,,,
+1y4c,A,49,1y4cAD03,2.0,,,,
+1y4c,A,50,1y4cAD03,2.0,,,,
+1y4c,A,51,1y4cAD03,2.0,,,,
+1y4c,A,52,1y4cAD03,2.0,,,,
+1y4c,A,53,1y4cAD03,2.0,,,,
+1y4c,A,54,1y4cAD03,2.0,,,,
+1y4c,A,55,1y4cAD03,2.0,,,,
+1y4c,A,56,1y4cAD03,2.0,,,,
+1y4c,A,57,1y4cAD03,2.0,,,,
+1y4c,A,58,1y4cAD03,2.0,,,,
+1y4c,A,59,1y4cAD03,2.0,,,,
+1y4c,A,60,1y4cAD03,2.0,,,,
+1y4c,A,61,1y4cAD03,2.0,,,,
+1y4c,A,62,1y4cAD03,2.0,,,,
+1y4c,A,63,1y4cAD03,2.0,,,,
+1y4c,A,64,1y4cAD03,2.0,,,,
+1y4c,A,65,1y4cAD03,2.0,,,,
+1y4c,A,66,1y4cAD03,2.0,,,,
+1y4c,A,67,1y4cAD03,2.0,,,,
+1y4c,A,68,1y4cAD03,2.0,,,,
+1y4c,A,69,1y4cAD03,2.0,,,,
+1y4c,A,70,1y4cAD03,2.0,,,,
+1y4c,A,71,1y4cAD03,2.0,,,,
+1y4c,A,72,1y4cAD03,2.0,,,,
+1y4c,A,73,1y4cAD03,2.0,,,,
+1y4c,A,74,1y4cAD03,2.0,,,,
+1y4c,A,75,1y4cAD03,2.0,,,,
+1y4c,A,76,1y4cAD03,2.0,,,,
+1y4c,A,77,1y4cAD03,2.0,,,,
+1y4c,A,78,1y4cAD03,2.0,,,,
+1y4c,A,79,1y4cAD03,2.0,,,,
+1y4c,A,80,1y4cAD03,2.0,,,,
+1y4c,A,81,1y4cAD03,2.0,,,,
+1y4c,A,82,1y4cAD03,2.0,,,,
+1y4c,A,83,1y4cAD03,2.0,,,,
+1y4c,A,84,1y4cAD03,2.0,,,,
+1y4c,A,85,1y4cAD03,2.0,,,,
+1y4c,A,86,1y4cAD03,2.0,,,,
+1y4c,A,87,1y4cAD03,2.0,,,,
+1y4c,A,88,1y4cAD03,2.0,,,,
+1y4c,A,89,1y4cAD03,2.0,,,,
+1y4c,A,90,1y4cAD03,2.0,,,,
+1y4c,A,91,1y4cAD03,2.0,,,,
+1y4c,A,92,1y4cAD03,2.0,,,,
+1y4c,A,93,1y4cAD03,2.0,,,,
+1y4c,A,94,1y4cAD03,2.0,,,,
+1y4c,A,95,1y4cAD03,2.0,,,,
+1y4c,A,96,1y4cAD03,2.0,,,,
+1y4c,A,97,1y4cAD03,2.0,,,,
+1y4c,A,98,1y4cAD03,2.0,,,,
+1y4c,A,99,1y4cAD03,2.0,,,,
+1y4c,A,100,1y4cAD03,2.0,,,,
+1y4c,A,101,1y4cAD03,2.0,,,,
+1y4c,A,102,1y4cAD03,2.0,,,,
+1y4c,A,103,1y4cAD03,2.0,,,,
+1y4c,A,104,1y4cAD03,2.0,,,,
+1y4c,A,105,1y4cAD03,2.0,,,,
+1y4c,A,106,1y4cAD03,2.0,,,,
+1y4c,A,107,1y4cAD03,2.0,,,,
+1y4c,A,108,1y4cAD03,2.0,,,,
+1y4c,A,109,1y4cAD03,2.0,,,,
+1y4c,A,110,1y4cAD03,2.0,,,,
+1y4c,A,111,1y4cAD03,2.0,,,,
+1y4c,A,112,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,113,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,114,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,115,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,116,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,117,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,118,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,119,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,120,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,121,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,122,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,123,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,124,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,125,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,126,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,127,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,128,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,129,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,130,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,131,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,132,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,133,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,134,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,135,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,136,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,137,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,138,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,139,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,140,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,141,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,142,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,143,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,144,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,145,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,146,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,147,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,148,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,149,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,150,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,151,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,152,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,153,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,154,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,155,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,156,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,157,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,158,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,159,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,160,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,161,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,162,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,163,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,164,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,165,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,166,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,167,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,168,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,169,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,170,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,171,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,172,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,173,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,174,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,175,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,176,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,177,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,178,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,179,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,180,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,181,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,182,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,183,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,184,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,185,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,186,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,187,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,188,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,189,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,190,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,191,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,192,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,193,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,194,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,195,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,196,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,197,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,198,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,199,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,200,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,201,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,202,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,203,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,204,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,205,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,206,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,207,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,208,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,209,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,210,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,211,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,212,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,213,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,214,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,215,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,216,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,217,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,218,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,219,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,220,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,221,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,222,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,223,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,224,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,225,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,226,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,227,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,228,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,229,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,230,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,231,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,232,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,233,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,234,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,235,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,236,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,237,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,238,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,239,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,240,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,241,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,242,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,243,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,244,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,245,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,246,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,247,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,248,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,249,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,250,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,251,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,252,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,253,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,254,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,255,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,256,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,257,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,258,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,259,,,e1y4cA2,7523.1.1.23,Periplasmic binding protein-like II,SBP_bac_1_C
+1y4c,A,260,,,,,,
+1y4c,A,261,,,,,,
+1y4c,A,262,,,,,,
+1y4c,A,263,,,,,,
+1y4c,A,264,,,,,,
+1y4c,A,265,,,,,,
+1y4c,A,266,,,,,,
+1y4c,A,267,,,,,,
+1y4c,A,268,,,,,,
+1y4c,A,269,,,,,,
+1y4c,A,270,,,,,,
+1y4c,A,271,,,,,,
+1y4c,A,272,,,,,,
+1y4c,A,273,,,,,,
+1y4c,A,274,,,,,,
+1y4c,A,275,,,,,,
+1y4c,A,276,,,,,,
+1y4c,A,277,,,,,,
+1y4c,A,278,,,,,,
+1y4c,A,279,,,,,,
+1y4c,A,280,,,,,,
+1y4c,A,281,,,,,,
+1y4c,A,282,,,,,,
+1y4c,A,283,,,,,,
+1y4c,A,284,,,,,,
+1y4c,A,285,,,,,,
+1y4c,A,286,,,,,,
+1y4c,A,287,,,,,,
+1y4c,A,288,,,,,,
+1y4c,A,289,,,,,,
+1y4c,A,290,,,,,,
+1y4c,A,291,,,,,,
+1y4c,A,292,,,,,,
+1y4c,A,293,,,,,,
+1y4c,A,294,,,,,,
+1y4c,A,295,,,,,,
+1y4c,A,296,,,,,,
+1y4c,A,297,,,,,,
+1y4c,A,298,,,,,,
+1y4c,A,299,,,,,,
+1y4c,A,300,,,,,,
+1y4c,A,301,,,,,,
+1y4c,A,302,,,,,,
+1y4c,A,303,,,,,,
+1y4c,A,304,,,,,,
+1y4c,A,305,,,,,,
+1y4c,A,306,,,,,,
+1y4c,A,307,,,,,,
+1y4c,A,308,,,,,,
+1y4c,A,309,,,,,,
+1y4c,A,310,,,,,,
+1y4c,A,311,,,,,,
+1y4c,A,312,,,,,,
+1y4c,A,313,,,,,,
+1y4c,A,314,,,,,,
+1y4c,A,315,,,,,,
+1y4c,A,316,,,,,,
+1y4c,A,317,,,,,,
+1y4c,A,318,,,,,,
+1y4c,A,319,,,,,,
+1y4c,A,320,,,,,,
+1y4c,A,321,,,,,,
+1y4c,A,322,,,,,,
+1y4c,A,323,,,,,,
+1y4c,A,324,,,,,,
+1y4c,A,325,,,,,,
+1y4c,A,326,,,,,,
+1y4c,A,327,,,,,,
+1y4c,A,328,,,,,,
+1y4c,A,329,,,,,,
+1y4c,A,330,,,,,,
+1y4c,A,331,,,,,,
+1y4c,A,332,,,,,,
+1y4c,A,333,,,,,,
+1y4c,A,334,,,,,,
+1y4c,A,335,,,,,,
+1y4c,A,336,,,,,,
+1y4c,A,337,,,,,,
+1y4c,A,338,,,,,,
+1y4c,A,339,,,,,,
+1y4c,A,340,,,,,,
+1y4c,A,341,,,,,,
+1y4c,A,342,,,,,,
+1y4c,A,343,,,,,,
+1y4c,A,344,,,,,,
+1y4c,A,345,,,,,,
+1y4c,A,346,,,,,,
+1y4c,A,347,,,,,,
+1y4c,A,348,,,,,,
+1y4c,A,349,,,,,,
+1y4c,A,350,,,,,,
+1y4c,A,351,,,,,,
+1y4c,A,352,,,,,,
+1y4c,A,353,,,,,,
+1y4c,A,354,,,,,,
+1y4c,A,355,,,,,,
+1y4c,A,356,,,,,,
+1y4c,A,357,,,,,,
+1y4c,A,358,,,,,,
+1y4c,A,359,,,,,,
+1y4c,A,360,,,,,,
+1y4c,A,361,,,,,,
+1y4c,A,362,,,,,,
+1y4c,A,363,,,,,,
+1y4c,A,364,,,,,,
+1y4c,A,365,,,,,,
+1y4c,A,366,,,,,,
+1y4c,A,367,,,,,,
+1y4c,A,368,,,,,,
+1y4c,A,369,,,,,,
+1y4c,A,370,,,,,,
+1y4c,A,541,,,,,,
+1y4c,A,542,,,,,,
+1y4c,A,543,,,,,,
+1y4c,A,544,,,,,,
+1y4c,A,545,,,,,,
+1y4c,A,546,,,,,,
+1y4c,A,547,,,,,,
+1y4c,A,548,,,,,,
+1y4c,A,549,,,,,,
+1y4c,A,550,,,,,,
+1y4c,A,551,,,,,,
+1y4c,A,552,,,,,,
+1y4c,A,553,,,,,,
+1y4c,A,554,,,,,,
+1y4c,A,555,,,,,,
+1y4c,A,556,,,,,,
+1y4c,A,557,,,,,,
+1y4c,A,558,,,,,,
+1y4c,A,559,,,,,,
+1y4c,A,560,,,,,,
+1y4c,A,561,,,,,,
+1y4c,A,562,,,,,,
+1y4c,A,563,,,,,,
+1y4c,A,564,,,,,,
+1y4c,A,565,,,,,,
+1y4c,A,566,,,,,,
+1y4c,A,567,,,,,,
+1y4c,A,568,,,,,,
+1y4c,A,569,,,,,,
+1y4c,A,570,,,,,,
+1y4c,A,571,,,,,,
+1y4c,A,572,,,,,,
+1y4c,A,573,,,,,,
+1y4c,A,574,,,,,,
+1y4c,A,575,,,,,,
+1y4c,A,576,,,,,,
+1y4c,A,577,,,,,,
+1y4c,A,578,,,,,,
+1y4c,A,579,,,,,,
+1y4c,A,580,,,,,,
+1y4c,A,581,,,,,,
+1y4c,A,582,,,,,,
+1y4c,A,583,,,,,,
+1y4c,A,584,,,,,,
+1y4c,A,585,,,,,,
+1y4c,A,586,,,,,,
+1y4c,A,587,,,,,,
+1y4c,A,588,,,,,,
+1y4c,A,589,,,,,,
+1y4c,A,590,,,,,,
+1y4c,A,591,,,,,,
+1y4c,A,592,,,,,,
+1y4c,A,593,,,,,,
+1y4c,A,594,,,,,,
+1y4c,A,595,,,,,,
+1y4c,A,596,,,,,,
+1y4c,A,597,,,,,,
+1y4c,A,598,,,,,,
+1y4c,A,599,,,,,,
+1y4c,A,600,,,,,,
+1y4c,A,601,,,,,,
+1y4c,A,602,,,,,,
+1y4c,A,603,,,,,,
+1y4c,A,604,,,,,,
+1y4c,A,605,,,,,,
+1y4c,A,606,,,,,,
+1y4c,A,607,,,,,,
+1y4c,A,608,,,,,,
+1y4c,A,609,,,,,,
+1y4c,A,610,,,,,,
+1y4c,A,611,,,,,,
+1y4c,A,612,,,,,,
+1y4c,A,613,,,,,,
+1y4c,A,614,,,,,,
+1y4c,A,615,,,,,,
+1y4c,A,616,,,,,,
+1y4c,A,617,,,,,,
+1y4c,A,618,,,,,,
+1y4c,A,619,,,,,,
+1y4c,A,620,,,,,,
+1y4c,A,621,,,,,,
+1y4c,A,622,,,,,,
+1y4c,A,623,,,,,,
+1y4c,A,624,,,,,,
+1y4c,A,625,,,,,,
+1y4c,A,626,,,,,,
+1y4c,A,627,,,,,,
+1y4c,A,628,,,,,,
+1y4c,A,629,,,,,,
+1y4c,A,630,,,,,,
+1y4c,A,631,,,,,,
+1y4c,A,632,,,,,,
+1y4c,A,633,,,,,,
+1y4c,A,634,,,,,,
+1y4c,A,635,,,,,,
+1y4c,A,636,,,,,,
+1y4c,A,637,,,,,,
+1y4c,A,638,,,,,,
+1y4c,A,639,,,,,,
+1y4c,A,640,,,,,,
+1y4c,A,641,,,,,,
+1y4c,A,642,,,,,,
+1y4c,A,643,,,,,,
+1y4c,A,644,,,,,,
+1y4c,A,645,,,,,,
+1y4c,A,646,,,,,,
+1y4c,A,647,,,,,,
+1y4c,A,648,,,,,,
+1y4c,A,649,,,,,,
+1y4c,A,650,,,,,,
+1y4c,A,651,,,,,,
+1y4c,A,652,,,,,,
+1y4c,A,653,,,,,,

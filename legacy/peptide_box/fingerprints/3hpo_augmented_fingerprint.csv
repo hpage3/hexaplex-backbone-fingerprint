@@ -1,0 +1,581 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+3hpo,A,297,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,298,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,299,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,300,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,301,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,302,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,303,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,304,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,305,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,306,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,307,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,308,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,309,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,310,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,311,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,312,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,313,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,314,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,315,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,316,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,317,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,318,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,319,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,320,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,321,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,322,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,323,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,324,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,325,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,326,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,327,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,328,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,329,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,330,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,331,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,332,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,333,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,334,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,335,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,336,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,337,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,338,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,339,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,340,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,341,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,342,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,343,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,344,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,345,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,346,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,347,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,348,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,349,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,350,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,351,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,352,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,353,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,354,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,355,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,356,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,357,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,358,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,359,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,360,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,361,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,362,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,363,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,364,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,365,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,366,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,367,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,368,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,369,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,370,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,371,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,372,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,373,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,374,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,375,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,376,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,377,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,378,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,379,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,380,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,381,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,382,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,383,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,384,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,385,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,386,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,387,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,388,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,389,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,390,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,391,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,392,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,393,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,394,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,395,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,396,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,397,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,398,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,399,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,400,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,401,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,402,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,403,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,404,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,405,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,406,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,407,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,408,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,409,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,410,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,411,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,412,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,413,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,414,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,415,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,416,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,417,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,418,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,419,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,420,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,421,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,422,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,423,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,424,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,425,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,426,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,427,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,428,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,429,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,430,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,431,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,432,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,433,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,434,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,435,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,436,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,437,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,438,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,439,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,440,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,441,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,442,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,443,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,444,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,445,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,446,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,447,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,448,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,449,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,450,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,451,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,452,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,453,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,454,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,455,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,456,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,457,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,458,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,459,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,460,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,461,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,462,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,463,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,464,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,465,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,466,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,467,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,468,3hpoAD04,1.0,e3hpoA4,2484.1.1.71,Ribonuclease H-like,DNA_pol_A_exo1_1
+3hpo,A,469,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,470,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,471,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,472,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,473,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,474,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,475,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,476,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,477,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,478,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,479,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,480,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,481,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,482,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,483,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,484,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,485,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,486,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,487,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,488,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,489,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,490,3hpoAD04,1.0,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,491,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,492,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,493,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,494,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,495,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,496,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,497,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,498,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,499,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,500,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,501,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,502,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,503,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,504,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,505,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,506,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,507,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,508,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,509,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,510,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,511,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,512,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,513,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,514,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,515,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,516,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,517,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,518,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,519,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,520,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,521,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,522,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,523,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,524,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,525,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,526,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,527,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,528,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,529,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,530,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,531,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,532,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,533,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,534,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,535,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,536,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,537,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,538,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,539,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,540,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,541,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,542,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,543,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,544,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,545,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,546,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,547,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,548,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,549,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,550,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,551,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,552,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,553,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,554,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,555,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,556,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,557,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,558,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,559,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,560,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,561,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,562,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,563,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,564,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,565,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,566,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,567,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,568,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,569,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,570,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,571,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,572,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,573,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,574,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,575,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,576,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,577,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,578,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,579,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,580,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,581,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,582,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,583,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,584,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,585,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,586,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,587,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,588,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,589,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,590,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,591,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,592,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,593,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,594,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,595,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,596,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,597,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,598,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,599,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,600,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,601,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,602,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,603,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,604,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,605,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,606,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,607,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,608,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,609,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,610,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,611,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,612,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,613,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,614,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,615,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,616,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,617,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,618,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,619,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,620,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,621,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,622,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,623,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,624,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,625,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,626,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,627,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,628,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,629,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,630,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,631,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,632,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,633,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,634,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,635,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,636,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,637,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,638,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,639,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,640,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,641,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,642,,,e3hpoA2,4970.1.1.14,"""fingers"""" domain in bacteriophage RB69-like DNA polymerase I""""""",DNA_pol_A_1st
+3hpo,A,643,,,,,,
+3hpo,A,644,,,,,,
+3hpo,A,645,,,,,,
+3hpo,A,646,,,,,,
+3hpo,A,647,,,,,,
+3hpo,A,648,,,,,,
+3hpo,A,649,,,,,,
+3hpo,A,650,,,,,,
+3hpo,A,651,,,,,,
+3hpo,A,652,,,,,,
+3hpo,A,653,,,,,,
+3hpo,A,654,,,,,,
+3hpo,A,655,,,,,,
+3hpo,A,656,,,,,,
+3hpo,A,657,,,,,,
+3hpo,A,658,,,,,,
+3hpo,A,659,,,,,,
+3hpo,A,660,,,,,,
+3hpo,A,661,,,,,,
+3hpo,A,662,,,,,,
+3hpo,A,663,,,,,,
+3hpo,A,664,,,,,,
+3hpo,A,665,,,,,,
+3hpo,A,666,,,,,,
+3hpo,A,667,,,,,,
+3hpo,A,668,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,669,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,670,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,671,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,672,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,673,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,674,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,675,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,676,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,677,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,678,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,679,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,680,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,681,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,682,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,683,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,684,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,685,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,686,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,687,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,688,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,689,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,690,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,691,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,692,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,693,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,694,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,695,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,696,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,697,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,698,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,699,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,700,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,701,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,702,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,703,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,704,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,705,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,706,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,707,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,708,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,709,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,710,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,711,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,712,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,713,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,714,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,715,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,716,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,717,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,718,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,719,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,720,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,721,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,722,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,723,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,724,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,725,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,726,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,727,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,728,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,729,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,730,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,731,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,732,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,733,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,734,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,735,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,736,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,737,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,738,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,739,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,740,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,741,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,742,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,743,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,744,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,745,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,746,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,747,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,748,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,749,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,750,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,751,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,752,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,753,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,754,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,755,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,756,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,757,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,758,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,759,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,760,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,761,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,762,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,763,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,764,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,765,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,766,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,767,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,768,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,769,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,770,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,771,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,772,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,773,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,774,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,775,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,776,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,777,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,778,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,779,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,780,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,781,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,782,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,783,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,784,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,785,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,786,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,787,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,788,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,789,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,790,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,791,,,e3hpoA1,4964.1.1.8,helical bundle in Bacillus stearothermophilus-like DNA polymerase I,DNA_pol_A_2nd
+3hpo,A,792,,,,,,
+3hpo,A,793,,,,,,
+3hpo,A,794,,,,,,
+3hpo,A,795,,,,,,
+3hpo,A,796,,,,,,
+3hpo,A,797,,,,,,
+3hpo,A,798,,,,,,
+3hpo,A,799,,,,,,
+3hpo,A,800,,,,,,
+3hpo,A,801,,,,,,
+3hpo,A,802,,,,,,
+3hpo,A,803,,,,,,
+3hpo,A,804,,,,,,
+3hpo,A,805,,,,,,
+3hpo,A,806,,,,,,
+3hpo,A,807,,,,,,
+3hpo,A,808,,,,,,
+3hpo,A,809,,,,,,
+3hpo,A,810,,,,,,
+3hpo,A,811,,,,,,
+3hpo,A,812,,,,,,
+3hpo,A,813,,,,,,
+3hpo,A,814,,,,,,
+3hpo,A,815,,,,,,
+3hpo,A,816,,,,,,
+3hpo,A,817,,,,,,
+3hpo,A,818,,,,,,
+3hpo,A,819,,,,,,
+3hpo,A,820,,,,,,
+3hpo,A,821,,,,,,
+3hpo,A,822,,,,,,
+3hpo,A,823,,,,,,
+3hpo,A,824,,,,,,
+3hpo,A,825,,,,,,
+3hpo,A,826,,,,,,
+3hpo,A,827,,,,,,
+3hpo,A,828,,,,,,
+3hpo,A,829,,,,,,
+3hpo,A,830,,,,,,
+3hpo,A,831,,,,,,
+3hpo,A,832,,,,,,
+3hpo,A,833,,,,,,
+3hpo,A,834,,,,,,
+3hpo,A,835,,,,,,
+3hpo,A,836,,,,,,
+3hpo,A,837,,,,,,
+3hpo,A,838,,,,,,
+3hpo,A,839,,,,,,
+3hpo,A,840,,,,,,
+3hpo,A,841,,,,,,
+3hpo,A,842,,,,,,
+3hpo,A,843,,,,,,
+3hpo,A,844,,,,,,
+3hpo,A,845,,,,,,
+3hpo,A,846,,,,,,
+3hpo,A,847,,,,,,
+3hpo,A,848,,,,,,
+3hpo,A,849,,,,,,
+3hpo,A,850,,,,,,
+3hpo,A,851,,,,,,
+3hpo,A,852,,,,,,
+3hpo,A,853,,,,,,
+3hpo,A,854,,,,,,
+3hpo,A,855,,,,,,
+3hpo,A,856,,,,,,
+3hpo,A,857,,,,,,
+3hpo,A,858,,,,,,
+3hpo,A,859,,,,,,
+3hpo,A,860,,,,,,
+3hpo,A,861,,,,,,
+3hpo,A,862,,,,,,
+3hpo,A,863,,,,,,
+3hpo,A,864,,,,,,
+3hpo,A,865,,,,,,
+3hpo,A,866,,,,,,
+3hpo,A,867,,,,,,
+3hpo,A,868,,,,,,
+3hpo,A,869,,,,,,
+3hpo,A,870,,,,,,
+3hpo,A,871,,,,,,
+3hpo,A,872,,,,,,
+3hpo,A,873,,,,,,
+3hpo,A,874,,,,,,
+3hpo,A,875,,,,,,
+3hpo,A,876,,,,,,

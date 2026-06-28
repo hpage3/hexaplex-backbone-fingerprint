@@ -1,0 +1,17 @@
+xriv/
+input_data/
+output/
+qc/
+fft_results/
+*.png
+*.pyc
+__pycache__/
+# local run artifacts
+ids.txt
+theta_pp_fingerprints.csvinput_data/
+output/
+qc/
+fft_results/
+__pycache__/
+*.pyc
+*.png

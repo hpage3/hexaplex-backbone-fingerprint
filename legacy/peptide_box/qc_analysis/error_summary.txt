@@ -1,0 +1,17 @@
+TOTAL flagged residues: 489
+Mean error: 17.19 deg
+Median error: 9.54 deg
+Max error: 88.65 deg
+
+Residue types with highest mean error:
+resn  count  mean_err  median_err  max_err
+ UNK      2 27.837000     27.8370   31.939
+ ILE     16 23.268500      9.7530   57.813
+ PHE     29 20.766724      9.1230   88.474
+ LEU     39 19.743026      9.7010   75.077
+ LYS     39 19.705026     10.3610   87.502
+ SER     32 19.084594      9.4365   76.553
+ ARG     24 18.713708      9.2490   88.646
+ THR     32 17.785969      9.4165   81.290
+ TYR     19 17.222000      8.8180   67.904
+ GLN     15 17.092400     10.0640   65.386

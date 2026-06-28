@@ -1,0 +1,1878 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+7kbj,G,33,,,,,,
+7kbj,G,34,,,,,,
+7kbj,G,35,,,,,,
+7kbj,G,36,,,,,,
+7kbj,G,37,,,,,,
+7kbj,G,38,,,,,,
+7kbj,G,39,,,,,,
+7kbj,G,40,,,,,,
+7kbj,G,41,,,,,,
+7kbj,G,42,,,,,,
+7kbj,G,43,,,,,,
+7kbj,G,44,,,,,,
+7kbj,G,45,,,,,,
+7kbj,G,46,,,,,,
+7kbj,G,47,,,,,,
+7kbj,G,48,,,,,,
+7kbj,G,49,,,,,,
+7kbj,G,50,,,,,,
+7kbj,G,51,,,,,,
+7kbj,G,52,,,,,,
+7kbj,G,53,,,,,,
+7kbj,G,54,,,,,,
+7kbj,G,55,,,,,,
+7kbj,G,56,,,,,,
+7kbj,G,57,,,,,,
+7kbj,G,58,,,,,,
+7kbj,G,59,,,,,,
+7kbj,G,60,,,,,,
+7kbj,G,61,,,,,,
+7kbj,G,62,,,,,,
+7kbj,G,63,,,,,,
+7kbj,G,64,,,,,,
+7kbj,G,65,,,,,,
+7kbj,G,66,,,,,,
+7kbj,G,67,,,,,,
+7kbj,G,68,,,,,,
+7kbj,G,69,,,,,,
+7kbj,G,70,,,,,,
+7kbj,G,71,,,,,,
+7kbj,G,72,,,,,,
+7kbj,G,73,,,,,,
+7kbj,G,74,,,,,,
+7kbj,G,75,,,,,,
+7kbj,G,76,,,,,,
+7kbj,G,77,,,,,,
+7kbj,G,78,,,,,,
+7kbj,G,79,,,,,,
+7kbj,G,80,,,,,,
+7kbj,G,81,,,,,,
+7kbj,G,82,,,,,,
+7kbj,G,83,,,,,,
+7kbj,G,84,,,,,,
+7kbj,G,85,,,,,,
+7kbj,G,86,,,,,,
+7kbj,G,87,,,,,,
+7kbj,G,88,,,,,,
+7kbj,G,89,,,,,,
+7kbj,G,90,,,,,,
+7kbj,G,91,,,,,,
+7kbj,G,92,,,,,,
+7kbj,G,93,,,,,,
+7kbj,G,94,,,,,,
+7kbj,G,95,,,,,,
+7kbj,G,96,,,,,,
+7kbj,G,97,,,,,,
+7kbj,G,98,,,,,,
+7kbj,G,99,,,,,,
+7kbj,G,100,,,,,,
+7kbj,G,101,,,,,,
+7kbj,G,102,,,,,,
+7kbj,G,103,,,,,,
+7kbj,G,104,,,,,,
+7kbj,G,105,,,,,,
+7kbj,G,106,,,,,,
+7kbj,G,107,,,,,,
+7kbj,G,108,,,,,,
+7kbj,G,109,,,,,,
+7kbj,G,110,,,,,,
+7kbj,G,111,,,,,,
+7kbj,G,112,,,,,,
+7kbj,G,113,,,,,,
+7kbj,G,114,,,,,,
+7kbj,G,115,,,,,,
+7kbj,G,116,,,,,,
+7kbj,G,117,,,,,,
+7kbj,G,118,,,,,,
+7kbj,G,119,,,,,,
+7kbj,G,120,,,,,,
+7kbj,G,121,,,,,,
+7kbj,G,122,,,,,,
+7kbj,G,123,,,,,,
+7kbj,G,124,,,,,,
+7kbj,G,125,,,,,,
+7kbj,G,126,,,,,,
+7kbj,G,127,,,,,,
+7kbj,G,128,,,,,,
+7kbj,G,129,,,,,,
+7kbj,G,130,,,,,,
+7kbj,G,131,,,,,,
+7kbj,G,132,,,,,,
+7kbj,G,133,,,,,,
+7kbj,G,134,,,,,,
+7kbj,G,135,,,,,,
+7kbj,G,136,,,,,,
+7kbj,G,137,,,,,,
+7kbj,G,138,,,,,,
+7kbj,G,139,,,,,,
+7kbj,G,140,,,,,,
+7kbj,G,141,,,,,,
+7kbj,G,142,,,,,,
+7kbj,G,143,,,,,,
+7kbj,G,144,,,,,,
+7kbj,G,145,,,,,,
+7kbj,G,146,,,,,,
+7kbj,G,147,,,,,,
+7kbj,G,148,,,,,,
+7kbj,G,149,,,,,,
+7kbj,G,150,,,,,,
+7kbj,G,151,,,,,,
+7kbj,G,152,,,,,,
+7kbj,G,153,,,,,,
+7kbj,G,154,,,,,,
+7kbj,G,155,,,,,,
+7kbj,G,156,,,,,,
+7kbj,G,157,,,,,,
+7kbj,G,158,,,,,,
+7kbj,G,159,,,,,,
+7kbj,G,160,,,,,,
+7kbj,G,161,,,,,,
+7kbj,G,162,,,,,,
+7kbj,G,163,,,,,,
+7kbj,G,164,,,,,,
+7kbj,G,165,,,,,,
+7kbj,G,166,,,,,,
+7kbj,G,167,,,,,,
+7kbj,G,168,,,,,,
+7kbj,G,169,,,,,,
+7kbj,G,170,,,,,,
+7kbj,G,171,,,,,,
+7kbj,G,172,,,,,,
+7kbj,G,173,,,,,,
+7kbj,G,174,,,,,,
+7kbj,G,175,,,,,,
+7kbj,G,176,,,,,,
+7kbj,G,177,,,,,,
+7kbj,G,178,,,,,,
+7kbj,G,179,,,,,,
+7kbj,G,180,,,,,,
+7kbj,G,181,,,,,,
+7kbj,G,182,,,,,,
+7kbj,G,183,,,,,,
+7kbj,G,184,,,,,,
+7kbj,H,246,,,,,,
+7kbj,H,247,,,,,,
+7kbj,H,248,,,,,,
+7kbj,H,249,,,,,,
+7kbj,H,250,,,,,,
+7kbj,H,251,,,,,,
+7kbj,H,252,,,,,,
+7kbj,H,253,,,,,,
+7kbj,H,254,,,,,,
+7kbj,H,255,,,,,,
+7kbj,H,256,,,,,,
+7kbj,H,257,,,,,,
+7kbj,H,258,,,,,,
+7kbj,H,259,,,,,,
+7kbj,H,260,,,,,,
+7kbj,H,261,,,,,,
+7kbj,H,262,,,,,,
+7kbj,H,263,,,,,,
+7kbj,H,264,,,,,,
+7kbj,H,265,,,,,,
+7kbj,H,266,,,,,,
+7kbj,H,267,,,,,,
+7kbj,H,268,,,,,,
+7kbj,H,269,,,,,,
+7kbj,H,270,,,,,,
+7kbj,H,271,,,,,,
+7kbj,H,272,,,,,,
+7kbj,H,273,,,,,,
+7kbj,H,274,,,,,,
+7kbj,H,275,,,,,,
+7kbj,H,276,,,,,,
+7kbj,H,277,,,,,,
+7kbj,H,278,,,,,,
+7kbj,H,279,,,,,,
+7kbj,H,280,,,,,,
+7kbj,H,281,,,,,,
+7kbj,H,282,,,,,,
+7kbj,H,283,,,,,,
+7kbj,H,284,,,,,,
+7kbj,H,285,,,,,,
+7kbj,H,286,,,,,,
+7kbj,H,287,,,,,,
+7kbj,H,288,,,,,,
+7kbj,H,289,,,,,,
+7kbj,H,290,,,,,,
+7kbj,H,291,,,,,,
+7kbj,H,292,,,,,,
+7kbj,H,293,,,,,,
+7kbj,H,294,,,,,,
+7kbj,H,295,,,,,,
+7kbj,H,296,,,,,,
+7kbj,H,297,,,,,,
+7kbj,H,298,,,,,,
+7kbj,H,299,,,,,,
+7kbj,H,300,,,,,,
+7kbj,H,301,,,,,,
+7kbj,H,302,,,,,,
+7kbj,H,303,,,,,,
+7kbj,H,304,,,,,,
+7kbj,H,305,,,,,,
+7kbj,H,306,,,,,,
+7kbj,H,307,,,,,,
+7kbj,H,308,,,,,,
+7kbj,H,309,,,,,,
+7kbj,H,310,,,,,,
+7kbj,H,311,,,,,,
+7kbj,H,312,,,,,,
+7kbj,H,313,,,,,,
+7kbj,H,314,,,,,,
+7kbj,H,315,,,,,,
+7kbj,H,316,,,,,,
+7kbj,H,317,,,,,,
+7kbj,H,318,,,,,,
+7kbj,H,319,,,,,,
+7kbj,H,320,,,,,,
+7kbj,H,321,,,,,,
+7kbj,H,322,,,,,,
+7kbj,H,323,,,,,,
+7kbj,H,324,,,,,,
+7kbj,H,325,,,,,,
+7kbj,H,326,,,,,,
+7kbj,H,327,,,,,,
+7kbj,H,328,,,,,,
+7kbj,H,329,,,,,,
+7kbj,H,330,,,,,,
+7kbj,H,331,,,,,,
+7kbj,H,332,,,,,,
+7kbj,H,333,,,,,,
+7kbj,H,334,,,,,,
+7kbj,H,335,,,,,,
+7kbj,H,336,,,,,,
+7kbj,H,337,,,,,,
+7kbj,H,338,,,,,,
+7kbj,H,339,,,,,,
+7kbj,H,340,,,,,,
+7kbj,H,341,,,,,,
+7kbj,H,342,,,,,,
+7kbj,H,343,,,,,,
+7kbj,H,344,,,,,,
+7kbj,H,345,,,,,,
+7kbj,H,346,,,,,,
+7kbj,H,347,,,,,,
+7kbj,H,348,,,,,,
+7kbj,H,349,,,,,,
+7kbj,H,350,,,,,,
+7kbj,A,370,,,,,,
+7kbj,A,371,,,,,,
+7kbj,A,372,,,,,,
+7kbj,A,373,,,,,,
+7kbj,A,374,,,,,,
+7kbj,A,375,,,,,,
+7kbj,A,376,,,,,,
+7kbj,A,377,,,,,,
+7kbj,A,378,,,,,,
+7kbj,A,379,,,,,,
+7kbj,A,380,,,,,,
+7kbj,A,381,,,,,,
+7kbj,A,382,,,,,,
+7kbj,A,383,,,,,,
+7kbj,A,384,,,,,,
+7kbj,A,385,,,,,,
+7kbj,A,386,,,,,,
+7kbj,A,387,,,,,,
+7kbj,A,388,,,,,,
+7kbj,A,389,,,,,,
+7kbj,A,390,,,,,,
+7kbj,A,391,,,,,,
+7kbj,A,392,,,,,,
+7kbj,A,393,,,,,,
+7kbj,A,394,,,,,,
+7kbj,A,395,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,396,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,397,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,398,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,399,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,400,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,401,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,402,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,403,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,404,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,405,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,406,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,407,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,408,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,409,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,410,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,411,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,412,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,413,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,414,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,415,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,416,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,417,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,418,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,419,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,420,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,421,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,422,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,423,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,424,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,425,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,426,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,427,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,428,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,429,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,430,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,431,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,432,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,433,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,434,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,435,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,436,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,437,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,438,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,439,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,440,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,441,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,442,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,443,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,444,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,445,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,446,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,447,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,448,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,449,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,450,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,451,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,452,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,453,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,454,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,455,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,456,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,457,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,458,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,459,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,460,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,461,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,462,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,463,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,464,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,465,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,466,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,467,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,468,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,469,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,470,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,471,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,472,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,473,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,474,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,475,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,476,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,477,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,478,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,479,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,480,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,481,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,482,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,483,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,484,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,485,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,486,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,487,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,488,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,489,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,490,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,491,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,492,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,493,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,494,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,495,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,496,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,497,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,498,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,499,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,500,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,501,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,502,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,503,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,504,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,505,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,506,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,507,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,508,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,509,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,510,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,511,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,512,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,513,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,514,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,515,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,516,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,517,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,518,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,519,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,520,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,521,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,522,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,523,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,524,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,525,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,526,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,527,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,528,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,529,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,530,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,531,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,532,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,533,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,534,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,535,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,536,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,537,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,538,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,539,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,540,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,541,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,542,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,543,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,544,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,545,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,546,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,547,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,548,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,549,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,550,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,551,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,552,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,553,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,554,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,555,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,556,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,557,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,558,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,559,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,560,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,561,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,562,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,563,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,564,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,565,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,566,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,567,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,568,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,569,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,570,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,571,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,572,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,573,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,574,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,575,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,576,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,577,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,578,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,579,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,580,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,581,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,582,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,583,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,584,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,585,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,586,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,587,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,588,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,589,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,590,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,591,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,592,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,593,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,594,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,595,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,596,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,597,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,598,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,599,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,600,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,601,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,602,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,603,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,604,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,605,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,606,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,607,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,608,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,609,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,610,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,611,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,612,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,613,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,614,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,615,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,616,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,617,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,618,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,619,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,620,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,621,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,622,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,623,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,624,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,625,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,626,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,627,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,628,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,629,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,630,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,631,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,632,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,633,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,634,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,635,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,636,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,637,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,638,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,639,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,640,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,641,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,642,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,643,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,644,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,645,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,646,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,647,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,648,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,649,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,650,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,651,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,652,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,653,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,654,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,655,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,656,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,657,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,658,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,659,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,660,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,661,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,662,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,663,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,664,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,665,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,666,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,667,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,668,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,669,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,670,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,671,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,672,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,673,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,674,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,675,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,676,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,677,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,678,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,679,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,680,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,681,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,682,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,683,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,684,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,685,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,686,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,687,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,688,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,689,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,690,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,691,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,692,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,693,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,694,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,695,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,696,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,697,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,698,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,699,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,700,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,701,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,702,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,703,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,704,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,705,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,706,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,707,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,708,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,709,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,710,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,711,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,712,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,713,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,714,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,715,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,716,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,717,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,718,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,719,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,720,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,721,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,722,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,723,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,724,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,725,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,726,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,727,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,728,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,729,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,730,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,731,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,732,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,733,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,734,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,735,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,736,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,737,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,738,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,739,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,740,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,741,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,742,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,743,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,744,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,745,,,e7kbjA1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,A,746,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,747,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,748,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,749,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,750,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,751,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,752,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,753,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,754,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,755,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,756,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,757,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,758,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,759,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,760,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,761,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,762,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,763,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,764,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,765,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,766,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,767,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,768,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,769,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,770,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,771,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,772,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,773,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,774,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,775,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,776,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,777,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,778,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,779,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,780,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,781,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,782,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,783,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,784,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,785,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,786,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,787,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,788,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,789,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,790,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,791,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,792,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,793,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,794,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,795,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,796,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,797,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,798,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,799,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,800,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,801,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,802,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,803,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,804,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,805,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,806,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,807,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,808,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,809,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,810,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,811,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,812,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,813,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,814,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,815,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,816,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,817,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,818,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,819,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,820,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,821,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,822,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,823,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,824,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,825,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,826,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,827,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,828,,,e7kbjA3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,A,829,,,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,830,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,831,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,832,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,833,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,834,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,835,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,836,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,837,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,838,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,839,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,840,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,841,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,842,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,843,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,844,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,845,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,846,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,847,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,848,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,849,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,850,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,851,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,852,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,853,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,854,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,855,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,856,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,857,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,858,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,859,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,860,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,861,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,862,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,863,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,864,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,865,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,866,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,867,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,868,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,869,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,870,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,871,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,872,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,873,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,874,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,875,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,876,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,877,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,878,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,879,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,880,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,881,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,882,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,883,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,884,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,885,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,886,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,887,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,888,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,889,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,890,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,891,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,892,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,893,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,894,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,895,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,896,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,897,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,898,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,899,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,900,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,901,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,902,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,903,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,904,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,905,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,906,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,907,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,908,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,909,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,910,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,911,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,912,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,913,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,914,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,915,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,916,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,917,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,918,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,919,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,920,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,921,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,922,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,923,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,924,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,925,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,926,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,927,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,928,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,929,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,930,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,931,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,932,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,933,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,934,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,935,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,936,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,937,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,938,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,939,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,940,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,941,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,942,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,943,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,944,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,945,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,946,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,947,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,948,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,949,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,950,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,951,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,952,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,953,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,954,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,955,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,956,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,957,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,958,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,959,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,960,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,961,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,962,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,963,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,964,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,965,7kbjAD01,1.0,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,A,966,,,e7kbjA2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,B,36,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,37,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,38,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,39,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,40,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,41,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,42,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,43,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,44,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,45,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,46,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,47,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,48,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,49,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,50,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,51,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,52,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,53,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,54,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,55,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,56,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,57,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,58,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,59,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,60,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,61,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,62,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,63,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,64,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,65,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,66,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,67,,,e7kbjB2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,68,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,69,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,70,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,71,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,72,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,73,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,74,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,75,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,76,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,77,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,78,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,79,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,80,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,81,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,82,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,83,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,84,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,85,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,86,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,87,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,88,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,89,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,90,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,91,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,92,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,93,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,94,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,95,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,96,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,97,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,98,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,99,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,100,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,101,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,102,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,103,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,104,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,105,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,106,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,107,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,108,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,109,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,110,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,111,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,112,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,113,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,114,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,115,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,116,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,B,117,,,e7kbjB1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,I,33,,,,,,
+7kbj,I,34,,,,,,
+7kbj,I,35,,,,,,
+7kbj,I,36,,,,,,
+7kbj,I,37,,,,,,
+7kbj,I,38,,,,,,
+7kbj,I,39,,,,,,
+7kbj,I,40,,,,,,
+7kbj,I,41,,,,,,
+7kbj,I,42,,,,,,
+7kbj,I,43,,,,,,
+7kbj,I,44,,,,,,
+7kbj,I,45,,,,,,
+7kbj,I,46,,,,,,
+7kbj,I,47,,,,,,
+7kbj,I,48,,,,,,
+7kbj,I,49,,,,,,
+7kbj,I,50,,,,,,
+7kbj,I,51,,,,,,
+7kbj,I,52,,,,,,
+7kbj,I,53,,,,,,
+7kbj,I,54,,,,,,
+7kbj,I,55,,,,,,
+7kbj,I,56,,,,,,
+7kbj,I,57,,,,,,
+7kbj,I,58,,,,,,
+7kbj,I,59,,,,,,
+7kbj,I,60,,,,,,
+7kbj,I,61,,,,,,
+7kbj,I,62,,,,,,
+7kbj,I,63,,,,,,
+7kbj,I,64,,,,,,
+7kbj,I,65,,,,,,
+7kbj,I,66,,,,,,
+7kbj,I,67,,,,,,
+7kbj,I,68,,,,,,
+7kbj,I,69,,,,,,
+7kbj,I,70,,,,,,
+7kbj,I,71,,,,,,
+7kbj,I,72,,,,,,
+7kbj,I,73,,,,,,
+7kbj,I,74,,,,,,
+7kbj,I,75,,,,,,
+7kbj,I,76,,,,,,
+7kbj,I,77,,,,,,
+7kbj,I,78,,,,,,
+7kbj,I,79,,,,,,
+7kbj,I,80,,,,,,
+7kbj,I,81,,,,,,
+7kbj,I,82,,,,,,
+7kbj,I,83,,,,,,
+7kbj,I,84,,,,,,
+7kbj,I,85,,,,,,
+7kbj,I,86,,,,,,
+7kbj,I,87,,,,,,
+7kbj,I,88,,,,,,
+7kbj,I,89,,,,,,
+7kbj,I,90,,,,,,
+7kbj,I,91,,,,,,
+7kbj,I,92,,,,,,
+7kbj,I,93,,,,,,
+7kbj,I,94,,,,,,
+7kbj,I,95,,,,,,
+7kbj,I,96,,,,,,
+7kbj,I,97,,,,,,
+7kbj,I,98,,,,,,
+7kbj,I,99,,,,,,
+7kbj,I,100,,,,,,
+7kbj,I,101,,,,,,
+7kbj,I,102,,,,,,
+7kbj,I,103,,,,,,
+7kbj,I,104,,,,,,
+7kbj,I,105,,,,,,
+7kbj,I,106,,,,,,
+7kbj,I,107,,,,,,
+7kbj,I,108,,,,,,
+7kbj,I,109,,,,,,
+7kbj,I,110,,,,,,
+7kbj,I,111,,,,,,
+7kbj,I,112,,,,,,
+7kbj,I,113,,,,,,
+7kbj,I,114,,,,,,
+7kbj,I,115,,,,,,
+7kbj,I,116,,,,,,
+7kbj,I,117,,,,,,
+7kbj,I,118,,,,,,
+7kbj,I,119,,,,,,
+7kbj,I,120,,,,,,
+7kbj,I,121,,,,,,
+7kbj,I,122,,,,,,
+7kbj,I,123,,,,,,
+7kbj,I,124,,,,,,
+7kbj,I,125,,,,,,
+7kbj,I,126,,,,,,
+7kbj,I,127,,,,,,
+7kbj,I,128,,,,,,
+7kbj,I,129,,,,,,
+7kbj,I,130,,,,,,
+7kbj,I,131,,,,,,
+7kbj,I,132,,,,,,
+7kbj,I,133,,,,,,
+7kbj,I,134,,,,,,
+7kbj,I,135,,,,,,
+7kbj,I,136,,,,,,
+7kbj,I,137,,,,,,
+7kbj,I,138,,,,,,
+7kbj,I,139,,,,,,
+7kbj,I,140,,,,,,
+7kbj,I,141,,,,,,
+7kbj,I,142,,,,,,
+7kbj,I,143,,,,,,
+7kbj,I,144,,,,,,
+7kbj,I,145,,,,,,
+7kbj,I,146,,,,,,
+7kbj,I,147,,,,,,
+7kbj,I,148,,,,,,
+7kbj,I,149,,,,,,
+7kbj,I,150,,,,,,
+7kbj,I,151,,,,,,
+7kbj,I,152,,,,,,
+7kbj,I,153,,,,,,
+7kbj,I,154,,,,,,
+7kbj,I,155,,,,,,
+7kbj,I,156,,,,,,
+7kbj,I,157,,,,,,
+7kbj,I,158,,,,,,
+7kbj,I,159,,,,,,
+7kbj,I,160,,,,,,
+7kbj,I,161,,,,,,
+7kbj,I,162,,,,,,
+7kbj,I,163,,,,,,
+7kbj,I,164,,,,,,
+7kbj,I,165,,,,,,
+7kbj,I,166,,,,,,
+7kbj,I,167,,,,,,
+7kbj,I,168,,,,,,
+7kbj,I,169,,,,,,
+7kbj,I,170,,,,,,
+7kbj,I,171,,,,,,
+7kbj,I,172,,,,,,
+7kbj,I,173,,,,,,
+7kbj,I,174,,,,,,
+7kbj,I,175,,,,,,
+7kbj,I,176,,,,,,
+7kbj,I,177,,,,,,
+7kbj,I,178,,,,,,
+7kbj,I,179,,,,,,
+7kbj,I,180,,,,,,
+7kbj,I,181,,,,,,
+7kbj,I,182,,,,,,
+7kbj,I,183,,,,,,
+7kbj,I,184,,,,,,
+7kbj,I,185,,,,,,
+7kbj,J,244,,,,,,
+7kbj,J,245,,,,,,
+7kbj,J,246,,,,,,
+7kbj,J,247,,,,,,
+7kbj,J,248,,,,,,
+7kbj,J,249,,,,,,
+7kbj,J,250,,,,,,
+7kbj,J,251,,,,,,
+7kbj,J,252,,,,,,
+7kbj,J,253,,,,,,
+7kbj,J,254,,,,,,
+7kbj,J,255,,,,,,
+7kbj,J,256,,,,,,
+7kbj,J,257,,,,,,
+7kbj,J,258,,,,,,
+7kbj,J,259,,,,,,
+7kbj,J,260,,,,,,
+7kbj,J,261,,,,,,
+7kbj,J,262,,,,,,
+7kbj,J,263,,,,,,
+7kbj,J,264,,,,,,
+7kbj,J,265,,,,,,
+7kbj,J,266,,,,,,
+7kbj,J,267,,,,,,
+7kbj,J,268,,,,,,
+7kbj,J,269,,,,,,
+7kbj,J,270,,,,,,
+7kbj,J,271,,,,,,
+7kbj,J,272,,,,,,
+7kbj,J,273,,,,,,
+7kbj,J,274,,,,,,
+7kbj,J,275,,,,,,
+7kbj,J,276,,,,,,
+7kbj,J,277,,,,,,
+7kbj,J,278,,,,,,
+7kbj,J,279,,,,,,
+7kbj,J,280,,,,,,
+7kbj,J,281,,,,,,
+7kbj,J,282,,,,,,
+7kbj,J,283,,,,,,
+7kbj,J,284,,,,,,
+7kbj,J,285,,,,,,
+7kbj,J,286,,,,,,
+7kbj,J,287,,,,,,
+7kbj,J,288,,,,,,
+7kbj,J,289,,,,,,
+7kbj,J,290,,,,,,
+7kbj,J,291,,,,,,
+7kbj,J,292,,,,,,
+7kbj,J,293,,,,,,
+7kbj,J,294,,,,,,
+7kbj,J,295,,,,,,
+7kbj,J,296,,,,,,
+7kbj,J,297,,,,,,
+7kbj,J,298,,,,,,
+7kbj,J,299,,,,,,
+7kbj,J,300,,,,,,
+7kbj,J,301,,,,,,
+7kbj,J,302,,,,,,
+7kbj,J,303,,,,,,
+7kbj,J,304,,,,,,
+7kbj,J,305,,,,,,
+7kbj,J,306,,,,,,
+7kbj,J,307,,,,,,
+7kbj,J,308,,,,,,
+7kbj,J,309,,,,,,
+7kbj,J,310,,,,,,
+7kbj,J,311,,,,,,
+7kbj,J,312,,,,,,
+7kbj,J,313,,,,,,
+7kbj,J,314,,,,,,
+7kbj,J,315,,,,,,
+7kbj,J,316,,,,,,
+7kbj,J,317,,,,,,
+7kbj,J,318,,,,,,
+7kbj,J,319,,,,,,
+7kbj,J,320,,,,,,
+7kbj,J,321,,,,,,
+7kbj,J,322,,,,,,
+7kbj,J,323,,,,,,
+7kbj,J,324,,,,,,
+7kbj,J,325,,,,,,
+7kbj,J,326,,,,,,
+7kbj,J,327,,,,,,
+7kbj,J,328,,,,,,
+7kbj,J,329,,,,,,
+7kbj,J,330,,,,,,
+7kbj,J,331,,,,,,
+7kbj,J,332,,,,,,
+7kbj,J,333,,,,,,
+7kbj,J,334,,,,,,
+7kbj,J,335,,,,,,
+7kbj,J,336,,,,,,
+7kbj,J,337,,,,,,
+7kbj,J,338,,,,,,
+7kbj,J,339,,,,,,
+7kbj,J,340,,,,,,
+7kbj,J,341,,,,,,
+7kbj,J,342,,,,,,
+7kbj,J,343,,,,,,
+7kbj,J,344,,,,,,
+7kbj,J,345,,,,,,
+7kbj,J,346,,,,,,
+7kbj,J,347,,,,,,
+7kbj,J,348,,,,,,
+7kbj,J,349,,,,,,
+7kbj,J,350,,,,,,
+7kbj,C,370,,,,,,
+7kbj,C,371,,,,,,
+7kbj,C,372,,,,,,
+7kbj,C,373,,,,,,
+7kbj,C,374,,,,,,
+7kbj,C,375,,,,,,
+7kbj,C,376,,,,,,
+7kbj,C,377,,,,,,
+7kbj,C,378,,,,,,
+7kbj,C,379,,,,,,
+7kbj,C,380,,,,,,
+7kbj,C,381,,,,,,
+7kbj,C,382,,,,,,
+7kbj,C,383,,,,,,
+7kbj,C,384,,,,,,
+7kbj,C,385,,,,,,
+7kbj,C,386,,,,,,
+7kbj,C,387,,,,,,
+7kbj,C,388,,,,,,
+7kbj,C,389,,,,,,
+7kbj,C,390,,,,,,
+7kbj,C,391,,,,,,
+7kbj,C,392,,,,,,
+7kbj,C,393,,,,,,
+7kbj,C,394,,,,,,
+7kbj,C,395,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,396,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,397,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,398,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,399,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,400,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,401,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,402,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,403,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,404,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,405,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,406,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,407,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,408,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,409,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,410,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,411,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,412,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,413,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,414,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,415,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,416,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,417,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,418,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,419,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,420,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,421,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,422,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,423,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,424,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,425,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,426,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,427,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,428,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,429,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,430,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,431,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,432,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,433,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,434,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,435,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,436,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,437,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,438,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,439,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,440,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,441,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,442,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,443,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,444,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,445,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,446,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,447,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,448,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,449,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,450,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,451,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,452,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,453,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,454,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,455,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,456,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,457,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,458,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,459,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,460,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,461,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,462,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,463,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,464,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,465,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,466,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,467,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,468,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,469,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,470,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,471,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,472,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,473,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,474,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,475,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,476,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,477,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,478,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,479,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,480,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,481,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,482,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,483,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,484,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,485,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,486,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,487,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,488,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,489,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,490,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,491,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,492,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,493,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,494,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,495,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,496,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,497,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,498,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,499,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,500,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,501,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,502,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,503,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,504,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,505,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,506,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,507,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,508,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,509,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,510,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,511,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,512,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,513,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,514,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,515,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,516,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,517,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,518,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,519,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,520,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,521,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,522,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,523,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,524,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,525,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,526,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,527,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,528,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,529,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,530,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,531,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,532,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,533,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,534,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,535,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,536,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,537,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,538,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,539,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,540,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,541,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,542,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,543,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,544,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,545,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,546,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,547,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,548,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,549,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,550,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,551,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,552,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,553,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,554,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,555,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,556,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,557,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,558,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,559,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,560,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,561,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,562,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,563,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,564,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,565,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,566,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,567,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,568,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,569,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,570,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,571,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,572,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,573,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,574,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,575,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,576,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,577,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,578,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,579,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,580,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,581,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,582,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,583,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,584,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,585,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,586,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,587,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,588,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,589,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,590,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,591,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,592,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,593,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,594,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,595,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,596,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,597,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,598,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,599,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,600,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,601,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,602,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,603,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,604,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,605,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,606,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,607,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,608,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,609,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,610,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,611,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,612,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,613,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,614,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,615,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,616,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,617,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,618,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,619,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,620,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,621,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,622,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,623,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,624,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,625,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,626,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,627,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,628,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,629,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,630,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,631,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,632,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,633,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,634,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,635,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,636,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,637,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,638,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,639,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,640,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,641,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,642,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,643,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,644,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,645,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,646,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,647,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,648,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,649,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,650,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,651,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,652,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,653,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,654,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,655,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,656,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,657,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,658,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,659,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,660,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,661,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,662,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,663,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,664,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,665,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,666,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,667,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,668,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,669,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,670,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,671,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,672,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,673,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,674,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,675,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,676,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,677,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,678,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,679,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,680,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,681,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,682,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,683,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,684,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,685,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,686,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,687,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,688,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,689,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,690,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,691,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,692,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,693,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,694,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,695,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,696,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,697,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,698,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,699,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,700,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,701,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,702,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,703,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,704,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,705,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,706,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,707,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,708,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,709,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,710,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,711,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,712,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,713,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,714,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,715,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,716,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,717,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,718,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,719,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,720,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,721,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,722,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,723,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,724,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,725,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,726,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,727,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,728,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,729,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,730,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,731,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,732,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,733,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,734,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,735,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,736,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,737,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,738,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,739,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,740,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,741,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,742,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,743,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,744,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,745,,,e7kbjC1,2002.1.1.222,TIM barrels,Glyco_hydro_31_N
+7kbj,C,746,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,747,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,748,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,749,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,750,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,751,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,752,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,753,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,754,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,755,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,756,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,757,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,758,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,759,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,760,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,761,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,762,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,763,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,764,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,765,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,766,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,767,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,768,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,769,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,770,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,771,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,772,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,773,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,774,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,775,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,776,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,777,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,778,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,779,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,780,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,781,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,782,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,783,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,784,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,785,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,786,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,787,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,788,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,789,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,790,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,791,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,792,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,793,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,794,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,795,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,796,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,797,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,798,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,799,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,800,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,801,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,802,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,803,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,804,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,805,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,806,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,807,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,808,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,809,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,810,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,811,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,812,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,813,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,814,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,815,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,816,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,817,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,818,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,819,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,820,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,821,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,822,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,823,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,824,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,825,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,826,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,827,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,828,,,e7kbjC3,12.1.1.249,Glycosyl hydrolase domain,Glyco_hydro_31_C
+7kbj,C,829,,,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,830,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,831,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,832,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,833,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,834,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,835,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,836,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,837,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,838,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,839,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,840,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,841,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,842,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,843,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,844,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,845,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,846,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,847,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,848,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,849,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,850,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,851,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,852,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,853,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,854,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,855,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,856,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,857,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,858,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,859,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,860,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,861,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,862,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,863,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,864,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,865,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,866,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,867,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,868,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,869,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,870,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,871,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,872,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,873,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,874,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,875,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,876,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,877,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,878,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,879,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,880,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,881,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,882,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,883,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,884,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,885,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,886,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,887,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,888,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,889,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,890,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,891,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,892,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,893,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,894,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,895,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,896,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,897,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,898,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,899,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,900,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,901,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,902,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,903,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,904,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,905,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,906,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,907,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,908,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,909,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,910,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,911,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,912,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,913,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,914,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,915,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,916,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,917,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,918,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,919,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,920,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,921,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,922,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,923,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,924,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,925,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,926,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,927,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,928,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,929,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,930,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,931,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,932,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,933,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,934,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,935,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,936,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,937,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,938,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,939,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,940,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,941,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,942,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,943,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,944,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,945,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,946,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,947,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,948,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,949,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,950,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,951,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,952,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,953,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,954,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,955,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,956,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,957,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,958,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,959,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,960,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,961,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,962,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,963,7kbjCD01,1.0,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,964,,,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,965,,,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,C,966,,,e7kbjC2,4178.1.1.9,"""Putative glucosidase YicI, C-terminal domain""",DUF5110_1
+7kbj,D,34,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,35,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,36,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,37,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,38,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,39,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,40,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,41,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,42,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,43,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,44,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,45,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,46,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,47,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,48,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,49,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,50,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,51,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,52,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,53,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,54,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,55,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,56,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,57,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,58,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,59,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,60,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,61,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,62,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,63,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,64,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,65,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,66,,,e7kbjD2,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,67,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,68,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,69,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,70,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,71,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,72,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,73,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,74,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,75,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,76,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,77,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,78,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,79,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,80,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,81,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,82,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,83,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,84,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,85,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,86,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,87,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,88,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,89,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,90,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,91,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,92,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,93,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,94,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,95,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,96,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,97,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,98,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,99,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,100,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,101,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,102,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,103,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,104,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,105,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,106,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,107,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,108,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,109,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,110,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,111,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,112,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,113,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,114,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,115,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,116,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like
+7kbj,D,117,,,e7kbjD1,389.3.1.6,LDL receptor-like module,PRKCSH-like

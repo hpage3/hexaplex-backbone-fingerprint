@@ -1,0 +1,587 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+2owo,A,1,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,2,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,3,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,4,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,5,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,6,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,7,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,8,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,9,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,10,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,11,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,12,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,13,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,14,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,15,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,16,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,17,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,18,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,19,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,20,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,21,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,22,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,23,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,24,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,25,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,26,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,27,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,28,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,29,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,30,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,31,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,32,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,33,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,34,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,35,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,36,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,37,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,38,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,39,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,40,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,41,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,42,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,43,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,44,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,45,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,46,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,47,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,48,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,49,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,50,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,51,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,52,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,53,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,54,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,55,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,56,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,57,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,58,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,59,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,60,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,61,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,62,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,63,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,64,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,65,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,66,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,67,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,68,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,69,2owoAD07,1.0,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,70,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,71,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,72,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,73,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,74,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,75,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,76,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,77,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,78,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,79,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,80,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,81,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,82,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,83,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,84,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,85,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,86,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,87,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,88,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,89,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,90,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,91,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,92,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,93,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,94,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,95,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,96,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,97,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,98,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,99,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,100,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,101,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,102,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,103,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,104,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,105,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,106,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,107,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,108,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,109,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,110,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,111,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,112,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,113,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,114,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,115,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,116,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,117,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,118,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,119,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,120,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,121,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,122,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,123,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,124,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,125,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,126,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,127,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,128,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,129,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,130,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,131,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,132,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,133,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,134,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,135,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,136,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,137,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,138,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,139,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,140,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,141,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,142,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,143,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,144,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,145,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,146,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,147,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,148,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,149,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,150,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,151,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,152,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,153,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,154,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,155,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,156,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,157,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,158,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,159,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,160,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,161,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,162,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,163,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,164,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,165,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,166,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,167,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,168,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,169,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,170,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,171,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,172,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,173,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,174,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,175,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,176,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,177,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,178,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,179,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,180,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,181,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,182,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,183,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,184,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,185,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,186,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,187,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,188,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,189,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,190,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,191,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,192,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,193,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,194,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,195,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,196,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,197,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,198,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,199,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,200,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,201,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,202,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,203,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,204,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,205,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,206,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,207,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,208,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,209,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,210,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,211,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,212,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,213,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,214,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,215,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,216,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,217,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,218,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,219,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,220,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,221,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,222,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,223,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,224,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,225,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,226,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,227,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,228,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,229,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,230,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,231,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,232,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,233,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,234,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,235,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,236,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,237,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,238,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,239,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,240,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,241,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,242,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,243,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,244,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,245,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,246,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,247,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,248,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,249,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,250,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,251,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,252,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,253,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,254,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,255,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,256,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,257,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,258,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,259,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,260,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,261,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,262,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,263,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,264,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,265,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,266,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,267,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,268,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,269,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,270,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,271,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,272,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,273,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,274,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,275,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,276,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,277,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,278,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,279,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,280,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,281,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,282,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,283,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,284,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,285,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,286,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,287,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,288,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,289,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,290,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,291,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,292,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,293,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,294,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,295,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,296,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,297,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,298,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,299,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,300,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,301,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,302,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,303,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,304,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,305,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,306,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,307,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,308,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,309,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,310,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,311,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,312,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,313,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,314,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,315,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,316,,,e2owoA4,206.1.3.12,ATP-grasp,DNA_ligase_aden
+2owo,A,317,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,318,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,319,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,320,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,321,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,322,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,323,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,324,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,325,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,326,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,327,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,328,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,329,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,330,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,331,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,332,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,333,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,334,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,335,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,336,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,337,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,338,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,339,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,340,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,341,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,342,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,343,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,344,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,345,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,346,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,347,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,348,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,349,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,350,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,351,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,352,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,353,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,354,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,355,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,356,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,357,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,358,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,359,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,360,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,361,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,362,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,363,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,364,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,365,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,366,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,367,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,368,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,369,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,370,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,371,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,372,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,373,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,374,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,375,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,376,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,377,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,378,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,379,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,380,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,381,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,382,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,383,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,384,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,385,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,386,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,387,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,388,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,389,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,390,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,391,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,392,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,393,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,394,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,395,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,396,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,397,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,398,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,399,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,400,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,401,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,402,,,e2owoA3,2.1.1.11,Nucleic acid-binding proteins,DNA_ligase_OB
+2owo,A,403,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,404,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,405,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,406,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,407,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,408,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,409,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,410,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,411,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,412,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,413,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,414,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,415,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,416,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,417,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,418,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,419,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,420,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,421,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,422,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,423,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,424,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,425,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,426,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,427,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,428,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,429,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,430,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,431,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,432,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,433,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,434,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,435,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,436,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,437,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,438,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,439,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,440,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,441,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,442,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,443,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,444,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,445,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,446,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,447,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,448,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,449,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,450,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,451,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,452,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,453,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,454,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,455,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,456,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,457,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,458,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,459,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,460,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,461,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,462,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,463,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,464,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,465,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,466,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,467,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,468,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,469,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,470,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,471,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,472,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,473,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,474,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,475,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,476,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,477,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,478,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,479,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,480,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,481,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,482,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,483,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,484,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,485,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,486,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,487,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,488,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,489,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,490,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,491,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,492,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,493,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,494,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,495,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,496,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,497,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,498,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,499,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,500,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,501,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,502,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,503,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,504,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,505,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,506,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,507,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,508,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,509,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,510,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,511,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,512,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,513,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,514,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,515,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,516,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,517,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,518,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,519,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,520,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,521,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,522,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,523,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,524,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,525,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,526,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,527,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,528,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,529,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,530,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,531,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,532,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,533,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,534,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,535,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,536,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,537,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,538,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,539,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,540,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,541,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,542,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,543,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,544,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,545,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,546,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,547,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,548,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,549,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,550,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,551,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,552,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,553,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,554,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,555,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,556,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,557,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,558,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,559,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,560,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,561,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,562,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,563,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,564,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,565,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,566,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,567,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,568,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,569,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,570,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,571,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,572,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,573,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,574,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,575,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,576,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,577,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,578,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,579,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,580,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,581,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,582,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,583,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,584,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,585,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2
+2owo,A,586,,,e2owoA2,102.1.1.221,SAM domain-like,HHH_2

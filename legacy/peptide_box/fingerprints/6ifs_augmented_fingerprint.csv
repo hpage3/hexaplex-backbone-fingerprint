@@ -1,0 +1,568 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+6ifs,A,3,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,4,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,5,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,6,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,7,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,8,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,9,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,10,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,11,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,12,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,13,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,14,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,15,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,16,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,17,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,18,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,19,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,20,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,21,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,22,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,23,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,24,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,25,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,26,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,27,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,28,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,29,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,30,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,31,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,32,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,33,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,34,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,35,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,36,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,37,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,38,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,39,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,40,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,41,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,42,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,43,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,44,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,45,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,46,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,47,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,48,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,49,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,50,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,51,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,52,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,53,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,54,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,55,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,56,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,57,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,58,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,59,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,60,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,61,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,62,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,63,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,64,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,65,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,66,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,67,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,68,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,69,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,70,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,71,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,72,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,73,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,74,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,75,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,76,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,77,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,78,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,79,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,80,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,81,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,82,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,83,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,84,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,85,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,86,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,87,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,88,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,89,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,90,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,91,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,92,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,93,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,94,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,95,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,96,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,97,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,98,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,99,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,100,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,101,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,102,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,103,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,104,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,105,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,106,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,107,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,108,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,109,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,110,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,111,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,112,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,113,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,114,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,115,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,116,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,117,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,118,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,119,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,120,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,121,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,122,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,123,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,124,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,125,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,126,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,127,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,128,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,129,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,130,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,131,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,132,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,133,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,134,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,135,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,136,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,137,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,138,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,139,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,140,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,141,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,142,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,143,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,144,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,145,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,146,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,147,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,148,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,149,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,150,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,151,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,152,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,153,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,154,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,155,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,156,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,157,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,158,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,159,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,160,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,161,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,162,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,163,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,164,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,165,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,166,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,167,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,168,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,169,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,170,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,171,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,172,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,173,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,174,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,175,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,176,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,177,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,178,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,179,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,180,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,181,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,182,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,183,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,184,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,185,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,186,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,187,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,188,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,189,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,190,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,191,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,192,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,193,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,194,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,195,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,196,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,197,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,198,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,199,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,200,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,201,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,202,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,203,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,204,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,205,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,206,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,207,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,208,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,209,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,210,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,211,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,212,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,213,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,214,6ifsAD02,1.0,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,215,,,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,216,,,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,217,,,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,218,,,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,219,,,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,220,,,e6ifsA1,2003.1.5.385,S-adenosyl-L-methionine-dependent methyltransferases,RrnaAD_N
+6ifs,A,221,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,222,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,223,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,224,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,225,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,226,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,227,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,228,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,229,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,230,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,231,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,232,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,233,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,234,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,235,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,236,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,237,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,238,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,239,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,240,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,241,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,242,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,243,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,244,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,245,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,246,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,247,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,248,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,249,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,250,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,251,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,252,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,253,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,254,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,255,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,256,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,257,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,258,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,259,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,260,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,261,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,262,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,263,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,264,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,265,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,266,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,267,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,268,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,269,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,270,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,271,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,272,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,273,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,274,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,275,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,276,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,277,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,278,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,279,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,280,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,281,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,282,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,283,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,284,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,285,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,286,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,287,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,288,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,289,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,290,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,291,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,A,292,,,e6ifsA2,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,6,,,,,,
+6ifs,B,7,,,,,,
+6ifs,B,8,6ifsBD02,1.0,,,,
+6ifs,B,9,6ifsBD02,1.0,,,,
+6ifs,B,10,6ifsBD02,1.0,,,,
+6ifs,B,11,6ifsBD02,1.0,,,,
+6ifs,B,12,6ifsBD02,1.0,,,,
+6ifs,B,13,6ifsBD02,1.0,,,,
+6ifs,B,14,6ifsBD02,1.0,,,,
+6ifs,B,15,6ifsBD02,1.0,,,,
+6ifs,B,16,6ifsBD02,1.0,,,,
+6ifs,B,17,6ifsBD02,1.0,,,,
+6ifs,B,18,6ifsBD02,1.0,,,,
+6ifs,B,29,6ifsBD02,1.0,,,,
+6ifs,B,30,6ifsBD02,1.0,,,,
+6ifs,B,31,6ifsBD02,1.0,,,,
+6ifs,B,32,6ifsBD02,1.0,,,,
+6ifs,B,33,6ifsBD02,1.0,,,,
+6ifs,B,34,6ifsBD02,1.0,,,,
+6ifs,B,35,6ifsBD02,1.0,,,,
+6ifs,B,36,6ifsBD02,1.0,,,,
+6ifs,B,37,6ifsBD02,1.0,,,,
+6ifs,B,38,6ifsBD02,1.0,,,,
+6ifs,B,39,6ifsBD02,1.0,,,,
+6ifs,B,40,6ifsBD02,1.0,,,,
+6ifs,B,41,6ifsBD02,1.0,,,,
+6ifs,B,42,6ifsBD02,1.0,,,,
+6ifs,B,43,6ifsBD02,1.0,,,,
+6ifs,B,44,6ifsBD02,1.0,,,,
+6ifs,B,45,6ifsBD02,1.0,,,,
+6ifs,B,46,6ifsBD02,1.0,,,,
+6ifs,B,47,6ifsBD02,1.0,,,,
+6ifs,B,48,6ifsBD02,1.0,,,,
+6ifs,B,49,6ifsBD02,1.0,,,,
+6ifs,B,50,6ifsBD02,1.0,,,,
+6ifs,B,51,6ifsBD02,1.0,,,,
+6ifs,B,52,6ifsBD02,1.0,,,,
+6ifs,B,53,6ifsBD02,1.0,,,,
+6ifs,B,54,6ifsBD02,1.0,,,,
+6ifs,B,55,6ifsBD02,1.0,,,,
+6ifs,B,56,6ifsBD02,1.0,,,,
+6ifs,B,57,6ifsBD02,1.0,,,,
+6ifs,B,58,6ifsBD02,1.0,,,,
+6ifs,B,59,6ifsBD02,1.0,,,,
+6ifs,B,60,6ifsBD02,1.0,,,,
+6ifs,B,61,6ifsBD02,1.0,,,,
+6ifs,B,62,6ifsBD02,1.0,,,,
+6ifs,B,63,6ifsBD02,1.0,,,,
+6ifs,B,64,6ifsBD02,1.0,,,,
+6ifs,B,65,6ifsBD02,1.0,,,,
+6ifs,B,66,6ifsBD02,1.0,,,,
+6ifs,B,67,6ifsBD02,1.0,,,,
+6ifs,B,68,6ifsBD02,1.0,,,,
+6ifs,B,69,6ifsBD02,1.0,,,,
+6ifs,B,70,6ifsBD02,1.0,,,,
+6ifs,B,71,6ifsBD02,1.0,,,,
+6ifs,B,72,6ifsBD02,1.0,,,,
+6ifs,B,73,6ifsBD02,1.0,,,,
+6ifs,B,74,6ifsBD02,1.0,,,,
+6ifs,B,75,6ifsBD02,1.0,,,,
+6ifs,B,76,6ifsBD02,1.0,,,,
+6ifs,B,77,6ifsBD02,1.0,,,,
+6ifs,B,78,6ifsBD02,1.0,,,,
+6ifs,B,79,6ifsBD02,1.0,,,,
+6ifs,B,80,6ifsBD02,1.0,,,,
+6ifs,B,81,6ifsBD02,1.0,,,,
+6ifs,B,82,6ifsBD02,1.0,,,,
+6ifs,B,83,6ifsBD02,1.0,,,,
+6ifs,B,84,6ifsBD02,1.0,,,,
+6ifs,B,85,6ifsBD02,1.0,,,,
+6ifs,B,86,6ifsBD02,1.0,,,,
+6ifs,B,87,6ifsBD02,1.0,,,,
+6ifs,B,88,6ifsBD02,1.0,,,,
+6ifs,B,89,6ifsBD02,1.0,,,,
+6ifs,B,90,6ifsBD02,1.0,,,,
+6ifs,B,91,6ifsBD02,1.0,,,,
+6ifs,B,92,6ifsBD02,1.0,,,,
+6ifs,B,93,6ifsBD02,1.0,,,,
+6ifs,B,94,6ifsBD02,1.0,,,,
+6ifs,B,95,6ifsBD02,1.0,,,,
+6ifs,B,96,6ifsBD02,1.0,,,,
+6ifs,B,97,6ifsBD02,1.0,,,,
+6ifs,B,98,6ifsBD02,1.0,,,,
+6ifs,B,99,6ifsBD02,1.0,,,,
+6ifs,B,100,6ifsBD02,1.0,,,,
+6ifs,B,101,6ifsBD02,1.0,,,,
+6ifs,B,102,6ifsBD02,1.0,,,,
+6ifs,B,103,6ifsBD02,1.0,,,,
+6ifs,B,104,6ifsBD02,1.0,,,,
+6ifs,B,105,6ifsBD02,1.0,,,,
+6ifs,B,106,6ifsBD02,1.0,,,,
+6ifs,B,107,6ifsBD02,1.0,,,,
+6ifs,B,108,6ifsBD02,1.0,,,,
+6ifs,B,109,6ifsBD02,1.0,,,,
+6ifs,B,110,6ifsBD02,1.0,,,,
+6ifs,B,111,6ifsBD02,1.0,,,,
+6ifs,B,112,6ifsBD02,1.0,,,,
+6ifs,B,113,6ifsBD02,1.0,,,,
+6ifs,B,114,6ifsBD02,1.0,,,,
+6ifs,B,115,6ifsBD02,1.0,,,,
+6ifs,B,116,6ifsBD02,1.0,,,,
+6ifs,B,117,6ifsBD02,1.0,,,,
+6ifs,B,118,6ifsBD02,1.0,,,,
+6ifs,B,119,6ifsBD02,1.0,,,,
+6ifs,B,120,6ifsBD02,1.0,,,,
+6ifs,B,121,6ifsBD02,1.0,,,,
+6ifs,B,122,6ifsBD02,1.0,,,,
+6ifs,B,123,6ifsBD02,1.0,,,,
+6ifs,B,124,6ifsBD02,1.0,,,,
+6ifs,B,125,6ifsBD02,1.0,,,,
+6ifs,B,126,6ifsBD02,1.0,,,,
+6ifs,B,127,6ifsBD02,1.0,,,,
+6ifs,B,128,6ifsBD02,1.0,,,,
+6ifs,B,129,6ifsBD02,1.0,,,,
+6ifs,B,130,6ifsBD02,1.0,,,,
+6ifs,B,131,6ifsBD02,1.0,,,,
+6ifs,B,132,6ifsBD02,1.0,,,,
+6ifs,B,133,6ifsBD02,1.0,,,,
+6ifs,B,134,6ifsBD02,1.0,,,,
+6ifs,B,135,6ifsBD02,1.0,,,,
+6ifs,B,136,6ifsBD02,1.0,,,,
+6ifs,B,137,6ifsBD02,1.0,,,,
+6ifs,B,138,6ifsBD02,1.0,,,,
+6ifs,B,139,6ifsBD02,1.0,,,,
+6ifs,B,140,6ifsBD02,1.0,,,,
+6ifs,B,141,6ifsBD02,1.0,,,,
+6ifs,B,142,6ifsBD02,1.0,,,,
+6ifs,B,143,6ifsBD02,1.0,,,,
+6ifs,B,144,6ifsBD02,1.0,,,,
+6ifs,B,145,6ifsBD02,1.0,,,,
+6ifs,B,146,6ifsBD02,1.0,,,,
+6ifs,B,147,6ifsBD02,1.0,,,,
+6ifs,B,148,6ifsBD02,1.0,,,,
+6ifs,B,149,6ifsBD02,1.0,,,,
+6ifs,B,150,6ifsBD02,1.0,,,,
+6ifs,B,151,6ifsBD02,1.0,,,,
+6ifs,B,152,6ifsBD02,1.0,,,,
+6ifs,B,153,6ifsBD02,1.0,,,,
+6ifs,B,154,6ifsBD02,1.0,,,,
+6ifs,B,155,6ifsBD02,1.0,,,,
+6ifs,B,156,6ifsBD02,1.0,,,,
+6ifs,B,157,6ifsBD02,1.0,,,,
+6ifs,B,158,6ifsBD02,1.0,,,,
+6ifs,B,159,6ifsBD02,1.0,,,,
+6ifs,B,160,6ifsBD02,1.0,,,,
+6ifs,B,161,6ifsBD02,1.0,,,,
+6ifs,B,162,6ifsBD02,1.0,,,,
+6ifs,B,163,6ifsBD02,1.0,,,,
+6ifs,B,164,6ifsBD02,1.0,,,,
+6ifs,B,165,6ifsBD02,1.0,,,,
+6ifs,B,166,6ifsBD02,1.0,,,,
+6ifs,B,167,6ifsBD02,1.0,,,,
+6ifs,B,168,6ifsBD02,1.0,,,,
+6ifs,B,169,6ifsBD02,1.0,,,,
+6ifs,B,170,6ifsBD02,1.0,,,,
+6ifs,B,171,6ifsBD02,1.0,,,,
+6ifs,B,172,6ifsBD02,1.0,,,,
+6ifs,B,173,6ifsBD02,1.0,,,,
+6ifs,B,174,6ifsBD02,1.0,,,,
+6ifs,B,175,6ifsBD02,1.0,,,,
+6ifs,B,176,6ifsBD02,1.0,,,,
+6ifs,B,177,6ifsBD02,1.0,,,,
+6ifs,B,178,6ifsBD02,1.0,,,,
+6ifs,B,179,6ifsBD02,1.0,,,,
+6ifs,B,180,6ifsBD02,1.0,,,,
+6ifs,B,181,6ifsBD02,1.0,,,,
+6ifs,B,182,6ifsBD02,1.0,,,,
+6ifs,B,183,6ifsBD02,1.0,,,,
+6ifs,B,184,6ifsBD02,1.0,,,,
+6ifs,B,185,6ifsBD02,1.0,,,,
+6ifs,B,186,6ifsBD02,1.0,,,,
+6ifs,B,187,6ifsBD02,1.0,,,,
+6ifs,B,188,6ifsBD02,1.0,,,,
+6ifs,B,189,6ifsBD02,1.0,,,,
+6ifs,B,190,6ifsBD02,1.0,,,,
+6ifs,B,191,6ifsBD02,1.0,,,,
+6ifs,B,192,6ifsBD02,1.0,,,,
+6ifs,B,193,6ifsBD02,1.0,,,,
+6ifs,B,194,6ifsBD02,1.0,,,,
+6ifs,B,195,6ifsBD02,1.0,,,,
+6ifs,B,196,6ifsBD02,1.0,,,,
+6ifs,B,197,6ifsBD02,1.0,,,,
+6ifs,B,198,6ifsBD02,1.0,,,,
+6ifs,B,199,6ifsBD02,1.0,,,,
+6ifs,B,200,6ifsBD02,1.0,,,,
+6ifs,B,201,6ifsBD02,1.0,,,,
+6ifs,B,202,6ifsBD02,1.0,,,,
+6ifs,B,203,6ifsBD02,1.0,,,,
+6ifs,B,204,6ifsBD02,1.0,,,,
+6ifs,B,205,6ifsBD02,1.0,,,,
+6ifs,B,206,6ifsBD02,1.0,,,,
+6ifs,B,207,6ifsBD02,1.0,,,,
+6ifs,B,208,6ifsBD02,1.0,,,,
+6ifs,B,209,6ifsBD02,1.0,,,,
+6ifs,B,210,6ifsBD02,1.0,,,,
+6ifs,B,211,,,,,,
+6ifs,B,212,,,,,,
+6ifs,B,213,,,,,,
+6ifs,B,214,,,,,,
+6ifs,B,215,,,,,,
+6ifs,B,216,,,,,,
+6ifs,B,217,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,218,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,219,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,220,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,221,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,222,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,223,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,224,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,225,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,226,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,227,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,228,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,229,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,230,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,231,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,232,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,233,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,234,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,235,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,236,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,237,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,238,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,239,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,240,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,241,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,242,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,243,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,244,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,245,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,246,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,247,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,248,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,249,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,250,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,251,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,252,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,253,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,254,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,255,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,256,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,257,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,258,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,259,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,260,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,261,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,262,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,263,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,264,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,265,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,266,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,267,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,268,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,269,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,270,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,271,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,272,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,273,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,274,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,275,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,276,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,277,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,278,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,279,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,280,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,281,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,282,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,283,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,284,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,285,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,286,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,287,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,288,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,289,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,290,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,291,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C
+6ifs,B,292,,,e6ifsB1,102.2.1.14,H2TH,RrnaAD_C

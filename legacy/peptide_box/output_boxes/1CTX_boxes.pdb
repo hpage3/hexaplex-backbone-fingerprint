@@ -1,0 +1,2032 @@
+REMARK PLN rectangles with optional normals and interior lines
+HETATM    1 PV1  PLN A   1       5.761  43.989  11.861  1.00  0.00            C  
+HETATM    2 PV2  PLN A   1       7.552  46.702   9.845  1.00  0.00            C  
+HETATM    3 PV3  PLN A   1       6.703  45.900   8.011  1.00  0.00            C  
+HETATM    4 PV4  PLN A   1       4.912  43.187  10.027  1.00  0.00            C  
+HETATM    5 PH1A PLN A   1       5.619  43.855  11.556  1.00  0.00            C  
+HETATM    6 PH1B PLN A   1       7.411  46.569   9.540  1.00  0.00            C  
+HETATM    7 PH2A PLN A   1       5.478  43.721  11.250  1.00  0.00            C  
+HETATM    8 PH2B PLN A   1       7.269  46.435   9.234  1.00  0.00            C  
+HETATM    9 PH3A PLN A   1       5.336  43.588  10.944  1.00  0.00            C  
+HETATM   10 PH3B PLN A   1       7.128  46.301   8.928  1.00  0.00            C  
+HETATM   11 PH4A PLN A   1       5.195  43.454  10.639  1.00  0.00            C  
+HETATM   12 PH4B PLN A   1       6.986  46.168   8.622  1.00  0.00            C  
+HETATM   13 PH5A PLN A   1       5.053  43.320  10.333  1.00  0.00            C  
+HETATM   14 PH5B PLN A   1       6.845  46.034   8.317  1.00  0.00            C  
+TER      15      PLN A   1
+HETATM   16 PV1  PLN A   2       7.398  46.549   9.561  1.00  0.00            C  
+HETATM   17 PV2  PLN A   2      10.644  44.416   7.931  1.00  0.00            C  
+HETATM   18 PV3  PLN A   2      11.849  46.012   8.243  1.00  0.00            C  
+HETATM   19 PV4  PLN A   2       8.604  48.144   9.873  1.00  0.00            C  
+HETATM   20 PH1A PLN A   2       7.599  46.815   9.613  1.00  0.00            C  
+HETATM   21 PH1B PLN A   2      10.844  44.682   7.983  1.00  0.00            C  
+HETATM   22 PH2A PLN A   2       7.800  47.080   9.665  1.00  0.00            C  
+HETATM   23 PH2B PLN A   2      11.045  44.948   8.035  1.00  0.00            C  
+HETATM   24 PH3A PLN A   2       8.001  47.346   9.717  1.00  0.00            C  
+HETATM   25 PH3B PLN A   2      11.246  45.214   8.087  1.00  0.00            C  
+HETATM   26 PH4A PLN A   2       8.202  47.612   9.769  1.00  0.00            C  
+HETATM   27 PH4B PLN A   2      11.447  45.480   8.139  1.00  0.00            C  
+HETATM   28 PH5A PLN A   2       8.403  47.878   9.821  1.00  0.00            C  
+HETATM   29 PH5B PLN A   2      11.648  45.746   8.191  1.00  0.00            C  
+TER      30      PLN A   2
+HETATM   31 PV1  PLN A   3      10.937  44.412   8.199  1.00  0.00            C  
+HETATM   32 PV2  PLN A   3      13.096  47.388   6.401  1.00  0.00            C  
+HETATM   33 PV3  PLN A   3      11.631  47.591   4.977  1.00  0.00            C  
+HETATM   34 PV4  PLN A   3       9.472  44.614   6.774  1.00  0.00            C  
+HETATM   35 PH1A PLN A   3      10.693  44.446   7.961  1.00  0.00            C  
+HETATM   36 PH1B PLN A   3      12.852  47.422   6.164  1.00  0.00            C  
+HETATM   37 PH2A PLN A   3      10.449  44.479   7.724  1.00  0.00            C  
+HETATM   38 PH2B PLN A   3      12.608  47.456   5.927  1.00  0.00            C  
+HETATM   39 PH3A PLN A   3      10.205  44.513   7.486  1.00  0.00            C  
+HETATM   40 PH3B PLN A   3      12.364  47.490   5.689  1.00  0.00            C  
+HETATM   41 PH4A PLN A   3       9.961  44.547   7.249  1.00  0.00            C  
+HETATM   42 PH4B PLN A   3      12.120  47.523   5.452  1.00  0.00            C  
+HETATM   43 PH5A PLN A   3       9.716  44.581   7.012  1.00  0.00            C  
+HETATM   44 PH5B PLN A   3      11.876  47.557   5.214  1.00  0.00            C  
+TER      45      PLN A   3
+HETATM   46 PV1  PLN A   4      12.965  47.290   6.349  1.00  0.00            C  
+HETATM   47 PV2  PLN A   4      14.168  44.583   3.944  1.00  0.00            C  
+HETATM   48 PV3  PLN A   4      13.176  45.548   2.361  1.00  0.00            C  
+HETATM   49 PV4  PLN A   4      11.973  48.255   4.766  1.00  0.00            C  
+HETATM   50 PH1A PLN A   4      12.800  47.451   6.085  1.00  0.00            C  
+HETATM   51 PH1B PLN A   4      14.003  44.743   3.680  1.00  0.00            C  
+HETATM   52 PH2A PLN A   4      12.634  47.611   5.821  1.00  0.00            C  
+HETATM   53 PH2B PLN A   4      13.838  44.904   3.416  1.00  0.00            C  
+HETATM   54 PH3A PLN A   4      12.469  47.772   5.557  1.00  0.00            C  
+HETATM   55 PH3B PLN A   4      13.672  45.065   3.152  1.00  0.00            C  
+HETATM   56 PH4A PLN A   4      12.304  47.933   5.294  1.00  0.00            C  
+HETATM   57 PH4B PLN A   4      13.507  45.226   2.888  1.00  0.00            C  
+HETATM   58 PH5A PLN A   4      12.138  48.094   5.030  1.00  0.00            C  
+HETATM   59 PH5B PLN A   4      13.341  45.387   2.625  1.00  0.00            C  
+TER      60      PLN A   4
+HETATM   61 PV1  PLN A   5      14.053  44.381   3.698  1.00  0.00            C  
+HETATM   62 PV2  PLN A   5      16.368  44.898   0.613  1.00  0.00            C  
+HETATM   63 PV3  PLN A   5      16.187  47.002   0.829  1.00  0.00            C  
+HETATM   64 PV4  PLN A   5      13.872  46.485   3.915  1.00  0.00            C  
+HETATM   65 PH1A PLN A   5      14.023  44.732   3.735  1.00  0.00            C  
+HETATM   66 PH1B PLN A   5      16.338  45.249   0.649  1.00  0.00            C  
+HETATM   67 PH2A PLN A   5      13.993  45.082   3.771  1.00  0.00            C  
+HETATM   68 PH2B PLN A   5      16.308  45.599   0.685  1.00  0.00            C  
+HETATM   69 PH3A PLN A   5      13.963  45.433   3.807  1.00  0.00            C  
+HETATM   70 PH3B PLN A   5      16.277  45.950   0.721  1.00  0.00            C  
+HETATM   71 PH4A PLN A   5      13.932  45.784   3.843  1.00  0.00            C  
+HETATM   72 PH4B PLN A   5      16.247  46.301   0.757  1.00  0.00            C  
+HETATM   73 PH5A PLN A   5      13.902  46.134   3.879  1.00  0.00            C  
+HETATM   74 PH5B PLN A   5      16.217  46.651   0.793  1.00  0.00            C  
+TER      75      PLN A   5
+HETATM   76 PV1  PLN A   6      16.337  45.224   0.644  1.00  0.00            C  
+HETATM   77 PV2  PLN A   6      17.238  46.236  -1.991  1.00  0.00            C  
+HETATM   78 PV3  PLN A   6      15.163  45.415  -3.016  1.00  0.00            C  
+HETATM   79 PV4  PLN A   6      14.262  44.403  -0.381  1.00  0.00            C  
+HETATM   80 PH1A PLN A   6      15.991  45.087   0.473  1.00  0.00            C  
+HETATM   81 PH1B PLN A   6      16.892  46.099  -2.162  1.00  0.00            C  
+HETATM   82 PH2A PLN A   6      15.645  44.950   0.302  1.00  0.00            C  
+HETATM   83 PH2B PLN A   6      16.547  45.962  -2.333  1.00  0.00            C  
+HETATM   84 PH3A PLN A   6      15.300  44.813   0.132  1.00  0.00            C  
+HETATM   85 PH3B PLN A   6      16.201  45.825  -2.504  1.00  0.00            C  
+HETATM   86 PH4A PLN A   6      14.954  44.677  -0.039  1.00  0.00            C  
+HETATM   87 PH4B PLN A   6      15.855  45.688  -2.674  1.00  0.00            C  
+HETATM   88 PH5A PLN A   6      14.608  44.540  -0.210  1.00  0.00            C  
+HETATM   89 PH5B PLN A   6      15.509  45.552  -2.845  1.00  0.00            C  
+TER      90      PLN A   6
+HETATM   91 PV1  PLN A   7      17.053  46.178  -2.018  1.00  0.00            C  
+HETATM   92 PV2  PLN A   7      14.368  48.761  -1.841  1.00  0.00            C  
+HETATM   93 PV3  PLN A   7      15.855  50.275  -1.367  1.00  0.00            C  
+HETATM   94 PV4  PLN A   7      18.540  47.692  -1.544  1.00  0.00            C  
+HETATM   95 PH1A PLN A   7      17.301  46.430  -1.939  1.00  0.00            C  
+HETATM   96 PH1B PLN A   7      14.616  49.013  -1.762  1.00  0.00            C  
+HETATM   97 PH2A PLN A   7      17.549  46.682  -1.860  1.00  0.00            C  
+HETATM   98 PH2B PLN A   7      14.863  49.265  -1.683  1.00  0.00            C  
+HETATM   99 PH3A PLN A   7      17.797  46.935  -1.781  1.00  0.00            C  
+HETATM  100 PH3B PLN A   7      15.111  49.518  -1.604  1.00  0.00            C  
+HETATM  101 PH4A PLN A   7      18.045  47.187  -1.702  1.00  0.00            C  
+HETATM  102 PH4B PLN A   7      15.359  49.770  -1.525  1.00  0.00            C  
+HETATM  103 PH5A PLN A   7      18.293  47.439  -1.623  1.00  0.00            C  
+HETATM  104 PH5B PLN A   7      15.607  50.022  -1.446  1.00  0.00            C  
+TER     105      PLN A   7
+HETATM  106 PV1  PLN A   8      14.837  48.850  -2.004  1.00  0.00            C  
+HETATM  107 PV2  PLN A   8      16.590  51.499   0.098  1.00  0.00            C  
+HETATM  108 PV3  PLN A   8      14.808  51.803   1.202  1.00  0.00            C  
+HETATM  109 PV4  PLN A   8      13.055  49.154  -0.900  1.00  0.00            C  
+HETATM  110 PH1A PLN A   8      14.540  48.901  -1.820  1.00  0.00            C  
+HETATM  111 PH1B PLN A   8      16.293  51.550   0.282  1.00  0.00            C  
+HETATM  112 PH2A PLN A   8      14.243  48.951  -1.636  1.00  0.00            C  
+HETATM  113 PH2B PLN A   8      15.996  51.600   0.466  1.00  0.00            C  
+HETATM  114 PH3A PLN A   8      13.946  49.002  -1.452  1.00  0.00            C  
+HETATM  115 PH3B PLN A   8      15.699  51.651   0.650  1.00  0.00            C  
+HETATM  116 PH4A PLN A   8      13.649  49.053  -1.268  1.00  0.00            C  
+HETATM  117 PH4B PLN A   8      15.402  51.701   0.834  1.00  0.00            C  
+HETATM  118 PH5A PLN A   8      13.352  49.103  -1.084  1.00  0.00            C  
+HETATM  119 PH5B PLN A   8      15.105  51.752   1.018  1.00  0.00            C  
+TER     120      PLN A   8
+HETATM  121 PV1  PLN A   9      16.176  51.736   0.210  1.00  0.00            C  
+HETATM  122 PV2  PLN A   9      13.826  52.188   3.385  1.00  0.00            C  
+HETATM  123 PV3  PLN A   9      14.655  50.474   4.242  1.00  0.00            C  
+HETATM  124 PV4  PLN A   9      17.004  50.021   1.067  1.00  0.00            C  
+HETATM  125 PH1A PLN A   9      16.314  51.450   0.352  1.00  0.00            C  
+HETATM  126 PH1B PLN A   9      13.964  51.903   3.528  1.00  0.00            C  
+HETATM  127 PH2A PLN A   9      16.452  51.164   0.495  1.00  0.00            C  
+HETATM  128 PH2B PLN A   9      14.102  51.617   3.671  1.00  0.00            C  
+HETATM  129 PH3A PLN A   9      16.590  50.879   0.638  1.00  0.00            C  
+HETATM  130 PH3B PLN A   9      14.240  51.331   3.814  1.00  0.00            C  
+HETATM  131 PH4A PLN A   9      16.728  50.593   0.781  1.00  0.00            C  
+HETATM  132 PH4B PLN A   9      14.378  51.045   3.956  1.00  0.00            C  
+HETATM  133 PH5A PLN A   9      16.866  50.307   0.924  1.00  0.00            C  
+HETATM  134 PH5B PLN A   9      14.516  50.759   4.099  1.00  0.00            C  
+TER     135      PLN A   9
+HETATM  136 PV1  PLN A  10      13.977  51.880   3.758  1.00  0.00            C  
+HETATM  137 PV2  PLN A  10      10.321  50.721   4.059  1.00  0.00            C  
+HETATM  138 PV3  PLN A  10       9.891  51.579   2.149  1.00  0.00            C  
+HETATM  139 PV4  PLN A  10      13.547  52.738   1.848  1.00  0.00            C  
+HETATM  140 PH1A PLN A  10      13.905  52.023   3.439  1.00  0.00            C  
+HETATM  141 PH1B PLN A  10      10.249  50.864   3.741  1.00  0.00            C  
+HETATM  142 PH2A PLN A  10      13.833  52.166   3.121  1.00  0.00            C  
+HETATM  143 PH2B PLN A  10      10.178  51.007   3.423  1.00  0.00            C  
+HETATM  144 PH3A PLN A  10      13.762  52.309   2.803  1.00  0.00            C  
+HETATM  145 PH3B PLN A  10      10.106  51.150   3.104  1.00  0.00            C  
+HETATM  146 PH4A PLN A  10      13.690  52.452   2.484  1.00  0.00            C  
+HETATM  147 PH4B PLN A  10      10.034  51.293   2.786  1.00  0.00            C  
+HETATM  148 PH5A PLN A  10      13.619  52.595   2.166  1.00  0.00            C  
+HETATM  149 PH5B PLN A  10       9.963  51.436   2.468  1.00  0.00            C  
+TER     150      PLN A  10
+HETATM  151 PV1  PLN A  11      10.129  50.668   3.453  1.00  0.00            C  
+HETATM  152 PV2  PLN A  11       8.100  48.093   5.684  1.00  0.00            C  
+HETATM  153 PV3  PLN A  11       8.803  49.060   7.439  1.00  0.00            C  
+HETATM  154 PV4  PLN A  11      10.832  51.634   5.208  1.00  0.00            C  
+HETATM  155 PH1A PLN A  11      10.246  50.829   3.746  1.00  0.00            C  
+HETATM  156 PH1B PLN A  11       8.217  48.255   5.976  1.00  0.00            C  
+HETATM  157 PH2A PLN A  11      10.363  50.990   4.038  1.00  0.00            C  
+HETATM  158 PH2B PLN A  11       8.335  48.416   6.269  1.00  0.00            C  
+HETATM  159 PH3A PLN A  11      10.481  51.151   4.331  1.00  0.00            C  
+HETATM  160 PH3B PLN A  11       8.452  48.577   6.561  1.00  0.00            C  
+HETATM  161 PH4A PLN A  11      10.598  51.312   4.623  1.00  0.00            C  
+HETATM  162 PH4B PLN A  11       8.569  48.738   6.854  1.00  0.00            C  
+HETATM  163 PH5A PLN A  11      10.715  51.473   4.915  1.00  0.00            C  
+HETATM  164 PH5B PLN A  11       8.686  48.899   7.146  1.00  0.00            C  
+TER     165      PLN A  11
+HETATM  166 PV1  PLN A  12       8.263  48.304   6.229  1.00  0.00            C  
+HETATM  167 PV2  PLN A  12       4.790  46.439   6.914  1.00  0.00            C  
+HETATM  168 PV3  PLN A  12       4.598  46.018   4.795  1.00  0.00            C  
+HETATM  169 PV4  PLN A  12       8.071  47.884   4.110  1.00  0.00            C  
+HETATM  170 PH1A PLN A  12       8.231  48.234   5.876  1.00  0.00            C  
+HETATM  171 PH1B PLN A  12       4.758  46.368   6.561  1.00  0.00            C  
+HETATM  172 PH2A PLN A  12       8.199  48.164   5.523  1.00  0.00            C  
+HETATM  173 PH2B PLN A  12       4.726  46.298   6.207  1.00  0.00            C  
+HETATM  174 PH3A PLN A  12       8.167  48.094   5.169  1.00  0.00            C  
+HETATM  175 PH3B PLN A  12       4.694  46.228   5.854  1.00  0.00            C  
+HETATM  176 PH4A PLN A  12       8.135  48.024   4.816  1.00  0.00            C  
+HETATM  177 PH4B PLN A  12       4.662  46.158   5.501  1.00  0.00            C  
+HETATM  178 PH5A PLN A  12       8.103  47.954   4.463  1.00  0.00            C  
+HETATM  179 PH5B PLN A  12       4.630  46.088   5.148  1.00  0.00            C  
+TER     180      PLN A  12
+HETATM  181 PV1  PLN A  13       4.825  46.295   7.040  1.00  0.00            C  
+HETATM  182 PV2  PLN A  13       4.961  42.614   6.051  1.00  0.00            C  
+HETATM  183 PV3  PLN A  13       4.660  43.155   3.997  1.00  0.00            C  
+HETATM  184 PV4  PLN A  13       4.524  46.836   4.986  1.00  0.00            C  
+HETATM  185 PH1A PLN A  13       4.775  46.386   6.697  1.00  0.00            C  
+HETATM  186 PH1B PLN A  13       4.910  42.704   5.708  1.00  0.00            C  
+HETATM  187 PH2A PLN A  13       4.725  46.476   6.355  1.00  0.00            C  
+HETATM  188 PH2B PLN A  13       4.860  42.794   5.366  1.00  0.00            C  
+HETATM  189 PH3A PLN A  13       4.675  46.566   6.013  1.00  0.00            C  
+HETATM  190 PH3B PLN A  13       4.810  42.884   5.024  1.00  0.00            C  
+HETATM  191 PH4A PLN A  13       4.624  46.656   5.671  1.00  0.00            C  
+HETATM  192 PH4B PLN A  13       4.760  42.975   4.682  1.00  0.00            C  
+HETATM  193 PH5A PLN A  13       4.574  46.746   5.328  1.00  0.00            C  
+HETATM  194 PH5B PLN A  13       4.710  43.065   4.339  1.00  0.00            C  
+TER     195      PLN A  13
+HETATM  196 PV1  PLN A  14       4.886  42.704   5.706  1.00  0.00            C  
+HETATM  197 PV2  PLN A  14       2.903  41.752   7.889  1.00  0.00            C  
+HETATM  198 PV3  PLN A  14       1.487  40.876   6.220  1.00  0.00            C  
+HETATM  199 PV4  PLN A  14       3.470  41.828   4.037  1.00  0.00            C  
+HETATM  200 PH1A PLN A  14       4.650  42.558   5.428  1.00  0.00            C  
+HETATM  201 PH1B PLN A  14       2.667  41.606   7.611  1.00  0.00            C  
+HETATM  202 PH2A PLN A  14       4.414  42.412   5.150  1.00  0.00            C  
+HETATM  203 PH2B PLN A  14       2.431  41.460   7.333  1.00  0.00            C  
+HETATM  204 PH3A PLN A  14       4.178  42.266   4.872  1.00  0.00            C  
+HETATM  205 PH3B PLN A  14       2.195  41.314   7.055  1.00  0.00            C  
+HETATM  206 PH4A PLN A  14       3.942  42.120   4.594  1.00  0.00            C  
+HETATM  207 PH4B PLN A  14       1.959  41.168   6.777  1.00  0.00            C  
+HETATM  208 PH5A PLN A  14       3.706  41.974   4.316  1.00  0.00            C  
+HETATM  209 PH5B PLN A  14       1.723  41.022   6.499  1.00  0.00            C  
+TER     210      PLN A  14
+HETATM  211 PV1  PLN A  15       2.790  41.651   7.695  1.00  0.00            C  
+HETATM  212 PV2  PLN A  15       3.386  37.774   7.610  1.00  0.00            C  
+HETATM  213 PV3  PLN A  15       4.690  37.938   9.258  1.00  0.00            C  
+HETATM  214 PV4  PLN A  15       4.094  41.815   9.344  1.00  0.00            C  
+HETATM  215 PH1A PLN A  15       3.007  41.679   7.970  1.00  0.00            C  
+HETATM  216 PH1B PLN A  15       3.603  37.801   7.885  1.00  0.00            C  
+HETATM  217 PH2A PLN A  15       3.224  41.706   8.245  1.00  0.00            C  
+HETATM  218 PH2B PLN A  15       3.821  37.829   8.159  1.00  0.00            C  
+HETATM  219 PH3A PLN A  15       3.442  41.733   8.519  1.00  0.00            C  
+HETATM  220 PH3B PLN A  15       4.038  37.856   8.434  1.00  0.00            C  
+HETATM  221 PH4A PLN A  15       3.659  41.761   8.794  1.00  0.00            C  
+HETATM  222 PH4B PLN A  15       4.255  37.884   8.709  1.00  0.00            C  
+HETATM  223 PH5A PLN A  15       3.877  41.788   9.069  1.00  0.00            C  
+HETATM  224 PH5B PLN A  15       4.473  37.911   8.984  1.00  0.00            C  
+TER     225      PLN A  15
+HETATM  226 PV1  PLN A  16       3.392  37.702   8.086  1.00  0.00            C  
+HETATM  227 PV2  PLN A  16       6.710  36.474   9.501  1.00  0.00            C  
+HETATM  228 PV3  PLN A  16       7.708  37.077   7.684  1.00  0.00            C  
+HETATM  229 PV4  PLN A  16       4.390  38.305   6.269  1.00  0.00            C  
+HETATM  230 PH1A PLN A  16       3.558  37.802   7.783  1.00  0.00            C  
+HETATM  231 PH1B PLN A  16       6.877  36.575   9.198  1.00  0.00            C  
+HETATM  232 PH2A PLN A  16       3.724  37.903   7.480  1.00  0.00            C  
+HETATM  233 PH2B PLN A  16       7.043  36.675   8.896  1.00  0.00            C  
+HETATM  234 PH3A PLN A  16       3.891  38.003   7.177  1.00  0.00            C  
+HETATM  235 PH3B PLN A  16       7.209  36.775   8.593  1.00  0.00            C  
+HETATM  236 PH4A PLN A  16       4.057  38.104   6.874  1.00  0.00            C  
+HETATM  237 PH4B PLN A  16       7.376  36.876   8.290  1.00  0.00            C  
+HETATM  238 PH5A PLN A  16       4.223  38.204   6.571  1.00  0.00            C  
+HETATM  239 PH5B PLN A  16       7.542  36.976   7.987  1.00  0.00            C  
+TER     240      PLN A  16
+HETATM  241 PV1  PLN A  17       6.626  36.729   9.124  1.00  0.00            C  
+HETATM  242 PV2  PLN A  17       6.677  38.874  12.461  1.00  0.00            C  
+HETATM  243 PV3  PLN A  17       8.322  37.751  13.158  1.00  0.00            C  
+HETATM  244 PV4  PLN A  17       8.271  35.606   9.820  1.00  0.00            C  
+HETATM  245 PH1A PLN A  17       6.900  36.541   9.240  1.00  0.00            C  
+HETATM  246 PH1B PLN A  17       6.951  38.687  12.577  1.00  0.00            C  
+HETATM  247 PH2A PLN A  17       7.175  36.354   9.356  1.00  0.00            C  
+HETATM  248 PH2B PLN A  17       7.225  38.500  12.693  1.00  0.00            C  
+HETATM  249 PH3A PLN A  17       7.449  36.167   9.472  1.00  0.00            C  
+HETATM  250 PH3B PLN A  17       7.500  38.313  12.809  1.00  0.00            C  
+HETATM  251 PH4A PLN A  17       7.723  35.980   9.588  1.00  0.00            C  
+HETATM  252 PH4B PLN A  17       7.774  38.125  12.925  1.00  0.00            C  
+HETATM  253 PH5A PLN A  17       7.997  35.793   9.704  1.00  0.00            C  
+HETATM  254 PH5B PLN A  17       8.048  37.938  13.042  1.00  0.00            C  
+TER     255      PLN A  17
+HETATM  256 PV1  PLN A  18       6.788  38.898  12.186  1.00  0.00            C  
+HETATM  257 PV2  PLN A  18      10.443  40.319  11.843  1.00  0.00            C  
+HETATM  258 PV3  PLN A  18      10.995  39.349  13.712  1.00  0.00            C  
+HETATM  259 PV4  PLN A  18       7.340  37.928  14.055  1.00  0.00            C  
+HETATM  260 PH1A PLN A  18       6.880  38.736  12.498  1.00  0.00            C  
+HETATM  261 PH1B PLN A  18      10.535  40.157  12.155  1.00  0.00            C  
+HETATM  262 PH2A PLN A  18       6.972  38.575  12.809  1.00  0.00            C  
+HETATM  263 PH2B PLN A  18      10.627  39.995  12.466  1.00  0.00            C  
+HETATM  264 PH3A PLN A  18       7.064  38.413  13.121  1.00  0.00            C  
+HETATM  265 PH3B PLN A  18      10.719  39.834  12.777  1.00  0.00            C  
+HETATM  266 PH4A PLN A  18       7.156  38.252  13.432  1.00  0.00            C  
+HETATM  267 PH4B PLN A  18      10.811  39.672  13.089  1.00  0.00            C  
+HETATM  268 PH5A PLN A  18       7.248  38.090  13.744  1.00  0.00            C  
+HETATM  269 PH5B PLN A  18      10.903  39.511  13.400  1.00  0.00            C  
+TER     270      PLN A  18
+HETATM  271 PV1  PLN A  19      10.687  40.111  12.442  1.00  0.00            C  
+HETATM  272 PV2  PLN A  19      13.559  41.854  10.768  1.00  0.00            C  
+HETATM  273 PV3  PLN A  19      12.428  41.930   8.906  1.00  0.00            C  
+HETATM  274 PV4  PLN A  19       9.555  40.187  10.580  1.00  0.00            C  
+HETATM  275 PH1A PLN A  19      10.498  40.124  12.132  1.00  0.00            C  
+HETATM  276 PH1B PLN A  19      13.371  41.867  10.457  1.00  0.00            C  
+HETATM  277 PH2A PLN A  19      10.310  40.137  11.821  1.00  0.00            C  
+HETATM  278 PH2B PLN A  19      13.182  41.880  10.147  1.00  0.00            C  
+HETATM  279 PH3A PLN A  19      10.121  40.149  11.511  1.00  0.00            C  
+HETATM  280 PH3B PLN A  19      12.993  41.892   9.837  1.00  0.00            C  
+HETATM  281 PH4A PLN A  19       9.932  40.162  11.201  1.00  0.00            C  
+HETATM  282 PH4B PLN A  19      12.805  41.905   9.526  1.00  0.00            C  
+HETATM  283 PH5A PLN A  19       9.744  40.174  10.890  1.00  0.00            C  
+HETATM  284 PH5B PLN A  19      12.616  41.917   9.216  1.00  0.00            C  
+TER     285      PLN A  19
+HETATM  286 PV1  PLN A  20      13.335  41.817  10.284  1.00  0.00            C  
+HETATM  287 PV2  PLN A  20      16.502  39.936   9.515  1.00  0.00            C  
+HETATM  288 PV3  PLN A  20      17.189  40.283  11.496  1.00  0.00            C  
+HETATM  289 PV4  PLN A  20      14.022  42.164  12.265  1.00  0.00            C  
+HETATM  290 PH1A PLN A  20      13.449  41.875  10.614  1.00  0.00            C  
+HETATM  291 PH1B PLN A  20      16.616  39.994   9.845  1.00  0.00            C  
+HETATM  292 PH2A PLN A  20      13.564  41.933  10.944  1.00  0.00            C  
+HETATM  293 PH2B PLN A  20      16.731  40.052  10.175  1.00  0.00            C  
+HETATM  294 PH3A PLN A  20      13.678  41.990  11.275  1.00  0.00            C  
+HETATM  295 PH3B PLN A  20      16.845  40.110  10.505  1.00  0.00            C  
+HETATM  296 PH4A PLN A  20      13.793  42.048  11.605  1.00  0.00            C  
+HETATM  297 PH4B PLN A  20      16.960  40.168  10.836  1.00  0.00            C  
+HETATM  298 PH5A PLN A  20      13.907  42.106  11.935  1.00  0.00            C  
+HETATM  299 PH5B PLN A  20      17.075  40.225  11.166  1.00  0.00            C  
+TER     300      PLN A  20
+HETATM  301 PV1  PLN A  21      16.739  39.946  10.096  1.00  0.00            C  
+HETATM  302 PV2  PLN A  21      19.910  41.687   8.937  1.00  0.00            C  
+HETATM  303 PV3  PLN A  21      19.041  41.966   6.977  1.00  0.00            C  
+HETATM  304 PV4  PLN A  21      15.869  40.226   8.137  1.00  0.00            C  
+HETATM  305 PH1A PLN A  21      16.594  39.993   9.769  1.00  0.00            C  
+HETATM  306 PH1B PLN A  21      19.765  41.733   8.610  1.00  0.00            C  
+HETATM  307 PH2A PLN A  21      16.449  40.039   9.443  1.00  0.00            C  
+HETATM  308 PH2B PLN A  21      19.620  41.780   8.284  1.00  0.00            C  
+HETATM  309 PH3A PLN A  21      16.304  40.086   9.116  1.00  0.00            C  
+HETATM  310 PH3B PLN A  21      19.475  41.826   7.957  1.00  0.00            C  
+HETATM  311 PH4A PLN A  21      16.159  40.133   8.790  1.00  0.00            C  
+HETATM  312 PH4B PLN A  21      19.330  41.873   7.631  1.00  0.00            C  
+HETATM  313 PH5A PLN A  21      16.014  40.179   8.463  1.00  0.00            C  
+HETATM  314 PH5B PLN A  21      19.186  41.920   7.304  1.00  0.00            C  
+TER     315      PLN A  21
+HETATM  316 PV1  PLN A  22      19.724  41.937   8.233  1.00  0.00            C  
+HETATM  317 PV2  PLN A  22      23.040  40.188   6.944  1.00  0.00            C  
+HETATM  318 PV3  PLN A  22      23.258  39.223   8.812  1.00  0.00            C  
+HETATM  319 PV4  PLN A  22      19.941  40.971  10.101  1.00  0.00            C  
+HETATM  320 PH1A PLN A  22      19.760  41.776   8.544  1.00  0.00            C  
+HETATM  321 PH1B PLN A  22      23.077  40.027   7.255  1.00  0.00            C  
+HETATM  322 PH2A PLN A  22      19.796  41.615   8.855  1.00  0.00            C  
+HETATM  323 PH2B PLN A  22      23.113  39.866   7.566  1.00  0.00            C  
+HETATM  324 PH3A PLN A  22      19.832  41.454   9.167  1.00  0.00            C  
+HETATM  325 PH3B PLN A  22      23.149  39.705   7.878  1.00  0.00            C  
+HETATM  326 PH4A PLN A  22      19.868  41.293   9.478  1.00  0.00            C  
+HETATM  327 PH4B PLN A  22      23.185  39.544   8.189  1.00  0.00            C  
+HETATM  328 PH5A PLN A  22      19.905  41.132   9.790  1.00  0.00            C  
+HETATM  329 PH5B PLN A  22      23.221  39.384   8.501  1.00  0.00            C  
+TER     330      PLN A  22
+HETATM  331 PV1  PLN A  23      23.249  39.834   7.574  1.00  0.00            C  
+HETATM  332 PV2  PLN A  23      26.567  40.671   5.899  1.00  0.00            C  
+HETATM  333 PV3  PLN A  23      25.503  41.719   4.313  1.00  0.00            C  
+HETATM  334 PV4  PLN A  23      22.184  40.882   5.988  1.00  0.00            C  
+HETATM  335 PH1A PLN A  23      23.071  40.009   7.309  1.00  0.00            C  
+HETATM  336 PH1B PLN A  23      26.390  40.846   5.634  1.00  0.00            C  
+HETATM  337 PH2A PLN A  23      22.894  40.183   7.045  1.00  0.00            C  
+HETATM  338 PH2B PLN A  23      26.213  41.020   5.370  1.00  0.00            C  
+HETATM  339 PH3A PLN A  23      22.716  40.358   6.781  1.00  0.00            C  
+HETATM  340 PH3B PLN A  23      26.035  41.195   5.106  1.00  0.00            C  
+HETATM  341 PH4A PLN A  23      22.539  40.533   6.517  1.00  0.00            C  
+HETATM  342 PH4B PLN A  23      25.858  41.370   4.842  1.00  0.00            C  
+HETATM  343 PH5A PLN A  23      22.361  40.708   6.252  1.00  0.00            C  
+HETATM  344 PH5B PLN A  23      25.680  41.545   4.578  1.00  0.00            C  
+TER     345      PLN A  23
+HETATM  346 PV1  PLN A  24      26.409  41.053   5.398  1.00  0.00            C  
+HETATM  347 PV2  PLN A  24      29.466  39.242   3.894  1.00  0.00            C  
+HETATM  348 PV3  PLN A  24      29.462  37.846   5.566  1.00  0.00            C  
+HETATM  349 PV4  PLN A  24      26.404  39.657   7.069  1.00  0.00            C  
+HETATM  350 PH1A PLN A  24      26.408  40.820   5.676  1.00  0.00            C  
+HETATM  351 PH1B PLN A  24      29.466  39.010   4.173  1.00  0.00            C  
+HETATM  352 PH2A PLN A  24      26.407  40.587   5.955  1.00  0.00            C  
+HETATM  353 PH2B PLN A  24      29.465  38.777   4.452  1.00  0.00            C  
+HETATM  354 PH3A PLN A  24      26.406  40.355   6.233  1.00  0.00            C  
+HETATM  355 PH3B PLN A  24      29.464  38.544   4.730  1.00  0.00            C  
+HETATM  356 PH4A PLN A  24      26.406  40.122   6.512  1.00  0.00            C  
+HETATM  357 PH4B PLN A  24      29.463  38.312   5.009  1.00  0.00            C  
+HETATM  358 PH5A PLN A  24      26.405  39.890   6.791  1.00  0.00            C  
+HETATM  359 PH5B PLN A  24      29.463  38.079   5.287  1.00  0.00            C  
+TER     360      PLN A  24
+HETATM  361 PV1  PLN A  25      29.621  38.776   4.313  1.00  0.00            C  
+HETATM  362 PV2  PLN A  25      33.012  39.866   2.629  1.00  0.00            C  
+HETATM  363 PV3  PLN A  25      32.005  41.472   1.638  1.00  0.00            C  
+HETATM  364 PV4  PLN A  25      28.613  40.382   3.322  1.00  0.00            C  
+HETATM  365 PH1A PLN A  25      29.453  39.044   4.147  1.00  0.00            C  
+HETATM  366 PH1B PLN A  25      32.844  40.134   2.464  1.00  0.00            C  
+HETATM  367 PH2A PLN A  25      29.285  39.312   3.982  1.00  0.00            C  
+HETATM  368 PH2B PLN A  25      32.677  40.401   2.298  1.00  0.00            C  
+HETATM  369 PH3A PLN A  25      29.117  39.579   3.817  1.00  0.00            C  
+HETATM  370 PH3B PLN A  25      32.509  40.669   2.133  1.00  0.00            C  
+HETATM  371 PH4A PLN A  25      28.949  39.847   3.652  1.00  0.00            C  
+HETATM  372 PH4B PLN A  25      32.341  40.936   1.968  1.00  0.00            C  
+HETATM  373 PH5A PLN A  25      28.781  40.114   3.487  1.00  0.00            C  
+HETATM  374 PH5B PLN A  25      32.173  41.204   1.803  1.00  0.00            C  
+TER     375      PLN A  25
+HETATM  376 PV1  PLN A  26      32.973  40.387   2.501  1.00  0.00            C  
+HETATM  377 PV2  PLN A  26      34.619  39.868  -0.972  1.00  0.00            C  
+HETATM  378 PV3  PLN A  26      33.786  37.892  -1.071  1.00  0.00            C  
+HETATM  379 PV4  PLN A  26      32.140  38.410   2.402  1.00  0.00            C  
+HETATM  380 PH1A PLN A  26      32.835  40.057   2.485  1.00  0.00            C  
+HETATM  381 PH1B PLN A  26      34.480  39.539  -0.988  1.00  0.00            C  
+HETATM  382 PH2A PLN A  26      32.696  39.728   2.468  1.00  0.00            C  
+HETATM  383 PH2B PLN A  26      34.341  39.209  -1.005  1.00  0.00            C  
+HETATM  384 PH3A PLN A  26      32.557  39.398   2.452  1.00  0.00            C  
+HETATM  385 PH3B PLN A  26      34.202  38.880  -1.021  1.00  0.00            C  
+HETATM  386 PH4A PLN A  26      32.418  39.069   2.435  1.00  0.00            C  
+HETATM  387 PH4B PLN A  26      34.064  38.550  -1.038  1.00  0.00            C  
+HETATM  388 PH5A PLN A  26      32.279  38.740   2.418  1.00  0.00            C  
+HETATM  389 PH5B PLN A  26      33.925  38.221  -1.055  1.00  0.00            C  
+TER     390      PLN A  26
+HETATM  391 PV1  PLN A  27      34.588  39.326  -1.067  1.00  0.00            C  
+HETATM  392 PV2  PLN A  27      37.832  40.812  -2.784  1.00  0.00            C  
+HETATM  393 PV3  PLN A  27      37.255  42.696  -2.243  1.00  0.00            C  
+HETATM  394 PV4  PLN A  27      34.011  41.210  -0.526  1.00  0.00            C  
+HETATM  395 PH1A PLN A  27      34.492  39.640  -0.976  1.00  0.00            C  
+HETATM  396 PH1B PLN A  27      37.736  41.126  -2.694  1.00  0.00            C  
+HETATM  397 PH2A PLN A  27      34.396  39.954  -0.886  1.00  0.00            C  
+HETATM  398 PH2B PLN A  27      37.640  41.440  -2.604  1.00  0.00            C  
+HETATM  399 PH3A PLN A  27      34.300  40.268  -0.796  1.00  0.00            C  
+HETATM  400 PH3B PLN A  27      37.544  41.754  -2.514  1.00  0.00            C  
+HETATM  401 PH4A PLN A  27      34.203  40.582  -0.706  1.00  0.00            C  
+HETATM  402 PH4B PLN A  27      37.448  42.068  -2.423  1.00  0.00            C  
+HETATM  403 PH5A PLN A  27      34.107  40.896  -0.616  1.00  0.00            C  
+HETATM  404 PH5B PLN A  27      37.351  42.382  -2.333  1.00  0.00            C  
+TER     405      PLN A  27
+HETATM  406 PV1  PLN A  28      37.486  40.983  -2.822  1.00  0.00            C  
+HETATM  407 PV2  PLN A  28      36.028  44.535  -2.772  1.00  0.00            C  
+HETATM  408 PV3  PLN A  28      37.855  45.273  -1.939  1.00  0.00            C  
+HETATM  409 PV4  PLN A  28      39.313  41.721  -1.990  1.00  0.00            C  
+HETATM  410 PH1A PLN A  28      37.791  41.106  -2.684  1.00  0.00            C  
+HETATM  411 PH1B PLN A  28      36.333  44.658  -2.633  1.00  0.00            C  
+HETATM  412 PH2A PLN A  28      38.095  41.229  -2.545  1.00  0.00            C  
+HETATM  413 PH2B PLN A  28      36.637  44.781  -2.494  1.00  0.00            C  
+HETATM  414 PH3A PLN A  28      38.399  41.352  -2.406  1.00  0.00            C  
+HETATM  415 PH3B PLN A  28      36.941  44.904  -2.355  1.00  0.00            C  
+HETATM  416 PH4A PLN A  28      38.704  41.475  -2.267  1.00  0.00            C  
+HETATM  417 PH4B PLN A  28      37.246  45.027  -2.216  1.00  0.00            C  
+HETATM  418 PH5A PLN A  28      39.008  41.598  -2.128  1.00  0.00            C  
+HETATM  419 PH5B PLN A  28      37.550  45.150  -2.078  1.00  0.00            C  
+TER     420      PLN A  28
+HETATM  421 PV1  PLN A  29      36.332  44.238  -2.630  1.00  0.00            C  
+HETATM  422 PV2  PLN A  29      34.919  44.369   1.018  1.00  0.00            C  
+HETATM  423 PV3  PLN A  29      34.711  46.522   0.860  1.00  0.00            C  
+HETATM  424 PV4  PLN A  29      36.124  46.391  -2.788  1.00  0.00            C  
+HETATM  425 PH1A PLN A  29      36.297  44.597  -2.657  1.00  0.00            C  
+HETATM  426 PH1B PLN A  29      34.884  44.728   0.992  1.00  0.00            C  
+HETATM  427 PH2A PLN A  29      36.263  44.956  -2.683  1.00  0.00            C  
+HETATM  428 PH2B PLN A  29      34.850  45.087   0.966  1.00  0.00            C  
+HETATM  429 PH3A PLN A  29      36.228  45.315  -2.709  1.00  0.00            C  
+HETATM  430 PH3B PLN A  29      34.815  45.445   0.939  1.00  0.00            C  
+HETATM  431 PH4A PLN A  29      36.193  45.674  -2.736  1.00  0.00            C  
+HETATM  432 PH4B PLN A  29      34.780  45.804   0.913  1.00  0.00            C  
+HETATM  433 PH5A PLN A  29      36.158  46.033  -2.762  1.00  0.00            C  
+HETATM  434 PH5B PLN A  29      34.745  46.163   0.887  1.00  0.00            C  
+TER     435      PLN A  29
+HETATM  436 PV1  PLN A  30      34.971  44.512   1.078  1.00  0.00            C  
+HETATM  437 PV2  PLN A  30      37.877  46.191   2.842  1.00  0.00            C  
+HETATM  438 PV3  PLN A  30      37.185  48.082   2.182  1.00  0.00            C  
+HETATM  439 PV4  PLN A  30      34.280  46.402   0.418  1.00  0.00            C  
+HETATM  440 PH1A PLN A  30      34.856  44.827   0.968  1.00  0.00            C  
+HETATM  441 PH1B PLN A  30      37.761  46.506   2.732  1.00  0.00            C  
+HETATM  442 PH2A PLN A  30      34.741  45.142   0.858  1.00  0.00            C  
+HETATM  443 PH2B PLN A  30      37.646  46.821   2.622  1.00  0.00            C  
+HETATM  444 PH3A PLN A  30      34.625  45.457   0.748  1.00  0.00            C  
+HETATM  445 PH3B PLN A  30      37.531  47.136   2.512  1.00  0.00            C  
+HETATM  446 PH4A PLN A  30      34.510  45.772   0.638  1.00  0.00            C  
+HETATM  447 PH4B PLN A  30      37.415  47.451   2.402  1.00  0.00            C  
+HETATM  448 PH5A PLN A  30      34.395  46.087   0.528  1.00  0.00            C  
+HETATM  449 PH5B PLN A  30      37.300  47.766   2.292  1.00  0.00            C  
+TER     450      PLN A  30
+HETATM  451 PV1  PLN A  31      37.977  46.253   2.536  1.00  0.00            C  
+HETATM  452 PV2  PLN A  31      38.610  49.290   0.261  1.00  0.00            C  
+HETATM  453 PV3  PLN A  31      37.426  50.508   1.558  1.00  0.00            C  
+HETATM  454 PV4  PLN A  31      36.793  47.472   3.833  1.00  0.00            C  
+HETATM  455 PH1A PLN A  31      37.780  46.456   2.752  1.00  0.00            C  
+HETATM  456 PH1B PLN A  31      38.412  49.493   0.477  1.00  0.00            C  
+HETATM  457 PH2A PLN A  31      37.582  46.659   2.968  1.00  0.00            C  
+HETATM  458 PH2B PLN A  31      38.215  49.696   0.693  1.00  0.00            C  
+HETATM  459 PH3A PLN A  31      37.385  46.863   3.184  1.00  0.00            C  
+HETATM  460 PH3B PLN A  31      38.018  49.899   0.909  1.00  0.00            C  
+HETATM  461 PH4A PLN A  31      37.188  47.066   3.400  1.00  0.00            C  
+HETATM  462 PH4B PLN A  31      37.820  50.102   1.125  1.00  0.00            C  
+HETATM  463 PH5A PLN A  31      36.990  47.269   3.616  1.00  0.00            C  
+HETATM  464 PH5B PLN A  31      37.623  50.305   1.341  1.00  0.00            C  
+TER     465      PLN A  31
+HETATM  466 PV1  PLN A  32      38.316  49.089   0.638  1.00  0.00            C  
+HETATM  467 PV2  PLN A  32      34.808  49.479  -0.599  1.00  0.00            C  
+HETATM  468 PV3  PLN A  32      35.296  51.375  -1.386  1.00  0.00            C  
+HETATM  469 PV4  PLN A  32      38.805  50.984  -0.149  1.00  0.00            C  
+HETATM  470 PH1A PLN A  32      38.398  49.405   0.507  1.00  0.00            C  
+HETATM  471 PH1B PLN A  32      34.889  49.795  -0.730  1.00  0.00            C  
+HETATM  472 PH2A PLN A  32      38.479  49.720   0.375  1.00  0.00            C  
+HETATM  473 PH2B PLN A  32      34.971  50.111  -0.861  1.00  0.00            C  
+HETATM  474 PH3A PLN A  32      38.560  50.036   0.244  1.00  0.00            C  
+HETATM  475 PH3B PLN A  32      35.052  50.427  -0.992  1.00  0.00            C  
+HETATM  476 PH4A PLN A  32      38.642  50.352   0.113  1.00  0.00            C  
+HETATM  477 PH4B PLN A  32      35.133  50.743  -1.123  1.00  0.00            C  
+HETATM  478 PH5A PLN A  32      38.723  50.668  -0.018  1.00  0.00            C  
+HETATM  479 PH5B PLN A  32      35.215  51.059  -1.255  1.00  0.00            C  
+TER     480      PLN A  32
+HETATM  481 PV1  PLN A  33      35.203  49.736  -0.551  1.00  0.00            C  
+HETATM  482 PV2  PLN A  33      32.592  48.172   1.885  1.00  0.00            C  
+HETATM  483 PV3  PLN A  33      31.033  48.921   0.695  1.00  0.00            C  
+HETATM  484 PV4  PLN A  33      33.643  50.485  -1.741  1.00  0.00            C  
+HETATM  485 PH1A PLN A  33      34.943  49.861  -0.749  1.00  0.00            C  
+HETATM  486 PH1B PLN A  33      32.332  48.296   1.687  1.00  0.00            C  
+HETATM  487 PH2A PLN A  33      34.683  49.986  -0.948  1.00  0.00            C  
+HETATM  488 PH2B PLN A  33      32.072  48.421   1.488  1.00  0.00            C  
+HETATM  489 PH3A PLN A  33      34.423  50.110  -1.146  1.00  0.00            C  
+HETATM  490 PH3B PLN A  33      31.812  48.546   1.290  1.00  0.00            C  
+HETATM  491 PH4A PLN A  33      34.163  50.235  -1.344  1.00  0.00            C  
+HETATM  492 PH4B PLN A  33      31.552  48.671   1.091  1.00  0.00            C  
+HETATM  493 PH5A PLN A  33      33.903  50.360  -1.543  1.00  0.00            C  
+HETATM  494 PH5B PLN A  33      31.292  48.796   0.893  1.00  0.00            C  
+TER     495      PLN A  33
+HETATM  496 PV1  PLN A  34      32.157  48.456   1.922  1.00  0.00            C  
+HETATM  497 PV2  PLN A  34      30.514  45.097   2.736  1.00  0.00            C  
+HETATM  498 PV3  PLN A  34      31.522  44.186   1.010  1.00  0.00            C  
+HETATM  499 PV4  PLN A  34      33.164  47.546   0.196  1.00  0.00            C  
+HETATM  500 PH1A PLN A  34      32.325  48.305   1.634  1.00  0.00            C  
+HETATM  501 PH1B PLN A  34      30.682  44.945   2.448  1.00  0.00            C  
+HETATM  502 PH2A PLN A  34      32.492  48.153   1.347  1.00  0.00            C  
+HETATM  503 PH2B PLN A  34      30.850  44.793   2.160  1.00  0.00            C  
+HETATM  504 PH3A PLN A  34      32.660  48.001   1.059  1.00  0.00            C  
+HETATM  505 PH3B PLN A  34      31.018  44.642   1.873  1.00  0.00            C  
+HETATM  506 PH4A PLN A  34      32.828  47.849   0.771  1.00  0.00            C  
+HETATM  507 PH4B PLN A  34      31.186  44.490   1.585  1.00  0.00            C  
+HETATM  508 PH5A PLN A  34      32.996  47.697   0.484  1.00  0.00            C  
+HETATM  509 PH5B PLN A  34      31.354  44.338   1.297  1.00  0.00            C  
+TER     510      PLN A  34
+HETATM  511 PV1  PLN A  35      30.793  44.688   2.588  1.00  0.00            C  
+HETATM  512 PV2  PLN A  35      28.185  42.750   0.654  1.00  0.00            C  
+HETATM  513 PV3  PLN A  35      27.302  44.606  -0.015  1.00  0.00            C  
+HETATM  514 PV4  PLN A  35      29.910  46.544   1.919  1.00  0.00            C  
+HETATM  515 PH1A PLN A  35      30.646  44.997   2.476  1.00  0.00            C  
+HETATM  516 PH1B PLN A  35      28.038  43.059   0.542  1.00  0.00            C  
+HETATM  517 PH2A PLN A  35      30.499  45.306   2.365  1.00  0.00            C  
+HETATM  518 PH2B PLN A  35      27.891  43.368   0.431  1.00  0.00            C  
+HETATM  519 PH3A PLN A  35      30.351  45.616   2.253  1.00  0.00            C  
+HETATM  520 PH3B PLN A  35      27.743  43.678   0.319  1.00  0.00            C  
+HETATM  521 PH4A PLN A  35      30.204  45.925   2.142  1.00  0.00            C  
+HETATM  522 PH4B PLN A  35      27.596  43.987   0.208  1.00  0.00            C  
+HETATM  523 PH5A PLN A  35      30.057  46.235   2.030  1.00  0.00            C  
+HETATM  524 PH5B PLN A  35      27.449  44.297   0.096  1.00  0.00            C  
+TER     525      PLN A  35
+HETATM  526 PV1  PLN A  36      27.945  43.252   0.333  1.00  0.00            C  
+HETATM  527 PV2  PLN A  36      24.730  43.627   2.211  1.00  0.00            C  
+HETATM  528 PV3  PLN A  36      25.380  42.237   3.602  1.00  0.00            C  
+HETATM  529 PV4  PLN A  36      28.595  41.861   1.724  1.00  0.00            C  
+HETATM  530 PH1A PLN A  36      28.053  43.020   0.565  1.00  0.00            C  
+HETATM  531 PH1B PLN A  36      24.839  43.396   2.443  1.00  0.00            C  
+HETATM  532 PH2A PLN A  36      28.162  42.788   0.797  1.00  0.00            C  
+HETATM  533 PH2B PLN A  36      24.947  43.164   2.675  1.00  0.00            C  
+HETATM  534 PH3A PLN A  36      28.270  42.556   1.029  1.00  0.00            C  
+HETATM  535 PH3B PLN A  36      25.055  42.932   2.907  1.00  0.00            C  
+HETATM  536 PH4A PLN A  36      28.378  42.324   1.261  1.00  0.00            C  
+HETATM  537 PH4B PLN A  36      25.164  42.700   3.139  1.00  0.00            C  
+HETATM  538 PH5A PLN A  36      28.487  42.093   1.493  1.00  0.00            C  
+HETATM  539 PH5B PLN A  36      25.272  42.468   3.371  1.00  0.00            C  
+TER     540      PLN A  36
+HETATM  541 PV1  PLN A  37      24.891  43.274   2.744  1.00  0.00            C  
+HETATM  542 PV2  PLN A  37      21.311  41.849   2.657  1.00  0.00            C  
+HETATM  543 PV3  PLN A  37      20.998  42.753   0.734  1.00  0.00            C  
+HETATM  544 PV4  PLN A  37      24.578  44.178   0.822  1.00  0.00            C  
+HETATM  545 PH1A PLN A  37      24.838  43.425   2.423  1.00  0.00            C  
+HETATM  546 PH1B PLN A  37      21.259  42.000   2.336  1.00  0.00            C  
+HETATM  547 PH2A PLN A  37      24.786  43.576   2.103  1.00  0.00            C  
+HETATM  548 PH2B PLN A  37      21.207  42.151   2.016  1.00  0.00            C  
+HETATM  549 PH3A PLN A  37      24.734  43.726   1.783  1.00  0.00            C  
+HETATM  550 PH3B PLN A  37      21.155  42.301   1.696  1.00  0.00            C  
+HETATM  551 PH4A PLN A  37      24.682  43.877   1.462  1.00  0.00            C  
+HETATM  552 PH4B PLN A  37      21.103  42.452   1.375  1.00  0.00            C  
+HETATM  553 PH5A PLN A  37      24.630  44.028   1.142  1.00  0.00            C  
+HETATM  554 PH5B PLN A  37      21.051  42.603   1.055  1.00  0.00            C  
+TER     555      PLN A  37
+HETATM  556 PV1  PLN A  38      21.169  42.094   2.178  1.00  0.00            C  
+HETATM  557 PV2  PLN A  38      18.185  43.387   4.408  1.00  0.00            C  
+HETATM  558 PV3  PLN A  38      19.049  42.450   6.108  1.00  0.00            C  
+HETATM  559 PV4  PLN A  38      22.033  41.157   3.878  1.00  0.00            C  
+HETATM  560 PH1A PLN A  38      21.313  41.938   2.461  1.00  0.00            C  
+HETATM  561 PH1B PLN A  38      18.329  43.231   4.692  1.00  0.00            C  
+HETATM  562 PH2A PLN A  38      21.457  41.782   2.745  1.00  0.00            C  
+HETATM  563 PH2B PLN A  38      18.473  43.075   4.975  1.00  0.00            C  
+HETATM  564 PH3A PLN A  38      21.601  41.626   3.028  1.00  0.00            C  
+HETATM  565 PH3B PLN A  38      18.617  42.919   5.258  1.00  0.00            C  
+HETATM  566 PH4A PLN A  38      21.745  41.470   3.311  1.00  0.00            C  
+HETATM  567 PH4B PLN A  38      18.761  42.763   5.541  1.00  0.00            C  
+HETATM  568 PH5A PLN A  38      21.889  41.313   3.594  1.00  0.00            C  
+HETATM  569 PH5B PLN A  38      18.905  42.606   5.825  1.00  0.00            C  
+TER     570      PLN A  38
+HETATM  571 PV1  PLN A  39      18.391  43.126   5.034  1.00  0.00            C  
+HETATM  572 PV2  PLN A  39      14.921  41.254   5.249  1.00  0.00            C  
+HETATM  573 PV3  PLN A  39      14.417  41.961   3.284  1.00  0.00            C  
+HETATM  574 PV4  PLN A  39      17.887  43.834   3.068  1.00  0.00            C  
+HETATM  575 PH1A PLN A  39      18.307  43.244   4.706  1.00  0.00            C  
+HETATM  576 PH1B PLN A  39      14.837  41.372   4.922  1.00  0.00            C  
+HETATM  577 PH2A PLN A  39      18.223  43.362   4.378  1.00  0.00            C  
+HETATM  578 PH2B PLN A  39      14.753  41.490   4.594  1.00  0.00            C  
+HETATM  579 PH3A PLN A  39      18.139  43.480   4.051  1.00  0.00            C  
+HETATM  580 PH3B PLN A  39      14.669  41.607   4.267  1.00  0.00            C  
+HETATM  581 PH4A PLN A  39      18.055  43.598   3.723  1.00  0.00            C  
+HETATM  582 PH4B PLN A  39      14.585  41.725   3.939  1.00  0.00            C  
+HETATM  583 PH5A PLN A  39      17.971  43.716   3.396  1.00  0.00            C  
+HETATM  584 PH5B PLN A  39      14.501  41.843   3.611  1.00  0.00            C  
+TER     585      PLN A  39
+HETATM  586 PV1  PLN A  40      14.697  41.418   4.565  1.00  0.00            C  
+HETATM  587 PV2  PLN A  40      11.303  40.321   6.110  1.00  0.00            C  
+HETATM  588 PV3  PLN A  40      12.231  40.271   8.115  1.00  0.00            C  
+HETATM  589 PV4  PLN A  40      15.626  41.369   6.571  1.00  0.00            C  
+HETATM  590 PH1A PLN A  40      14.852  41.410   4.900  1.00  0.00            C  
+HETATM  591 PH1B PLN A  40      11.458  40.312   6.444  1.00  0.00            C  
+HETATM  592 PH2A PLN A  40      15.007  41.401   5.234  1.00  0.00            C  
+HETATM  593 PH2B PLN A  40      11.612  40.304   6.778  1.00  0.00            C  
+HETATM  594 PH3A PLN A  40      15.161  41.393   5.568  1.00  0.00            C  
+HETATM  595 PH3B PLN A  40      11.767  40.296   7.112  1.00  0.00            C  
+HETATM  596 PH4A PLN A  40      15.316  41.385   5.903  1.00  0.00            C  
+HETATM  597 PH4B PLN A  40      11.922  40.288   7.447  1.00  0.00            C  
+HETATM  598 PH5A PLN A  40      15.471  41.377   6.237  1.00  0.00            C  
+HETATM  599 PH5B PLN A  40      12.077  40.280   7.781  1.00  0.00            C  
+TER     600      PLN A  40
+HETATM  601 PV1  PLN A  41      11.585  40.337   6.653  1.00  0.00            C  
+HETATM  602 PV2  PLN A  41      11.253  36.524   7.122  1.00  0.00            C  
+HETATM  603 PV3  PLN A  41      10.184  36.383   5.222  1.00  0.00            C  
+HETATM  604 PV4  PLN A  41      10.516  40.195   4.752  1.00  0.00            C  
+HETATM  605 PH1A PLN A  41      11.407  40.313   6.336  1.00  0.00            C  
+HETATM  606 PH1B PLN A  41      11.074  36.500   6.806  1.00  0.00            C  
+HETATM  607 PH2A PLN A  41      11.228  40.290   6.019  1.00  0.00            C  
+HETATM  608 PH2B PLN A  41      10.896  36.477   6.489  1.00  0.00            C  
+HETATM  609 PH3A PLN A  41      11.050  40.266   5.702  1.00  0.00            C  
+HETATM  610 PH3B PLN A  41      10.718  36.453   6.172  1.00  0.00            C  
+HETATM  611 PH4A PLN A  41      10.872  40.242   5.386  1.00  0.00            C  
+HETATM  612 PH4B PLN A  41      10.540  36.430   5.855  1.00  0.00            C  
+HETATM  613 PH5A PLN A  41      10.694  40.219   5.069  1.00  0.00            C  
+HETATM  614 PH5B PLN A  41      10.362  36.406   5.539  1.00  0.00            C  
+TER     615      PLN A  41
+HETATM  616 PV1  PLN A  42      11.354  36.296   6.754  1.00  0.00            C  
+HETATM  617 PV2  PLN A  42      10.681  34.355   9.971  1.00  0.00            C  
+HETATM  618 PV3  PLN A  42       9.020  35.595  10.370  1.00  0.00            C  
+HETATM  619 PV4  PLN A  42       9.693  37.535   7.154  1.00  0.00            C  
+HETATM  620 PH1A PLN A  42      11.077  36.502   6.821  1.00  0.00            C  
+HETATM  621 PH1B PLN A  42      10.404  34.562  10.037  1.00  0.00            C  
+HETATM  622 PH2A PLN A  42      10.801  36.709   6.888  1.00  0.00            C  
+HETATM  623 PH2B PLN A  42      10.127  34.768  10.104  1.00  0.00            C  
+HETATM  624 PH3A PLN A  42      10.524  36.915   6.954  1.00  0.00            C  
+HETATM  625 PH3B PLN A  42       9.850  34.975  10.170  1.00  0.00            C  
+HETATM  626 PH4A PLN A  42      10.247  37.122   7.021  1.00  0.00            C  
+HETATM  627 PH4B PLN A  42       9.574  35.182  10.237  1.00  0.00            C  
+HETATM  628 PH5A PLN A  42       9.970  37.329   7.088  1.00  0.00            C  
+HETATM  629 PH5B PLN A  42       9.297  35.388  10.304  1.00  0.00            C  
+TER     630      PLN A  42
+HETATM  631 PV1  PLN A  43      10.439  34.816  10.172  1.00  0.00            C  
+HETATM  632 PV2  PLN A  43      13.229  33.327  12.324  1.00  0.00            C  
+HETATM  633 PV3  PLN A  43      12.994  31.482  11.352  1.00  0.00            C  
+HETATM  634 PV4  PLN A  43      10.204  32.971   9.200  1.00  0.00            C  
+HETATM  635 PH1A PLN A  43      10.400  34.508  10.010  1.00  0.00            C  
+HETATM  636 PH1B PLN A  43      13.190  33.019  12.162  1.00  0.00            C  
+HETATM  637 PH2A PLN A  43      10.361  34.201   9.848  1.00  0.00            C  
+HETATM  638 PH2B PLN A  43      13.151  32.712  12.000  1.00  0.00            C  
+HETATM  639 PH3A PLN A  43      10.322  33.893   9.686  1.00  0.00            C  
+HETATM  640 PH3B PLN A  43      13.111  32.405  11.838  1.00  0.00            C  
+HETATM  641 PH4A PLN A  43      10.283  33.586   9.524  1.00  0.00            C  
+HETATM  642 PH4B PLN A  43      13.072  32.097  11.676  1.00  0.00            C  
+HETATM  643 PH5A PLN A  43      10.243  33.279   9.362  1.00  0.00            C  
+HETATM  644 PH5B PLN A  43      13.033  31.790  11.514  1.00  0.00            C  
+TER     645      PLN A  43
+HETATM  646 PV1  PLN A  44      13.262  32.920  12.581  1.00  0.00            C  
+HETATM  647 PV2  PLN A  44      16.880  34.150  12.539  1.00  0.00            C  
+HETATM  648 PV3  PLN A  44      16.596  34.919  10.608  1.00  0.00            C  
+HETATM  649 PV4  PLN A  44      12.978  33.689  10.650  1.00  0.00            C  
+HETATM  650 PH1A PLN A  44      13.215  33.048  12.259  1.00  0.00            C  
+HETATM  651 PH1B PLN A  44      16.832  34.278  12.217  1.00  0.00            C  
+HETATM  652 PH2A PLN A  44      13.168  33.176  11.937  1.00  0.00            C  
+HETATM  653 PH2B PLN A  44      16.785  34.407  11.896  1.00  0.00            C  
+HETATM  654 PH3A PLN A  44      13.120  33.304  11.616  1.00  0.00            C  
+HETATM  655 PH3B PLN A  44      16.738  34.535  11.574  1.00  0.00            C  
+HETATM  656 PH4A PLN A  44      13.073  33.432  11.294  1.00  0.00            C  
+HETATM  657 PH4B PLN A  44      16.690  34.663  11.252  1.00  0.00            C  
+HETATM  658 PH5A PLN A  44      13.026  33.561  10.972  1.00  0.00            C  
+HETATM  659 PH5B PLN A  44      16.643  34.791  10.930  1.00  0.00            C  
+TER     660      PLN A  44
+HETATM  661 PV1  PLN A  45      16.749  34.671  11.994  1.00  0.00            C  
+HETATM  662 PV2  PLN A  45      17.578  33.380   8.391  1.00  0.00            C  
+HETATM  663 PV3  PLN A  45      17.956  31.486   9.156  1.00  0.00            C  
+HETATM  664 PV4  PLN A  45      17.127  32.777  12.759  1.00  0.00            C  
+HETATM  665 PH1A PLN A  45      16.812  34.355  12.121  1.00  0.00            C  
+HETATM  666 PH1B PLN A  45      17.641  33.064   8.518  1.00  0.00            C  
+HETATM  667 PH2A PLN A  45      16.875  34.040  12.249  1.00  0.00            C  
+HETATM  668 PH2B PLN A  45      17.704  32.749   8.646  1.00  0.00            C  
+HETATM  669 PH3A PLN A  45      16.938  33.724  12.376  1.00  0.00            C  
+HETATM  670 PH3B PLN A  45      17.767  32.433   8.773  1.00  0.00            C  
+HETATM  671 PH4A PLN A  45      17.001  33.408  12.504  1.00  0.00            C  
+HETATM  672 PH4B PLN A  45      17.830  32.117   8.901  1.00  0.00            C  
+HETATM  673 PH5A PLN A  45      17.064  33.093  12.631  1.00  0.00            C  
+HETATM  674 PH5B PLN A  45      17.893  31.802   9.029  1.00  0.00            C  
+TER     675      PLN A  45
+HETATM  676 PV1  PLN A  46      17.483  32.873   8.337  1.00  0.00            C  
+HETATM  677 PV2  PLN A  46      20.393  30.418   7.736  1.00  0.00            C  
+HETATM  678 PV3  PLN A  46      21.597  31.477   9.243  1.00  0.00            C  
+HETATM  679 PV4  PLN A  46      18.688  33.931   9.844  1.00  0.00            C  
+HETATM  680 PH1A PLN A  46      17.684  33.049   8.588  1.00  0.00            C  
+HETATM  681 PH1B PLN A  46      20.593  30.595   7.987  1.00  0.00            C  
+HETATM  682 PH2A PLN A  46      17.885  33.226   8.839  1.00  0.00            C  
+HETATM  683 PH2B PLN A  46      20.794  30.771   8.238  1.00  0.00            C  
+HETATM  684 PH3A PLN A  46      18.085  33.402   9.091  1.00  0.00            C  
+HETATM  685 PH3B PLN A  46      20.995  30.948   8.490  1.00  0.00            C  
+HETATM  686 PH4A PLN A  46      18.286  33.579   9.342  1.00  0.00            C  
+HETATM  687 PH4B PLN A  46      21.196  31.124   8.741  1.00  0.00            C  
+HETATM  688 PH5A PLN A  46      18.487  33.755   9.593  1.00  0.00            C  
+HETATM  689 PH5B PLN A  46      21.396  31.301   8.992  1.00  0.00            C  
+TER     690      PLN A  46
+HETATM  691 PV1  PLN A  47      20.640  30.319   8.085  1.00  0.00            C  
+HETATM  692 PV2  PLN A  47      24.220  31.616   8.049  1.00  0.00            C  
+HETATM  693 PV3  PLN A  47      23.569  33.382   6.952  1.00  0.00            C  
+HETATM  694 PV4  PLN A  47      19.989  32.085   6.988  1.00  0.00            C  
+HETATM  695 PH1A PLN A  47      20.531  30.614   7.902  1.00  0.00            C  
+HETATM  696 PH1B PLN A  47      24.111  31.911   7.866  1.00  0.00            C  
+HETATM  697 PH2A PLN A  47      20.423  30.908   7.720  1.00  0.00            C  
+HETATM  698 PH2B PLN A  47      24.003  32.205   7.683  1.00  0.00            C  
+HETATM  699 PH3A PLN A  47      20.315  31.202   7.537  1.00  0.00            C  
+HETATM  700 PH3B PLN A  47      23.894  32.499   7.501  1.00  0.00            C  
+HETATM  701 PH4A PLN A  47      20.206  31.497   7.354  1.00  0.00            C  
+HETATM  702 PH4B PLN A  47      23.786  32.794   7.318  1.00  0.00            C  
+HETATM  703 PH5A PLN A  47      20.098  31.791   7.171  1.00  0.00            C  
+HETATM  704 PH5B PLN A  47      23.677  33.088   7.135  1.00  0.00            C  
+TER     705      PLN A  47
+HETATM  706 PV1  PLN A  48      24.145  31.750   8.210  1.00  0.00            C  
+HETATM  707 PV2  PLN A  48      26.390  28.912   7.225  1.00  0.00            C  
+HETATM  708 PV3  PLN A  48      26.316  29.551   5.219  1.00  0.00            C  
+HETATM  709 PV4  PLN A  48      24.071  32.389   6.204  1.00  0.00            C  
+HETATM  710 PH1A PLN A  48      24.132  31.857   7.876  1.00  0.00            C  
+HETATM  711 PH1B PLN A  48      26.377  29.019   6.890  1.00  0.00            C  
+HETATM  712 PH2A PLN A  48      24.120  31.963   7.542  1.00  0.00            C  
+HETATM  713 PH2B PLN A  48      26.365  29.125   6.556  1.00  0.00            C  
+HETATM  714 PH3A PLN A  48      24.108  32.070   7.207  1.00  0.00            C  
+HETATM  715 PH3B PLN A  48      26.353  29.232   6.222  1.00  0.00            C  
+HETATM  716 PH4A PLN A  48      24.096  32.176   6.873  1.00  0.00            C  
+HETATM  717 PH4B PLN A  48      26.341  29.338   5.887  1.00  0.00            C  
+HETATM  718 PH5A PLN A  48      24.083  32.283   6.539  1.00  0.00            C  
+HETATM  719 PH5B PLN A  48      26.328  29.445   5.553  1.00  0.00            C  
+TER     720      PLN A  48
+HETATM  721 PV1  PLN A  49      26.371  29.008   6.907  1.00  0.00            C  
+HETATM  722 PV2  PLN A  49      30.027  29.656   6.179  1.00  0.00            C  
+HETATM  723 PV3  PLN A  49      29.465  30.753   4.334  1.00  0.00            C  
+HETATM  724 PV4  PLN A  49      25.809  30.105   5.062  1.00  0.00            C  
+HETATM  725 PH1A PLN A  49      26.277  29.191   6.599  1.00  0.00            C  
+HETATM  726 PH1B PLN A  49      29.933  29.839   5.872  1.00  0.00            C  
+HETATM  727 PH2A PLN A  49      26.184  29.374   6.292  1.00  0.00            C  
+HETATM  728 PH2B PLN A  49      29.840  30.022   5.564  1.00  0.00            C  
+HETATM  729 PH3A PLN A  49      26.090  29.556   5.984  1.00  0.00            C  
+HETATM  730 PH3B PLN A  49      29.746  30.205   5.257  1.00  0.00            C  
+HETATM  731 PH4A PLN A  49      25.997  29.739   5.677  1.00  0.00            C  
+HETATM  732 PH4B PLN A  49      29.652  30.388   4.949  1.00  0.00            C  
+HETATM  733 PH5A PLN A  49      25.903  29.922   5.369  1.00  0.00            C  
+HETATM  734 PH5B PLN A  49      29.559  30.570   4.642  1.00  0.00            C  
+TER     735      PLN A  49
+HETATM  736 PV1  PLN A  50      30.239  29.480   5.851  1.00  0.00            C  
+HETATM  737 PV2  PLN A  50      32.183  32.967   5.254  1.00  0.00            C  
+HETATM  738 PV3  PLN A  50      31.146  33.818   6.852  1.00  0.00            C  
+HETATM  739 PV4  PLN A  50      29.202  30.331   7.449  1.00  0.00            C  
+HETATM  740 PH1A PLN A  50      30.067  29.622   6.117  1.00  0.00            C  
+HETATM  741 PH1B PLN A  50      32.010  33.109   5.520  1.00  0.00            C  
+HETATM  742 PH2A PLN A  50      29.894  29.763   6.383  1.00  0.00            C  
+HETATM  743 PH2B PLN A  50      31.837  33.251   5.786  1.00  0.00            C  
+HETATM  744 PH3A PLN A  50      29.721  29.905   6.650  1.00  0.00            C  
+HETATM  745 PH3B PLN A  50      31.664  33.393   6.053  1.00  0.00            C  
+HETATM  746 PH4A PLN A  50      29.548  30.047   6.916  1.00  0.00            C  
+HETATM  747 PH4B PLN A  50      31.491  33.535   6.319  1.00  0.00            C  
+HETATM  748 PH5A PLN A  50      29.375  30.189   7.182  1.00  0.00            C  
+HETATM  749 PH5B PLN A  50      31.318  33.677   6.585  1.00  0.00            C  
+TER     750      PLN A  50
+HETATM  751 PV1  PLN A  51      31.975  33.009   5.852  1.00  0.00            C  
+HETATM  752 PV2  PLN A  51      29.028  35.270   7.053  1.00  0.00            C  
+HETATM  753 PV3  PLN A  51      28.964  36.208   5.130  1.00  0.00            C  
+HETATM  754 PV4  PLN A  51      31.911  33.947   3.929  1.00  0.00            C  
+HETATM  755 PH1A PLN A  51      31.964  33.165   5.531  1.00  0.00            C  
+HETATM  756 PH1B PLN A  51      29.018  35.426   6.732  1.00  0.00            C  
+HETATM  757 PH2A PLN A  51      31.954  33.322   5.211  1.00  0.00            C  
+HETATM  758 PH2B PLN A  51      29.007  35.583   6.412  1.00  0.00            C  
+HETATM  759 PH3A PLN A  51      31.943  33.478   4.890  1.00  0.00            C  
+HETATM  760 PH3B PLN A  51      28.996  35.739   6.091  1.00  0.00            C  
+HETATM  761 PH4A PLN A  51      31.932  33.634   4.570  1.00  0.00            C  
+HETATM  762 PH4B PLN A  51      28.985  35.895   5.771  1.00  0.00            C  
+HETATM  763 PH5A PLN A  51      31.922  33.790   4.249  1.00  0.00            C  
+HETATM  764 PH5B PLN A  51      28.975  36.051   5.450  1.00  0.00            C  
+TER     765      PLN A  51
+HETATM  766 PV1  PLN A  52      28.872  35.641   6.546  1.00  0.00            C  
+HETATM  767 PV2  PLN A  52      27.529  37.707   9.506  1.00  0.00            C  
+HETATM  768 PV3  PLN A  52      28.392  36.314  10.870  1.00  0.00            C  
+HETATM  769 PV4  PLN A  52      29.735  34.248   7.910  1.00  0.00            C  
+HETATM  770 PH1A PLN A  52      29.016  35.409   6.774  1.00  0.00            C  
+HETATM  771 PH1B PLN A  52      27.673  37.475   9.734  1.00  0.00            C  
+HETATM  772 PH2A PLN A  52      29.160  35.176   7.001  1.00  0.00            C  
+HETATM  773 PH2B PLN A  52      27.817  37.243   9.961  1.00  0.00            C  
+HETATM  774 PH3A PLN A  52      29.304  34.944   7.228  1.00  0.00            C  
+HETATM  775 PH3B PLN A  52      27.961  37.011  10.188  1.00  0.00            C  
+HETATM  776 PH4A PLN A  52      29.448  34.712   7.455  1.00  0.00            C  
+HETATM  777 PH4B PLN A  52      28.104  36.779  10.415  1.00  0.00            C  
+HETATM  778 PH5A PLN A  52      29.591  34.480   7.683  1.00  0.00            C  
+HETATM  779 PH5B PLN A  52      28.248  36.547  10.643  1.00  0.00            C  
+TER     780      PLN A  52
+HETATM  781 PV1  PLN A  53      27.696  37.273  10.056  1.00  0.00            C  
+HETATM  782 PV2  PLN A  53      24.076  38.239  10.869  1.00  0.00            C  
+HETATM  783 PV3  PLN A  53      23.970  39.357   9.067  1.00  0.00            C  
+HETATM  784 PV4  PLN A  53      27.589  38.392   8.254  1.00  0.00            C  
+HETATM  785 PH1A PLN A  53      27.678  37.460   9.756  1.00  0.00            C  
+HETATM  786 PH1B PLN A  53      24.059  38.425  10.569  1.00  0.00            C  
+HETATM  787 PH2A PLN A  53      27.660  37.646   9.456  1.00  0.00            C  
+HETATM  788 PH2B PLN A  53      24.041  38.612  10.268  1.00  0.00            C  
+HETATM  789 PH3A PLN A  53      27.643  37.833   9.155  1.00  0.00            C  
+HETATM  790 PH3B PLN A  53      24.023  38.798   9.968  1.00  0.00            C  
+HETATM  791 PH4A PLN A  53      27.625  38.019   8.855  1.00  0.00            C  
+HETATM  792 PH4B PLN A  53      24.005  38.985   9.668  1.00  0.00            C  
+HETATM  793 PH5A PLN A  53      27.607  38.205   8.554  1.00  0.00            C  
+HETATM  794 PH5B PLN A  53      23.988  39.171   9.367  1.00  0.00            C  
+TER     795      PLN A  53
+HETATM  796 PV1  PLN A  54      23.893  38.582  10.323  1.00  0.00            C  
+HETATM  797 PV2  PLN A  54      21.434  39.878  12.898  1.00  0.00            C  
+HETATM  798 PV3  PLN A  54      22.552  38.923  14.447  1.00  0.00            C  
+HETATM  799 PV4  PLN A  54      25.011  37.627  11.872  1.00  0.00            C  
+HETATM  800 PH1A PLN A  54      24.080  38.422  10.581  1.00  0.00            C  
+HETATM  801 PH1B PLN A  54      21.620  39.719  13.156  1.00  0.00            C  
+HETATM  802 PH2A PLN A  54      24.266  38.263  10.840  1.00  0.00            C  
+HETATM  803 PH2B PLN A  54      21.807  39.559  13.414  1.00  0.00            C  
+HETATM  804 PH3A PLN A  54      24.452  38.104  11.098  1.00  0.00            C  
+HETATM  805 PH3B PLN A  54      21.993  39.400  13.672  1.00  0.00            C  
+HETATM  806 PH4A PLN A  54      24.639  37.945  11.356  1.00  0.00            C  
+HETATM  807 PH4B PLN A  54      22.179  39.241  13.930  1.00  0.00            C  
+HETATM  808 PH5A PLN A  54      24.825  37.786  11.614  1.00  0.00            C  
+HETATM  809 PH5B PLN A  54      22.366  39.082  14.189  1.00  0.00            C  
+TER     810      PLN A  54
+HETATM  811 PV1  PLN A  55      21.644  39.680  13.469  1.00  0.00            C  
+HETATM  812 PV2  PLN A  55      17.915  39.941  14.027  1.00  0.00            C  
+HETATM  813 PV3  PLN A  55      17.620  40.263  11.909  1.00  0.00            C  
+HETATM  814 PV4  PLN A  55      21.350  40.002  11.350  1.00  0.00            C  
+HETATM  815 PH1A PLN A  55      21.595  39.734  13.116  1.00  0.00            C  
+HETATM  816 PH1B PLN A  55      17.866  39.994  13.674  1.00  0.00            C  
+HETATM  817 PH2A PLN A  55      21.546  39.787  12.763  1.00  0.00            C  
+HETATM  818 PH2B PLN A  55      17.816  40.048  13.321  1.00  0.00            C  
+HETATM  819 PH3A PLN A  55      21.497  39.841  12.409  1.00  0.00            C  
+HETATM  820 PH3B PLN A  55      17.767  40.102  12.968  1.00  0.00            C  
+HETATM  821 PH4A PLN A  55      21.448  39.895  12.056  1.00  0.00            C  
+HETATM  822 PH4B PLN A  55      17.718  40.155  12.615  1.00  0.00            C  
+HETATM  823 PH5A PLN A  55      21.399  39.949  11.703  1.00  0.00            C  
+HETATM  824 PH5B PLN A  55      17.669  40.209  12.262  1.00  0.00            C  
+TER     825      PLN A  55
+HETATM  826 PV1  PLN A  56      17.687  40.022  13.398  1.00  0.00            C  
+HETATM  827 PV2  PLN A  56      15.077  41.962  15.242  1.00  0.00            C  
+HETATM  828 PV3  PLN A  56      16.240  41.764  17.096  1.00  0.00            C  
+HETATM  829 PV4  PLN A  56      18.850  39.824  15.251  1.00  0.00            C  
+HETATM  830 PH1A PLN A  56      17.881  39.989  13.707  1.00  0.00            C  
+HETATM  831 PH1B PLN A  56      15.271  41.929  15.551  1.00  0.00            C  
+HETATM  832 PH2A PLN A  56      18.075  39.956  14.016  1.00  0.00            C  
+HETATM  833 PH2B PLN A  56      15.465  41.896  15.860  1.00  0.00            C  
+HETATM  834 PH3A PLN A  56      18.268  39.923  14.325  1.00  0.00            C  
+HETATM  835 PH3B PLN A  56      15.659  41.863  16.169  1.00  0.00            C  
+HETATM  836 PH4A PLN A  56      18.462  39.890  14.634  1.00  0.00            C  
+HETATM  837 PH4B PLN A  56      15.853  41.830  16.478  1.00  0.00            C  
+HETATM  838 PH5A PLN A  56      18.656  39.857  14.943  1.00  0.00            C  
+HETATM  839 PH5B PLN A  56      16.046  41.797  16.787  1.00  0.00            C  
+TER     840      PLN A  56
+HETATM  841 PV1  PLN A  57      15.296  41.955  15.743  1.00  0.00            C  
+HETATM  842 PV2  PLN A  57      11.678  41.886  16.429  1.00  0.00            C  
+HETATM  843 PV3  PLN A  57      11.279  41.627  14.301  1.00  0.00            C  
+HETATM  844 PV4  PLN A  57      14.897  41.697  13.615  1.00  0.00            C  
+HETATM  845 PH1A PLN A  57      15.229  41.912  15.388  1.00  0.00            C  
+HETATM  846 PH1B PLN A  57      11.612  41.842  16.075  1.00  0.00            C  
+HETATM  847 PH2A PLN A  57      15.163  41.869  15.033  1.00  0.00            C  
+HETATM  848 PH2B PLN A  57      11.545  41.799  15.720  1.00  0.00            C  
+HETATM  849 PH3A PLN A  57      15.096  41.826  14.679  1.00  0.00            C  
+HETATM  850 PH3B PLN A  57      11.479  41.756  15.365  1.00  0.00            C  
+HETATM  851 PH4A PLN A  57      15.030  41.783  14.324  1.00  0.00            C  
+HETATM  852 PH4B PLN A  57      11.412  41.713  15.011  1.00  0.00            C  
+HETATM  853 PH5A PLN A  57      14.963  41.740  13.969  1.00  0.00            C  
+HETATM  854 PH5B PLN A  57      11.346  41.670  14.656  1.00  0.00            C  
+TER     855      PLN A  57
+HETATM  856 PV1  PLN A  58      11.741  41.879  16.377  1.00  0.00            C  
+HETATM  857 PV2  PLN A  58      11.329  45.691  16.292  1.00  0.00            C  
+HETATM  858 PV3  PLN A  58      10.169  45.525  14.485  1.00  0.00            C  
+HETATM  859 PV4  PLN A  58      10.581  41.713  14.570  1.00  0.00            C  
+HETATM  860 PH1A PLN A  58      11.548  41.851  16.076  1.00  0.00            C  
+HETATM  861 PH1B PLN A  58      11.135  45.663  15.990  1.00  0.00            C  
+HETATM  862 PH2A PLN A  58      11.354  41.823  15.774  1.00  0.00            C  
+HETATM  863 PH2B PLN A  58      10.942  45.635  15.689  1.00  0.00            C  
+HETATM  864 PH3A PLN A  58      11.161  41.796  15.473  1.00  0.00            C  
+HETATM  865 PH3B PLN A  58      10.749  45.608  15.388  1.00  0.00            C  
+HETATM  866 PH4A PLN A  58      10.968  41.768  15.172  1.00  0.00            C  
+HETATM  867 PH4B PLN A  58      10.555  45.580  15.087  1.00  0.00            C  
+HETATM  868 PH5A PLN A  58      10.774  41.741  14.871  1.00  0.00            C  
+HETATM  869 PH5B PLN A  58      10.362  45.552  14.786  1.00  0.00            C  
+TER     870      PLN A  58
+HETATM  871 PV1  PLN A  59      10.930  45.592  16.282  1.00  0.00            C  
+HETATM  872 PV2  PLN A  59       8.991  46.629  13.066  1.00  0.00            C  
+HETATM  873 PV3  PLN A  59      10.830  47.149  12.125  1.00  0.00            C  
+HETATM  874 PV4  PLN A  59      12.769  46.112  15.341  1.00  0.00            C  
+HETATM  875 PH1A PLN A  59      11.236  45.679  16.125  1.00  0.00            C  
+HETATM  876 PH1B PLN A  59       9.297  46.716  12.909  1.00  0.00            C  
+HETATM  877 PH2A PLN A  59      11.543  45.765  15.968  1.00  0.00            C  
+HETATM  878 PH2B PLN A  59       9.604  46.802  12.752  1.00  0.00            C  
+HETATM  879 PH3A PLN A  59      11.850  45.852  15.811  1.00  0.00            C  
+HETATM  880 PH3B PLN A  59       9.910  46.889  12.595  1.00  0.00            C  
+HETATM  881 PH4A PLN A  59      12.156  45.939  15.655  1.00  0.00            C  
+HETATM  882 PH4B PLN A  59      10.217  46.976  12.439  1.00  0.00            C  
+HETATM  883 PH5A PLN A  59      12.463  46.026  15.498  1.00  0.00            C  
+HETATM  884 PH5B PLN A  59      10.523  47.062  12.282  1.00  0.00            C  
+TER     885      PLN A  59
+HETATM  886 PV1  PLN A  60       9.184  46.827  13.092  1.00  0.00            C  
+HETATM  887 PV2  PLN A  60      11.421  49.799  12.448  1.00  0.00            C  
+HETATM  888 PV3  PLN A  60      12.349  48.755  10.852  1.00  0.00            C  
+HETATM  889 PV4  PLN A  60      10.112  45.783  11.497  1.00  0.00            C  
+HETATM  890 PH1A PLN A  60       9.339  46.653  12.826  1.00  0.00            C  
+HETATM  891 PH1B PLN A  60      11.576  49.625  12.182  1.00  0.00            C  
+HETATM  892 PH2A PLN A  60       9.493  46.479  12.560  1.00  0.00            C  
+HETATM  893 PH2B PLN A  60      11.731  49.451  11.916  1.00  0.00            C  
+HETATM  894 PH3A PLN A  60       9.648  46.305  12.294  1.00  0.00            C  
+HETATM  895 PH3B PLN A  60      11.885  49.277  11.650  1.00  0.00            C  
+HETATM  896 PH4A PLN A  60       9.802  46.131  12.029  1.00  0.00            C  
+HETATM  897 PH4B PLN A  60      12.040  49.103  11.384  1.00  0.00            C  
+HETATM  898 PH5A PLN A  60       9.957  45.957  11.763  1.00  0.00            C  
+HETATM  899 PH5B PLN A  60      12.195  48.929  11.118  1.00  0.00            C  
+TER     900      PLN A  60
+HETATM  901 PV1  PLN A  61      11.416  49.507  12.505  1.00  0.00            C  
+HETATM  902 PV2  PLN A  61      14.840  47.683  12.748  1.00  0.00            C  
+HETATM  903 PV3  PLN A  61      15.579  48.859  11.162  1.00  0.00            C  
+HETATM  904 PV4  PLN A  61      12.155  50.683  10.918  1.00  0.00            C  
+HETATM  905 PH1A PLN A  61      11.539  49.703  12.240  1.00  0.00            C  
+HETATM  906 PH1B PLN A  61      14.963  47.879  12.484  1.00  0.00            C  
+HETATM  907 PH2A PLN A  61      11.663  49.899  11.976  1.00  0.00            C  
+HETATM  908 PH2B PLN A  61      15.087  48.075  12.220  1.00  0.00            C  
+HETATM  909 PH3A PLN A  61      11.786  50.095  11.712  1.00  0.00            C  
+HETATM  910 PH3B PLN A  61      15.210  48.271  11.955  1.00  0.00            C  
+HETATM  911 PH4A PLN A  61      11.909  50.291  11.447  1.00  0.00            C  
+HETATM  912 PH4B PLN A  61      15.333  48.467  11.691  1.00  0.00            C  
+HETATM  913 PH5A PLN A  61      12.032  50.487  11.183  1.00  0.00            C  
+HETATM  914 PH5B PLN A  61      15.456  48.663  11.426  1.00  0.00            C  
+TER     915      PLN A  61
+HETATM  916 PV1  PLN A  62      15.001  48.211  12.403  1.00  0.00            C  
+HETATM  917 PV2  PLN A  62      16.605  46.854   9.271  1.00  0.00            C  
+HETATM  918 PV3  PLN A  62      16.344  44.852  10.005  1.00  0.00            C  
+HETATM  919 PV4  PLN A  62      14.740  46.209  13.137  1.00  0.00            C  
+HETATM  920 PH1A PLN A  62      14.958  47.878  12.525  1.00  0.00            C  
+HETATM  921 PH1B PLN A  62      16.562  46.521   9.393  1.00  0.00            C  
+HETATM  922 PH2A PLN A  62      14.914  47.544  12.648  1.00  0.00            C  
+HETATM  923 PH2B PLN A  62      16.518  46.187   9.516  1.00  0.00            C  
+HETATM  924 PH3A PLN A  62      14.870  47.210  12.770  1.00  0.00            C  
+HETATM  925 PH3B PLN A  62      16.474  45.853   9.638  1.00  0.00            C  
+HETATM  926 PH4A PLN A  62      14.827  46.876  12.892  1.00  0.00            C  
+HETATM  927 PH4B PLN A  62      16.431  45.519   9.760  1.00  0.00            C  
+HETATM  928 PH5A PLN A  62      14.783  46.543  13.014  1.00  0.00            C  
+HETATM  929 PH5B PLN A  62      16.387  45.186   9.882  1.00  0.00            C  
+TER     930      PLN A  62
+HETATM  931 PV1  PLN A  63      16.474  46.703   9.699  1.00  0.00            C  
+HETATM  932 PV2  PLN A  63      18.488  49.804   8.368  1.00  0.00            C  
+HETATM  933 PV3  PLN A  63      18.987  48.728   6.617  1.00  0.00            C  
+HETATM  934 PV4  PLN A  63      16.974  45.627   7.948  1.00  0.00            C  
+HETATM  935 PH1A PLN A  63      16.558  46.523   9.407  1.00  0.00            C  
+HETATM  936 PH1B PLN A  63      18.571  49.625   8.077  1.00  0.00            C  
+HETATM  937 PH2A PLN A  63      16.641  46.344   9.115  1.00  0.00            C  
+HETATM  938 PH2B PLN A  63      18.654  49.445   7.785  1.00  0.00            C  
+HETATM  939 PH3A PLN A  63      16.724  46.165   8.823  1.00  0.00            C  
+HETATM  940 PH3B PLN A  63      18.737  49.266   7.493  1.00  0.00            C  
+HETATM  941 PH4A PLN A  63      16.807  45.986   8.531  1.00  0.00            C  
+HETATM  942 PH4B PLN A  63      18.821  49.087   7.201  1.00  0.00            C  
+HETATM  943 PH5A PLN A  63      16.891  45.806   8.240  1.00  0.00            C  
+HETATM  944 PH5B PLN A  63      18.904  48.908   6.909  1.00  0.00            C  
+TER     945      PLN A  63
+HETATM  946 PV1  PLN A  64      18.510  49.948   7.971  1.00  0.00            C  
+HETATM  947 PV2  PLN A  64      22.128  50.270   6.596  1.00  0.00            C  
+HETATM  948 PV3  PLN A  64      22.537  48.198   7.187  1.00  0.00            C  
+HETATM  949 PV4  PLN A  64      18.919  47.875   8.562  1.00  0.00            C  
+HETATM  950 PH1A PLN A  64      18.578  49.603   8.069  1.00  0.00            C  
+HETATM  951 PH1B PLN A  64      22.196  49.925   6.694  1.00  0.00            C  
+HETATM  952 PH2A PLN A  64      18.646  49.257   8.168  1.00  0.00            C  
+HETATM  953 PH2B PLN A  64      22.264  49.579   6.793  1.00  0.00            C  
+HETATM  954 PH3A PLN A  64      18.714  48.912   8.266  1.00  0.00            C  
+HETATM  955 PH3B PLN A  64      22.333  49.234   6.891  1.00  0.00            C  
+HETATM  956 PH4A PLN A  64      18.783  48.566   8.365  1.00  0.00            C  
+HETATM  957 PH4B PLN A  64      22.401  48.889   6.990  1.00  0.00            C  
+HETATM  958 PH5A PLN A  64      18.851  48.221   8.463  1.00  0.00            C  
+HETATM  959 PH5B PLN A  64      22.469  48.543   7.088  1.00  0.00            C  
+TER     960      PLN A  64
+HETATM  961 PV1  PLN A  65      22.172  49.600   6.611  1.00  0.00            C  
+HETATM  962 PV2  PLN A  65      24.406  48.696   9.788  1.00  0.00            C  
+HETATM  963 PV3  PLN A  65      24.543  50.777  10.285  1.00  0.00            C  
+HETATM  964 PV4  PLN A  65      22.308  51.681   7.107  1.00  0.00            C  
+HETATM  965 PH1A PLN A  65      22.194  49.947   6.694  1.00  0.00            C  
+HETATM  966 PH1B PLN A  65      24.429  49.043   9.871  1.00  0.00            C  
+HETATM  967 PH2A PLN A  65      22.217  50.294   6.776  1.00  0.00            C  
+HETATM  968 PH2B PLN A  65      24.452  49.389   9.954  1.00  0.00            C  
+HETATM  969 PH3A PLN A  65      22.240  50.640   6.859  1.00  0.00            C  
+HETATM  970 PH3B PLN A  65      24.475  49.736  10.036  1.00  0.00            C  
+HETATM  971 PH4A PLN A  65      22.263  50.987   6.942  1.00  0.00            C  
+HETATM  972 PH4B PLN A  65      24.497  50.083  10.119  1.00  0.00            C  
+HETATM  973 PH5A PLN A  65      22.285  51.334   7.025  1.00  0.00            C  
+HETATM  974 PH5B PLN A  65      24.520  50.430  10.202  1.00  0.00            C  
+TER     975      PLN A  65
+HETATM  976 PV1  PLN A  66      24.299  49.066  10.165  1.00  0.00            C  
+HETATM  977 PV2  PLN A  66      27.508  50.870  11.411  1.00  0.00            C  
+HETATM  978 PV3  PLN A  66      28.367  50.675   9.483  1.00  0.00            C  
+HETATM  979 PV4  PLN A  66      25.157  48.871   8.238  1.00  0.00            C  
+HETATM  980 PH1A PLN A  66      24.442  49.034   9.844  1.00  0.00            C  
+HETATM  981 PH1B PLN A  66      27.651  50.838  11.090  1.00  0.00            C  
+HETATM  982 PH2A PLN A  66      24.585  49.001   9.523  1.00  0.00            C  
+HETATM  983 PH2B PLN A  66      27.794  50.805  10.768  1.00  0.00            C  
+HETATM  984 PH3A PLN A  66      24.728  48.968   9.202  1.00  0.00            C  
+HETATM  985 PH3B PLN A  66      27.937  50.773  10.447  1.00  0.00            C  
+HETATM  986 PH4A PLN A  66      24.871  48.936   8.880  1.00  0.00            C  
+HETATM  987 PH4B PLN A  66      28.080  50.740  10.126  1.00  0.00            C  
+HETATM  988 PH5A PLN A  66      25.014  48.903   8.559  1.00  0.00            C  
+HETATM  989 PH5B PLN A  66      28.224  50.707   9.804  1.00  0.00            C  
+TER     990      PLN A  66
+HETATM  991 PV1  PLN A  67      27.558  51.078  11.072  1.00  0.00            C  
+HETATM  992 PV2  PLN A  67      29.506  51.211   7.775  1.00  0.00            C  
+HETATM  993 PV3  PLN A  67      30.193  49.240   8.101  1.00  0.00            C  
+HETATM  994 PV4  PLN A  67      28.244  49.107  11.399  1.00  0.00            C  
+HETATM  995 PH1A PLN A  67      27.672  50.750  11.127  1.00  0.00            C  
+HETATM  996 PH1B PLN A  67      29.621  50.883   7.829  1.00  0.00            C  
+HETATM  997 PH2A PLN A  67      27.787  50.421  11.181  1.00  0.00            C  
+HETATM  998 PH2B PLN A  67      29.735  50.554   7.883  1.00  0.00            C  
+HETATM  999 PH3A PLN A  67      27.901  50.093  11.235  1.00  0.00            C  
+HETATM 1000 PH3B PLN A  67      29.850  50.225   7.938  1.00  0.00            C  
+HETATM 1001 PH4A PLN A  67      28.015  49.764  11.290  1.00  0.00            C  
+HETATM 1002 PH4B PLN A  67      29.964  49.897   7.992  1.00  0.00            C  
+HETATM 1003 PH5A PLN A  67      28.130  49.435  11.344  1.00  0.00            C  
+HETATM 1004 PH5B PLN A  67      30.078  49.568   8.046  1.00  0.00            C  
+TER    1005      PLN A  67
+HETATM 1006 PV1  PLN A  68      29.474  50.999   8.245  1.00  0.00            C  
+HETATM 1007 PV2  PLN A  68      30.349  47.247   8.669  1.00  0.00            C  
+HETATM 1008 PV3  PLN A  68      30.840  47.131   6.632  1.00  0.00            C  
+HETATM 1009 PV4  PLN A  68      29.965  50.883   6.207  1.00  0.00            C  
+HETATM 1010 PH1A PLN A  68      29.556  50.980   7.905  1.00  0.00            C  
+HETATM 1011 PH1B PLN A  68      30.431  47.227   8.330  1.00  0.00            C  
+HETATM 1012 PH2A PLN A  68      29.637  50.960   7.566  1.00  0.00            C  
+HETATM 1013 PH2B PLN A  68      30.513  47.208   7.990  1.00  0.00            C  
+HETATM 1014 PH3A PLN A  68      29.719  50.941   7.226  1.00  0.00            C  
+HETATM 1015 PH3B PLN A  68      30.594  47.189   7.651  1.00  0.00            C  
+HETATM 1016 PH4A PLN A  68      29.801  50.922   6.887  1.00  0.00            C  
+HETATM 1017 PH4B PLN A  68      30.676  47.169   7.311  1.00  0.00            C  
+HETATM 1018 PH5A PLN A  68      29.883  50.902   6.547  1.00  0.00            C  
+HETATM 1019 PH5B PLN A  68      30.758  47.150   6.971  1.00  0.00            C  
+TER    1020      PLN A  68
+HETATM 1021 PV1  PLN A  69      30.451  47.575   8.417  1.00  0.00            C  
+HETATM 1022 PV2  PLN A  69      28.609  45.833  11.543  1.00  0.00            C  
+HETATM 1023 PV3  PLN A  69      28.737  43.919  10.552  1.00  0.00            C  
+HETATM 1024 PV4  PLN A  69      30.579  45.662   7.426  1.00  0.00            C  
+HETATM 1025 PH1A PLN A  69      30.472  47.256   8.252  1.00  0.00            C  
+HETATM 1026 PH1B PLN A  69      28.631  45.514  11.378  1.00  0.00            C  
+HETATM 1027 PH2A PLN A  69      30.493  46.937   8.087  1.00  0.00            C  
+HETATM 1028 PH2B PLN A  69      28.652  45.195  11.212  1.00  0.00            C  
+HETATM 1029 PH3A PLN A  69      30.515  46.618   7.922  1.00  0.00            C  
+HETATM 1030 PH3B PLN A  69      28.673  44.876  11.047  1.00  0.00            C  
+HETATM 1031 PH4A PLN A  69      30.536  46.300   7.756  1.00  0.00            C  
+HETATM 1032 PH4B PLN A  69      28.695  44.557  10.882  1.00  0.00            C  
+HETATM 1033 PH5A PLN A  69      30.557  45.981   7.591  1.00  0.00            C  
+HETATM 1034 PH5B PLN A  69      28.716  44.238  10.717  1.00  0.00            C  
+TER    1035      PLN A  69
+HETATM 1036 PV1  PLN A  70      28.646  45.482  11.369  1.00  0.00            C  
+HETATM 1037 PV2  PLN A  70      29.572  47.201  13.576  1.00  0.00            C  
+HETATM 1038 PV3  PLN A  70      31.570  45.992  13.678  1.00  0.00            C  
+HETATM 1039 PV4  PLN A  70      30.644  44.273  11.472  1.00  0.00            C  
+HETATM 1040 PH1A PLN A  70      28.979  45.281  11.386  1.00  0.00            C  
+HETATM 1041 PH1B PLN A  70      29.905  46.999  13.593  1.00  0.00            C  
+HETATM 1042 PH2A PLN A  70      29.312  45.079  11.403  1.00  0.00            C  
+HETATM 1043 PH2B PLN A  70      30.238  46.798  13.610  1.00  0.00            C  
+HETATM 1044 PH3A PLN A  70      29.645  44.878  11.420  1.00  0.00            C  
+HETATM 1045 PH3B PLN A  70      30.571  46.596  13.627  1.00  0.00            C  
+HETATM 1046 PH4A PLN A  70      29.978  44.676  11.438  1.00  0.00            C  
+HETATM 1047 PH4B PLN A  70      30.904  46.395  13.644  1.00  0.00            C  
+HETATM 1048 PH5A PLN A  70      30.311  44.475  11.455  1.00  0.00            C  
+HETATM 1049 PH5B PLN A  70      31.237  46.193  13.661  1.00  0.00            C  
+TER    1050      PLN A  70
+CONECT    1    2    4          
+CONECT    2    1    3          
+CONECT    3    2    4          
+CONECT    4    1    3          
+CONECT    5    6               
+CONECT    6    5               
+CONECT    7    8               
+CONECT    8    7               
+CONECT    9   10               
+CONECT   10    9               
+CONECT   11   12               
+CONECT   12   11               
+CONECT   13   14               
+CONECT   14   13               
+CONECT   16   17   19          
+CONECT   17   16   18          
+CONECT   18   17   19          
+CONECT   19   16   18          
+CONECT   20   21               
+CONECT   21   20               
+CONECT   22   23               
+CONECT   23   22               
+CONECT   24   25               
+CONECT   25   24               
+CONECT   26   27               
+CONECT   27   26               
+CONECT   28   29               
+CONECT   29   28               
+CONECT   31   32   34          
+CONECT   32   31   33          
+CONECT   33   32   34          
+CONECT   34   31   33          
+CONECT   35   36               
+CONECT   36   35               
+CONECT   37   38               
+CONECT   38   37               
+CONECT   39   40               
+CONECT   40   39               
+CONECT   41   42               
+CONECT   42   41               
+CONECT   43   44               
+CONECT   44   43               
+CONECT   46   47   49          
+CONECT   47   46   48          
+CONECT   48   47   49          
+CONECT   49   46   48          
+CONECT   50   51               
+CONECT   51   50               
+CONECT   52   53               
+CONECT   53   52               
+CONECT   54   55               
+CONECT   55   54               
+CONECT   56   57               
+CONECT   57   56               
+CONECT   58   59               
+CONECT   59   58               
+CONECT   61   62   64          
+CONECT   62   61   63          
+CONECT   63   62   64          
+CONECT   64   61   63          
+CONECT   65   66               
+CONECT   66   65               
+CONECT   67   68               
+CONECT   68   67               
+CONECT   69   70               
+CONECT   70   69               
+CONECT   71   72               
+CONECT   72   71               
+CONECT   73   74               
+CONECT   74   73               
+CONECT   76   77   79          
+CONECT   77   76   78          
+CONECT   78   77   79          
+CONECT   79   76   78          
+CONECT   80   81               
+CONECT   81   80               
+CONECT   82   83               
+CONECT   83   82               
+CONECT   84   85               
+CONECT   85   84               
+CONECT   86   87               
+CONECT   87   86               
+CONECT   88   89               
+CONECT   89   88               
+CONECT   91   92   94          
+CONECT   92   91   93          
+CONECT   93   92   94          
+CONECT   94   91   93          
+CONECT   95   96               
+CONECT   96   95               
+CONECT   97   98               
+CONECT   98   97               
+CONECT   99  100               
+CONECT  100   99               
+CONECT  101  102               
+CONECT  102  101               
+CONECT  103  104               
+CONECT  104  103               
+CONECT  106  107  109          
+CONECT  107  106  108          
+CONECT  108  107  109          
+CONECT  109  106  108          
+CONECT  110  111               
+CONECT  111  110               
+CONECT  112  113               
+CONECT  113  112               
+CONECT  114  115               
+CONECT  115  114               
+CONECT  116  117               
+CONECT  117  116               
+CONECT  118  119               
+CONECT  119  118               
+CONECT  121  122  124          
+CONECT  122  121  123          
+CONECT  123  122  124          
+CONECT  124  121  123          
+CONECT  125  126               
+CONECT  126  125               
+CONECT  127  128               
+CONECT  128  127               
+CONECT  129  130               
+CONECT  130  129               
+CONECT  131  132               
+CONECT  132  131               
+CONECT  133  134               
+CONECT  134  133               
+CONECT  136  137  139          
+CONECT  137  136  138          
+CONECT  138  137  139          
+CONECT  139  136  138          
+CONECT  140  141               
+CONECT  141  140               
+CONECT  142  143               
+CONECT  143  142               
+CONECT  144  145               
+CONECT  145  144               
+CONECT  146  147               
+CONECT  147  146               
+CONECT  148  149               
+CONECT  149  148               
+CONECT  151  152  154          
+CONECT  152  151  153          
+CONECT  153  152  154          
+CONECT  154  151  153          
+CONECT  155  156               
+CONECT  156  155               
+CONECT  157  158               
+CONECT  158  157               
+CONECT  159  160               
+CONECT  160  159               
+CONECT  161  162               
+CONECT  162  161               
+CONECT  163  164               
+CONECT  164  163               
+CONECT  166  167  169          
+CONECT  167  166  168          
+CONECT  168  167  169          
+CONECT  169  166  168          
+CONECT  170  171               
+CONECT  171  170               
+CONECT  172  173               
+CONECT  173  172               
+CONECT  174  175               
+CONECT  175  174               
+CONECT  176  177               
+CONECT  177  176               
+CONECT  178  179               
+CONECT  179  178               
+CONECT  181  182  184          
+CONECT  182  181  183          
+CONECT  183  182  184          
+CONECT  184  181  183          
+CONECT  185  186               
+CONECT  186  185               
+CONECT  187  188               
+CONECT  188  187               
+CONECT  189  190               
+CONECT  190  189               
+CONECT  191  192               
+CONECT  192  191               
+CONECT  193  194               
+CONECT  194  193               
+CONECT  196  197  199          
+CONECT  197  196  198          
+CONECT  198  197  199          
+CONECT  199  196  198          
+CONECT  200  201               
+CONECT  201  200               
+CONECT  202  203               
+CONECT  203  202               
+CONECT  204  205               
+CONECT  205  204               
+CONECT  206  207               
+CONECT  207  206               
+CONECT  208  209               
+CONECT  209  208               
+CONECT  211  212  214          
+CONECT  212  211  213          
+CONECT  213  212  214          
+CONECT  214  211  213          
+CONECT  215  216               
+CONECT  216  215               
+CONECT  217  218               
+CONECT  218  217               
+CONECT  219  220               
+CONECT  220  219               
+CONECT  221  222               
+CONECT  222  221               
+CONECT  223  224               
+CONECT  224  223               
+CONECT  226  227  229          
+CONECT  227  226  228          
+CONECT  228  227  229          
+CONECT  229  226  228          
+CONECT  230  231               
+CONECT  231  230               
+CONECT  232  233               
+CONECT  233  232               
+CONECT  234  235               
+CONECT  235  234               
+CONECT  236  237               
+CONECT  237  236               
+CONECT  238  239               
+CONECT  239  238               
+CONECT  241  242  244          
+CONECT  242  241  243          
+CONECT  243  242  244          
+CONECT  244  241  243          
+CONECT  245  246               
+CONECT  246  245               
+CONECT  247  248               
+CONECT  248  247               
+CONECT  249  250               
+CONECT  250  249               
+CONECT  251  252               
+CONECT  252  251               
+CONECT  253  254               
+CONECT  254  253               
+CONECT  256  257  259          
+CONECT  257  256  258          
+CONECT  258  257  259          
+CONECT  259  256  258          
+CONECT  260  261               
+CONECT  261  260               
+CONECT  262  263               
+CONECT  263  262               
+CONECT  264  265               
+CONECT  265  264               
+CONECT  266  267               
+CONECT  267  266               
+CONECT  268  269               
+CONECT  269  268               
+CONECT  271  272  274          
+CONECT  272  271  273          
+CONECT  273  272  274          
+CONECT  274  271  273          
+CONECT  275  276               
+CONECT  276  275               
+CONECT  277  278               
+CONECT  278  277               
+CONECT  279  280               
+CONECT  280  279               
+CONECT  281  282               
+CONECT  282  281               
+CONECT  283  284               
+CONECT  284  283               
+CONECT  286  287  289          
+CONECT  287  286  288          
+CONECT  288  287  289          
+CONECT  289  286  288          
+CONECT  290  291               
+CONECT  291  290               
+CONECT  292  293               
+CONECT  293  292               
+CONECT  294  295               
+CONECT  295  294               
+CONECT  296  297               
+CONECT  297  296               
+CONECT  298  299               
+CONECT  299  298               
+CONECT  301  302  304          
+CONECT  302  301  303          
+CONECT  303  302  304          
+CONECT  304  301  303          
+CONECT  305  306               
+CONECT  306  305               
+CONECT  307  308               
+CONECT  308  307               
+CONECT  309  310               
+CONECT  310  309               
+CONECT  311  312               
+CONECT  312  311               
+CONECT  313  314               
+CONECT  314  313               
+CONECT  316  317  319          
+CONECT  317  316  318          
+CONECT  318  317  319          
+CONECT  319  316  318          
+CONECT  320  321               
+CONECT  321  320               
+CONECT  322  323               
+CONECT  323  322               
+CONECT  324  325               
+CONECT  325  324               
+CONECT  326  327               
+CONECT  327  326               
+CONECT  328  329               
+CONECT  329  328               
+CONECT  331  332  334          
+CONECT  332  331  333          
+CONECT  333  332  334          
+CONECT  334  331  333          
+CONECT  335  336               
+CONECT  336  335               
+CONECT  337  338               
+CONECT  338  337               
+CONECT  339  340               
+CONECT  340  339               
+CONECT  341  342               
+CONECT  342  341               
+CONECT  343  344               
+CONECT  344  343               
+CONECT  346  347  349          
+CONECT  347  346  348          
+CONECT  348  347  349          
+CONECT  349  346  348          
+CONECT  350  351               
+CONECT  351  350               
+CONECT  352  353               
+CONECT  353  352               
+CONECT  354  355               
+CONECT  355  354               
+CONECT  356  357               
+CONECT  357  356               
+CONECT  358  359               
+CONECT  359  358               
+CONECT  361  362  364          
+CONECT  362  361  363          
+CONECT  363  362  364          
+CONECT  364  361  363          
+CONECT  365  366               
+CONECT  366  365               
+CONECT  367  368               
+CONECT  368  367               
+CONECT  369  370               
+CONECT  370  369               
+CONECT  371  372               
+CONECT  372  371               
+CONECT  373  374               
+CONECT  374  373               
+CONECT  376  377  379          
+CONECT  377  376  378          
+CONECT  378  377  379          
+CONECT  379  376  378          
+CONECT  380  381               
+CONECT  381  380               
+CONECT  382  383               
+CONECT  383  382               
+CONECT  384  385               
+CONECT  385  384               
+CONECT  386  387               
+CONECT  387  386               
+CONECT  388  389               
+CONECT  389  388               
+CONECT  391  392  394          
+CONECT  392  391  393          
+CONECT  393  392  394          
+CONECT  394  391  393          
+CONECT  395  396               
+CONECT  396  395               
+CONECT  397  398               
+CONECT  398  397               
+CONECT  399  400               
+CONECT  400  399               
+CONECT  401  402               
+CONECT  402  401               
+CONECT  403  404               
+CONECT  404  403               
+CONECT  406  407  409          
+CONECT  407  406  408          
+CONECT  408  407  409          
+CONECT  409  406  408          
+CONECT  410  411               
+CONECT  411  410               
+CONECT  412  413               
+CONECT  413  412               
+CONECT  414  415               
+CONECT  415  414               
+CONECT  416  417               
+CONECT  417  416               
+CONECT  418  419               
+CONECT  419  418               
+CONECT  421  422  424          
+CONECT  422  421  423          
+CONECT  423  422  424          
+CONECT  424  421  423          
+CONECT  425  426               
+CONECT  426  425               
+CONECT  427  428               
+CONECT  428  427               
+CONECT  429  430               
+CONECT  430  429               
+CONECT  431  432               
+CONECT  432  431               
+CONECT  433  434               
+CONECT  434  433               
+CONECT  436  437  439          
+CONECT  437  436  438          
+CONECT  438  437  439          
+CONECT  439  436  438          
+CONECT  440  441               
+CONECT  441  440               
+CONECT  442  443               
+CONECT  443  442               
+CONECT  444  445               
+CONECT  445  444               
+CONECT  446  447               
+CONECT  447  446               
+CONECT  448  449               
+CONECT  449  448               
+CONECT  451  452  454          
+CONECT  452  451  453          
+CONECT  453  452  454          
+CONECT  454  451  453          
+CONECT  455  456               
+CONECT  456  455               
+CONECT  457  458               
+CONECT  458  457               
+CONECT  459  460               
+CONECT  460  459               
+CONECT  461  462               
+CONECT  462  461               
+CONECT  463  464               
+CONECT  464  463               
+CONECT  466  467  469          
+CONECT  467  466  468          
+CONECT  468  467  469          
+CONECT  469  466  468          
+CONECT  470  471               
+CONECT  471  470               
+CONECT  472  473               
+CONECT  473  472               
+CONECT  474  475               
+CONECT  475  474               
+CONECT  476  477               
+CONECT  477  476               
+CONECT  478  479               
+CONECT  479  478               
+CONECT  481  482  484          
+CONECT  482  481  483          
+CONECT  483  482  484          
+CONECT  484  481  483          
+CONECT  485  486               
+CONECT  486  485               
+CONECT  487  488               
+CONECT  488  487               
+CONECT  489  490               
+CONECT  490  489               
+CONECT  491  492               
+CONECT  492  491               
+CONECT  493  494               
+CONECT  494  493               
+CONECT  496  497  499          
+CONECT  497  496  498          
+CONECT  498  497  499          
+CONECT  499  496  498          
+CONECT  500  501               
+CONECT  501  500               
+CONECT  502  503               
+CONECT  503  502               
+CONECT  504  505               
+CONECT  505  504               
+CONECT  506  507               
+CONECT  507  506               
+CONECT  508  509               
+CONECT  509  508               
+CONECT  511  512  514          
+CONECT  512  511  513          
+CONECT  513  512  514          
+CONECT  514  511  513          
+CONECT  515  516               
+CONECT  516  515               
+CONECT  517  518               
+CONECT  518  517               
+CONECT  519  520               
+CONECT  520  519               
+CONECT  521  522               
+CONECT  522  521               
+CONECT  523  524               
+CONECT  524  523               
+CONECT  526  527  529          
+CONECT  527  526  528          
+CONECT  528  527  529          
+CONECT  529  526  528          
+CONECT  530  531               
+CONECT  531  530               
+CONECT  532  533               
+CONECT  533  532               
+CONECT  534  535               
+CONECT  535  534               
+CONECT  536  537               
+CONECT  537  536               
+CONECT  538  539               
+CONECT  539  538               
+CONECT  541  542  544          
+CONECT  542  541  543          
+CONECT  543  542  544          
+CONECT  544  541  543          
+CONECT  545  546               
+CONECT  546  545               
+CONECT  547  548               
+CONECT  548  547               
+CONECT  549  550               
+CONECT  550  549               
+CONECT  551  552               
+CONECT  552  551               
+CONECT  553  554               
+CONECT  554  553               
+CONECT  556  557  559          
+CONECT  557  556  558          
+CONECT  558  557  559          
+CONECT  559  556  558          
+CONECT  560  561               
+CONECT  561  560               
+CONECT  562  563               
+CONECT  563  562               
+CONECT  564  565               
+CONECT  565  564               
+CONECT  566  567               
+CONECT  567  566               
+CONECT  568  569               
+CONECT  569  568               
+CONECT  571  572  574          
+CONECT  572  571  573          
+CONECT  573  572  574          
+CONECT  574  571  573          
+CONECT  575  576               
+CONECT  576  575               
+CONECT  577  578               
+CONECT  578  577               
+CONECT  579  580               
+CONECT  580  579               
+CONECT  581  582               
+CONECT  582  581               
+CONECT  583  584               
+CONECT  584  583               
+CONECT  586  587  589          
+CONECT  587  586  588          
+CONECT  588  587  589          
+CONECT  589  586  588          
+CONECT  590  591               
+CONECT  591  590               
+CONECT  592  593               
+CONECT  593  592               
+CONECT  594  595               
+CONECT  595  594               
+CONECT  596  597               
+CONECT  597  596               
+CONECT  598  599               
+CONECT  599  598               
+CONECT  601  602  604          
+CONECT  602  601  603          
+CONECT  603  602  604          
+CONECT  604  601  603          
+CONECT  605  606               
+CONECT  606  605               
+CONECT  607  608               
+CONECT  608  607               
+CONECT  609  610               
+CONECT  610  609               
+CONECT  611  612               
+CONECT  612  611               
+CONECT  613  614               
+CONECT  614  613               
+CONECT  616  617  619          
+CONECT  617  616  618          
+CONECT  618  617  619          
+CONECT  619  616  618          
+CONECT  620  621               
+CONECT  621  620               
+CONECT  622  623               
+CONECT  623  622               
+CONECT  624  625               
+CONECT  625  624               
+CONECT  626  627               
+CONECT  627  626               
+CONECT  628  629               
+CONECT  629  628               
+CONECT  631  632  634          
+CONECT  632  631  633          
+CONECT  633  632  634          
+CONECT  634  631  633          
+CONECT  635  636               
+CONECT  636  635               
+CONECT  637  638               
+CONECT  638  637               
+CONECT  639  640               
+CONECT  640  639               
+CONECT  641  642               
+CONECT  642  641               
+CONECT  643  644               
+CONECT  644  643               
+CONECT  646  647  649          
+CONECT  647  646  648          
+CONECT  648  647  649          
+CONECT  649  646  648          
+CONECT  650  651               
+CONECT  651  650               
+CONECT  652  653               
+CONECT  653  652               
+CONECT  654  655               
+CONECT  655  654               
+CONECT  656  657               
+CONECT  657  656               
+CONECT  658  659               
+CONECT  659  658               
+CONECT  661  662  664          
+CONECT  662  661  663          
+CONECT  663  662  664          
+CONECT  664  661  663          
+CONECT  665  666               
+CONECT  666  665               
+CONECT  667  668               
+CONECT  668  667               
+CONECT  669  670               
+CONECT  670  669               
+CONECT  671  672               
+CONECT  672  671               
+CONECT  673  674               
+CONECT  674  673               
+CONECT  676  677  679          
+CONECT  677  676  678          
+CONECT  678  677  679          
+CONECT  679  676  678          
+CONECT  680  681               
+CONECT  681  680               
+CONECT  682  683               
+CONECT  683  682               
+CONECT  684  685               
+CONECT  685  684               
+CONECT  686  687               
+CONECT  687  686               
+CONECT  688  689               
+CONECT  689  688               
+CONECT  691  692  694          
+CONECT  692  691  693          
+CONECT  693  692  694          
+CONECT  694  691  693          
+CONECT  695  696               
+CONECT  696  695               
+CONECT  697  698               
+CONECT  698  697               
+CONECT  699  700               
+CONECT  700  699               
+CONECT  701  702               
+CONECT  702  701               
+CONECT  703  704               
+CONECT  704  703               
+CONECT  706  707  709          
+CONECT  707  706  708          
+CONECT  708  707  709          
+CONECT  709  706  708          
+CONECT  710  711               
+CONECT  711  710               
+CONECT  712  713               
+CONECT  713  712               
+CONECT  714  715               
+CONECT  715  714               
+CONECT  716  717               
+CONECT  717  716               
+CONECT  718  719               
+CONECT  719  718               
+CONECT  721  722  724          
+CONECT  722  721  723          
+CONECT  723  722  724          
+CONECT  724  721  723          
+CONECT  725  726               
+CONECT  726  725               
+CONECT  727  728               
+CONECT  728  727               
+CONECT  729  730               
+CONECT  730  729               
+CONECT  731  732               
+CONECT  732  731               
+CONECT  733  734               
+CONECT  734  733               
+CONECT  736  737  739          
+CONECT  737  736  738          
+CONECT  738  737  739          
+CONECT  739  736  738          
+CONECT  740  741               
+CONECT  741  740               
+CONECT  742  743               
+CONECT  743  742               
+CONECT  744  745               
+CONECT  745  744               
+CONECT  746  747               
+CONECT  747  746               
+CONECT  748  749               
+CONECT  749  748               
+CONECT  751  752  754          
+CONECT  752  751  753          
+CONECT  753  752  754          
+CONECT  754  751  753          
+CONECT  755  756               
+CONECT  756  755               
+CONECT  757  758               
+CONECT  758  757               
+CONECT  759  760               
+CONECT  760  759               
+CONECT  761  762               
+CONECT  762  761               
+CONECT  763  764               
+CONECT  764  763               
+CONECT  766  767  769          
+CONECT  767  766  768          
+CONECT  768  767  769          
+CONECT  769  766  768          
+CONECT  770  771               
+CONECT  771  770               
+CONECT  772  773               
+CONECT  773  772               
+CONECT  774  775               
+CONECT  775  774               
+CONECT  776  777               
+CONECT  777  776               
+CONECT  778  779               
+CONECT  779  778               
+CONECT  781  782  784          
+CONECT  782  781  783          
+CONECT  783  782  784          
+CONECT  784  781  783          
+CONECT  785  786               
+CONECT  786  785               
+CONECT  787  788               
+CONECT  788  787               
+CONECT  789  790               
+CONECT  790  789               
+CONECT  791  792               
+CONECT  792  791               
+CONECT  793  794               
+CONECT  794  793               
+CONECT  796  797  799          
+CONECT  797  796  798          
+CONECT  798  797  799          
+CONECT  799  796  798          
+CONECT  800  801               
+CONECT  801  800               
+CONECT  802  803               
+CONECT  803  802               
+CONECT  804  805               
+CONECT  805  804               
+CONECT  806  807               
+CONECT  807  806               
+CONECT  808  809               
+CONECT  809  808               
+CONECT  811  812  814          
+CONECT  812  811  813          
+CONECT  813  812  814          
+CONECT  814  811  813          
+CONECT  815  816               
+CONECT  816  815               
+CONECT  817  818               
+CONECT  818  817               
+CONECT  819  820               
+CONECT  820  819               
+CONECT  821  822               
+CONECT  822  821               
+CONECT  823  824               
+CONECT  824  823               
+CONECT  826  827  829          
+CONECT  827  826  828          
+CONECT  828  827  829          
+CONECT  829  826  828          
+CONECT  830  831               
+CONECT  831  830               
+CONECT  832  833               
+CONECT  833  832               
+CONECT  834  835               
+CONECT  835  834               
+CONECT  836  837               
+CONECT  837  836               
+CONECT  838  839               
+CONECT  839  838               
+CONECT  841  842  844          
+CONECT  842  841  843          
+CONECT  843  842  844          
+CONECT  844  841  843          
+CONECT  845  846               
+CONECT  846  845               
+CONECT  847  848               
+CONECT  848  847               
+CONECT  849  850               
+CONECT  850  849               
+CONECT  851  852               
+CONECT  852  851               
+CONECT  853  854               
+CONECT  854  853               
+CONECT  856  857  859          
+CONECT  857  856  858          
+CONECT  858  857  859          
+CONECT  859  856  858          
+CONECT  860  861               
+CONECT  861  860               
+CONECT  862  863               
+CONECT  863  862               
+CONECT  864  865               
+CONECT  865  864               
+CONECT  866  867               
+CONECT  867  866               
+CONECT  868  869               
+CONECT  869  868               
+CONECT  871  872  874          
+CONECT  872  871  873          
+CONECT  873  872  874          
+CONECT  874  871  873          
+CONECT  875  876               
+CONECT  876  875               
+CONECT  877  878               
+CONECT  878  877               
+CONECT  879  880               
+CONECT  880  879               
+CONECT  881  882               
+CONECT  882  881               
+CONECT  883  884               
+CONECT  884  883               
+CONECT  886  887  889          
+CONECT  887  886  888          
+CONECT  888  887  889          
+CONECT  889  886  888          
+CONECT  890  891               
+CONECT  891  890               
+CONECT  892  893               
+CONECT  893  892               
+CONECT  894  895               
+CONECT  895  894               
+CONECT  896  897               
+CONECT  897  896               
+CONECT  898  899               
+CONECT  899  898               
+CONECT  901  902  904          
+CONECT  902  901  903          
+CONECT  903  902  904          
+CONECT  904  901  903          
+CONECT  905  906               
+CONECT  906  905               
+CONECT  907  908               
+CONECT  908  907               
+CONECT  909  910               
+CONECT  910  909               
+CONECT  911  912               
+CONECT  912  911               
+CONECT  913  914               
+CONECT  914  913               
+CONECT  916  917  919          
+CONECT  917  916  918          
+CONECT  918  917  919          
+CONECT  919  916  918          
+CONECT  920  921               
+CONECT  921  920               
+CONECT  922  923               
+CONECT  923  922               
+CONECT  924  925               
+CONECT  925  924               
+CONECT  926  927               
+CONECT  927  926               
+CONECT  928  929               
+CONECT  929  928               
+CONECT  931  932  934          
+CONECT  932  931  933          
+CONECT  933  932  934          
+CONECT  934  931  933          
+CONECT  935  936               
+CONECT  936  935               
+CONECT  937  938               
+CONECT  938  937               
+CONECT  939  940               
+CONECT  940  939               
+CONECT  941  942               
+CONECT  942  941               
+CONECT  943  944               
+CONECT  944  943               
+CONECT  946  947  949          
+CONECT  947  946  948          
+CONECT  948  947  949          
+CONECT  949  946  948          
+CONECT  950  951               
+CONECT  951  950               
+CONECT  952  953               
+CONECT  953  952               
+CONECT  954  955               
+CONECT  955  954               
+CONECT  956  957               
+CONECT  957  956               
+CONECT  958  959               
+CONECT  959  958               
+CONECT  961  962  964          
+CONECT  962  961  963          
+CONECT  963  962  964          
+CONECT  964  961  963          
+CONECT  965  966               
+CONECT  966  965               
+CONECT  967  968               
+CONECT  968  967               
+CONECT  969  970               
+CONECT  970  969               
+CONECT  971  972               
+CONECT  972  971               
+CONECT  973  974               
+CONECT  974  973               
+CONECT  976  977  979          
+CONECT  977  976  978          
+CONECT  978  977  979          
+CONECT  979  976  978          
+CONECT  980  981               
+CONECT  981  980               
+CONECT  982  983               
+CONECT  983  982               
+CONECT  984  985               
+CONECT  985  984               
+CONECT  986  987               
+CONECT  987  986               
+CONECT  988  989               
+CONECT  989  988               
+CONECT  991  992  994          
+CONECT  992  991  993          
+CONECT  993  992  994          
+CONECT  994  991  993          
+CONECT  995  996               
+CONECT  996  995               
+CONECT  997  998               
+CONECT  998  997               
+CONECT  999 1000               
+CONECT 1000  999               
+CONECT 1001 1002               
+CONECT 1002 1001               
+CONECT 1003 1004               
+CONECT 1004 1003               
+CONECT 1006 1007 1009          
+CONECT 1007 1006 1008          
+CONECT 1008 1007 1009          
+CONECT 1009 1006 1008          
+CONECT 1010 1011               
+CONECT 1011 1010               
+CONECT 1012 1013               
+CONECT 1013 1012               
+CONECT 1014 1015               
+CONECT 1015 1014               
+CONECT 1016 1017               
+CONECT 1017 1016               
+CONECT 1018 1019               
+CONECT 1019 1018               
+CONECT 1021 1022 1024          
+CONECT 1022 1021 1023          
+CONECT 1023 1022 1024          
+CONECT 1024 1021 1023          
+CONECT 1025 1026               
+CONECT 1026 1025               
+CONECT 1027 1028               
+CONECT 1028 1027               
+CONECT 1029 1030               
+CONECT 1030 1029               
+CONECT 1031 1032               
+CONECT 1032 1031               
+CONECT 1033 1034               
+CONECT 1034 1033               
+CONECT 1036 1037 1039          
+CONECT 1037 1036 1038          
+CONECT 1038 1037 1039          
+CONECT 1039 1036 1038          
+CONECT 1040 1041               
+CONECT 1041 1040               
+CONECT 1042 1043               
+CONECT 1043 1042               
+CONECT 1044 1045               
+CONECT 1045 1044               
+CONECT 1046 1047               
+CONECT 1047 1046               
+CONECT 1048 1049               
+CONECT 1049 1048               
+END

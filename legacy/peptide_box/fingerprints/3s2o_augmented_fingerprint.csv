@@ -1,0 +1,379 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+3s2o,A,-1,,,,,,
+3s2o,A,0,,,,,,
+3s2o,A,1,,,,,,
+3s2o,A,2,,,,,,
+3s2o,A,3,,,,,,
+3s2o,A,4,,,,,,
+3s2o,A,5,,,,,,
+3s2o,A,6,,,,,,
+3s2o,A,7,,,,,,
+3s2o,A,8,,,,,,
+3s2o,A,9,,,,,,
+3s2o,A,10,,,,,,
+3s2o,A,11,,,,,,
+3s2o,A,12,,,,,,
+3s2o,A,13,,,,,,
+3s2o,A,14,3s2oAD02,1.0,,,,
+3s2o,A,15,3s2oAD02,1.0,,,,
+3s2o,A,16,3s2oAD02,1.0,,,,
+3s2o,A,17,3s2oAD02,1.0,,,,
+3s2o,A,18,3s2oAD02,1.0,,,,
+3s2o,A,19,3s2oAD02,1.0,,,,
+3s2o,A,20,3s2oAD02,1.0,,,,
+3s2o,A,21,3s2oAD02,1.0,,,,
+3s2o,A,22,3s2oAD02,1.0,,,,
+3s2o,A,23,3s2oAD02,1.0,,,,
+3s2o,A,24,3s2oAD02,1.0,,,,
+3s2o,A,25,3s2oAD02,1.0,,,,
+3s2o,A,26,3s2oAD02,1.0,,,,
+3s2o,A,27,3s2oAD02,1.0,,,,
+3s2o,A,28,3s2oAD02,1.0,,,,
+3s2o,A,29,3s2oAD02,1.0,,,,
+3s2o,A,30,3s2oAD02,1.0,,,,
+3s2o,A,31,3s2oAD02,1.0,,,,
+3s2o,A,32,3s2oAD02,1.0,,,,
+3s2o,A,33,3s2oAD02,1.0,,,,
+3s2o,A,34,3s2oAD02,1.0,,,,
+3s2o,A,35,3s2oAD02,1.0,,,,
+3s2o,A,36,3s2oAD02,1.0,,,,
+3s2o,A,37,3s2oAD02,1.0,,,,
+3s2o,A,38,3s2oAD02,1.0,,,,
+3s2o,A,39,3s2oAD02,1.0,,,,
+3s2o,A,40,3s2oAD02,1.0,,,,
+3s2o,A,41,3s2oAD02,1.0,,,,
+3s2o,A,42,3s2oAD02,1.0,,,,
+3s2o,A,43,3s2oAD02,1.0,,,,
+3s2o,A,44,3s2oAD02,1.0,,,,
+3s2o,A,45,3s2oAD02,1.0,,,,
+3s2o,A,46,3s2oAD02,1.0,,,,
+3s2o,A,47,3s2oAD02,1.0,,,,
+3s2o,A,48,3s2oAD02,1.0,,,,
+3s2o,A,49,3s2oAD02,1.0,,,,
+3s2o,A,50,3s2oAD02,1.0,,,,
+3s2o,A,51,3s2oAD02,1.0,,,,
+3s2o,A,52,3s2oAD02,1.0,,,,
+3s2o,A,53,3s2oAD02,1.0,,,,
+3s2o,A,54,3s2oAD02,1.0,,,,
+3s2o,A,55,3s2oAD02,1.0,,,,
+3s2o,A,56,3s2oAD02,1.0,,,,
+3s2o,A,57,3s2oAD02,1.0,,,,
+3s2o,A,58,3s2oAD02,1.0,,,,
+3s2o,A,59,3s2oAD02,1.0,,,,
+3s2o,A,60,3s2oAD02,1.0,,,,
+3s2o,A,61,3s2oAD02,1.0,,,,
+3s2o,A,62,3s2oAD02,1.0,,,,
+3s2o,A,63,3s2oAD02,1.0,,,,
+3s2o,A,64,3s2oAD02,1.0,,,,
+3s2o,A,65,3s2oAD02,1.0,,,,
+3s2o,A,66,3s2oAD02,1.0,,,,
+3s2o,A,67,3s2oAD02,1.0,,,,
+3s2o,A,68,3s2oAD02,1.0,,,,
+3s2o,A,69,3s2oAD02,1.0,,,,
+3s2o,A,70,3s2oAD02,1.0,,,,
+3s2o,A,71,3s2oAD02,1.0,,,,
+3s2o,A,72,3s2oAD02,1.0,,,,
+3s2o,A,73,3s2oAD02,1.0,,,,
+3s2o,A,74,3s2oAD02,1.0,,,,
+3s2o,A,75,3s2oAD02,1.0,,,,
+3s2o,A,76,3s2oAD02,1.0,,,,
+3s2o,A,77,3s2oAD02,1.0,,,,
+3s2o,A,78,3s2oAD02,1.0,,,,
+3s2o,A,79,3s2oAD02,1.0,,,,
+3s2o,A,80,3s2oAD02,1.0,,,,
+3s2o,A,81,3s2oAD02,1.0,,,,
+3s2o,A,82,3s2oAD02,1.0,,,,
+3s2o,A,83,3s2oAD02,1.0,,,,
+3s2o,A,84,3s2oAD02,1.0,,,,
+3s2o,A,85,3s2oAD02,1.0,,,,
+3s2o,A,86,3s2oAD02,1.0,,,,
+3s2o,A,87,3s2oAD02,1.0,,,,
+3s2o,A,88,3s2oAD02,1.0,,,,
+3s2o,A,89,3s2oAD02,1.0,,,,
+3s2o,A,90,3s2oAD02,1.0,,,,
+3s2o,A,91,3s2oAD02,1.0,,,,
+3s2o,A,92,3s2oAD02,1.0,,,,
+3s2o,A,93,3s2oAD02,1.0,,,,
+3s2o,A,94,3s2oAD02,1.0,,,,
+3s2o,A,95,3s2oAD02,1.0,,,,
+3s2o,A,96,3s2oAD02,1.0,,,,
+3s2o,A,97,3s2oAD02,1.0,,,,
+3s2o,A,98,3s2oAD02,1.0,,,,
+3s2o,A,99,3s2oAD02,1.0,,,,
+3s2o,A,100,3s2oAD02,1.0,,,,
+3s2o,A,101,3s2oAD02,1.0,,,,
+3s2o,A,102,3s2oAD02,1.0,,,,
+3s2o,A,103,3s2oAD02,1.0,,,,
+3s2o,A,104,3s2oAD02,1.0,,,,
+3s2o,A,105,3s2oAD02,1.0,,,,
+3s2o,A,106,3s2oAD02,1.0,,,,
+3s2o,A,107,3s2oAD02,1.0,,,,
+3s2o,A,108,3s2oAD02,1.0,,,,
+3s2o,A,109,3s2oAD02,1.0,,,,
+3s2o,A,110,3s2oAD02,1.0,,,,
+3s2o,A,111,3s2oAD02,1.0,,,,
+3s2o,A,112,3s2oAD02,1.0,,,,
+3s2o,A,113,3s2oAD02,1.0,,,,
+3s2o,A,114,3s2oAD02,1.0,,,,
+3s2o,A,115,3s2oAD02,1.0,,,,
+3s2o,A,116,3s2oAD02,1.0,,,,
+3s2o,A,117,3s2oAD02,1.0,,,,
+3s2o,A,118,3s2oAD02,1.0,,,,
+3s2o,A,119,3s2oAD02,1.0,,,,
+3s2o,A,120,3s2oAD02,1.0,,,,
+3s2o,A,121,3s2oAD02,1.0,,,,
+3s2o,A,122,3s2oAD02,1.0,,,,
+3s2o,A,123,3s2oAD02,1.0,,,,
+3s2o,A,124,3s2oAD02,1.0,,,,
+3s2o,A,125,3s2oAD02,1.0,,,,
+3s2o,A,126,3s2oAD02,1.0,,,,
+3s2o,A,127,3s2oAD02,1.0,,,,
+3s2o,A,128,3s2oAD02,1.0,,,,
+3s2o,A,129,3s2oAD02,1.0,,,,
+3s2o,A,130,3s2oAD02,1.0,,,,
+3s2o,A,131,3s2oAD02,1.0,,,,
+3s2o,A,132,3s2oAD02,1.0,,,,
+3s2o,A,133,3s2oAD02,1.0,,,,
+3s2o,A,134,3s2oAD02,1.0,,,,
+3s2o,A,135,3s2oAD02,1.0,,,,
+3s2o,A,136,3s2oAD02,1.0,,,,
+3s2o,A,137,3s2oAD02,1.0,,,,
+3s2o,A,138,3s2oAD02,1.0,,,,
+3s2o,A,139,3s2oAD02,1.0,,,,
+3s2o,A,140,3s2oAD02,1.0,,,,
+3s2o,A,141,3s2oAD02,1.0,,,,
+3s2o,A,142,3s2oAD02,1.0,,,,
+3s2o,A,143,3s2oAD02,1.0,,,,
+3s2o,A,144,3s2oAD02,1.0,,,,
+3s2o,A,145,3s2oAD02,1.0,,,,
+3s2o,A,146,3s2oAD02,1.0,,,,
+3s2o,A,147,,,,,,
+3s2o,A,148,,,,,,
+3s2o,A,149,,,,,,
+3s2o,A,150,,,,,,
+3s2o,A,151,,,,,,
+3s2o,A,152,,,,,,
+3s2o,A,153,,,,,,
+3s2o,A,154,,,,,,
+3s2o,A,155,,,,,,
+3s2o,A,156,,,,,,
+3s2o,A,157,,,,,,
+3s2o,A,168,,,,,,
+3s2o,A,169,,,,,,
+3s2o,A,170,,,,,,
+3s2o,A,171,,,,,,
+3s2o,A,172,,,,,,
+3s2o,A,173,,,,,,
+3s2o,A,174,,,,,,
+3s2o,A,175,,,,,,
+3s2o,A,176,,,,,,
+3s2o,A,177,,,,,,
+3s2o,A,178,,,,,,
+3s2o,A,179,,,,,,
+3s2o,A,180,,,,,,
+3s2o,A,181,,,,,,
+3s2o,A,182,,,,,,
+3s2o,A,183,,,,,,
+3s2o,A,184,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,185,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,186,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,187,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,188,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,189,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,190,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,191,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,192,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,193,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,194,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,195,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,196,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,197,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,198,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,199,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,200,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,201,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,202,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,203,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,204,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,205,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,206,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,207,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,208,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,209,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,210,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,211,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,212,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,213,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,214,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,215,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,216,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,217,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,218,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,219,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,220,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,221,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,222,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,223,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,224,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,225,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,226,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,227,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,228,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,229,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,230,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,231,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,232,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,233,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,234,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,235,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,236,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,237,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,238,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,239,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,240,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,241,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,242,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,243,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,244,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,245,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,246,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,247,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,248,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,249,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,250,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,251,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,252,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,253,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,254,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,255,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,256,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,257,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,258,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,259,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,260,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,261,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,262,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,263,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,264,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,265,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,266,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,267,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,268,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,269,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,270,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,271,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,272,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,273,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,274,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,275,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,276,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,277,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,278,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,279,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,280,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,281,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,282,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,283,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,284,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,285,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,286,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,287,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,288,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,289,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,290,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,291,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,292,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,293,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,294,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,295,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,296,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,297,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,298,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,299,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,300,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,301,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,302,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,303,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,304,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,305,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,306,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,307,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,308,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,309,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,310,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,311,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,312,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,313,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,314,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,315,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,316,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,317,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,318,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,319,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,320,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,321,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,322,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,323,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,324,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,325,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,326,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,327,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,328,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,329,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,330,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,331,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,332,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,333,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,334,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,335,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,336,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,337,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,338,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,339,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,340,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,341,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,342,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,343,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,344,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,345,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,346,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,347,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,348,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,349,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,350,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,351,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,352,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,353,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,354,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,355,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,356,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,357,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,358,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,359,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,360,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,361,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,362,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,363,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,364,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,365,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,366,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,367,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,368,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,369,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,370,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,371,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,372,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,373,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,374,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,375,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,376,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,377,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,378,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,379,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,380,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,381,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,382,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,383,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,384,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,385,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1
+3s2o,A,386,,,e3s2oA2,1.1.1.45,acid protease,Asp_C_1

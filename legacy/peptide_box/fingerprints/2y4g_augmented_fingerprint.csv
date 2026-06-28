@@ -1,0 +1,1001 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+2y4g,A,1,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,2,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,3,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,4,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,5,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,6,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,7,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,8,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,9,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,10,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,11,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,12,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,13,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,14,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,15,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,16,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,17,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,18,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,19,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,20,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,21,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,22,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,23,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,24,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,25,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,26,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,27,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,28,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,29,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,30,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,31,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,32,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,33,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,34,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,35,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,36,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,37,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,38,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,39,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,40,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,41,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,42,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,43,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,44,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,45,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,46,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,47,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,48,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,49,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,50,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,51,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,52,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,53,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,54,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,55,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,56,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,57,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,58,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,59,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,60,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,61,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,62,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,63,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,64,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,65,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,66,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,67,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,68,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,69,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,70,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,71,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,72,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,73,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,74,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,75,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,76,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,77,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,78,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,79,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,80,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,81,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,82,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,83,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,84,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,85,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,86,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,87,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,88,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,89,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,90,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,91,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,92,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,93,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,94,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,95,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,96,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,97,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,98,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,99,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,100,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,101,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,102,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,103,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,104,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,105,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,106,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,107,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,108,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,109,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,110,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,111,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,112,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,113,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,114,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,115,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,116,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,117,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,118,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,119,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,120,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,121,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,122,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,123,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,124,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,125,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,126,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,127,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,128,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,129,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,130,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,131,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,132,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,133,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,134,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,135,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,136,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,137,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,138,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,139,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,140,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,141,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,142,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,143,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,144,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,145,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,146,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,147,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,148,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,149,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,150,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,151,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,152,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,153,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,154,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,155,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,156,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,157,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,158,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,159,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,160,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,161,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,162,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,163,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,164,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,165,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,166,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,167,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,168,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,169,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,170,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,171,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,172,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,173,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,174,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,175,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,176,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,177,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,178,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,179,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,180,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,181,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,182,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,183,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,184,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,185,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,186,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,187,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,188,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,189,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,190,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,191,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,192,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,193,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,194,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,195,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,196,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,197,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,198,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,199,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,200,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,201,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,202,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,203,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,204,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,205,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,206,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,207,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,208,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,209,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,210,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,211,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,212,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,213,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,214,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,215,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,216,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,217,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,218,2y4gAD02,2.0,e2y4gA1,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,A,219,2y4gAD02,2.0,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,220,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,221,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,222,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,223,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,224,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,225,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,226,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,227,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,228,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,229,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,230,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,231,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,232,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,233,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,234,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,235,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,236,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,237,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,238,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,239,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,240,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,241,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,242,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,243,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,244,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,245,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,246,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,247,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,248,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,249,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,250,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,251,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,252,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,253,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,254,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,255,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,256,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,257,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,258,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,259,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,260,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,261,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,262,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,263,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,264,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,265,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,266,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,267,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,268,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,269,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,270,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,271,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,272,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,273,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,274,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,275,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,276,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,277,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,278,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,279,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,280,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,281,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,282,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,283,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,284,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,285,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,286,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,287,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,288,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,289,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,290,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,291,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,292,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,293,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,294,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,295,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,296,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,297,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,298,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,299,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,300,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,301,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,302,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,303,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,304,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,305,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,306,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,307,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,308,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,309,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,310,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,311,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,312,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,313,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,314,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,315,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,316,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,317,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,318,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,319,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,320,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,321,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,322,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,323,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,324,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,325,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,326,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,327,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,328,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,329,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,330,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,331,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,332,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,333,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,334,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,335,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,336,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,337,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,338,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,339,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,340,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,341,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,342,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,343,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,344,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,345,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,346,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,347,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,348,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,349,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,350,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,351,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,352,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,353,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,354,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,355,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,356,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,357,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,358,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,359,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,360,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,361,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,362,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,363,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,364,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,365,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,366,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,367,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,368,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,369,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,370,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,371,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,372,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,373,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,374,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,375,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,376,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,377,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,378,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,379,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,380,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,381,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,382,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,383,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,384,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,385,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,386,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,387,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,388,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,389,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,390,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,391,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,392,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,393,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,394,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,395,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,396,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,397,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,398,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,399,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,400,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,401,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,402,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,403,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,404,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,405,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,406,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,407,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,408,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,409,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,410,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,411,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,412,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,413,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,414,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,415,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,416,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,417,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,418,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,419,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,420,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,421,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,422,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,423,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,424,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,425,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,426,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,427,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,428,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,429,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,430,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,431,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,432,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,433,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,434,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,435,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,436,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,437,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,438,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,439,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,440,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,441,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,442,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,443,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,444,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,445,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,446,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,447,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,448,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,449,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,450,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,451,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,452,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,453,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,454,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,455,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,456,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,457,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,458,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,459,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,460,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,461,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,462,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,463,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,464,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,465,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,466,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,467,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,468,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,469,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,470,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,471,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,472,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,473,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,474,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,475,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,476,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,477,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,478,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,479,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,480,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,481,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,482,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,483,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,484,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,485,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,486,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,487,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,488,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,489,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,490,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,491,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,492,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,493,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,494,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,495,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,496,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,497,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,498,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,499,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,A,500,,,e2y4gA2,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,1,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,2,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,3,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,4,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,5,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,6,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,7,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,8,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,9,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,10,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,11,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,12,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,13,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,14,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,15,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,16,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,17,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,18,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,19,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,20,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,21,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,22,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,23,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,24,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,25,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,26,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,27,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,28,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,29,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,30,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,31,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,32,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,33,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,34,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,35,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,36,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,37,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,38,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,39,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,40,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,41,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,42,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,43,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,44,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,45,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,46,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,47,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,48,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,49,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,50,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,51,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,52,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,53,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,54,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,55,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,56,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,57,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,58,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,59,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,60,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,61,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,62,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,63,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,64,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,65,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,66,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,67,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,68,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,69,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,70,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,71,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,72,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,73,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,74,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,75,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,76,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,77,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,78,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,79,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,80,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,81,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,82,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,83,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,84,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,85,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,86,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,87,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,88,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,89,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,90,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,91,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,92,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,93,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,94,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,95,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,96,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,97,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,98,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,99,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,100,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,101,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,102,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,103,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,104,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,105,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,106,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,107,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,108,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,109,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,110,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,111,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,112,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,113,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,114,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,115,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,116,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,117,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,118,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,119,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,120,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,121,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,122,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,123,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,124,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,125,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,126,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,127,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,128,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,129,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,130,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,131,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,132,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,133,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,134,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,135,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,136,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,137,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,138,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,139,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,140,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,141,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,142,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,143,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,144,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,145,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,146,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,147,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,148,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,149,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,150,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,151,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,152,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,153,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,154,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,155,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,156,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,157,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,158,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,159,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,160,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,161,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,162,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,163,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,164,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,165,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,166,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,167,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,168,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,169,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,170,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,171,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,172,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,173,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,174,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,175,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,176,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,177,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,178,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,179,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,180,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,181,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,182,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,183,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,184,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,185,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,186,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,187,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,188,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,189,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,190,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,191,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,192,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,193,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,194,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,195,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,196,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,197,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,198,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,199,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,200,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,201,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,202,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,203,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,204,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,205,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,206,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,207,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,208,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,209,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,210,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,211,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,212,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,213,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,214,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,215,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,216,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,217,2y4gBD02,2.0,e2y4gB2,217.1.1.4,FAD-binding domain,FAD_binding_4
+2y4g,B,218,2y4gBD02,2.0,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,219,2y4gBD02,2.0,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,220,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,221,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,222,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,223,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,224,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,225,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,226,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,227,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,228,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,229,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,230,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,231,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,232,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,233,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,234,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,235,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,236,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,237,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,238,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,239,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,240,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,241,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,242,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,243,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,244,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,245,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,246,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,247,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,248,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,249,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,250,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,251,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,252,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,253,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,254,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,255,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,256,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,257,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,258,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,259,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,260,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,261,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,262,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,263,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,264,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,265,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,266,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,267,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,268,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,269,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,270,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,271,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,272,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,273,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,274,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,275,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,276,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,277,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,278,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,279,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,280,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,281,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,282,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,283,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,284,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,285,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,286,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,287,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,288,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,289,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,290,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,291,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,292,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,293,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,294,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,295,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,296,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,297,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,298,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,299,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,300,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,301,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,302,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,303,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,304,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,305,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,306,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,307,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,308,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,309,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,310,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,311,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,312,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,313,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,314,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,315,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,316,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,317,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,318,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,319,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,320,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,321,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,322,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,323,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,324,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,325,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,326,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,327,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,328,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,329,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,330,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,331,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,332,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,333,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,334,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,335,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,336,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,337,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,338,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,339,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,340,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,341,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,342,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,343,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,344,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,345,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,346,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,347,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,348,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,349,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,350,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,351,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,352,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,353,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,354,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,355,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,356,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,357,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,358,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,359,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,360,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,361,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,362,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,363,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,364,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,365,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,366,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,367,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,368,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,369,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,370,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,371,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,372,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,373,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,374,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,375,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,376,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,377,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,378,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,379,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,380,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,381,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,382,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,383,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,384,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,385,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,386,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,387,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,388,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,389,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,390,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,391,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,392,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,393,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,394,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,395,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,396,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,397,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,398,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,399,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,400,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,401,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,402,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,403,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,404,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,405,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,406,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,407,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,408,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,409,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,410,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,411,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,412,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,413,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,414,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,415,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,416,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,417,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,418,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,419,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,420,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,421,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,422,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,423,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,424,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,425,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,426,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,427,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,428,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,429,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,430,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,431,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,432,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,433,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,434,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,435,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,436,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,437,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,438,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,439,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,440,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,441,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,442,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,443,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,444,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,445,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,446,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,447,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,448,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,449,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,450,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,451,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,452,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,453,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,454,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,455,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,456,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,457,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,458,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,459,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,460,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,461,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,462,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,463,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,464,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,465,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,466,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,467,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,468,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,469,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,470,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,471,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,472,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,473,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,474,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,475,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,476,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,477,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,478,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,479,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,480,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,481,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,482,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,483,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,484,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,485,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,486,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,487,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,488,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,489,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,490,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,491,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,492,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,493,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,494,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,495,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,496,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,497,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,498,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,499,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE
+2y4g,B,500,,,e2y4gB1,304.6.1.8,"""FAD-linked oxidases, C-terminal domain""",BBE

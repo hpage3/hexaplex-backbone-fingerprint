@@ -1,0 +1,1554 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+1xi9,A,1,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,2,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,3,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,4,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,5,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,6,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,7,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,8,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,9,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,10,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,11,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,12,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,13,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,21,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,22,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,23,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,24,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,25,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,26,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,27,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,28,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,29,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,30,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,31,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,32,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,33,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,34,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,35,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,36,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,37,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,38,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,39,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,40,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,41,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,42,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,43,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,44,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,45,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,46,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,47,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,48,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,49,1xi9AD02,2.0,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,50,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,51,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,52,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,53,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,54,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,55,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,56,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,57,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,58,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,59,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,60,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,61,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,62,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,63,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,64,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,65,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,66,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,67,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,68,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,69,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,70,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,71,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,72,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,73,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,74,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,75,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,76,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,77,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,78,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,79,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,80,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,81,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,82,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,83,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,84,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,85,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,86,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,87,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,88,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,89,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,90,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,91,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,92,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,93,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,94,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,95,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,96,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,97,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,98,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,99,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,100,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,101,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,102,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,103,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,104,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,105,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,106,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,107,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,108,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,109,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,110,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,111,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,112,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,113,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,114,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,115,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,116,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,117,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,118,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,119,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,120,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,121,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,122,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,123,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,124,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,125,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,126,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,127,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,128,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,129,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,130,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,131,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,132,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,133,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,134,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,135,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,136,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,137,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,138,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,139,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,140,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,141,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,142,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,143,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,144,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,145,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,146,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,147,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,148,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,149,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,150,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,151,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,152,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,153,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,154,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,155,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,156,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,157,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,158,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,159,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,160,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,161,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,162,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,163,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,164,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,165,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,166,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,167,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,168,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,169,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,170,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,171,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,172,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,173,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,174,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,175,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,176,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,177,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,178,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,179,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,180,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,181,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,182,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,183,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,184,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,185,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,186,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,187,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,188,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,189,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,190,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,191,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,192,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,193,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,194,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,195,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,196,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,197,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,198,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,199,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,200,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,201,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,202,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,203,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,204,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,205,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,206,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,207,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,208,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,209,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,210,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,211,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,212,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,213,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,214,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,215,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,216,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,217,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,218,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,219,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,220,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,221,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,222,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,223,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,224,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,225,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,226,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,227,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,228,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,229,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,230,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,231,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,232,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,233,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,234,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,235,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,236,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,237,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,238,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,239,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,240,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,241,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,242,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,243,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,244,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,245,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,246,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,247,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,248,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,249,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,250,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,251,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,252,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,253,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,254,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,255,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,256,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,257,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,258,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,259,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,260,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,261,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,262,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,263,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,264,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,265,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,266,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,267,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,268,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,269,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,270,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,271,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,272,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,273,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,274,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,275,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,276,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,277,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,278,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,279,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,280,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,281,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,282,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,283,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,284,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,285,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,286,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,287,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,288,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,289,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,290,,,e1xi9A2,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,A,291,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,292,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,293,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,294,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,295,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,296,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,297,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,298,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,299,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,300,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,301,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,302,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,303,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,304,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,305,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,306,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,307,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,308,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,309,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,310,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,311,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,312,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,313,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,314,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,315,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,316,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,317,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,318,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,319,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,320,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,321,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,322,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,323,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,324,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,325,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,326,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,327,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,328,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,329,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,330,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,331,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,332,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,333,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,334,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,335,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,336,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,337,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,338,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,339,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,340,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,341,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,342,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,343,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,344,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,345,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,346,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,347,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,348,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,349,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,350,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,351,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,352,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,353,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,354,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,355,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,356,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,357,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,358,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,359,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,360,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,361,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,362,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,363,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,364,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,365,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,366,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,367,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,368,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,369,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,370,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,371,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,372,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,373,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,374,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,375,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,376,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,377,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,378,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,379,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,380,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,381,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,382,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,383,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,384,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,385,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,386,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,387,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,388,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,389,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,390,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,391,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,392,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,393,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,394,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,A,395,,,e1xi9A1,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,2,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,3,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,4,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,5,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,6,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,7,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,8,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,9,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,10,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,11,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,12,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,21,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,22,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,23,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,24,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,25,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,26,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,27,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,28,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,29,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,30,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,31,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,32,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,33,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,34,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,35,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,36,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,37,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,38,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,39,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,40,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,41,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,42,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,43,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,44,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,45,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,46,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,47,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,48,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,49,1xi9BD02,2.0,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,50,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,51,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,52,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,53,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,54,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,55,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,56,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,57,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,58,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,59,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,60,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,61,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,62,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,63,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,64,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,65,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,66,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,67,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,68,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,69,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,70,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,71,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,72,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,73,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,74,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,75,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,76,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,77,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,78,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,79,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,80,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,81,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,82,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,83,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,84,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,85,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,86,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,87,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,88,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,89,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,90,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,91,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,92,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,93,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,94,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,95,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,96,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,97,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,98,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,99,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,100,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,101,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,102,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,103,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,104,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,105,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,106,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,107,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,108,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,109,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,110,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,111,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,112,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,113,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,114,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,115,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,116,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,117,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,118,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,119,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,120,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,121,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,122,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,123,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,124,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,125,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,126,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,127,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,128,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,129,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,130,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,131,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,132,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,133,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,134,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,135,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,136,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,137,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,138,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,139,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,140,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,141,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,142,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,143,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,144,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,145,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,146,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,147,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,148,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,149,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,150,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,151,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,152,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,153,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,154,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,155,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,156,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,157,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,158,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,159,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,160,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,161,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,162,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,163,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,164,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,165,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,166,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,167,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,168,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,169,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,170,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,171,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,172,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,173,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,174,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,175,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,176,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,177,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,178,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,179,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,180,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,181,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,182,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,183,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,184,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,185,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,186,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,187,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,188,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,189,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,190,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,191,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,192,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,193,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,194,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,195,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,196,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,197,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,198,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,199,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,200,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,201,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,202,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,203,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,204,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,205,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,206,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,207,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,208,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,209,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,210,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,211,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,212,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,213,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,214,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,215,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,216,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,217,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,218,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,219,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,220,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,221,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,222,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,223,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,224,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,225,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,226,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,227,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,228,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,229,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,230,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,231,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,232,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,233,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,234,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,235,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,236,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,237,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,238,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,239,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,240,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,241,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,242,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,243,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,244,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,245,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,246,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,247,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,248,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,249,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,250,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,251,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,252,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,253,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,254,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,255,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,256,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,257,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,258,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,259,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,260,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,261,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,262,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,263,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,264,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,265,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,266,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,267,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,268,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,269,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,270,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,271,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,272,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,273,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,274,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,275,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,276,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,277,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,278,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,279,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,280,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,281,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,282,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,283,,,e1xi9B3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,B,284,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,285,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,286,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,287,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,288,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,289,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,290,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,291,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,292,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,293,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,294,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,295,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,296,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,297,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,298,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,299,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,300,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,301,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,302,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,303,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,304,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,305,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,306,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,307,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,308,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,309,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,310,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,311,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,312,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,313,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,314,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,315,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,316,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,317,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,318,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,319,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,320,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,321,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,322,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,323,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,324,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,325,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,326,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,327,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,328,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,329,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,330,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,331,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,332,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,333,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,334,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,335,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,336,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,337,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,338,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,339,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,340,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,341,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,342,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,343,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,344,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,345,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,346,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,347,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,348,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,349,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,350,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,351,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,352,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,353,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,354,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,355,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,356,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,357,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,358,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,359,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,360,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,361,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,362,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,363,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,364,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,365,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,366,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,367,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,368,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,369,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,370,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,371,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,372,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,373,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,374,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,375,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,376,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,377,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,378,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,379,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,380,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,381,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,382,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,383,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,384,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,385,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,386,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,387,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,388,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,389,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,390,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,391,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,392,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,393,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,394,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,B,395,,,e1xi9B2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,3,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,4,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,5,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,6,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,7,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,8,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,9,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,10,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,11,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,12,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,13,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,14,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,15,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,16,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,17,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,18,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,19,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,20,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,21,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,22,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,23,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,24,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,25,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,26,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,27,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,28,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,29,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,30,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,31,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,32,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,33,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,34,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,35,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,36,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,37,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,38,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,39,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,40,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,41,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,42,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,43,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,44,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,45,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,46,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,47,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,48,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,49,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,50,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,51,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,52,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,53,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,54,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,55,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,56,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,57,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,58,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,59,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,60,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,61,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,62,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,63,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,64,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,65,1xi9CD02,2.0,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,66,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,67,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,68,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,69,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,70,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,71,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,72,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,73,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,74,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,75,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,76,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,77,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,78,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,79,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,80,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,81,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,82,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,83,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,84,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,85,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,86,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,87,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,88,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,89,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,90,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,91,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,92,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,93,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,94,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,95,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,96,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,97,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,98,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,99,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,100,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,101,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,102,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,103,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,104,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,105,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,106,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,107,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,108,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,109,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,110,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,111,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,112,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,113,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,114,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,115,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,116,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,117,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,118,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,119,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,120,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,121,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,122,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,123,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,124,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,125,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,126,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,127,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,128,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,129,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,130,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,131,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,132,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,133,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,134,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,135,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,136,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,137,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,138,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,139,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,140,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,141,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,142,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,143,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,144,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,145,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,146,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,147,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,148,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,149,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,150,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,151,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,152,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,153,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,154,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,155,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,156,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,157,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,158,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,159,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,160,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,161,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,162,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,163,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,164,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,165,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,166,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,167,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,168,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,169,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,170,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,171,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,172,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,173,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,174,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,175,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,176,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,177,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,178,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,179,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,180,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,181,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,182,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,183,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,184,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,185,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,186,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,187,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,188,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,189,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,190,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,191,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,192,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,193,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,194,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,195,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,196,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,197,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,198,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,199,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,200,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,201,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,202,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,203,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,204,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,205,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,206,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,207,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,208,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,209,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,210,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,211,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,212,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,213,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,214,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,215,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,216,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,217,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,218,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,219,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,220,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,221,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,222,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,223,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,224,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,225,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,226,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,227,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,228,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,229,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,230,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,231,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,232,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,233,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,234,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,235,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,236,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,237,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,238,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,239,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,240,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,241,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,242,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,243,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,244,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,245,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,246,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,247,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,248,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,249,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,250,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,251,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,252,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,253,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,254,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,255,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,256,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,257,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,258,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,259,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,260,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,261,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,262,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,263,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,264,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,265,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,266,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,267,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,268,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,269,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,270,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,271,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,272,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,273,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,274,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,275,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,276,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,277,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,278,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,279,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,280,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,281,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,282,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,283,,,e1xi9C3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,C,284,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,285,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,286,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,287,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,288,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,289,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,290,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,291,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,292,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,293,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,294,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,295,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,296,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,297,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,298,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,299,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,300,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,301,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,302,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,303,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,304,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,305,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,306,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,307,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,308,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,309,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,310,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,311,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,312,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,313,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,314,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,315,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,316,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,317,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,318,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,319,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,320,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,321,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,322,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,323,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,324,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,325,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,326,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,327,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,328,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,329,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,330,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,331,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,332,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,333,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,334,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,335,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,336,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,337,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,338,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,339,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,340,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,341,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,342,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,343,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,344,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,345,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,346,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,347,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,348,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,349,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,350,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,351,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,352,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,353,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,354,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,355,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,356,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,357,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,358,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,359,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,360,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,361,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,362,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,363,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,364,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,365,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,366,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,367,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,368,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,369,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,370,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,371,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,372,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,373,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,374,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,375,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,376,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,377,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,378,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,379,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,380,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,381,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,382,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,383,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,384,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,385,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,386,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,387,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,388,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,389,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,390,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,391,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,392,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,393,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,394,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,C,395,,,e1xi9C2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,2,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,3,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,4,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,5,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,6,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,7,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,8,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,9,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,10,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,11,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,12,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,21,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,22,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,23,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,24,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,25,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,26,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,27,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,28,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,29,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,30,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,31,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,32,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,33,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,34,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,35,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,36,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,37,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,38,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,39,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,40,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,41,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,42,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,43,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,44,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,45,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,46,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,47,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,48,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,49,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,50,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,51,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,52,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,53,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,54,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,55,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,56,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,57,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,58,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,59,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,60,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,61,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,62,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,63,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,64,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,65,1xi9DD02,2.0,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,66,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,67,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,68,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,69,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,70,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,71,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,72,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,73,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,74,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,75,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,76,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,77,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,78,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,79,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,80,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,81,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,82,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,83,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,84,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,85,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,86,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,87,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,88,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,89,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,90,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,91,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,92,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,93,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,94,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,95,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,96,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,97,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,98,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,99,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,100,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,101,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,102,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,103,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,104,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,105,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,106,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,107,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,108,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,109,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,110,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,111,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,112,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,113,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,114,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,115,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,116,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,117,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,118,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,119,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,120,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,121,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,122,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,123,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,124,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,125,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,126,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,127,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,128,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,129,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,130,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,131,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,132,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,133,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,134,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,135,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,136,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,137,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,138,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,139,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,140,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,141,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,142,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,143,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,144,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,145,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,146,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,147,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,148,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,149,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,150,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,151,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,152,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,153,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,154,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,155,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,156,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,157,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,158,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,159,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,160,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,161,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,162,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,163,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,164,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,165,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,166,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,167,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,168,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,169,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,170,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,171,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,172,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,173,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,174,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,175,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,176,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,177,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,178,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,179,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,180,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,181,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,182,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,183,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,184,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,185,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,186,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,187,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,188,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,189,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,190,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,191,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,192,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,193,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,194,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,195,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,196,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,197,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,198,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,199,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,200,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,201,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,202,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,203,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,204,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,205,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,206,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,207,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,208,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,209,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,210,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,211,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,212,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,213,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,214,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,215,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,216,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,217,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,218,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,219,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,220,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,221,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,222,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,223,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,224,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,225,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,226,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,227,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,228,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,229,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,230,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,231,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,232,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,233,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,234,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,235,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,236,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,237,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,238,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,239,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,240,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,241,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,242,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,243,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,244,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,245,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,246,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,247,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,248,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,249,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,250,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,251,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,252,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,253,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,254,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,255,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,256,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,257,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,258,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,259,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,260,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,261,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,262,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,263,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,264,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,265,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,266,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,267,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,268,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,269,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,270,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,271,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,272,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,273,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,274,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,275,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,276,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,277,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,278,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,279,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,280,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,281,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,282,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,283,,,e1xi9D3,7577.1.1.5,PLP-dependent transferases,Aminotran_1_2_N
+1xi9,D,284,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,285,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,286,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,287,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,288,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,289,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,290,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,291,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,292,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,293,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,294,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,295,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,296,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,297,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,298,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,299,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,300,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,301,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,302,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,303,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,304,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,305,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,306,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,307,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,308,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,309,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,310,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,311,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,312,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,313,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,314,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,315,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,316,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,317,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,318,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,319,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,320,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,321,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,322,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,323,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,324,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,325,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,326,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,327,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,328,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,329,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,330,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,331,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,332,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,333,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,334,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,335,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,336,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,337,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,338,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,339,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,340,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,341,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,342,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,343,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,344,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,345,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,346,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,347,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,348,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,349,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,350,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,351,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,352,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,353,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,354,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,355,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,356,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,357,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,358,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,359,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,360,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,361,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,362,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,363,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,364,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,365,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,366,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,367,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,368,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,369,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,370,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,371,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,372,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,373,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,374,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,375,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,376,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,377,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,378,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,379,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,380,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,381,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,382,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,383,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,384,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,385,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,386,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,387,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,388,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,389,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,390,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,391,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,392,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,393,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,394,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2
+1xi9,D,395,,,e1xi9D2,3016.1.1.19,C-terminal domain in some PLP-dependent transferases,Aminotran_1_2_C_2

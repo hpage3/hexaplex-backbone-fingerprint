@@ -1,0 +1,438 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+2f1g,A,-2,,,,,,
+2f1g,A,-1,,,,,,
+2f1g,A,0,,,,,,
+2f1g,A,1,,,,,,
+2f1g,A,2,,,,,,
+2f1g,A,3,,,,,,
+2f1g,A,4,,,,,,
+2f1g,A,5,,,,,,
+2f1g,A,6,,,,,,
+2f1g,A,7,,,,,,
+2f1g,A,8,,,,,,
+2f1g,A,9,,,,,,
+2f1g,A,10,,,,,,
+2f1g,A,11,,,,,,
+2f1g,A,12,,,,,,
+2f1g,A,13,,,,,,
+2f1g,A,14,,,,,,
+2f1g,A,15,,,,,,
+2f1g,A,16,,,,,,
+2f1g,A,17,,,,,,
+2f1g,A,18,,,,,,
+2f1g,A,19,,,,,,
+2f1g,A,20,,,,,,
+2f1g,A,21,,,,,,
+2f1g,A,22,,,,,,
+2f1g,A,23,,,,,,
+2f1g,A,24,,,,,,
+2f1g,A,25,,,,,,
+2f1g,A,26,,,,,,
+2f1g,A,27,,,,,,
+2f1g,A,28,,,,,,
+2f1g,A,29,,,,,,
+2f1g,A,30,,,,,,
+2f1g,A,31,,,,,,
+2f1g,A,32,,,,,,
+2f1g,A,33,,,,,,
+2f1g,A,34,,,,,,
+2f1g,A,35,,,,,,
+2f1g,A,36,,,,,,
+2f1g,A,37,,,,,,
+2f1g,A,38,,,,,,
+2f1g,A,39,,,,,,
+2f1g,A,40,,,,,,
+2f1g,A,41,,,,,,
+2f1g,A,42,,,,,,
+2f1g,A,43,,,,,,
+2f1g,A,44,,,,,,
+2f1g,A,45,,,,,,
+2f1g,A,46,,,,,,
+2f1g,A,47,,,,,,
+2f1g,A,48,,,,,,
+2f1g,A,49,,,,,,
+2f1g,A,50,,,,,,
+2f1g,A,51,,,,,,
+2f1g,A,52,,,,,,
+2f1g,A,53,,,,,,
+2f1g,A,54,,,,,,
+2f1g,A,55,,,,,,
+2f1g,A,56,,,,,,
+2f1g,A,57,,,,,,
+2f1g,A,58,,,,,,
+2f1g,A,59,,,,,,
+2f1g,A,60,,,,,,
+2f1g,A,61,,,,,,
+2f1g,A,62,,,,,,
+2f1g,A,63,,,,,,
+2f1g,A,64,,,,,,
+2f1g,A,65,,,,,,
+2f1g,A,66,,,,,,
+2f1g,A,67,,,,,,
+2f1g,A,68,,,,,,
+2f1g,A,69,,,,,,
+2f1g,A,70,,,,,,
+2f1g,A,71,,,,,,
+2f1g,A,72,,,,,,
+2f1g,A,73,,,,,,
+2f1g,A,74,,,,,,
+2f1g,A,75,,,,,,
+2f1g,A,76,,,,,,
+2f1g,A,77,,,,,,
+2f1g,A,78,,,,,,
+2f1g,A,79,,,,,,
+2f1g,A,80,,,,,,
+2f1g,A,81,,,,,,
+2f1g,A,82,,,,,,
+2f1g,A,83,,,,,,
+2f1g,A,84,,,,,,
+2f1g,A,85,,,,,,
+2f1g,A,86,,,,,,
+2f1g,A,87,,,,,,
+2f1g,A,88,,,,,,
+2f1g,A,89,,,,,,
+2f1g,A,90,,,,,,
+2f1g,A,91,,,,,,
+2f1g,A,92,,,,,,
+2f1g,A,93,,,,,,
+2f1g,A,94,,,,,,
+2f1g,A,95,,,,,,
+2f1g,A,96,,,,,,
+2f1g,A,97,,,,,,
+2f1g,A,98,,,,,,
+2f1g,A,99,,,,,,
+2f1g,A,100,,,,,,
+2f1g,A,101,,,,,,
+2f1g,A,102,,,,,,
+2f1g,A,103,,,,,,
+2f1g,A,104,,,,,,
+2f1g,A,105,,,,,,
+2f1g,A,106,,,,,,
+2f1g,A,107,,,,,,
+2f1g,A,108,,,,,,
+2f1g,A,109,,,,,,
+2f1g,A,110,,,,,,
+2f1g,A,111,,,,,,
+2f1g,A,112,,,,,,
+2f1g,A,113,,,,,,
+2f1g,A,114,,,,,,
+2f1g,A,115,,,,,,
+2f1g,A,116,,,,,,
+2f1g,A,117,,,,,,
+2f1g,A,118,,,,,,
+2f1g,A,119,,,,,,
+2f1g,A,120,,,,,,
+2f1g,A,121,,,,,,
+2f1g,A,122,,,,,,
+2f1g,A,123,,,,,,
+2f1g,A,124,,,,,,
+2f1g,A,125,,,,,,
+2f1g,A,126,,,,,,
+2f1g,A,127,,,,,,
+2f1g,A,128,,,,,,
+2f1g,A,129,,,,,,
+2f1g,A,130,,,,,,
+2f1g,A,131,,,,,,
+2f1g,A,132,,,,,,
+2f1g,A,133,,,,,,
+2f1g,A,134,,,,,,
+2f1g,A,135,,,,,,
+2f1g,A,136,,,,,,
+2f1g,A,137,,,,,,
+2f1g,A,138,,,,,,
+2f1g,A,139,,,,,,
+2f1g,A,140,,,,,,
+2f1g,A,141,,,,,,
+2f1g,A,142,,,,,,
+2f1g,A,143,,,,,,
+2f1g,A,144,,,,,,
+2f1g,A,145,,,,,,
+2f1g,A,146,,,,,,
+2f1g,A,147,,,,,,
+2f1g,A,148,,,,,,
+2f1g,A,149,,,,,,
+2f1g,A,150,,,,,,
+2f1g,A,151,,,,,,
+2f1g,A,152,,,,,,
+2f1g,A,153,,,,,,
+2f1g,A,154,,,,,,
+2f1g,A,155,,,,,,
+2f1g,A,156,,,,,,
+2f1g,A,157,,,,,,
+2f1g,A,158,,,,,,
+2f1g,A,159,,,,,,
+2f1g,A,160,,,,,,
+2f1g,A,161,,,,,,
+2f1g,A,162,,,,,,
+2f1g,A,163,,,,,,
+2f1g,A,164,,,,,,
+2f1g,A,165,,,,,,
+2f1g,A,166,,,,,,
+2f1g,A,167,,,,,,
+2f1g,A,168,,,,,,
+2f1g,A,169,,,,,,
+2f1g,A,170,,,,,,
+2f1g,A,171,,,,,,
+2f1g,A,172,,,,,,
+2f1g,A,173,,,,,,
+2f1g,A,174,,,,,,
+2f1g,A,175,,,,,,
+2f1g,A,176,,,,,,
+2f1g,A,177,,,,,,
+2f1g,A,178,,,,,,
+2f1g,A,179,,,,,,
+2f1g,A,180,,,,,,
+2f1g,A,181,,,,,,
+2f1g,A,182,,,,,,
+2f1g,A,183,,,,,,
+2f1g,A,184,,,,,,
+2f1g,A,185,,,,,,
+2f1g,A,186,,,,,,
+2f1g,A,187,,,,,,
+2f1g,A,188,,,,,,
+2f1g,A,189,,,,,,
+2f1g,A,190,,,,,,
+2f1g,A,191,,,,,,
+2f1g,A,192,,,,,,
+2f1g,A,193,,,,,,
+2f1g,A,194,,,,,,
+2f1g,A,195,,,,,,
+2f1g,A,196,,,,,,
+2f1g,A,197,,,,,,
+2f1g,A,198,,,,,,
+2f1g,A,199,,,,,,
+2f1g,A,200,,,,,,
+2f1g,A,201,,,,,,
+2f1g,A,202,,,,,,
+2f1g,A,203,,,,,,
+2f1g,A,204,,,,,,
+2f1g,A,205,,,,,,
+2f1g,A,206,,,,,,
+2f1g,A,207,,,,,,
+2f1g,A,208,,,,,,
+2f1g,A,209,,,,,,
+2f1g,A,210,,,,,,
+2f1g,A,211,,,,,,
+2f1g,A,212,,,,,,
+2f1g,A,213,,,,,,
+2f1g,A,214,,,,,,
+2f1g,A,215,,,,,,
+2f1g,A,216,,,,,,
+2f1g,A,217,,,,,,
+2f1g,B,1,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,2,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,3,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,4,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,5,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,6,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,7,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,8,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,9,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,10,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,11,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,12,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,13,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,14,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,15,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,16,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,17,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,18,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,19,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,20,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,21,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,22,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,23,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,24,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,25,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,26,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,27,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,28,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,29,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,30,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,31,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,32,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,33,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,34,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,35,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,36,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,37,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,38,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,39,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,40,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,41,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,42,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,43,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,44,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,45,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,46,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,47,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,48,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,49,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,50,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,51,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,52,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,53,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,54,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,55,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,56,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,57,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,58,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,59,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,60,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,61,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,62,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,63,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,64,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,65,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,66,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,67,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,68,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,69,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,70,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,71,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,72,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,73,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,74,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,75,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,76,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,77,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,78,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,79,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,80,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,81,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,82,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,83,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,84,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,85,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,86,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,87,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,88,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,89,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,90,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,91,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,92,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,93,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,94,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,95,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,96,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,97,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,98,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,99,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,100,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,101,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,102,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,103,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,104,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,105,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,106,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,107,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,108,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,109,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,110,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,111,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,112,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,113,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,114,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,115,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,116,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,117,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,118,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,119,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,120,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,121,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,122,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,123,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,124,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,125,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,126,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,127,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,128,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,129,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,130,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,131,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,132,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,133,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,134,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,135,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,136,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,137,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,138,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,139,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,140,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,141,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,142,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,143,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,144,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,145,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,146,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,147,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,148,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,149,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,150,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,151,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,152,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,153,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,154,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,155,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,156,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,157,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,158,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,159,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,160,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,161,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,162,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,163,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,164,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,165,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,166,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,167,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,168,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,169,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,170,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,171,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,172,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,173,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,174,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,175,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,176,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,177,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,178,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,179,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,180,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,181,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,182,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,183,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,184,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,185,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,186,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,187,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,188,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,189,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,190,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,191,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,192,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,193,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,194,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,195,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,196,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,197,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,198,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,199,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,200,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,201,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,202,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,203,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,204,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,205,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,206,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,207,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,208,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,209,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,210,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,211,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,212,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,213,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,214,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,215,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,216,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1
+2f1g,B,217,2f1gBD01,1.0,e2f1gB1,219.1.1.194,Cysteine proteinases,Peptidase_C1

@@ -1,0 +1,725 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+2cd9,A,1,2cd9AD02,2.0,,,,
+2cd9,A,2,2cd9AD02,2.0,,,,
+2cd9,A,3,2cd9AD02,2.0,,,,
+2cd9,A,4,2cd9AD02,2.0,,,,
+2cd9,A,5,2cd9AD02,2.0,,,,
+2cd9,A,6,2cd9AD02,2.0,,,,
+2cd9,A,7,2cd9AD02,2.0,,,,
+2cd9,A,8,2cd9AD02,2.0,,,,
+2cd9,A,9,2cd9AD02,2.0,,,,
+2cd9,A,10,2cd9AD02,2.0,,,,
+2cd9,A,11,2cd9AD02,2.0,,,,
+2cd9,A,12,2cd9AD02,2.0,,,,
+2cd9,A,13,2cd9AD02,2.0,,,,
+2cd9,A,14,2cd9AD02,2.0,,,,
+2cd9,A,15,2cd9AD02,2.0,,,,
+2cd9,A,16,2cd9AD02,2.0,,,,
+2cd9,A,17,2cd9AD02,2.0,,,,
+2cd9,A,18,2cd9AD02,2.0,,,,
+2cd9,A,19,2cd9AD02,2.0,,,,
+2cd9,A,20,2cd9AD02,2.0,,,,
+2cd9,A,21,2cd9AD02,2.0,,,,
+2cd9,A,22,2cd9AD02,2.0,,,,
+2cd9,A,23,2cd9AD02,2.0,,,,
+2cd9,A,24,2cd9AD02,2.0,,,,
+2cd9,A,25,2cd9AD02,2.0,,,,
+2cd9,A,26,2cd9AD02,2.0,,,,
+2cd9,A,27,2cd9AD02,2.0,,,,
+2cd9,A,28,2cd9AD02,2.0,,,,
+2cd9,A,29,2cd9AD02,2.0,,,,
+2cd9,A,30,2cd9AD02,2.0,,,,
+2cd9,A,31,2cd9AD02,2.0,,,,
+2cd9,A,32,2cd9AD02,2.0,,,,
+2cd9,A,33,2cd9AD02,2.0,,,,
+2cd9,A,34,2cd9AD02,2.0,,,,
+2cd9,A,35,2cd9AD02,2.0,,,,
+2cd9,A,36,2cd9AD02,2.0,,,,
+2cd9,A,37,2cd9AD02,2.0,,,,
+2cd9,A,38,2cd9AD02,2.0,,,,
+2cd9,A,39,2cd9AD02,2.0,,,,
+2cd9,A,40,2cd9AD02,2.0,,,,
+2cd9,A,41,2cd9AD02,2.0,,,,
+2cd9,A,42,2cd9AD02,2.0,,,,
+2cd9,A,43,2cd9AD02,2.0,,,,
+2cd9,A,44,2cd9AD02,2.0,,,,
+2cd9,A,45,2cd9AD02,2.0,,,,
+2cd9,A,46,2cd9AD02,2.0,,,,
+2cd9,A,47,2cd9AD02,2.0,,,,
+2cd9,A,48,2cd9AD02,2.0,,,,
+2cd9,A,49,2cd9AD02,2.0,,,,
+2cd9,A,50,2cd9AD02,2.0,,,,
+2cd9,A,51,2cd9AD02,2.0,,,,
+2cd9,A,52,2cd9AD02,2.0,,,,
+2cd9,A,53,2cd9AD02,2.0,,,,
+2cd9,A,57,2cd9AD02,2.0,,,,
+2cd9,A,58,2cd9AD02,2.0,,,,
+2cd9,A,59,2cd9AD02,2.0,,,,
+2cd9,A,60,2cd9AD02,2.0,,,,
+2cd9,A,61,2cd9AD02,2.0,,,,
+2cd9,A,62,2cd9AD02,2.0,,,,
+2cd9,A,63,2cd9AD02,2.0,,,,
+2cd9,A,64,2cd9AD02,2.0,,,,
+2cd9,A,65,2cd9AD02,2.0,,,,
+2cd9,A,66,2cd9AD02,2.0,,,,
+2cd9,A,67,2cd9AD02,2.0,,,,
+2cd9,A,68,2cd9AD02,2.0,,,,
+2cd9,A,69,2cd9AD02,2.0,,,,
+2cd9,A,70,2cd9AD02,2.0,,,,
+2cd9,A,71,2cd9AD02,2.0,,,,
+2cd9,A,72,2cd9AD02,2.0,,,,
+2cd9,A,73,2cd9AD02,2.0,,,,
+2cd9,A,74,2cd9AD02,2.0,,,,
+2cd9,A,75,2cd9AD02,2.0,,,,
+2cd9,A,76,2cd9AD02,2.0,,,,
+2cd9,A,77,2cd9AD02,2.0,,,,
+2cd9,A,78,2cd9AD02,2.0,,,,
+2cd9,A,79,2cd9AD02,2.0,,,,
+2cd9,A,80,2cd9AD02,2.0,,,,
+2cd9,A,81,2cd9AD02,2.0,,,,
+2cd9,A,82,2cd9AD02,2.0,,,,
+2cd9,A,83,2cd9AD02,2.0,,,,
+2cd9,A,84,2cd9AD02,2.0,,,,
+2cd9,A,85,2cd9AD02,2.0,,,,
+2cd9,A,86,2cd9AD02,2.0,,,,
+2cd9,A,87,2cd9AD02,2.0,,,,
+2cd9,A,88,2cd9AD02,2.0,,,,
+2cd9,A,89,2cd9AD02,2.0,,,,
+2cd9,A,90,2cd9AD02,2.0,,,,
+2cd9,A,91,2cd9AD02,2.0,,,,
+2cd9,A,92,2cd9AD02,2.0,,,,
+2cd9,A,93,2cd9AD02,2.0,,,,
+2cd9,A,94,2cd9AD02,2.0,,,,
+2cd9,A,95,2cd9AD02,2.0,,,,
+2cd9,A,96,2cd9AD02,2.0,,,,
+2cd9,A,97,2cd9AD02,2.0,,,,
+2cd9,A,98,2cd9AD02,2.0,,,,
+2cd9,A,99,2cd9AD02,2.0,,,,
+2cd9,A,100,2cd9AD02,2.0,,,,
+2cd9,A,101,2cd9AD02,2.0,,,,
+2cd9,A,102,2cd9AD02,2.0,,,,
+2cd9,A,103,2cd9AD02,2.0,,,,
+2cd9,A,104,2cd9AD02,2.0,,,,
+2cd9,A,105,2cd9AD02,2.0,,,,
+2cd9,A,106,2cd9AD02,2.0,,,,
+2cd9,A,107,2cd9AD02,2.0,,,,
+2cd9,A,108,2cd9AD02,2.0,,,,
+2cd9,A,109,2cd9AD02,2.0,,,,
+2cd9,A,110,2cd9AD02,2.0,,,,
+2cd9,A,111,2cd9AD02,2.0,,,,
+2cd9,A,112,2cd9AD02,2.0,,,,
+2cd9,A,113,2cd9AD02,2.0,,,,
+2cd9,A,114,2cd9AD02,2.0,,,,
+2cd9,A,115,2cd9AD02,2.0,,,,
+2cd9,A,116,2cd9AD02,2.0,,,,
+2cd9,A,117,2cd9AD02,2.0,,,,
+2cd9,A,118,2cd9AD02,2.0,,,,
+2cd9,A,119,2cd9AD02,2.0,,,,
+2cd9,A,120,2cd9AD02,2.0,,,,
+2cd9,A,121,2cd9AD02,2.0,,,,
+2cd9,A,122,2cd9AD02,2.0,,,,
+2cd9,A,123,2cd9AD02,2.0,,,,
+2cd9,A,124,2cd9AD02,2.0,,,,
+2cd9,A,125,2cd9AD02,2.0,,,,
+2cd9,A,126,2cd9AD02,2.0,,,,
+2cd9,A,127,2cd9AD02,2.0,,,,
+2cd9,A,128,2cd9AD02,2.0,,,,
+2cd9,A,129,2cd9AD02,2.0,,,,
+2cd9,A,130,2cd9AD02,2.0,,,,
+2cd9,A,131,2cd9AD02,2.0,,,,
+2cd9,A,132,2cd9AD02,2.0,,,,
+2cd9,A,133,2cd9AD02,2.0,,,,
+2cd9,A,134,2cd9AD02,2.0,,,,
+2cd9,A,135,2cd9AD02,2.0,,,,
+2cd9,A,136,2cd9AD02,2.0,,,,
+2cd9,A,137,2cd9AD02,2.0,,,,
+2cd9,A,138,2cd9AD02,2.0,,,,
+2cd9,A,139,2cd9AD02,2.0,,,,
+2cd9,A,140,2cd9AD02,2.0,,,,
+2cd9,A,141,2cd9AD02,2.0,,,,
+2cd9,A,142,2cd9AD02,2.0,,,,
+2cd9,A,143,2cd9AD02,2.0,,,,
+2cd9,A,144,2cd9AD02,2.0,,,,
+2cd9,A,145,,,,,,
+2cd9,A,146,,,,,,
+2cd9,A,147,,,,,,
+2cd9,A,148,,,,,,
+2cd9,A,149,,,,,,
+2cd9,A,150,,,,,,
+2cd9,A,151,,,,,,
+2cd9,A,152,,,,,,
+2cd9,A,153,,,,,,
+2cd9,A,154,,,,,,
+2cd9,A,155,,,,,,
+2cd9,A,156,,,,,,
+2cd9,A,157,,,,,,
+2cd9,A,158,,,,,,
+2cd9,A,159,,,,,,
+2cd9,A,160,,,,,,
+2cd9,A,161,,,,,,
+2cd9,A,162,,,,,,
+2cd9,A,163,,,,,,
+2cd9,A,164,,,,,,
+2cd9,A,165,,,,,,
+2cd9,A,166,,,,,,
+2cd9,A,167,,,,,,
+2cd9,A,168,,,,,,
+2cd9,A,169,,,,,,
+2cd9,A,170,,,,,,
+2cd9,A,171,,,,,,
+2cd9,A,172,,,,,,
+2cd9,A,173,,,,,,
+2cd9,A,174,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,175,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,176,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,177,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,178,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,179,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,180,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,181,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,182,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,183,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,184,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,185,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,186,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,187,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,188,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,189,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,190,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,191,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,192,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,193,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,194,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,195,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,196,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,197,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,198,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,199,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,200,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,201,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,202,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,203,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,204,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,205,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,206,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,207,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,208,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,209,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,210,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,211,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,212,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,213,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,214,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,215,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,216,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,217,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,218,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,219,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,220,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,221,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,222,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,223,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,224,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,225,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,226,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,227,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,228,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,229,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,230,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,231,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,232,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,233,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,234,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,235,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,236,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,237,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,238,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,239,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,240,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,241,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,242,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,243,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,244,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,245,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,246,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,247,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,248,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,249,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,250,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,251,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,252,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,253,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,254,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,255,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,256,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,257,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,258,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,259,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,260,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,261,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,262,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,263,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,264,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,265,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,266,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,267,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,268,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,269,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,270,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,271,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,272,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,273,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,274,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,275,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,276,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,277,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,278,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,279,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,280,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,281,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,282,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,283,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,284,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,285,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,286,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,287,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,288,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,289,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,290,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,291,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,292,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,293,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,294,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,295,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,296,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,297,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,298,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,299,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,300,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,301,,,e2cd9A1,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,A,302,,,,,,
+2cd9,A,303,,,,,,
+2cd9,A,304,,,,,,
+2cd9,A,305,,,,,,
+2cd9,A,306,,,,,,
+2cd9,A,307,,,,,,
+2cd9,A,308,,,,,,
+2cd9,A,309,,,,,,
+2cd9,A,310,,,,,,
+2cd9,A,311,,,,,,
+2cd9,A,312,,,,,,
+2cd9,A,313,,,,,,
+2cd9,A,314,,,,,,
+2cd9,A,315,,,,,,
+2cd9,A,316,,,,,,
+2cd9,A,317,,,,,,
+2cd9,A,318,,,,,,
+2cd9,A,319,,,,,,
+2cd9,A,320,,,,,,
+2cd9,A,321,,,,,,
+2cd9,A,322,,,,,,
+2cd9,A,323,,,,,,
+2cd9,A,324,,,,,,
+2cd9,A,325,,,,,,
+2cd9,A,326,,,,,,
+2cd9,A,327,,,,,,
+2cd9,A,328,,,,,,
+2cd9,A,329,,,,,,
+2cd9,A,330,,,,,,
+2cd9,A,331,,,,,,
+2cd9,A,332,,,,,,
+2cd9,A,333,,,,,,
+2cd9,A,334,,,,,,
+2cd9,A,335,,,,,,
+2cd9,A,336,,,,,,
+2cd9,A,337,,,,,,
+2cd9,A,338,,,,,,
+2cd9,A,339,,,,,,
+2cd9,A,340,,,,,,
+2cd9,A,341,,,,,,
+2cd9,A,342,,,,,,
+2cd9,A,343,,,,,,
+2cd9,A,344,,,,,,
+2cd9,A,345,,,,,,
+2cd9,A,346,,,,,,
+2cd9,A,347,,,,,,
+2cd9,A,348,,,,,,
+2cd9,A,349,,,,,,
+2cd9,A,350,,,,,,
+2cd9,A,351,,,,,,
+2cd9,A,352,,,,,,
+2cd9,A,353,,,,,,
+2cd9,A,354,,,,,,
+2cd9,A,355,,,,,,
+2cd9,A,356,,,,,,
+2cd9,A,357,,,,,,
+2cd9,A,358,,,,,,
+2cd9,A,359,,,,,,
+2cd9,A,360,,,,,,
+2cd9,A,361,,,,,,
+2cd9,A,362,,,,,,
+2cd9,A,363,,,,,,
+2cd9,A,364,,,,,,
+2cd9,A,365,,,,,,
+2cd9,A,366,,,,,,
+2cd9,B,1,2cd9BD02,2.0,,,,
+2cd9,B,2,2cd9BD02,2.0,,,,
+2cd9,B,3,2cd9BD02,2.0,,,,
+2cd9,B,4,2cd9BD02,2.0,,,,
+2cd9,B,5,2cd9BD02,2.0,,,,
+2cd9,B,6,2cd9BD02,2.0,,,,
+2cd9,B,7,2cd9BD02,2.0,,,,
+2cd9,B,8,2cd9BD02,2.0,,,,
+2cd9,B,9,2cd9BD02,2.0,,,,
+2cd9,B,10,2cd9BD02,2.0,,,,
+2cd9,B,11,2cd9BD02,2.0,,,,
+2cd9,B,12,2cd9BD02,2.0,,,,
+2cd9,B,13,2cd9BD02,2.0,,,,
+2cd9,B,14,2cd9BD02,2.0,,,,
+2cd9,B,15,2cd9BD02,2.0,,,,
+2cd9,B,16,2cd9BD02,2.0,,,,
+2cd9,B,17,2cd9BD02,2.0,,,,
+2cd9,B,18,2cd9BD02,2.0,,,,
+2cd9,B,19,2cd9BD02,2.0,,,,
+2cd9,B,20,2cd9BD02,2.0,,,,
+2cd9,B,21,2cd9BD02,2.0,,,,
+2cd9,B,22,2cd9BD02,2.0,,,,
+2cd9,B,23,2cd9BD02,2.0,,,,
+2cd9,B,24,2cd9BD02,2.0,,,,
+2cd9,B,25,2cd9BD02,2.0,,,,
+2cd9,B,26,2cd9BD02,2.0,,,,
+2cd9,B,27,2cd9BD02,2.0,,,,
+2cd9,B,28,2cd9BD02,2.0,,,,
+2cd9,B,29,2cd9BD02,2.0,,,,
+2cd9,B,30,2cd9BD02,2.0,,,,
+2cd9,B,31,2cd9BD02,2.0,,,,
+2cd9,B,32,2cd9BD02,2.0,,,,
+2cd9,B,33,2cd9BD02,2.0,,,,
+2cd9,B,34,2cd9BD02,2.0,,,,
+2cd9,B,35,2cd9BD02,2.0,,,,
+2cd9,B,36,2cd9BD02,2.0,,,,
+2cd9,B,37,2cd9BD02,2.0,,,,
+2cd9,B,38,2cd9BD02,2.0,,,,
+2cd9,B,39,2cd9BD02,2.0,,,,
+2cd9,B,40,2cd9BD02,2.0,,,,
+2cd9,B,41,2cd9BD02,2.0,,,,
+2cd9,B,42,2cd9BD02,2.0,,,,
+2cd9,B,43,2cd9BD02,2.0,,,,
+2cd9,B,44,2cd9BD02,2.0,,,,
+2cd9,B,45,2cd9BD02,2.0,,,,
+2cd9,B,46,2cd9BD02,2.0,,,,
+2cd9,B,47,2cd9BD02,2.0,,,,
+2cd9,B,48,2cd9BD02,2.0,,,,
+2cd9,B,49,2cd9BD02,2.0,,,,
+2cd9,B,50,2cd9BD02,2.0,,,,
+2cd9,B,51,2cd9BD02,2.0,,,,
+2cd9,B,52,2cd9BD02,2.0,,,,
+2cd9,B,58,2cd9BD02,2.0,,,,
+2cd9,B,59,2cd9BD02,2.0,,,,
+2cd9,B,60,2cd9BD02,2.0,,,,
+2cd9,B,61,2cd9BD02,2.0,,,,
+2cd9,B,62,2cd9BD02,2.0,,,,
+2cd9,B,63,2cd9BD02,2.0,,,,
+2cd9,B,64,2cd9BD02,2.0,,,,
+2cd9,B,65,2cd9BD02,2.0,,,,
+2cd9,B,66,2cd9BD02,2.0,,,,
+2cd9,B,67,2cd9BD02,2.0,,,,
+2cd9,B,68,2cd9BD02,2.0,,,,
+2cd9,B,69,2cd9BD02,2.0,,,,
+2cd9,B,70,2cd9BD02,2.0,,,,
+2cd9,B,71,2cd9BD02,2.0,,,,
+2cd9,B,72,2cd9BD02,2.0,,,,
+2cd9,B,73,2cd9BD02,2.0,,,,
+2cd9,B,74,2cd9BD02,2.0,,,,
+2cd9,B,75,2cd9BD02,2.0,,,,
+2cd9,B,76,2cd9BD02,2.0,,,,
+2cd9,B,77,2cd9BD02,2.0,,,,
+2cd9,B,78,2cd9BD02,2.0,,,,
+2cd9,B,79,2cd9BD02,2.0,,,,
+2cd9,B,80,2cd9BD02,2.0,,,,
+2cd9,B,81,2cd9BD02,2.0,,,,
+2cd9,B,82,2cd9BD02,2.0,,,,
+2cd9,B,83,2cd9BD02,2.0,,,,
+2cd9,B,84,2cd9BD02,2.0,,,,
+2cd9,B,85,2cd9BD02,2.0,,,,
+2cd9,B,86,2cd9BD02,2.0,,,,
+2cd9,B,87,2cd9BD02,2.0,,,,
+2cd9,B,88,2cd9BD02,2.0,,,,
+2cd9,B,89,2cd9BD02,2.0,,,,
+2cd9,B,90,2cd9BD02,2.0,,,,
+2cd9,B,91,2cd9BD02,2.0,,,,
+2cd9,B,92,2cd9BD02,2.0,,,,
+2cd9,B,93,2cd9BD02,2.0,,,,
+2cd9,B,94,2cd9BD02,2.0,,,,
+2cd9,B,95,2cd9BD02,2.0,,,,
+2cd9,B,96,2cd9BD02,2.0,,,,
+2cd9,B,97,2cd9BD02,2.0,,,,
+2cd9,B,98,2cd9BD02,2.0,,,,
+2cd9,B,99,2cd9BD02,2.0,,,,
+2cd9,B,100,2cd9BD02,2.0,,,,
+2cd9,B,101,2cd9BD02,2.0,,,,
+2cd9,B,102,2cd9BD02,2.0,,,,
+2cd9,B,103,2cd9BD02,2.0,,,,
+2cd9,B,104,2cd9BD02,2.0,,,,
+2cd9,B,105,2cd9BD02,2.0,,,,
+2cd9,B,106,2cd9BD02,2.0,,,,
+2cd9,B,107,2cd9BD02,2.0,,,,
+2cd9,B,108,2cd9BD02,2.0,,,,
+2cd9,B,109,2cd9BD02,2.0,,,,
+2cd9,B,110,2cd9BD02,2.0,,,,
+2cd9,B,111,2cd9BD02,2.0,,,,
+2cd9,B,112,2cd9BD02,2.0,,,,
+2cd9,B,113,2cd9BD02,2.0,,,,
+2cd9,B,114,2cd9BD02,2.0,,,,
+2cd9,B,115,2cd9BD02,2.0,,,,
+2cd9,B,116,2cd9BD02,2.0,,,,
+2cd9,B,117,2cd9BD02,2.0,,,,
+2cd9,B,118,2cd9BD02,2.0,,,,
+2cd9,B,119,2cd9BD02,2.0,,,,
+2cd9,B,120,2cd9BD02,2.0,,,,
+2cd9,B,121,2cd9BD02,2.0,,,,
+2cd9,B,122,2cd9BD02,2.0,,,,
+2cd9,B,123,2cd9BD02,2.0,,,,
+2cd9,B,124,2cd9BD02,2.0,,,,
+2cd9,B,125,2cd9BD02,2.0,,,,
+2cd9,B,126,2cd9BD02,2.0,,,,
+2cd9,B,127,2cd9BD02,2.0,,,,
+2cd9,B,128,2cd9BD02,2.0,,,,
+2cd9,B,129,2cd9BD02,2.0,,,,
+2cd9,B,130,2cd9BD02,2.0,,,,
+2cd9,B,131,2cd9BD02,2.0,,,,
+2cd9,B,132,2cd9BD02,2.0,,,,
+2cd9,B,133,2cd9BD02,2.0,,,,
+2cd9,B,134,2cd9BD02,2.0,,,,
+2cd9,B,135,2cd9BD02,2.0,,,,
+2cd9,B,136,2cd9BD02,2.0,,,,
+2cd9,B,137,2cd9BD02,2.0,,,,
+2cd9,B,138,2cd9BD02,2.0,,,,
+2cd9,B,139,2cd9BD02,2.0,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,140,2cd9BD02,2.0,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,141,2cd9BD02,2.0,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,142,2cd9BD02,2.0,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,143,2cd9BD02,2.0,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,144,2cd9BD02,2.0,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,145,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,146,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,147,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,148,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,149,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,150,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,151,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,152,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,153,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,154,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,155,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,156,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,157,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,158,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,159,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,160,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,161,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,162,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,163,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,164,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,165,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,166,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,167,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,168,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,169,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,170,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,171,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,172,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,173,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,174,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,175,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,176,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,177,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,178,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,179,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,180,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,181,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,182,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,183,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,184,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,185,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,186,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,187,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,188,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,189,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,190,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,191,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,192,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,193,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,194,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,195,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,196,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,197,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,198,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,199,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,200,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,201,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,202,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,203,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,204,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,205,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,206,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,207,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,208,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,209,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,210,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,211,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,212,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,213,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,214,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,215,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,216,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,217,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,218,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,219,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,220,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,221,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,222,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,223,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,224,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,225,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,226,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,227,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,228,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,229,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,230,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,231,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,232,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,233,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,234,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,235,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,236,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,237,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,238,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,239,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,240,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,241,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,242,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,243,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,244,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,245,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,246,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,247,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,248,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,249,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,250,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,251,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,252,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,253,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,254,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,255,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,256,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,257,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,258,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,259,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,260,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,261,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,262,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,263,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,264,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,265,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,266,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,267,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,268,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,269,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,270,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,271,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,272,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,273,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,274,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,275,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,276,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,277,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,278,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,279,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,280,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,281,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,282,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,283,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,284,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,285,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,286,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,287,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,288,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,289,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,290,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,291,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,292,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,293,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,294,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,295,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,296,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,297,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,298,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,299,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,300,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,301,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,302,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,303,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,304,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,305,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,306,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,307,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,308,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,309,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,310,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,311,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,312,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,313,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,314,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,315,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,316,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,317,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,318,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,319,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,320,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,321,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,322,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,323,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,324,,,e2cd9B2,2003.1.1.8,NAD(P)-binding Rossmann-fold domains,ADH_zinc_N
+2cd9,B,325,,,,,,
+2cd9,B,326,,,,,,
+2cd9,B,327,,,,,,
+2cd9,B,328,,,,,,
+2cd9,B,329,,,,,,
+2cd9,B,330,,,,,,
+2cd9,B,331,,,,,,
+2cd9,B,332,,,,,,
+2cd9,B,333,,,,,,
+2cd9,B,334,,,,,,
+2cd9,B,335,,,,,,
+2cd9,B,336,,,,,,
+2cd9,B,337,,,,,,
+2cd9,B,338,,,,,,
+2cd9,B,339,,,,,,
+2cd9,B,340,,,,,,
+2cd9,B,341,,,,,,
+2cd9,B,342,,,,,,
+2cd9,B,343,,,,,,
+2cd9,B,344,,,,,,
+2cd9,B,345,,,,,,
+2cd9,B,346,,,,,,
+2cd9,B,347,,,,,,
+2cd9,B,348,,,,,,
+2cd9,B,349,,,,,,
+2cd9,B,350,,,,,,
+2cd9,B,351,,,,,,
+2cd9,B,352,,,,,,
+2cd9,B,353,,,,,,
+2cd9,B,354,,,,,,
+2cd9,B,355,,,,,,
+2cd9,B,356,,,,,,
+2cd9,B,357,,,,,,
+2cd9,B,358,,,,,,
+2cd9,B,359,,,,,,
+2cd9,B,360,,,,,,
+2cd9,B,361,,,,,,
+2cd9,B,362,,,,,,
+2cd9,B,363,,,,,,
+2cd9,B,364,,,,,,
+2cd9,B,365,,,,,,
+2cd9,B,366,,,,,,

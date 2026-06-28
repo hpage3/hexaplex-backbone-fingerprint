@@ -1,0 +1,1978 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+6uuj,A,6,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,7,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,8,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,9,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,10,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,11,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,12,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,13,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,14,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,15,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,16,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,17,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,18,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,19,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,20,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,21,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,22,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,23,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,24,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,25,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,26,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,27,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,28,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,29,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,30,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,31,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,32,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,33,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,34,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,35,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,36,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,37,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,38,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,39,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,40,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,41,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,42,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,43,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,44,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,45,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,46,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,47,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,48,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,49,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,50,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,51,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,52,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,53,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,54,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,55,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,56,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,57,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,58,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,59,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,60,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,61,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,62,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,63,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,64,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,65,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,66,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,67,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,68,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,69,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,70,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,71,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,72,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,73,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,74,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,75,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,76,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,77,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,A,78,6uujAD01,1,e6uujA1,150.7.1.1,PE,PE
+6uuj,B,2,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,3,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,4,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,5,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,6,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,7,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,8,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,9,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,10,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,11,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,12,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,13,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,14,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,15,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,16,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,17,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,18,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,19,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,20,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,21,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,22,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,23,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,24,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,25,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,26,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,27,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,28,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,29,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,30,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,31,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,32,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,33,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,34,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,35,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,36,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,37,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,38,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,39,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,40,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,41,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,42,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,43,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,44,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,45,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,46,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,47,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,48,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,49,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,50,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,51,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,52,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,53,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,54,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,55,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,56,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,57,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,58,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,59,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,60,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,64,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,65,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,66,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,67,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,68,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,69,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,70,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,71,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,72,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,73,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,74,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,75,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,76,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,77,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,78,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,79,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,80,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,81,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,82,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,83,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,84,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,85,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,86,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,87,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,88,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,89,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,90,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,91,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,92,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,93,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,94,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,95,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,96,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,97,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,98,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,99,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,100,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,101,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,102,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,103,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,104,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,105,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,106,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,107,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,108,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,109,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,110,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,111,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,112,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,113,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,114,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,115,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,116,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,117,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,118,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,119,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,120,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,121,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,122,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,123,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,124,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,125,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,126,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,127,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,128,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,129,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,130,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,131,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,132,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,133,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,134,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,135,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,136,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,137,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,138,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,139,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,140,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,141,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,142,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,143,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,144,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,145,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,146,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,147,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,148,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,149,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,150,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,151,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,152,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,153,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,154,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,155,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,156,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,157,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,158,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,159,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,160,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,161,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,162,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,163,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,164,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,165,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,166,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,167,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,B,168,6uujBD01,1,e6uujB1,150.8.1.1,PPE,PPE
+6uuj,C,6,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,7,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,8,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,9,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,10,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,11,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,12,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,13,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,14,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,15,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,16,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,17,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,18,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,19,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,20,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,21,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,22,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,23,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,24,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,25,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,26,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,27,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,28,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,29,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,30,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,31,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,32,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,33,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,34,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,35,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,36,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,37,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,38,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,39,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,40,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,41,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,42,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,43,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,44,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,45,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,46,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,47,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,48,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,49,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,50,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,51,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,52,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,53,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,54,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,55,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,56,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,57,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,58,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,59,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,60,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,61,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,62,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,63,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,64,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,65,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,66,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,67,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,68,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,69,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,70,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,71,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,72,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,73,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,74,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,75,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,76,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,77,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,78,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,79,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,80,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,81,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,82,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,83,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,84,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,85,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,86,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,87,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,88,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,89,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,90,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,91,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,99,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,100,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,101,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,102,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,103,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,104,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,105,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,106,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,107,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,108,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,122,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,123,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,124,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,125,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,126,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,127,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,128,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,129,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,130,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,131,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,132,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,133,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,134,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,135,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,136,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,137,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,138,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,139,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,140,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,141,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,142,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,143,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,144,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,145,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,146,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,147,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,148,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,149,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,150,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,151,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,152,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,153,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,154,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,155,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,156,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,157,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,158,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,159,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,160,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,161,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,162,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,163,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,164,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,165,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,166,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,167,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,168,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,169,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,170,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,171,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,172,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,173,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,174,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,175,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,176,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,177,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,178,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,179,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,180,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,181,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,182,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,183,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,184,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,185,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,186,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,187,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,188,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,189,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,190,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,191,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,192,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,193,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,194,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,195,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,196,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,197,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,198,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,199,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,200,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,201,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,202,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,203,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,204,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,205,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,206,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,207,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,208,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,209,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,210,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,211,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,212,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,213,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,214,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,215,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,216,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,217,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,218,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,219,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,220,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,221,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,222,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,223,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,224,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,225,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,226,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,227,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,228,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,229,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,230,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,231,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,232,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,233,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,234,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,235,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,236,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,237,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,238,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,239,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,240,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,241,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,242,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,243,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,244,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,245,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,246,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,247,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,248,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,249,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,250,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,251,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,252,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,253,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,254,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,255,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,256,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,257,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,258,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,259,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,260,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,261,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,262,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,263,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,264,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,265,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,266,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,267,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,268,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,269,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,270,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,271,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,272,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,273,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,274,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,275,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,276,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,277,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,278,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,279,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,280,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,281,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,282,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,283,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,C,284,6uujCD01,1,e6uujC1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,D,7,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,8,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,9,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,10,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,11,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,12,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,13,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,14,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,15,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,16,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,17,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,18,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,19,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,20,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,21,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,22,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,23,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,24,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,25,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,26,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,27,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,28,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,29,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,30,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,31,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,32,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,33,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,34,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,35,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,36,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,37,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,38,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,39,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,40,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,41,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,42,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,43,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,44,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,45,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,46,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,47,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,48,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,49,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,50,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,51,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,52,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,53,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,54,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,55,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,56,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,57,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,58,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,59,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,60,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,61,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,62,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,63,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,64,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,65,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,66,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,67,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,68,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,69,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,70,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,71,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,72,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,73,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,74,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,75,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,76,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,D,77,6uujDD01,1,e6uujD1,150.7.1.1,PE,PE
+6uuj,E,2,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,3,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,4,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,5,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,6,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,7,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,8,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,9,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,10,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,11,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,12,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,13,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,14,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,15,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,16,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,17,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,18,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,19,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,20,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,21,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,22,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,23,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,24,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,25,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,26,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,27,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,28,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,29,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,30,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,31,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,32,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,33,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,34,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,35,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,36,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,37,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,38,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,39,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,40,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,41,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,42,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,43,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,44,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,45,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,46,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,47,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,48,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,49,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,50,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,51,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,52,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,53,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,54,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,55,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,56,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,57,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,58,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,59,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,60,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,64,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,65,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,66,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,67,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,68,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,69,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,70,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,71,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,72,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,73,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,74,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,75,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,76,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,77,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,78,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,79,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,80,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,81,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,82,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,83,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,84,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,85,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,86,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,87,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,88,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,89,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,90,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,91,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,92,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,93,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,94,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,95,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,96,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,97,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,98,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,99,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,100,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,101,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,102,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,103,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,104,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,105,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,106,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,107,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,108,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,109,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,110,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,111,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,112,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,113,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,114,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,115,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,116,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,117,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,118,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,119,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,120,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,121,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,122,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,123,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,124,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,125,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,126,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,127,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,128,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,129,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,130,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,131,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,132,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,133,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,134,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,135,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,136,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,137,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,138,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,139,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,140,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,141,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,142,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,143,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,144,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,145,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,146,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,147,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,148,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,149,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,150,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,151,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,152,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,153,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,154,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,155,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,156,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,157,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,158,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,159,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,160,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,161,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,162,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,163,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,164,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,165,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,166,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,E,167,6uujED01,1,e6uujE1,150.8.1.1,PPE,PPE
+6uuj,F,6,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,7,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,8,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,9,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,10,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,11,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,12,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,13,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,14,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,15,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,16,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,17,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,18,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,19,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,20,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,21,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,22,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,23,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,24,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,25,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,26,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,27,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,28,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,29,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,30,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,31,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,32,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,33,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,34,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,35,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,36,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,37,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,38,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,39,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,40,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,41,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,42,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,43,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,44,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,45,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,46,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,47,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,48,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,49,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,50,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,51,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,52,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,53,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,54,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,55,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,56,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,57,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,58,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,59,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,60,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,61,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,62,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,63,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,64,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,65,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,66,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,67,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,68,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,69,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,70,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,71,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,72,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,73,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,74,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,75,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,76,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,77,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,78,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,79,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,80,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,81,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,82,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,83,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,84,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,85,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,86,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,87,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,88,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,89,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,90,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,91,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,99,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,100,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,101,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,102,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,103,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,104,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,105,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,106,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,107,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,108,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,122,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,123,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,124,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,125,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,126,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,127,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,128,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,129,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,130,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,131,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,132,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,133,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,134,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,135,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,136,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,137,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,138,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,139,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,140,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,141,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,142,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,143,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,144,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,145,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,146,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,147,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,148,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,149,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,150,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,151,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,152,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,153,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,154,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,155,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,156,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,157,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,158,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,159,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,160,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,161,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,162,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,163,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,164,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,165,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,166,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,167,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,168,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,169,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,170,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,171,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,172,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,173,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,174,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,175,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,176,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,177,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,178,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,179,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,180,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,181,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,182,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,183,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,184,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,185,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,186,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,187,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,188,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,189,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,190,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,191,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,192,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,193,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,194,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,195,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,196,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,197,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,198,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,199,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,200,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,201,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,202,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,203,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,204,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,205,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,206,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,207,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,208,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,209,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,210,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,211,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,212,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,213,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,214,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,215,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,216,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,217,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,218,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,219,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,220,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,221,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,222,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,223,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,224,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,225,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,226,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,227,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,228,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,229,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,230,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,231,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,232,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,233,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,234,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,235,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,236,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,237,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,238,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,239,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,240,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,241,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,242,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,243,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,244,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,245,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,246,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,247,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,248,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,249,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,250,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,251,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,252,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,253,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,254,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,255,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,256,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,257,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,258,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,259,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,260,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,261,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,262,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,263,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,264,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,265,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,266,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,267,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,268,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,269,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,270,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,271,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,272,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,273,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,274,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,275,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,276,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,277,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,278,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,279,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,280,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,281,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,282,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,283,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,F,284,6uujFD01,1,e6uujF1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,G,6,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,7,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,8,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,9,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,10,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,11,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,12,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,13,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,14,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,15,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,16,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,17,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,18,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,19,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,20,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,21,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,22,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,23,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,24,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,25,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,26,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,27,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,28,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,29,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,30,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,31,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,32,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,33,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,34,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,35,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,36,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,37,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,38,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,39,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,40,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,41,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,42,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,43,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,44,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,45,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,46,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,47,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,48,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,49,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,50,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,51,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,52,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,53,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,54,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,55,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,56,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,57,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,58,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,59,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,60,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,61,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,62,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,63,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,64,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,65,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,66,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,67,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,68,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,69,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,70,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,71,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,72,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,73,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,74,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,75,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,76,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,77,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,78,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,G,79,6uujGD01,1,e6uujG1,150.7.1.1,PE,PE
+6uuj,H,2,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,3,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,4,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,5,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,6,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,7,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,8,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,9,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,10,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,11,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,12,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,13,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,14,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,15,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,16,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,17,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,18,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,19,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,20,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,21,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,22,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,23,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,24,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,25,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,26,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,27,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,28,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,29,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,30,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,31,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,32,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,33,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,34,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,35,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,36,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,37,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,38,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,39,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,40,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,41,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,42,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,43,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,44,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,45,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,46,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,47,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,48,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,49,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,50,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,51,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,52,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,53,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,54,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,55,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,56,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,57,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,58,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,59,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,60,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,65,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,66,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,67,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,68,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,69,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,70,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,71,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,72,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,73,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,74,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,75,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,76,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,77,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,78,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,79,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,80,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,81,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,82,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,83,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,84,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,85,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,86,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,87,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,88,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,89,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,90,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,91,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,92,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,93,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,94,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,95,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,96,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,97,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,98,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,99,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,100,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,101,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,102,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,103,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,104,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,105,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,106,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,107,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,108,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,109,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,110,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,111,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,112,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,113,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,114,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,115,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,116,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,117,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,118,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,119,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,120,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,121,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,122,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,123,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,124,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,125,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,126,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,127,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,128,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,129,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,130,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,131,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,132,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,133,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,134,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,135,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,136,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,137,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,138,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,139,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,140,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,141,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,142,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,143,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,144,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,145,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,146,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,147,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,148,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,149,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,150,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,151,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,152,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,153,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,154,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,155,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,156,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,157,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,158,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,159,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,160,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,161,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,162,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,163,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,164,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,165,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,166,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,H,167,6uujHD01,1,e6uujH1,150.8.1.1,PPE,PPE
+6uuj,I,6,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,7,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,8,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,9,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,10,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,11,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,12,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,13,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,14,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,15,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,16,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,17,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,18,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,19,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,20,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,21,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,22,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,23,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,24,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,25,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,26,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,27,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,28,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,29,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,30,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,31,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,32,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,33,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,34,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,35,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,36,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,37,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,38,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,39,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,40,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,41,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,42,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,43,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,44,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,45,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,46,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,47,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,48,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,49,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,50,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,51,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,52,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,53,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,54,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,55,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,56,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,57,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,58,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,59,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,60,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,61,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,62,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,63,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,64,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,65,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,66,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,67,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,68,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,69,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,70,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,71,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,72,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,73,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,74,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,75,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,76,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,77,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,78,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,79,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,80,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,81,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,82,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,83,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,84,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,85,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,86,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,87,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,88,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,89,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,90,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,91,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,99,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,100,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,101,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,102,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,103,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,104,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,105,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,106,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,107,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,108,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,122,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,123,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,124,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,125,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,126,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,127,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,128,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,129,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,130,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,131,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,132,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,133,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,134,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,135,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,136,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,137,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,138,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,139,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,140,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,141,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,142,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,143,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,144,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,145,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,146,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,147,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,148,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,149,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,150,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,151,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,152,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,153,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,154,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,155,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,156,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,157,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,158,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,159,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,160,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,161,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,162,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,163,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,164,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,165,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,166,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,167,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,168,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,169,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,170,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,171,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,172,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,173,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,174,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,175,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,176,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,177,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,178,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,179,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,180,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,181,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,182,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,183,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,184,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,185,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,186,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,187,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,188,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,189,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,190,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,191,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,192,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,193,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,194,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,195,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,196,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,197,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,198,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,199,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,200,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,201,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,202,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,203,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,204,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,205,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,206,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,207,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,208,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,209,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,210,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,211,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,212,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,213,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,214,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,215,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,216,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,217,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,218,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,219,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,220,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,221,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,222,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,223,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,224,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,225,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,226,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,227,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,228,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,229,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,230,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,231,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,232,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,233,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,234,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,235,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,236,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,237,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,238,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,239,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,240,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,241,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,242,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,243,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,244,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,245,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,246,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,247,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,248,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,249,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,250,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,251,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,252,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,253,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,254,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,255,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,256,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,257,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,258,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,259,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,260,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,261,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,262,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,263,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,264,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,265,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,266,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,267,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,268,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,269,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,270,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,271,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,272,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,273,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,274,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,275,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,276,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,277,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,278,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,279,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,280,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,281,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,282,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,283,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,I,284,6uujID01,1,e6uujI1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,J,7,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,8,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,9,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,10,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,11,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,12,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,13,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,14,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,15,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,16,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,17,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,18,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,19,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,20,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,21,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,22,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,23,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,24,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,25,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,26,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,27,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,28,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,29,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,30,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,31,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,32,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,33,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,34,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,35,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,36,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,37,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,38,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,39,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,40,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,41,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,42,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,43,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,44,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,45,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,46,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,47,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,48,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,49,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,50,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,51,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,52,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,53,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,54,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,55,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,56,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,57,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,58,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,59,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,60,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,61,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,62,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,63,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,64,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,65,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,66,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,67,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,68,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,69,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,70,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,71,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,72,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,73,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,74,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,75,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,76,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,J,77,6uujJD01,1,e6uujJ1,150.7.1.1,PE,PE
+6uuj,K,2,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,3,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,4,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,5,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,6,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,7,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,8,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,9,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,10,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,11,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,12,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,13,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,14,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,15,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,16,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,17,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,18,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,19,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,20,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,21,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,22,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,23,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,24,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,25,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,26,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,27,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,28,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,29,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,30,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,31,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,32,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,33,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,34,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,35,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,36,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,37,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,38,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,39,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,40,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,41,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,42,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,43,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,44,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,45,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,46,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,47,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,48,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,49,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,50,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,51,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,52,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,53,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,54,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,55,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,56,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,57,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,58,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,59,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,60,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,65,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,66,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,67,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,68,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,69,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,70,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,71,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,72,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,73,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,74,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,75,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,76,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,77,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,78,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,79,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,80,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,81,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,82,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,83,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,84,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,85,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,86,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,87,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,88,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,89,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,90,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,91,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,92,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,93,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,94,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,95,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,96,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,97,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,98,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,99,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,100,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,101,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,102,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,103,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,104,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,105,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,106,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,107,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,108,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,109,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,110,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,111,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,112,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,113,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,114,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,115,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,116,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,117,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,118,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,119,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,120,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,121,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,122,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,123,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,124,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,125,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,126,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,127,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,128,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,129,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,130,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,131,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,132,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,133,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,134,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,135,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,136,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,137,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,138,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,139,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,140,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,141,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,142,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,143,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,144,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,145,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,146,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,147,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,148,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,149,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,150,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,151,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,152,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,153,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,154,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,155,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,156,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,157,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,158,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,159,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,160,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,161,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,162,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,163,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,164,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,165,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,166,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,167,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,K,168,6uujKD01,1,e6uujK1,150.8.1.1,PPE,PPE
+6uuj,L,6,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,7,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,8,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,9,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,10,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,11,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,12,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,13,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,14,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,15,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,16,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,17,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,18,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,19,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,20,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,21,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,22,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,23,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,24,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,25,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,26,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,27,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,28,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,29,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,30,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,31,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,32,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,33,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,34,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,35,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,36,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,37,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,38,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,39,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,40,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,41,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,42,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,43,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,44,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,45,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,46,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,47,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,48,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,49,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,50,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,51,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,52,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,53,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,54,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,55,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,56,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,57,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,58,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,59,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,60,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,61,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,62,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,63,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,64,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,65,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,66,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,67,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,68,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,69,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,70,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,71,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,72,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,73,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,74,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,75,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,76,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,77,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,78,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,79,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,80,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,81,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,82,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,83,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,84,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,85,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,86,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,87,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,88,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,89,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,90,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,91,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,99,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,100,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,101,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,102,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,103,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,104,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,105,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,106,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,107,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,108,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,122,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,123,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,124,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,125,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,126,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,127,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,128,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,129,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,130,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,131,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,132,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,133,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,134,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,135,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,136,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,137,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,138,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,139,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,140,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,141,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,142,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,143,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,144,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,145,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,146,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,147,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,148,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,149,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,150,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,151,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,152,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,153,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,154,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,155,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,156,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,157,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,158,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,159,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,160,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,161,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,162,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,163,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,164,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,165,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,166,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,167,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,168,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,169,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,170,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,171,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,172,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,173,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,174,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,175,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,176,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,177,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,178,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,179,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,180,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,181,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,182,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,183,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,184,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,185,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,186,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,187,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,188,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,189,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,190,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,191,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,192,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,193,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,194,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,195,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,196,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,197,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,198,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,199,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,200,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,201,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,202,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,203,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,204,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,205,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,206,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,207,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,208,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,209,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,210,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,211,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,212,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,213,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,214,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,215,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,216,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,217,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,218,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,219,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,220,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,221,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,222,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,223,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,224,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,225,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,226,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,227,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,228,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,229,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,230,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,231,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,232,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,233,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,234,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,235,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,236,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,237,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,238,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,239,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,240,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,241,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,242,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,243,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,244,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,245,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,246,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,247,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,248,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,249,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,250,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,251,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,252,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,253,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,254,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,255,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,256,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,257,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,258,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,259,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,260,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,261,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,262,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,263,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,264,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,265,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,266,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,267,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,268,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,269,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,270,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,271,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,272,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,273,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,274,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,275,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,276,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,277,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,278,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,279,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,280,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,281,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,282,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,283,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG
+6uuj,L,284,6uujLD01,1,e6uujL1,3844.2.1.1,MybT EspG5 chaperone,ESX-1_EspG

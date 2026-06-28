@@ -1,0 +1,3104 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+6dve,A,2,6dveAD02,2.0,,,,
+6dve,A,3,6dveAD02,2.0,,,,
+6dve,A,4,6dveAD02,2.0,,,,
+6dve,A,5,6dveAD02,2.0,,,,
+6dve,A,6,6dveAD02,2.0,,,,
+6dve,A,7,6dveAD02,2.0,,,,
+6dve,A,8,6dveAD02,2.0,,,,
+6dve,A,9,6dveAD02,2.0,,,,
+6dve,A,10,6dveAD02,2.0,,,,
+6dve,A,11,6dveAD02,2.0,,,,
+6dve,A,12,6dveAD02,2.0,,,,
+6dve,A,13,6dveAD02,2.0,,,,
+6dve,A,14,6dveAD02,2.0,,,,
+6dve,A,15,6dveAD02,2.0,,,,
+6dve,A,16,6dveAD02,2.0,,,,
+6dve,A,17,6dveAD02,2.0,,,,
+6dve,A,18,6dveAD02,2.0,,,,
+6dve,A,19,6dveAD02,2.0,,,,
+6dve,A,20,6dveAD02,2.0,,,,
+6dve,A,21,6dveAD02,2.0,,,,
+6dve,A,22,6dveAD02,2.0,,,,
+6dve,A,23,6dveAD02,2.0,,,,
+6dve,A,24,6dveAD02,2.0,,,,
+6dve,A,25,6dveAD02,2.0,,,,
+6dve,A,26,6dveAD02,2.0,,,,
+6dve,A,27,6dveAD02,2.0,,,,
+6dve,A,28,6dveAD02,2.0,,,,
+6dve,A,29,6dveAD02,2.0,,,,
+6dve,A,30,6dveAD02,2.0,,,,
+6dve,A,31,6dveAD02,2.0,,,,
+6dve,A,32,6dveAD02,2.0,,,,
+6dve,A,33,6dveAD02,2.0,,,,
+6dve,A,34,6dveAD02,2.0,,,,
+6dve,A,35,6dveAD02,2.0,,,,
+6dve,A,36,6dveAD02,2.0,,,,
+6dve,A,37,6dveAD02,2.0,,,,
+6dve,A,38,6dveAD02,2.0,,,,
+6dve,A,39,6dveAD02,2.0,,,,
+6dve,A,40,6dveAD02,2.0,,,,
+6dve,A,41,6dveAD02,2.0,,,,
+6dve,A,42,6dveAD02,2.0,,,,
+6dve,A,43,6dveAD02,2.0,,,,
+6dve,A,44,6dveAD02,2.0,,,,
+6dve,A,45,6dveAD02,2.0,,,,
+6dve,A,46,6dveAD02,2.0,,,,
+6dve,A,47,6dveAD02,2.0,,,,
+6dve,A,48,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,49,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,50,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,51,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,52,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,53,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,54,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,55,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,56,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,57,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,58,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,59,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,60,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,61,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,62,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,63,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,64,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,65,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,66,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,67,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,68,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,69,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,70,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,71,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,72,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,73,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,74,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,75,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,76,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,77,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,78,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,79,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,80,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,81,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,82,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,83,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,84,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,85,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,86,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,87,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,88,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,89,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,90,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,91,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,92,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,93,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,94,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,95,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,96,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,97,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,98,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,99,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,100,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,101,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,102,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,103,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,104,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,105,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,106,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,107,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,108,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,109,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,110,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,111,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,112,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,113,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,114,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,115,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,116,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,117,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,118,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,119,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,120,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,121,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,122,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,123,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,124,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,125,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,126,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,127,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,128,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,129,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,130,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,131,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,132,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,133,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,134,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,135,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,136,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,137,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,138,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,139,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,140,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,141,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,142,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,143,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,144,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,145,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,146,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,147,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,148,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,149,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,150,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,151,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,152,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,153,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,154,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,155,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,156,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,157,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,158,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,159,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,160,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,161,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,162,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,163,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,164,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,165,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,166,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,167,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,168,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,169,,,e6dveA1,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,A,170,,,,,,
+6dve,A,171,,,,,,
+6dve,A,172,,,,,,
+6dve,A,173,,,,,,
+6dve,A,174,,,,,,
+6dve,A,175,,,,,,
+6dve,A,176,,,,,,
+6dve,A,177,,,,,,
+6dve,A,178,,,,,,
+6dve,A,179,,,,,,
+6dve,A,180,,,,,,
+6dve,A,181,,,,,,
+6dve,A,182,,,,,,
+6dve,A,183,,,,,,
+6dve,A,184,,,,,,
+6dve,A,185,,,,,,
+6dve,A,186,,,,,,
+6dve,A,187,,,,,,
+6dve,A,188,,,,,,
+6dve,A,189,,,,,,
+6dve,A,190,,,,,,
+6dve,A,191,,,,,,
+6dve,A,192,,,,,,
+6dve,A,193,,,,,,
+6dve,A,194,,,,,,
+6dve,A,195,,,,,,
+6dve,A,196,,,,,,
+6dve,A,197,,,,,,
+6dve,A,198,,,,,,
+6dve,A,199,,,,,,
+6dve,A,200,,,,,,
+6dve,A,201,,,,,,
+6dve,A,202,,,,,,
+6dve,A,203,,,,,,
+6dve,A,204,,,,,,
+6dve,A,205,,,,,,
+6dve,A,206,,,,,,
+6dve,A,207,,,,,,
+6dve,A,208,,,,,,
+6dve,A,209,,,,,,
+6dve,A,210,,,,,,
+6dve,A,211,,,,,,
+6dve,A,212,,,,,,
+6dve,A,213,,,,,,
+6dve,A,214,,,,,,
+6dve,A,215,,,,,,
+6dve,A,216,,,,,,
+6dve,A,217,,,,,,
+6dve,A,218,,,,,,
+6dve,A,219,,,,,,
+6dve,A,220,,,,,,
+6dve,A,221,,,,,,
+6dve,A,222,,,,,,
+6dve,A,223,,,,,,
+6dve,A,224,,,,,,
+6dve,A,225,,,,,,
+6dve,A,226,,,,,,
+6dve,B,1,6dveBD02,2.0,,,,
+6dve,B,2,6dveBD02,2.0,,,,
+6dve,B,3,6dveBD02,2.0,,,,
+6dve,B,4,6dveBD02,2.0,,,,
+6dve,B,5,6dveBD02,2.0,,,,
+6dve,B,6,6dveBD02,2.0,,,,
+6dve,B,7,6dveBD02,2.0,,,,
+6dve,B,8,6dveBD02,2.0,,,,
+6dve,B,9,6dveBD02,2.0,,,,
+6dve,B,10,6dveBD02,2.0,,,,
+6dve,B,11,6dveBD02,2.0,,,,
+6dve,B,12,6dveBD02,2.0,,,,
+6dve,B,13,6dveBD02,2.0,,,,
+6dve,B,14,6dveBD02,2.0,,,,
+6dve,B,15,6dveBD02,2.0,,,,
+6dve,B,16,6dveBD02,2.0,,,,
+6dve,B,17,6dveBD02,2.0,,,,
+6dve,B,18,6dveBD02,2.0,,,,
+6dve,B,19,6dveBD02,2.0,,,,
+6dve,B,20,6dveBD02,2.0,,,,
+6dve,B,21,6dveBD02,2.0,,,,
+6dve,B,22,6dveBD02,2.0,,,,
+6dve,B,23,6dveBD02,2.0,,,,
+6dve,B,24,6dveBD02,2.0,,,,
+6dve,B,25,6dveBD02,2.0,,,,
+6dve,B,26,6dveBD02,2.0,,,,
+6dve,B,27,6dveBD02,2.0,,,,
+6dve,B,28,6dveBD02,2.0,,,,
+6dve,B,29,6dveBD02,2.0,,,,
+6dve,B,30,6dveBD02,2.0,,,,
+6dve,B,31,6dveBD02,2.0,,,,
+6dve,B,32,6dveBD02,2.0,,,,
+6dve,B,33,6dveBD02,2.0,,,,
+6dve,B,34,6dveBD02,2.0,,,,
+6dve,B,35,6dveBD02,2.0,,,,
+6dve,B,36,6dveBD02,2.0,,,,
+6dve,B,37,6dveBD02,2.0,,,,
+6dve,B,38,6dveBD02,2.0,,,,
+6dve,B,39,6dveBD02,2.0,,,,
+6dve,B,40,6dveBD02,2.0,,,,
+6dve,B,41,6dveBD02,2.0,,,,
+6dve,B,42,6dveBD02,2.0,,,,
+6dve,B,43,6dveBD02,2.0,,,,
+6dve,B,44,6dveBD02,2.0,,,,
+6dve,B,45,6dveBD02,2.0,,,,
+6dve,B,46,6dveBD02,2.0,,,,
+6dve,B,47,6dveBD02,2.0,,,,
+6dve,B,48,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,49,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,50,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,51,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,52,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,53,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,54,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,55,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,56,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,57,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,58,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,59,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,60,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,61,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,62,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,63,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,64,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,65,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,66,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,67,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,68,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,69,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,70,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,71,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,72,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,73,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,74,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,75,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,76,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,77,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,78,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,79,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,80,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,81,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,82,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,83,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,84,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,85,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,86,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,87,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,88,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,89,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,90,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,91,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,92,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,93,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,94,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,95,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,96,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,97,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,98,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,99,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,100,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,101,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,102,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,103,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,104,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,105,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,106,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,107,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,108,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,109,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,110,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,111,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,112,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,113,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,114,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,115,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,116,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,117,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,118,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,119,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,120,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,121,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,122,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,123,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,124,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,125,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,126,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,127,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,128,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,129,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,130,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,131,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,132,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,133,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,134,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,135,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,136,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,137,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,138,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,139,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,140,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,141,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,142,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,143,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,144,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,145,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,146,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,147,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,148,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,149,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,150,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,151,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,152,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,153,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,154,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,155,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,156,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,157,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,158,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,159,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,160,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,161,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,162,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,163,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,164,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,165,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,166,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,167,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,168,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,169,,,e6dveB2,240.2.1.3,Insert subdomain of RNA polymerase alpha subunit,RNA_pol_A_bac
+6dve,B,170,,,,,,
+6dve,B,171,,,,,,
+6dve,B,172,,,,,,
+6dve,B,173,,,,,,
+6dve,B,174,,,,,,
+6dve,B,175,,,,,,
+6dve,B,176,,,,,,
+6dve,B,177,,,,,,
+6dve,B,178,,,,,,
+6dve,B,179,,,,,,
+6dve,B,180,,,,,,
+6dve,B,181,,,,,,
+6dve,B,182,,,,,,
+6dve,B,183,,,,,,
+6dve,B,184,,,,,,
+6dve,B,185,,,,,,
+6dve,B,186,,,,,,
+6dve,B,187,,,,,,
+6dve,B,188,,,,,,
+6dve,B,189,,,,,,
+6dve,B,190,,,,,,
+6dve,B,191,,,,,,
+6dve,B,192,,,,,,
+6dve,B,193,,,,,,
+6dve,B,194,,,,,,
+6dve,B,195,,,,,,
+6dve,B,196,,,,,,
+6dve,B,197,,,,,,
+6dve,B,198,,,,,,
+6dve,B,199,,,,,,
+6dve,B,200,,,,,,
+6dve,B,201,,,,,,
+6dve,B,202,,,,,,
+6dve,B,203,,,,,,
+6dve,B,204,,,,,,
+6dve,B,205,,,,,,
+6dve,B,206,,,,,,
+6dve,B,207,,,,,,
+6dve,B,208,,,,,,
+6dve,B,209,,,,,,
+6dve,B,210,,,,,,
+6dve,B,211,,,,,,
+6dve,B,212,,,,,,
+6dve,B,213,,,,,,
+6dve,B,214,,,,,,
+6dve,B,215,,,,,,
+6dve,B,216,,,,,,
+6dve,B,217,,,,,,
+6dve,B,218,,,,,,
+6dve,B,219,,,,,,
+6dve,B,220,,,,,,
+6dve,B,221,,,,,,
+6dve,B,222,,,,,,
+6dve,B,223,,,,,,
+6dve,B,224,,,,,,
+6dve,B,225,,,,,,
+6dve,B,226,,,,,,
+6dve,B,227,,,,,,
+6dve,B,228,,,,,,
+6dve,B,229,,,,,,
+6dve,B,230,,,,,,
+6dve,B,231,,,,,,
+6dve,B,232,,,,,,
+6dve,C,28,,,,,,
+6dve,C,29,,,,,,
+6dve,C,30,,,,,,
+6dve,C,31,,,,,,
+6dve,C,32,,,,,,
+6dve,C,33,,,,,,
+6dve,C,34,,,,,,
+6dve,C,35,,,,,,
+6dve,C,36,,,,,,
+6dve,C,37,,,,,,
+6dve,C,38,,,,,,
+6dve,C,39,,,,,,
+6dve,C,40,,,,,,
+6dve,C,41,,,,,,
+6dve,C,42,,,,,,
+6dve,C,43,,,,,,
+6dve,C,44,,,,,,
+6dve,C,45,,,,,,
+6dve,C,46,,,,,,
+6dve,C,47,,,,,,
+6dve,C,48,,,,,,
+6dve,C,49,,,,,,
+6dve,C,50,,,,,,
+6dve,C,51,,,,,,
+6dve,C,52,,,,,,
+6dve,C,53,,,,,,
+6dve,C,54,,,,,,
+6dve,C,55,,,,,,
+6dve,C,56,,,,,,
+6dve,C,57,,,,,,
+6dve,C,58,,,,,,
+6dve,C,59,,,,,,
+6dve,C,60,,,,,,
+6dve,C,61,,,,,,
+6dve,C,62,,,,,,
+6dve,C,63,,,,,,
+6dve,C,64,,,,,,
+6dve,C,65,,,,,,
+6dve,C,66,,,,,,
+6dve,C,67,,,,,,
+6dve,C,68,,,,,,
+6dve,C,69,,,,,,
+6dve,C,70,,,,,,
+6dve,C,71,,,,,,
+6dve,C,72,,,,,,
+6dve,C,73,,,,,,
+6dve,C,74,,,,,,
+6dve,C,75,,,,,,
+6dve,C,76,,,,,,
+6dve,C,77,,,,,,
+6dve,C,78,,,,,,
+6dve,C,79,,,,,,
+6dve,C,80,,,,,,
+6dve,C,81,,,,,,
+6dve,C,82,,,,,,
+6dve,C,83,,,,,,
+6dve,C,84,,,,,,
+6dve,C,85,,,,,,
+6dve,C,86,,,,,,
+6dve,C,87,,,,,,
+6dve,C,88,,,,,,
+6dve,C,89,,,,,,
+6dve,C,90,,,,,,
+6dve,C,91,,,,,,
+6dve,C,92,,,,,,
+6dve,C,93,,,,,,
+6dve,C,94,,,,,,
+6dve,C,95,,,,,,
+6dve,C,96,,,,,,
+6dve,C,97,,,,,,
+6dve,C,98,,,,,,
+6dve,C,99,,,,,,
+6dve,C,100,,,,,,
+6dve,C,101,,,,,,
+6dve,C,102,,,,,,
+6dve,C,103,,,,,,
+6dve,C,104,,,,,,
+6dve,C,105,,,,,,
+6dve,C,106,,,,,,
+6dve,C,107,,,,,,
+6dve,C,108,,,,,,
+6dve,C,109,,,,,,
+6dve,C,110,,,,,,
+6dve,C,111,,,,,,
+6dve,C,112,,,,,,
+6dve,C,113,,,,,,
+6dve,C,114,,,,,,
+6dve,C,115,,,,,,
+6dve,C,116,,,,,,
+6dve,C,117,,,,,,
+6dve,C,118,,,,,,
+6dve,C,119,,,,,,
+6dve,C,120,,,,,,
+6dve,C,121,,,,,,
+6dve,C,122,,,,,,
+6dve,C,123,,,,,,
+6dve,C,124,,,,,,
+6dve,C,125,,,,,,
+6dve,C,126,,,,,,
+6dve,C,127,,,,,,
+6dve,C,128,,,,,,
+6dve,C,129,,,,,,
+6dve,C,130,,,,,,
+6dve,C,131,,,,,,
+6dve,C,132,,,,,,
+6dve,C,133,,,,,,
+6dve,C,134,,,,,,
+6dve,C,135,,,,,,
+6dve,C,136,,,,,,
+6dve,C,137,,,,,,
+6dve,C,138,,,,,,
+6dve,C,139,,,,,,
+6dve,C,140,,,,,,
+6dve,C,141,,,,,,
+6dve,C,142,,,,,,
+6dve,C,143,,,,,,
+6dve,C,144,,,,,,
+6dve,C,145,,,,,,
+6dve,C,146,,,,,,
+6dve,C,147,,,,,,
+6dve,C,148,,,,,,
+6dve,C,149,,,,,,
+6dve,C,150,,,,,,
+6dve,C,151,,,,,,
+6dve,C,152,,,,,,
+6dve,C,153,,,,,,
+6dve,C,154,,,,,,
+6dve,C,155,,,,,,
+6dve,C,156,,,,,,
+6dve,C,157,,,,,,
+6dve,C,158,,,,,,
+6dve,C,159,,,,,,
+6dve,C,160,,,,,,
+6dve,C,161,,,,,,
+6dve,C,162,,,,,,
+6dve,C,163,,,,,,
+6dve,C,164,,,,,,
+6dve,C,165,,,,,,
+6dve,C,166,,,,,,
+6dve,C,167,,,,,,
+6dve,C,168,,,,,,
+6dve,C,169,,,,,,
+6dve,C,170,,,,,,
+6dve,C,171,,,,,,
+6dve,C,172,,,,,,
+6dve,C,173,,,,,,
+6dve,C,174,,,,,,
+6dve,C,175,,,,,,
+6dve,C,176,,,,,,
+6dve,C,177,,,,,,
+6dve,C,178,,,,,,
+6dve,C,179,,,,,,
+6dve,C,180,,,,,,
+6dve,C,181,,,,,,
+6dve,C,182,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,183,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,184,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,185,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,186,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,187,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,188,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,189,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,190,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,191,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,192,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,193,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,194,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,195,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,196,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,197,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,198,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,199,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,200,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,201,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,202,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,203,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,204,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,205,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,206,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,207,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,208,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,209,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,210,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,211,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,212,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,213,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,214,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,215,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,216,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,217,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,218,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,219,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,220,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,221,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,222,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,223,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,224,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,225,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,226,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,227,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,228,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,229,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,230,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,231,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,232,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,233,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,234,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,235,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,236,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,237,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,238,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,239,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,240,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,241,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,242,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,243,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,244,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,245,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,246,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,247,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,248,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,249,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,250,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,251,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,252,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,253,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,254,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,255,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,256,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,257,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,258,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,259,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,260,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,261,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,262,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,263,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,264,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,265,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,266,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,267,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,268,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,269,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,270,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,271,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,272,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,273,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,274,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,275,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,276,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,277,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,278,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,279,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,280,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,281,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,282,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,283,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,284,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,285,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,286,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,287,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,288,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,289,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,290,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,291,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,292,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,293,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,294,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,295,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,296,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,297,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,298,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,299,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,300,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,301,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,302,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,303,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,304,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,305,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,306,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,307,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,308,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,309,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,310,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,311,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,312,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,313,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,314,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,315,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,316,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,317,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,318,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,319,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,320,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,321,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,322,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,323,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,324,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,325,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,326,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,327,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,328,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,329,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,330,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,331,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,332,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,333,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,334,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,335,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,336,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,337,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,338,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,339,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,340,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,341,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,342,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,343,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,344,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,345,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,346,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,347,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,348,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,349,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,350,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,351,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,352,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,353,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,354,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,355,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,356,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,357,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,358,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,359,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,360,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,361,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,362,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,363,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,364,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,365,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,366,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,367,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,368,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,369,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,370,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,371,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,372,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,373,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,374,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,375,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,376,,,e6dveC2,4041.1.1.2,insertion domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_1
+6dve,C,377,,,,,,
+6dve,C,378,,,,,,
+6dve,C,379,,,,,,
+6dve,C,380,,,,,,
+6dve,C,381,,,,,,
+6dve,C,382,,,,,,
+6dve,C,383,,,,,,
+6dve,C,384,,,,,,
+6dve,C,385,,,,,,
+6dve,C,386,,,,,,
+6dve,C,387,,,,,,
+6dve,C,388,,,,,,
+6dve,C,389,,,,,,
+6dve,C,390,,,,,,
+6dve,C,391,,,,,,
+6dve,C,392,,,,,,
+6dve,C,393,,,,,,
+6dve,C,394,,,,,,
+6dve,C,395,,,,,,
+6dve,C,396,,,,,,
+6dve,C,397,,,,,,
+6dve,C,398,,,,,,
+6dve,C,399,,,,,,
+6dve,C,400,,,,,,
+6dve,C,401,,,,,,
+6dve,C,402,,,,,,
+6dve,C,403,,,,,,
+6dve,C,404,,,,,,
+6dve,C,405,,,,,,
+6dve,C,406,,,,,,
+6dve,C,407,,,,,,
+6dve,C,408,,,,,,
+6dve,C,409,,,,,,
+6dve,C,410,,,,,,
+6dve,C,411,,,,,,
+6dve,C,412,,,,,,
+6dve,C,413,,,,,,
+6dve,C,414,,,,,,
+6dve,C,415,,,,,,
+6dve,C,416,,,,,,
+6dve,C,417,,,,,,
+6dve,C,418,,,,,,
+6dve,C,419,,,,,,
+6dve,C,420,,,,,,
+6dve,C,421,,,,,,
+6dve,C,422,,,,,,
+6dve,C,423,,,,,,
+6dve,C,424,,,,,,
+6dve,C,425,,,,,,
+6dve,C,426,,,,,,
+6dve,C,427,,,,,,
+6dve,C,428,,,,,,
+6dve,C,429,,,,,,
+6dve,C,430,,,,,,
+6dve,C,431,,,,,,
+6dve,C,432,,,,,,
+6dve,C,433,,,,,,
+6dve,C,434,,,,,,
+6dve,C,435,,,,,,
+6dve,C,436,,,,,,
+6dve,C,437,,,,,,
+6dve,C,438,,,,,,
+6dve,C,439,,,,,,
+6dve,C,440,,,,,,
+6dve,C,441,,,,,,
+6dve,C,442,,,,,,
+6dve,C,443,,,,,,
+6dve,C,444,,,,,,
+6dve,C,445,,,,,,
+6dve,C,446,,,,,,
+6dve,C,447,,,,,,
+6dve,C,448,,,,,,
+6dve,C,449,,,,,,
+6dve,C,450,,,,,,
+6dve,C,451,,,,,,
+6dve,C,452,,,,,,
+6dve,C,453,,,,,,
+6dve,C,454,,,,,,
+6dve,C,455,,,,,,
+6dve,C,456,,,,,,
+6dve,C,457,,,,,,
+6dve,C,458,,,,,,
+6dve,C,459,,,,,,
+6dve,C,460,,,,,,
+6dve,C,461,,,,,,
+6dve,C,462,,,,,,
+6dve,C,463,,,,,,
+6dve,C,464,,,,,,
+6dve,C,465,,,,,,
+6dve,C,466,,,,,,
+6dve,C,467,,,,,,
+6dve,C,468,,,,,,
+6dve,C,469,,,,,,
+6dve,C,470,,,,,,
+6dve,C,471,,,,,,
+6dve,C,472,,,,,,
+6dve,C,473,,,,,,
+6dve,C,474,,,,,,
+6dve,C,475,,,,,,
+6dve,C,476,,,,,,
+6dve,C,477,,,,,,
+6dve,C,478,,,,,,
+6dve,C,479,,,,,,
+6dve,C,480,,,,,,
+6dve,C,481,,,,,,
+6dve,C,482,,,,,,
+6dve,C,483,,,,,,
+6dve,C,484,,,,,,
+6dve,C,485,,,,,,
+6dve,C,486,,,,,,
+6dve,C,487,,,,,,
+6dve,C,488,,,,,,
+6dve,C,489,,,,,,
+6dve,C,490,,,,,,
+6dve,C,491,,,,,,
+6dve,C,492,,,,,,
+6dve,C,493,,,,,,
+6dve,C,494,,,,,,
+6dve,C,495,,,,,,
+6dve,C,496,,,,,,
+6dve,C,497,,,,,,
+6dve,C,498,,,,,,
+6dve,C,499,,,,,,
+6dve,C,500,,,,,,
+6dve,C,501,,,,,,
+6dve,C,502,,,,,,
+6dve,C,503,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,504,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,505,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,506,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,507,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,508,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,509,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,510,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,511,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,512,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,513,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,514,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,515,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,516,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,517,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,518,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,519,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,520,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,521,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,522,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,523,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,524,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,525,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,526,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,527,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,528,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,529,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,530,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,531,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,532,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,533,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,534,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,535,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,536,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,537,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,538,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,539,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,540,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,541,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,542,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,543,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,544,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,545,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,546,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,547,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,548,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,549,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,550,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,551,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,552,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,553,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,554,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,555,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,556,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,557,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,558,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,559,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,560,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,561,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,562,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,563,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,564,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,565,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,566,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,567,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,568,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,569,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,570,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,571,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,572,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,573,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,574,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,575,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,576,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,577,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,578,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,579,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,580,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,581,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,582,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,583,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,584,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,585,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,586,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,587,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,588,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,589,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,590,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,591,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,592,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,593,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,594,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,595,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,596,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,597,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,598,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,599,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,600,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,601,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,602,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,603,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,604,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,605,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,606,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,607,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,608,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,609,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,610,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,611,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,612,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,613,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,614,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,615,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,616,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,617,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,618,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,619,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,620,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,621,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,622,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,623,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,624,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,625,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,626,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,627,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,628,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,629,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,630,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,631,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,632,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,633,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,634,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,635,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,636,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,637,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,638,,,e6dveC4,4042.1.1.3,barrel domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_45
+6dve,C,639,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,640,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,641,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,642,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,643,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,644,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,645,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,646,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,647,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,648,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,649,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,650,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,651,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,652,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,653,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,654,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,655,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,656,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,657,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,658,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,659,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,660,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,661,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,662,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,663,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,664,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,665,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,666,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,667,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,668,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,669,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,670,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,671,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,672,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,673,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,674,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,675,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,676,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,677,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,678,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,679,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,680,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,681,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,682,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,683,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,684,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,685,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,686,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,687,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,688,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,689,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,690,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,691,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,692,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,693,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,694,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,695,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,696,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,697,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,698,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,699,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,700,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,701,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,702,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,703,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,704,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,705,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,706,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,707,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,708,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,709,,,e6dveC3,325.1.7.95,Single hybrid motif,RNA_pol_Rpb2_6_1st
+6dve,C,710,,,,,,
+6dve,C,711,,,,,,
+6dve,C,712,,,,,,
+6dve,C,713,,,,,,
+6dve,C,714,,,,,,
+6dve,C,715,,,,,,
+6dve,C,716,,,,,,
+6dve,C,717,,,,,,
+6dve,C,718,,,,,,
+6dve,C,719,,,,,,
+6dve,C,720,,,,,,
+6dve,C,721,,,,,,
+6dve,C,722,,,,,,
+6dve,C,723,,,,,,
+6dve,C,724,,,,,,
+6dve,C,725,,,,,,
+6dve,C,726,,,,,,
+6dve,C,727,,,,,,
+6dve,C,728,,,,,,
+6dve,C,729,,,,,,
+6dve,C,730,,,,,,
+6dve,C,731,,,,,,
+6dve,C,732,,,,,,
+6dve,C,733,,,,,,
+6dve,C,734,,,,,,
+6dve,C,735,,,,,,
+6dve,C,736,,,,,,
+6dve,C,737,,,,,,
+6dve,C,738,,,,,,
+6dve,C,739,,,,,,
+6dve,C,740,,,,,,
+6dve,C,741,,,,,,
+6dve,C,742,,,,,,
+6dve,C,743,,,,,,
+6dve,C,744,,,,,,
+6dve,C,745,,,,,,
+6dve,C,746,,,,,,
+6dve,C,747,,,,,,
+6dve,C,748,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,749,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,750,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,751,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,752,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,753,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,754,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,755,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,756,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,757,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,758,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,759,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,760,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,761,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,762,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,763,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,764,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,765,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,766,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,767,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,768,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,769,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,770,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,771,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,772,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,773,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,774,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,775,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,776,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,777,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,778,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,779,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,780,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,781,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,782,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,783,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,784,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,785,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,786,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,787,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,788,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,789,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,790,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,791,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,792,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,793,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,794,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,795,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,796,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,797,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,798,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,799,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,800,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,801,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,802,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,803,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,804,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,805,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,806,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,807,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,808,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,809,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,810,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,811,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,812,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,813,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,814,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,815,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,816,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,817,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,818,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,819,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,820,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,821,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,822,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,823,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,824,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,825,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,826,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,827,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,828,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,829,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,830,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,831,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,832,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,833,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,834,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,835,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,836,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,837,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,838,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,839,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,840,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,841,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,842,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,843,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,844,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,845,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,846,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,847,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,848,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,849,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,850,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,851,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,852,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,853,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,854,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,855,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,856,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,857,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,858,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,859,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,860,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,861,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,862,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,863,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,864,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,865,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,866,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,867,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,868,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,869,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,870,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,871,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,872,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,873,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,874,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,875,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,876,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,877,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,878,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,879,,,e6dveC1,325.1.7.39,Single hybrid motif,RNA_pol_Rpb2_6_2nd
+6dve,C,880,,,,,,
+6dve,C,881,,,,,,
+6dve,C,882,,,,,,
+6dve,C,883,,,,,,
+6dve,C,884,,,,,,
+6dve,C,885,,,,,,
+6dve,C,886,,,,,,
+6dve,C,887,,,,,,
+6dve,C,888,,,,,,
+6dve,C,889,,,,,,
+6dve,C,890,,,,,,
+6dve,C,891,,,,,,
+6dve,C,892,,,,,,
+6dve,C,893,,,,,,
+6dve,C,894,,,,,,
+6dve,C,895,,,,,,
+6dve,C,896,,,,,,
+6dve,C,897,,,,,,
+6dve,C,898,,,,,,
+6dve,C,899,,,,,,
+6dve,C,900,,,,,,
+6dve,C,901,,,,,,
+6dve,C,902,,,,,,
+6dve,C,903,,,,,,
+6dve,C,904,,,,,,
+6dve,C,905,,,,,,
+6dve,C,906,,,,,,
+6dve,C,907,,,,,,
+6dve,C,908,,,,,,
+6dve,C,909,,,,,,
+6dve,C,910,,,,,,
+6dve,C,911,,,,,,
+6dve,C,912,,,,,,
+6dve,C,913,,,,,,
+6dve,C,914,,,,,,
+6dve,C,915,,,,,,
+6dve,C,916,,,,,,
+6dve,C,917,,,,,,
+6dve,C,918,,,,,,
+6dve,C,919,,,,,,
+6dve,C,920,,,,,,
+6dve,C,921,,,,,,
+6dve,C,922,,,,,,
+6dve,C,923,,,,,,
+6dve,C,924,,,,,,
+6dve,C,925,,,,,,
+6dve,C,926,,,,,,
+6dve,C,927,,,,,,
+6dve,C,928,,,,,,
+6dve,C,929,,,,,,
+6dve,C,930,,,,,,
+6dve,C,931,,,,,,
+6dve,C,932,,,,,,
+6dve,C,933,,,,,,
+6dve,C,934,,,,,,
+6dve,C,935,,,,,,
+6dve,C,936,,,,,,
+6dve,C,937,,,,,,
+6dve,C,938,,,,,,
+6dve,C,939,,,,,,
+6dve,C,940,,,,,,
+6dve,C,941,,,,,,
+6dve,C,942,,,,,,
+6dve,C,943,,,,,,
+6dve,C,944,,,,,,
+6dve,C,945,,,,,,
+6dve,C,946,,,,,,
+6dve,C,947,,,,,,
+6dve,C,948,,,,,,
+6dve,C,949,,,,,,
+6dve,C,950,,,,,,
+6dve,C,951,,,,,,
+6dve,C,952,,,,,,
+6dve,C,953,,,,,,
+6dve,C,954,,,,,,
+6dve,C,955,,,,,,
+6dve,C,956,,,,,,
+6dve,C,957,,,,,,
+6dve,C,958,,,,,,
+6dve,C,959,,,,,,
+6dve,C,960,,,,,,
+6dve,C,961,,,,,,
+6dve,C,962,,,,,,
+6dve,C,963,,,,,,
+6dve,C,964,,,,,,
+6dve,C,965,,,,,,
+6dve,C,966,,,,,,
+6dve,C,967,,,,,,
+6dve,C,968,,,,,,
+6dve,C,969,,,,,,
+6dve,C,970,,,,,,
+6dve,C,971,,,,,,
+6dve,C,972,,,,,,
+6dve,C,973,,,,,,
+6dve,C,974,,,,,,
+6dve,C,975,,,,,,
+6dve,C,976,,,,,,
+6dve,C,977,,,,,,
+6dve,C,978,,,,,,
+6dve,C,979,,,,,,
+6dve,C,980,,,,,,
+6dve,C,981,,,,,,
+6dve,C,982,,,,,,
+6dve,C,983,,,,,,
+6dve,C,984,,,,,,
+6dve,C,985,,,,,,
+6dve,C,986,,,,,,
+6dve,C,987,,,,,,
+6dve,C,988,,,,,,
+6dve,C,989,,,,,,
+6dve,C,990,,,,,,
+6dve,C,991,,,,,,
+6dve,C,992,,,,,,
+6dve,C,993,,,,,,
+6dve,C,994,,,,,,
+6dve,C,995,,,,,,
+6dve,C,996,,,,,,
+6dve,C,997,,,,,,
+6dve,C,998,,,,,,
+6dve,C,999,,,,,,
+6dve,C,1000,,,,,,
+6dve,C,1001,,,,,,
+6dve,C,1002,,,,,,
+6dve,C,1003,,,,,,
+6dve,C,1004,,,,,,
+6dve,C,1005,,,,,,
+6dve,C,1006,,,,,,
+6dve,C,1007,,,,,,
+6dve,C,1008,,,,,,
+6dve,C,1009,,,,,,
+6dve,C,1010,,,,,,
+6dve,C,1011,,,,,,
+6dve,C,1012,,,,,,
+6dve,C,1013,,,,,,
+6dve,C,1014,,,,,,
+6dve,C,1015,,,,,,
+6dve,C,1016,,,,,,
+6dve,C,1017,,,,,,
+6dve,C,1018,,,,,,
+6dve,C,1019,,,,,,
+6dve,C,1020,,,,,,
+6dve,C,1021,,,,,,
+6dve,C,1022,,,,,,
+6dve,C,1023,,,,,,
+6dve,C,1024,,,,,,
+6dve,C,1025,,,,,,
+6dve,C,1026,,,,,,
+6dve,C,1027,,,,,,
+6dve,C,1028,,,,,,
+6dve,C,1029,,,,,,
+6dve,C,1030,,,,,,
+6dve,C,1031,,,,,,
+6dve,C,1032,,,,,,
+6dve,C,1033,,,,,,
+6dve,C,1034,,,,,,
+6dve,C,1035,,,,,,
+6dve,C,1036,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1037,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1038,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1039,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1040,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1041,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1042,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1043,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1044,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1045,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1046,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1047,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1048,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1049,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1050,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1051,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1052,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1053,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1054,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1055,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1056,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1057,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1058,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1059,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1060,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1061,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1062,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1063,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1064,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1065,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1066,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1067,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1068,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1069,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1070,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1071,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1072,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1073,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1074,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1075,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1076,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1077,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1078,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1079,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1080,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1081,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1082,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1083,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1084,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1085,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1086,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1087,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1088,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1089,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1090,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1091,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1092,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1093,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1094,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1095,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1096,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1097,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1098,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1099,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1100,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1101,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1102,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1103,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1104,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1105,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1106,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1107,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1108,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1109,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1110,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1111,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1112,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1113,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1114,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1115,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1116,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1117,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1118,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1119,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1120,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1121,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1122,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1123,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1124,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1125,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1126,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1127,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1128,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1129,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1130,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1131,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1132,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1133,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1134,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1135,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1136,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1137,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1138,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1139,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1140,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1141,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1142,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1143,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1144,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1145,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1146,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1147,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1148,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1149,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1150,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1151,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1152,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,C,1153,,,e6dveC5,4043.1.1.3,C-terminal domain in beta subunit of DNA dependent RNA-polymerase,RNA_pol_Rpb2_7
+6dve,D,3,,,,,,
+6dve,D,4,,,,,,
+6dve,D,5,,,,,,
+6dve,D,6,,,,,,
+6dve,D,7,,,,,,
+6dve,D,8,,,,,,
+6dve,D,9,,,,,,
+6dve,D,10,,,,,,
+6dve,D,11,,,,,,
+6dve,D,12,,,,,,
+6dve,D,13,,,,,,
+6dve,D,14,,,,,,
+6dve,D,15,,,,,,
+6dve,D,16,,,,,,
+6dve,D,17,,,,,,
+6dve,D,18,,,,,,
+6dve,D,19,,,,,,
+6dve,D,20,,,,,,
+6dve,D,21,,,,,,
+6dve,D,22,,,,,,
+6dve,D,23,,,,,,
+6dve,D,24,,,,,,
+6dve,D,25,,,,,,
+6dve,D,26,,,,,,
+6dve,D,27,,,,,,
+6dve,D,28,,,,,,
+6dve,D,29,,,,,,
+6dve,D,30,,,,,,
+6dve,D,31,,,,,,
+6dve,D,32,,,,,,
+6dve,D,33,,,,,,
+6dve,D,34,,,,,,
+6dve,D,35,,,,,,
+6dve,D,36,,,,,,
+6dve,D,37,,,,,,
+6dve,D,38,,,,,,
+6dve,D,39,,,,,,
+6dve,D,40,,,,,,
+6dve,D,41,,,,,,
+6dve,D,42,,,,,,
+6dve,D,43,,,,,,
+6dve,D,44,,,,,,
+6dve,D,45,,,,,,
+6dve,D,46,,,,,,
+6dve,D,47,,,,,,
+6dve,D,48,,,,,,
+6dve,D,49,,,,,,
+6dve,D,50,,,,,,
+6dve,D,51,,,,,,
+6dve,D,52,,,,,,
+6dve,D,53,,,,,,
+6dve,D,54,,,,,,
+6dve,D,55,,,,,,
+6dve,D,56,,,,,,
+6dve,D,57,,,,,,
+6dve,D,58,,,,,,
+6dve,D,59,,,,,,
+6dve,D,60,,,,,,
+6dve,D,61,,,,,,
+6dve,D,62,,,,,,
+6dve,D,63,,,,,,
+6dve,D,64,,,,,,
+6dve,D,65,,,,,,
+6dve,D,66,,,,,,
+6dve,D,67,,,,,,
+6dve,D,68,,,,,,
+6dve,D,69,,,,,,
+6dve,D,70,,,,,,
+6dve,D,71,,,,,,
+6dve,D,72,,,,,,
+6dve,D,73,,,,,,
+6dve,D,74,,,,,,
+6dve,D,75,,,,,,
+6dve,D,76,,,,,,
+6dve,D,77,,,,,,
+6dve,D,78,,,,,,
+6dve,D,79,,,,,,
+6dve,D,80,,,,,,
+6dve,D,81,,,,,,
+6dve,D,82,,,,,,
+6dve,D,83,,,,,,
+6dve,D,84,,,,,,
+6dve,D,85,,,,,,
+6dve,D,86,,,,,,
+6dve,D,87,,,,,,
+6dve,D,88,,,,,,
+6dve,D,89,,,,,,
+6dve,D,90,,,,,,
+6dve,D,91,,,,,,
+6dve,D,92,,,,,,
+6dve,D,93,,,,,,
+6dve,D,94,,,,,,
+6dve,D,95,,,,,,
+6dve,D,96,,,,,,
+6dve,D,97,,,,,,
+6dve,D,98,,,,,,
+6dve,D,99,,,,,,
+6dve,D,100,,,,,,
+6dve,D,101,,,,,,
+6dve,D,102,,,,,,
+6dve,D,103,,,,,,
+6dve,D,104,,,,,,
+6dve,D,105,,,,,,
+6dve,D,106,,,,,,
+6dve,D,107,,,,,,
+6dve,D,108,,,,,,
+6dve,D,109,,,,,,
+6dve,D,110,,,,,,
+6dve,D,111,,,,,,
+6dve,D,112,,,,,,
+6dve,D,113,,,,,,
+6dve,D,114,,,,,,
+6dve,D,115,,,,,,
+6dve,D,116,,,,,,
+6dve,D,117,,,,,,
+6dve,D,118,,,,,,
+6dve,D,119,,,,,,
+6dve,D,120,,,,,,
+6dve,D,121,,,,,,
+6dve,D,122,,,,,,
+6dve,D,123,,,,,,
+6dve,D,124,,,,,,
+6dve,D,125,,,,,,
+6dve,D,126,,,,,,
+6dve,D,127,,,,,,
+6dve,D,128,,,,,,
+6dve,D,129,,,,,,
+6dve,D,130,,,,,,
+6dve,D,131,,,,,,
+6dve,D,132,,,,,,
+6dve,D,133,,,,,,
+6dve,D,134,,,,,,
+6dve,D,135,,,,,,
+6dve,D,136,,,,,,
+6dve,D,137,,,,,,
+6dve,D,138,,,,,,
+6dve,D,139,,,,,,
+6dve,D,140,,,,,,
+6dve,D,141,,,,,,
+6dve,D,142,,,,,,
+6dve,D,143,,,,,,
+6dve,D,144,,,,,,
+6dve,D,145,,,,,,
+6dve,D,146,,,,,,
+6dve,D,147,,,,,,
+6dve,D,148,,,,,,
+6dve,D,149,,,,,,
+6dve,D,150,,,,,,
+6dve,D,151,,,,,,
+6dve,D,152,,,,,,
+6dve,D,153,,,,,,
+6dve,D,154,,,,,,
+6dve,D,155,,,,,,
+6dve,D,156,,,,,,
+6dve,D,157,,,,,,
+6dve,D,158,,,,,,
+6dve,D,159,,,,,,
+6dve,D,160,,,,,,
+6dve,D,161,,,,,,
+6dve,D,162,,,,,,
+6dve,D,163,,,,,,
+6dve,D,164,,,,,,
+6dve,D,165,,,,,,
+6dve,D,166,,,,,,
+6dve,D,167,,,,,,
+6dve,D,168,,,,,,
+6dve,D,169,,,,,,
+6dve,D,170,,,,,,
+6dve,D,171,,,,,,
+6dve,D,172,,,,,,
+6dve,D,173,,,,,,
+6dve,D,174,,,,,,
+6dve,D,175,,,,,,
+6dve,D,176,,,,,,
+6dve,D,177,,,,,,
+6dve,D,178,,,,,,
+6dve,D,179,,,,,,
+6dve,D,180,,,,,,
+6dve,D,181,,,,,,
+6dve,D,182,,,,,,
+6dve,D,183,,,,,,
+6dve,D,184,,,,,,
+6dve,D,185,,,,,,
+6dve,D,186,,,,,,
+6dve,D,187,,,,,,
+6dve,D,188,,,,,,
+6dve,D,189,,,,,,
+6dve,D,190,,,,,,
+6dve,D,191,,,,,,
+6dve,D,192,,,,,,
+6dve,D,193,,,,,,
+6dve,D,194,,,,,,
+6dve,D,195,,,,,,
+6dve,D,196,,,,,,
+6dve,D,197,,,,,,
+6dve,D,198,,,,,,
+6dve,D,199,,,,,,
+6dve,D,200,,,,,,
+6dve,D,201,,,,,,
+6dve,D,202,,,,,,
+6dve,D,203,,,,,,
+6dve,D,204,,,,,,
+6dve,D,205,,,,,,
+6dve,D,206,,,,,,
+6dve,D,207,,,,,,
+6dve,D,208,,,,,,
+6dve,D,209,,,,,,
+6dve,D,210,,,,,,
+6dve,D,211,,,,,,
+6dve,D,212,,,,,,
+6dve,D,213,,,,,,
+6dve,D,214,,,,,,
+6dve,D,215,,,,,,
+6dve,D,216,,,,,,
+6dve,D,217,,,,,,
+6dve,D,218,,,,,,
+6dve,D,219,,,,,,
+6dve,D,220,,,,,,
+6dve,D,221,,,,,,
+6dve,D,222,,,,,,
+6dve,D,223,,,,,,
+6dve,D,224,,,,,,
+6dve,D,225,,,,,,
+6dve,D,226,,,,,,
+6dve,D,227,,,,,,
+6dve,D,228,,,,,,
+6dve,D,229,,,,,,
+6dve,D,230,,,,,,
+6dve,D,231,,,,,,
+6dve,D,232,,,,,,
+6dve,D,233,,,,,,
+6dve,D,234,,,,,,
+6dve,D,235,,,,,,
+6dve,D,236,,,,,,
+6dve,D,237,,,,,,
+6dve,D,238,,,,,,
+6dve,D,239,,,,,,
+6dve,D,240,,,,,,
+6dve,D,241,,,,,,
+6dve,D,242,,,,,,
+6dve,D,243,,,,,,
+6dve,D,244,,,,,,
+6dve,D,245,,,,,,
+6dve,D,246,,,,,,
+6dve,D,247,,,,,,
+6dve,D,248,,,,,,
+6dve,D,249,,,,,,
+6dve,D,250,,,,,,
+6dve,D,251,,,,,,
+6dve,D,252,,,,,,
+6dve,D,253,,,,,,
+6dve,D,254,,,,,,
+6dve,D,255,,,,,,
+6dve,D,256,,,,,,
+6dve,D,257,,,,,,
+6dve,D,258,,,,,,
+6dve,D,259,,,,,,
+6dve,D,260,,,,,,
+6dve,D,261,,,,,,
+6dve,D,262,,,,,,
+6dve,D,263,,,,,,
+6dve,D,264,,,,,,
+6dve,D,265,,,,,,
+6dve,D,266,,,,,,
+6dve,D,267,,,,,,
+6dve,D,268,,,,,,
+6dve,D,269,,,,,,
+6dve,D,270,,,,,,
+6dve,D,271,,,,,,
+6dve,D,272,,,,,,
+6dve,D,273,,,,,,
+6dve,D,274,,,,,,
+6dve,D,275,,,,,,
+6dve,D,276,,,,,,
+6dve,D,277,,,,,,
+6dve,D,278,,,,,,
+6dve,D,279,,,,,,
+6dve,D,280,,,,,,
+6dve,D,281,,,,,,
+6dve,D,282,,,,,,
+6dve,D,283,,,,,,
+6dve,D,284,,,,,,
+6dve,D,285,,,,,,
+6dve,D,286,,,,,,
+6dve,D,287,,,,,,
+6dve,D,288,,,,,,
+6dve,D,289,,,,,,
+6dve,D,290,,,,,,
+6dve,D,291,,,,,,
+6dve,D,292,,,,,,
+6dve,D,293,,,,,,
+6dve,D,294,,,,,,
+6dve,D,295,,,,,,
+6dve,D,296,,,,,,
+6dve,D,297,,,,,,
+6dve,D,298,,,,,,
+6dve,D,299,,,,,,
+6dve,D,300,,,,,,
+6dve,D,301,,,,,,
+6dve,D,302,,,,,,
+6dve,D,303,,,,,,
+6dve,D,304,,,,,,
+6dve,D,305,,,,,,
+6dve,D,306,,,,,,
+6dve,D,307,,,,,,
+6dve,D,308,,,,,,
+6dve,D,309,,,,,,
+6dve,D,310,,,,,,
+6dve,D,311,,,,,,
+6dve,D,312,,,,,,
+6dve,D,313,,,,,,
+6dve,D,314,,,,,,
+6dve,D,315,,,,,,
+6dve,D,316,,,,,,
+6dve,D,317,,,,,,
+6dve,D,318,,,,,,
+6dve,D,319,,,,,,
+6dve,D,320,,,,,,
+6dve,D,321,,,,,,
+6dve,D,322,,,,,,
+6dve,D,323,,,,,,
+6dve,D,324,,,,,,
+6dve,D,325,,,,,,
+6dve,D,326,,,,,,
+6dve,D,327,,,,,,
+6dve,D,328,,,,,,
+6dve,D,329,,,,,,
+6dve,D,330,,,,,,
+6dve,D,331,,,,,,
+6dve,D,332,,,,,,
+6dve,D,333,,,,,,
+6dve,D,334,,,,,,
+6dve,D,335,,,,,,
+6dve,D,336,,,,,,
+6dve,D,337,,,,,,
+6dve,D,338,,,,,,
+6dve,D,339,,,,,,
+6dve,D,340,,,,,,
+6dve,D,341,,,,,,
+6dve,D,342,,,,,,
+6dve,D,343,,,,,,
+6dve,D,344,,,,,,
+6dve,D,345,,,,,,
+6dve,D,346,,,,,,
+6dve,D,347,,,,,,
+6dve,D,348,,,,,,
+6dve,D,349,,,,,,
+6dve,D,350,,,,,,
+6dve,D,351,,,,,,
+6dve,D,352,,,,,,
+6dve,D,353,,,,,,
+6dve,D,354,,,,,,
+6dve,D,355,,,,,,
+6dve,D,356,,,,,,
+6dve,D,357,,,,,,
+6dve,D,358,,,,,,
+6dve,D,359,,,,,,
+6dve,D,360,,,,,,
+6dve,D,361,,,,,,
+6dve,D,362,,,,,,
+6dve,D,363,,,,,,
+6dve,D,364,,,,,,
+6dve,D,365,,,,,,
+6dve,D,366,,,,,,
+6dve,D,367,,,,,,
+6dve,D,368,,,,,,
+6dve,D,369,,,,,,
+6dve,D,370,,,,,,
+6dve,D,371,,,,,,
+6dve,D,372,,,,,,
+6dve,D,373,,,,,,
+6dve,D,374,,,,,,
+6dve,D,375,,,,,,
+6dve,D,376,,,,,,
+6dve,D,377,,,,,,
+6dve,D,378,,,,,,
+6dve,D,379,,,,,,
+6dve,D,380,,,,,,
+6dve,D,381,,,,,,
+6dve,D,382,,,,,,
+6dve,D,383,,,,,,
+6dve,D,384,,,,,,
+6dve,D,385,,,,,,
+6dve,D,386,,,,,,
+6dve,D,387,,,,,,
+6dve,D,388,,,,,,
+6dve,D,389,,,,,,
+6dve,D,390,,,,,,
+6dve,D,391,,,,,,
+6dve,D,392,,,,,,
+6dve,D,393,,,,,,
+6dve,D,394,,,,,,
+6dve,D,395,,,,,,
+6dve,D,396,,,,,,
+6dve,D,397,,,,,,
+6dve,D,398,,,,,,
+6dve,D,399,,,,,,
+6dve,D,400,,,,,,
+6dve,D,401,,,,,,
+6dve,D,402,,,,,,
+6dve,D,403,,,,,,
+6dve,D,404,,,,,,
+6dve,D,405,,,,,,
+6dve,D,406,,,,,,
+6dve,D,407,,,,,,
+6dve,D,408,,,,,,
+6dve,D,409,,,,,,
+6dve,D,410,,,,,,
+6dve,D,411,,,,,,
+6dve,D,412,,,,,,
+6dve,D,413,,,,,,
+6dve,D,414,,,,,,
+6dve,D,415,,,,,,
+6dve,D,416,,,,,,
+6dve,D,417,,,,,,
+6dve,D,418,,,,,,
+6dve,D,419,,,,,,
+6dve,D,420,,,,,,
+6dve,D,421,,,,,,
+6dve,D,422,,,,,,
+6dve,D,423,,,,,,
+6dve,D,424,,,,,,
+6dve,D,425,,,,,,
+6dve,D,426,,,,,,
+6dve,D,427,,,,,,
+6dve,D,428,,,,,,
+6dve,D,429,,,,,,
+6dve,D,430,,,,,,
+6dve,D,431,,,,,,
+6dve,D,432,,,,,,
+6dve,D,433,,,,,,
+6dve,D,434,,,,,,
+6dve,D,435,,,,,,
+6dve,D,436,,,,,,
+6dve,D,437,,,,,,
+6dve,D,438,,,,,,
+6dve,D,439,,,,,,
+6dve,D,440,,,,,,
+6dve,D,441,,,,,,
+6dve,D,442,,,,,,
+6dve,D,443,,,,,,
+6dve,D,444,,,,,,
+6dve,D,445,,,,,,
+6dve,D,446,,,,,,
+6dve,D,447,,,,,,
+6dve,D,448,,,,,,
+6dve,D,449,,,,,,
+6dve,D,450,,,,,,
+6dve,D,451,,,,,,
+6dve,D,452,,,,,,
+6dve,D,453,,,,,,
+6dve,D,454,,,,,,
+6dve,D,455,,,,,,
+6dve,D,456,,,,,,
+6dve,D,457,,,,,,
+6dve,D,458,,,,,,
+6dve,D,459,,,,,,
+6dve,D,460,,,,,,
+6dve,D,461,,,,,,
+6dve,D,462,,,,,,
+6dve,D,463,,,,,,
+6dve,D,464,,,,,,
+6dve,D,465,,,,,,
+6dve,D,466,,,,,,
+6dve,D,467,,,,,,
+6dve,D,468,,,,,,
+6dve,D,469,,,,,,
+6dve,D,470,,,,,,
+6dve,D,471,,,,,,
+6dve,D,472,,,,,,
+6dve,D,473,,,,,,
+6dve,D,474,,,,,,
+6dve,D,475,,,,,,
+6dve,D,476,,,,,,
+6dve,D,477,,,,,,
+6dve,D,478,,,,,,
+6dve,D,479,,,,,,
+6dve,D,480,,,,,,
+6dve,D,481,,,,,,
+6dve,D,482,,,,,,
+6dve,D,483,,,,,,
+6dve,D,484,,,,,,
+6dve,D,485,,,,,,
+6dve,D,486,,,,,,
+6dve,D,487,,,,,,
+6dve,D,488,,,,,,
+6dve,D,489,,,,,,
+6dve,D,490,,,,,,
+6dve,D,491,,,,,,
+6dve,D,492,,,,,,
+6dve,D,493,,,,,,
+6dve,D,494,,,,,,
+6dve,D,495,,,,,,
+6dve,D,496,,,,,,
+6dve,D,497,,,,,,
+6dve,D,498,,,,,,
+6dve,D,499,,,,,,
+6dve,D,500,,,,,,
+6dve,D,501,,,,,,
+6dve,D,502,,,,,,
+6dve,D,503,,,,,,
+6dve,D,504,,,,,,
+6dve,D,505,,,,,,
+6dve,D,506,,,,,,
+6dve,D,507,,,,,,
+6dve,D,508,,,,,,
+6dve,D,509,,,,,,
+6dve,D,510,,,,,,
+6dve,D,511,,,,,,
+6dve,D,512,,,,,,
+6dve,D,513,,,,,,
+6dve,D,514,,,,,,
+6dve,D,515,,,,,,
+6dve,D,516,,,,,,
+6dve,D,517,,,,,,
+6dve,D,518,,,,,,
+6dve,D,519,,,,,,
+6dve,D,520,,,,,,
+6dve,D,521,,,,,,
+6dve,D,522,,,,,,
+6dve,D,523,,,,,,
+6dve,D,524,,,,,,
+6dve,D,525,,,,,,
+6dve,D,526,,,,,,
+6dve,D,527,,,,,,
+6dve,D,528,,,,,,
+6dve,D,529,,,,,,
+6dve,D,530,,,,,,
+6dve,D,531,,,,,,
+6dve,D,532,,,,,,
+6dve,D,533,,,,,,
+6dve,D,534,,,,,,
+6dve,D,535,,,,,,
+6dve,D,536,,,,,,
+6dve,D,537,,,,,,
+6dve,D,538,,,,,,
+6dve,D,539,,,,,,
+6dve,D,540,,,,,,
+6dve,D,541,,,,,,
+6dve,D,542,,,,,,
+6dve,D,543,,,,,,
+6dve,D,544,,,,,,
+6dve,D,545,,,,,,
+6dve,D,546,,,,,,
+6dve,D,547,,,,,,
+6dve,D,548,,,,,,
+6dve,D,549,,,,,,
+6dve,D,550,,,,,,
+6dve,D,551,,,,,,
+6dve,D,552,,,,,,
+6dve,D,553,,,,,,
+6dve,D,554,,,,,,
+6dve,D,555,,,,,,
+6dve,D,556,,,,,,
+6dve,D,557,,,,,,
+6dve,D,558,,,,,,
+6dve,D,559,,,,,,
+6dve,D,560,,,,,,
+6dve,D,561,,,,,,
+6dve,D,562,,,,,,
+6dve,D,563,,,,,,
+6dve,D,564,,,,,,
+6dve,D,565,,,,,,
+6dve,D,566,,,,,,
+6dve,D,567,,,,,,
+6dve,D,568,,,,,,
+6dve,D,569,,,,,,
+6dve,D,570,,,,,,
+6dve,D,571,,,,,,
+6dve,D,572,,,,,,
+6dve,D,573,,,,,,
+6dve,D,574,,,,,,
+6dve,D,575,,,,,,
+6dve,D,576,,,,,,
+6dve,D,577,,,,,,
+6dve,D,578,,,,,,
+6dve,D,579,,,,,,
+6dve,D,580,6dveDD02,1.0,,,,
+6dve,D,581,6dveDD02,1.0,,,,
+6dve,D,582,6dveDD02,1.0,,,,
+6dve,D,583,6dveDD02,1.0,,,,
+6dve,D,584,6dveDD02,1.0,,,,
+6dve,D,585,6dveDD02,1.0,,,,
+6dve,D,586,6dveDD02,1.0,,,,
+6dve,D,587,6dveDD02,1.0,,,,
+6dve,D,588,6dveDD02,1.0,,,,
+6dve,D,589,6dveDD02,1.0,,,,
+6dve,D,590,6dveDD02,1.0,,,,
+6dve,D,591,6dveDD02,1.0,,,,
+6dve,D,592,6dveDD02,1.0,,,,
+6dve,D,593,6dveDD02,1.0,,,,
+6dve,D,594,6dveDD02,1.0,,,,
+6dve,D,595,6dveDD02,1.0,,,,
+6dve,D,596,6dveDD02,1.0,,,,
+6dve,D,597,6dveDD02,1.0,,,,
+6dve,D,598,6dveDD02,1.0,,,,
+6dve,D,599,6dveDD02,1.0,,,,
+6dve,D,600,6dveDD02,1.0,,,,
+6dve,D,601,6dveDD02,1.0,,,,
+6dve,D,602,6dveDD02,1.0,,,,
+6dve,D,603,6dveDD02,1.0,,,,
+6dve,D,604,6dveDD02,1.0,,,,
+6dve,D,605,6dveDD02,1.0,,,,
+6dve,D,606,6dveDD02,1.0,,,,
+6dve,D,607,6dveDD02,1.0,,,,
+6dve,D,608,6dveDD02,1.0,,,,
+6dve,D,609,6dveDD02,1.0,,,,
+6dve,D,610,6dveDD02,1.0,,,,
+6dve,D,611,6dveDD02,1.0,,,,
+6dve,D,612,6dveDD02,1.0,,,,
+6dve,D,613,6dveDD02,1.0,,,,
+6dve,D,614,6dveDD02,1.0,,,,
+6dve,D,615,6dveDD02,1.0,,,,
+6dve,D,616,6dveDD02,1.0,,,,
+6dve,D,617,6dveDD02,1.0,,,,
+6dve,D,618,6dveDD02,1.0,,,,
+6dve,D,619,6dveDD02,1.0,,,,
+6dve,D,620,6dveDD02,1.0,,,,
+6dve,D,621,6dveDD02,1.0,,,,
+6dve,D,622,6dveDD02,1.0,,,,
+6dve,D,623,6dveDD02,1.0,,,,
+6dve,D,624,6dveDD02,1.0,,,,
+6dve,D,625,6dveDD02,1.0,,,,
+6dve,D,626,6dveDD02,1.0,,,,
+6dve,D,627,6dveDD02,1.0,,,,
+6dve,D,628,6dveDD02,1.0,,,,
+6dve,D,629,6dveDD02,1.0,,,,
+6dve,D,630,6dveDD02,1.0,,,,
+6dve,D,631,6dveDD02,1.0,,,,
+6dve,D,632,6dveDD02,1.0,,,,
+6dve,D,633,6dveDD02,1.0,,,,
+6dve,D,634,6dveDD02,1.0,,,,
+6dve,D,635,6dveDD02,1.0,,,,
+6dve,D,636,6dveDD02,1.0,,,,
+6dve,D,637,6dveDD02,1.0,,,,
+6dve,D,638,6dveDD02,1.0,,,,
+6dve,D,639,6dveDD02,1.0,,,,
+6dve,D,640,6dveDD02,1.0,,,,
+6dve,D,641,6dveDD02,1.0,,,,
+6dve,D,642,6dveDD02,1.0,,,,
+6dve,D,643,6dveDD02,1.0,,,,
+6dve,D,644,6dveDD02,1.0,,,,
+6dve,D,645,6dveDD02,1.0,,,,
+6dve,D,646,6dveDD02,1.0,,,,
+6dve,D,647,6dveDD02,1.0,,,,
+6dve,D,648,6dveDD02,1.0,,,,
+6dve,D,649,6dveDD02,1.0,,,,
+6dve,D,650,6dveDD02,1.0,,,,
+6dve,D,651,6dveDD02,1.0,,,,
+6dve,D,652,6dveDD02,1.0,,,,
+6dve,D,653,6dveDD02,1.0,,,,
+6dve,D,654,6dveDD02,1.0,,,,
+6dve,D,655,6dveDD02,1.0,,,,
+6dve,D,656,6dveDD02,1.0,,,,
+6dve,D,657,6dveDD02,1.0,,,,
+6dve,D,658,6dveDD02,1.0,,,,
+6dve,D,659,6dveDD02,1.0,,,,
+6dve,D,660,6dveDD02,1.0,,,,
+6dve,D,661,6dveDD02,1.0,,,,
+6dve,D,662,6dveDD02,1.0,,,,
+6dve,D,663,6dveDD02,1.0,,,,
+6dve,D,664,6dveDD02,1.0,,,,
+6dve,D,665,6dveDD02,1.0,,,,
+6dve,D,666,6dveDD02,1.0,,,,
+6dve,D,667,6dveDD02,1.0,,,,
+6dve,D,668,6dveDD02,1.0,,,,
+6dve,D,669,6dveDD02,1.0,,,,
+6dve,D,670,6dveDD02,1.0,,,,
+6dve,D,671,6dveDD02,1.0,,,,
+6dve,D,672,6dveDD02,1.0,,,,
+6dve,D,673,6dveDD02,1.0,,,,
+6dve,D,674,6dveDD02,1.0,,,,
+6dve,D,675,6dveDD02,1.0,,,,
+6dve,D,676,6dveDD02,1.0,,,,
+6dve,D,677,6dveDD02,1.0,,,,
+6dve,D,678,6dveDD02,1.0,,,,
+6dve,D,679,6dveDD02,1.0,,,,
+6dve,D,680,6dveDD02,1.0,,,,
+6dve,D,681,6dveDD02,1.0,,,,
+6dve,D,682,6dveDD02,1.0,,,,
+6dve,D,683,6dveDD02,1.0,,,,
+6dve,D,684,6dveDD02,1.0,,,,
+6dve,D,685,6dveDD02,1.0,,,,
+6dve,D,686,6dveDD02,1.0,,,,
+6dve,D,687,6dveDD02,1.0,,,,
+6dve,D,688,6dveDD02,1.0,,,,
+6dve,D,689,6dveDD02,1.0,,,,
+6dve,D,690,6dveDD02,1.0,,,,
+6dve,D,691,6dveDD02,1.0,,,,
+6dve,D,692,6dveDD02,1.0,,,,
+6dve,D,693,6dveDD02,1.0,,,,
+6dve,D,694,6dveDD02,1.0,,,,
+6dve,D,695,6dveDD02,1.0,,,,
+6dve,D,696,6dveDD02,1.0,,,,
+6dve,D,697,6dveDD02,1.0,,,,
+6dve,D,698,6dveDD02,1.0,,,,
+6dve,D,699,6dveDD02,1.0,,,,
+6dve,D,700,6dveDD02,1.0,,,,
+6dve,D,701,6dveDD02,1.0,,,,
+6dve,D,702,6dveDD02,1.0,,,,
+6dve,D,703,6dveDD02,1.0,,,,
+6dve,D,704,6dveDD02,1.0,,,,
+6dve,D,705,6dveDD02,1.0,,,,
+6dve,D,706,6dveDD02,1.0,,,,
+6dve,D,707,6dveDD02,1.0,,,,
+6dve,D,708,6dveDD02,1.0,,,,
+6dve,D,709,6dveDD02,1.0,,,,
+6dve,D,710,6dveDD02,1.0,,,,
+6dve,D,711,6dveDD02,1.0,,,,
+6dve,D,712,6dveDD02,1.0,,,,
+6dve,D,713,6dveDD02,1.0,,,,
+6dve,D,714,6dveDD02,1.0,,,,
+6dve,D,715,6dveDD02,1.0,,,,
+6dve,D,716,6dveDD02,1.0,,,,
+6dve,D,717,6dveDD02,1.0,,,,
+6dve,D,718,6dveDD02,1.0,,,,
+6dve,D,719,6dveDD02,1.0,,,,
+6dve,D,720,6dveDD02,1.0,,,,
+6dve,D,721,6dveDD02,1.0,,,,
+6dve,D,722,6dveDD02,1.0,,,,
+6dve,D,723,6dveDD02,1.0,,,,
+6dve,D,724,6dveDD02,1.0,,,,
+6dve,D,725,6dveDD02,1.0,,,,
+6dve,D,726,6dveDD02,1.0,,,,
+6dve,D,727,,,,,,
+6dve,D,728,,,,,,
+6dve,D,729,,,,,,
+6dve,D,730,,,,,,
+6dve,D,731,,,,,,
+6dve,D,732,,,,,,
+6dve,D,733,,,,,,
+6dve,D,734,,,,,,
+6dve,D,735,,,,,,
+6dve,D,736,,,,,,
+6dve,D,737,,,,,,
+6dve,D,738,,,,,,
+6dve,D,739,,,,,,
+6dve,D,740,,,,,,
+6dve,D,741,,,,,,
+6dve,D,742,,,,,,
+6dve,D,743,,,,,,
+6dve,D,744,,,,,,
+6dve,D,745,,,,,,
+6dve,D,746,,,,,,
+6dve,D,747,,,,,,
+6dve,D,748,,,,,,
+6dve,D,749,,,,,,
+6dve,D,750,,,,,,
+6dve,D,751,,,,,,
+6dve,D,752,,,,,,
+6dve,D,753,,,,,,
+6dve,D,754,,,,,,
+6dve,D,755,,,,,,
+6dve,D,756,,,,,,
+6dve,D,757,,,,,,
+6dve,D,758,,,,,,
+6dve,D,759,,,,,,
+6dve,D,760,,,,,,
+6dve,D,761,,,,,,
+6dve,D,762,,,,,,
+6dve,D,763,,,,,,
+6dve,D,764,,,,,,
+6dve,D,765,,,,,,
+6dve,D,766,,,,,,
+6dve,D,767,,,,,,
+6dve,D,768,,,,,,
+6dve,D,769,,,,,,
+6dve,D,770,,,,,,
+6dve,D,771,,,,,,
+6dve,D,772,,,,,,
+6dve,D,773,,,,,,
+6dve,D,774,,,,,,
+6dve,D,775,,,,,,
+6dve,D,776,,,,,,
+6dve,D,777,,,,,,
+6dve,D,778,,,,,,
+6dve,D,779,,,,,,
+6dve,D,780,,,,,,
+6dve,D,781,,,,,,
+6dve,D,782,,,,,,
+6dve,D,783,,,,,,
+6dve,D,784,,,,,,
+6dve,D,785,,,,,,
+6dve,D,786,,,,,,
+6dve,D,787,,,,,,
+6dve,D,788,,,,,,
+6dve,D,789,,,,,,
+6dve,D,790,,,,,,
+6dve,D,791,,,,,,
+6dve,D,792,,,,,,
+6dve,D,793,,,,,,
+6dve,D,794,,,,,,
+6dve,D,795,,,,,,
+6dve,D,796,,,,,,
+6dve,D,797,,,,,,
+6dve,D,798,,,,,,
+6dve,D,799,,,,,,
+6dve,D,800,,,,,,
+6dve,D,801,,,,,,
+6dve,D,802,,,,,,
+6dve,D,803,,,,,,
+6dve,D,804,,,,,,
+6dve,D,805,,,,,,
+6dve,D,806,,,,,,
+6dve,D,807,,,,,,
+6dve,D,808,,,,,,
+6dve,D,809,,,,,,
+6dve,D,810,,,,,,
+6dve,D,811,,,,,,
+6dve,D,812,,,,,,
+6dve,D,813,,,,,,
+6dve,D,814,,,,,,
+6dve,D,815,,,,,,
+6dve,D,816,,,,,,
+6dve,D,817,,,,,,
+6dve,D,818,,,,,,
+6dve,D,819,,,,,,
+6dve,D,820,,,,,,
+6dve,D,821,,,,,,
+6dve,D,822,,,,,,
+6dve,D,823,,,,,,
+6dve,D,824,,,,,,
+6dve,D,825,,,,,,
+6dve,D,826,,,,,,
+6dve,D,827,,,,,,
+6dve,D,828,,,,,,
+6dve,D,829,,,,,,
+6dve,D,830,,,,,,
+6dve,D,831,,,,,,
+6dve,D,832,,,,,,
+6dve,D,833,,,,,,
+6dve,D,834,,,,,,
+6dve,D,835,,,,,,
+6dve,D,836,,,,,,
+6dve,D,837,,,,,,
+6dve,D,838,,,,,,
+6dve,D,839,,,,,,
+6dve,D,840,,,,,,
+6dve,D,841,,,,,,
+6dve,D,842,,,,,,
+6dve,D,843,,,,,,
+6dve,D,844,,,,,,
+6dve,D,845,,,,,,
+6dve,D,846,,,,,,
+6dve,D,847,,,,,,
+6dve,D,848,,,,,,
+6dve,D,849,,,,,,
+6dve,D,850,,,,,,
+6dve,D,851,,,,,,
+6dve,D,852,,,,,,
+6dve,D,853,,,,,,
+6dve,D,854,,,,,,
+6dve,D,855,,,,,,
+6dve,D,856,,,,,,
+6dve,D,857,,,,,,
+6dve,D,858,,,,,,
+6dve,D,859,,,,,,
+6dve,D,860,,,,,,
+6dve,D,861,,,,,,
+6dve,D,862,,,,,,
+6dve,D,863,,,,,,
+6dve,D,864,,,,,,
+6dve,D,865,,,,,,
+6dve,D,866,,,,,,
+6dve,D,867,,,,,,
+6dve,D,868,,,,,,
+6dve,D,869,,,,,,
+6dve,D,870,,,,,,
+6dve,D,871,,,,,,
+6dve,D,872,,,,,,
+6dve,D,873,,,,,,
+6dve,D,874,,,,,,
+6dve,D,875,,,,,,
+6dve,D,876,,,,,,
+6dve,D,877,,,,,,
+6dve,D,878,,,,,,
+6dve,D,879,,,,,,
+6dve,D,880,,,,,,
+6dve,D,881,,,,,,
+6dve,D,882,,,,,,
+6dve,D,883,,,,,,
+6dve,D,884,,,,,,
+6dve,D,885,,,,,,
+6dve,D,886,,,,,,
+6dve,D,887,,,,,,
+6dve,D,888,,,,,,
+6dve,D,889,,,,,,
+6dve,D,890,,,,,,
+6dve,D,891,,,,,,
+6dve,D,892,,,,,,
+6dve,D,893,,,,,,
+6dve,D,894,,,,,,
+6dve,D,895,,,,,,
+6dve,D,896,,,,,,
+6dve,D,897,,,,,,
+6dve,D,898,,,,,,
+6dve,D,899,,,,,,
+6dve,D,900,,,,,,
+6dve,D,901,,,,,,
+6dve,D,902,,,,,,
+6dve,D,903,,,,,,
+6dve,D,904,,,,,,
+6dve,D,905,,,,,,
+6dve,D,906,,,,,,
+6dve,D,907,,,,,,
+6dve,D,908,,,,,,
+6dve,D,909,,,,,,
+6dve,D,910,,,,,,
+6dve,D,911,,,,,,
+6dve,D,912,,,,,,
+6dve,D,913,,,,,,
+6dve,D,914,,,,,,
+6dve,D,915,,,,,,
+6dve,D,916,,,,,,
+6dve,D,917,,,,,,
+6dve,D,918,,,,,,
+6dve,D,919,,,,,,
+6dve,D,920,,,,,,
+6dve,D,921,,,,,,
+6dve,D,922,,,,,,
+6dve,D,923,,,,,,
+6dve,D,924,,,,,,
+6dve,D,925,,,,,,
+6dve,D,926,,,,,,
+6dve,D,927,,,,,,
+6dve,D,928,,,,,,
+6dve,D,929,,,,,,
+6dve,D,930,,,,,,
+6dve,D,931,,,,,,
+6dve,D,932,,,,,,
+6dve,D,933,,,,,,
+6dve,D,934,,,,,,
+6dve,D,935,,,,,,
+6dve,D,936,,,,,,
+6dve,D,937,,,,,,
+6dve,D,938,,,,,,
+6dve,D,939,,,,,,
+6dve,D,940,,,,,,
+6dve,D,941,,,,,,
+6dve,D,942,,,,,,
+6dve,D,943,,,,,,
+6dve,D,944,,,,,,
+6dve,D,945,,,,,,
+6dve,D,946,,,,,,
+6dve,D,947,,,,,,
+6dve,D,948,,,,,,
+6dve,D,949,,,,,,
+6dve,D,950,,,,,,
+6dve,D,951,,,,,,
+6dve,D,952,,,,,,
+6dve,D,953,,,,,,
+6dve,D,954,,,,,,
+6dve,D,955,,,,,,
+6dve,D,956,,,,,,
+6dve,D,957,,,,,,
+6dve,D,958,,,,,,
+6dve,D,959,,,,,,
+6dve,D,960,,,,,,
+6dve,D,961,,,,,,
+6dve,D,962,,,,,,
+6dve,D,963,,,,,,
+6dve,D,964,,,,,,
+6dve,D,965,,,,,,
+6dve,D,966,,,,,,
+6dve,D,967,,,,,,
+6dve,D,968,,,,,,
+6dve,D,969,,,,,,
+6dve,D,970,,,,,,
+6dve,D,971,,,,,,
+6dve,D,972,,,,,,
+6dve,D,973,,,,,,
+6dve,D,974,,,,,,
+6dve,D,975,,,,,,
+6dve,D,976,,,,,,
+6dve,D,977,,,,,,
+6dve,D,978,,,,,,
+6dve,D,979,,,,,,
+6dve,D,980,,,,,,
+6dve,D,981,,,,,,
+6dve,D,982,,,,,,
+6dve,D,983,,,,,,
+6dve,D,984,,,,,,
+6dve,D,985,,,,,,
+6dve,D,986,,,,,,
+6dve,D,987,,,,,,
+6dve,D,988,,,,,,
+6dve,D,989,,,,,,
+6dve,D,990,,,,,,
+6dve,D,991,,,,,,
+6dve,D,992,,,,,,
+6dve,D,993,,,,,,
+6dve,D,994,,,,,,
+6dve,D,995,,,,,,
+6dve,D,996,,,,,,
+6dve,D,997,,,,,,
+6dve,D,998,,,,,,
+6dve,D,999,,,,,,
+6dve,D,1000,,,,,,
+6dve,D,1001,,,,,,
+6dve,D,1002,,,,,,
+6dve,D,1003,,,,,,
+6dve,D,1004,,,,,,
+6dve,D,1005,,,,,,
+6dve,D,1006,,,,,,
+6dve,D,1007,,,,,,
+6dve,D,1008,,,,,,
+6dve,D,1009,,,,,,
+6dve,D,1010,,,,,,
+6dve,D,1011,,,,,,
+6dve,D,1026,,,,,,
+6dve,D,1027,,,,,,
+6dve,D,1028,,,,,,
+6dve,D,1029,,,,,,
+6dve,D,1030,,,,,,
+6dve,D,1031,,,,,,
+6dve,D,1032,,,,,,
+6dve,D,1033,,,,,,
+6dve,D,1034,,,,,,
+6dve,D,1035,,,,,,
+6dve,D,1036,,,,,,
+6dve,D,1037,,,,,,
+6dve,D,1038,,,,,,
+6dve,D,1039,,,,,,
+6dve,D,1040,,,,,,
+6dve,D,1041,,,,,,
+6dve,D,1042,,,,,,
+6dve,D,1043,,,,,,
+6dve,D,1044,,,,,,
+6dve,D,1045,,,,,,
+6dve,D,1046,,,,,,
+6dve,D,1047,,,,,,
+6dve,D,1048,,,,,,
+6dve,D,1049,,,,,,
+6dve,D,1050,,,,,,
+6dve,D,1051,,,,,,
+6dve,D,1052,,,,,,
+6dve,D,1053,,,,,,
+6dve,D,1054,,,,,,
+6dve,D,1055,,,,,,
+6dve,D,1056,,,,,,
+6dve,D,1057,,,,,,
+6dve,D,1058,,,,,,
+6dve,D,1059,,,,,,
+6dve,D,1060,,,,,,
+6dve,D,1061,,,,,,
+6dve,D,1062,,,,,,
+6dve,D,1063,,,,,,
+6dve,D,1064,,,,,,
+6dve,D,1065,,,,,,
+6dve,D,1066,,,,,,
+6dve,D,1067,,,,,,
+6dve,D,1068,,,,,,
+6dve,D,1069,,,,,,
+6dve,D,1070,,,,,,
+6dve,D,1071,,,,,,
+6dve,D,1072,,,,,,
+6dve,D,1073,,,,,,
+6dve,D,1074,,,,,,
+6dve,D,1075,,,,,,
+6dve,D,1076,,,,,,
+6dve,D,1077,,,,,,
+6dve,D,1078,,,,,,
+6dve,D,1079,,,,,,
+6dve,D,1080,,,,,,
+6dve,D,1081,,,,,,
+6dve,D,1082,,,,,,
+6dve,D,1083,,,,,,
+6dve,D,1084,,,,,,
+6dve,D,1085,,,,,,
+6dve,D,1086,,,,,,
+6dve,D,1087,,,,,,
+6dve,D,1088,,,,,,
+6dve,D,1089,,,,,,
+6dve,D,1090,,,,,,
+6dve,D,1091,,,,,,
+6dve,D,1092,,,,,,
+6dve,D,1093,,,,,,
+6dve,D,1094,,,,,,
+6dve,D,1095,,,,,,
+6dve,D,1096,,,,,,
+6dve,D,1097,,,,,,
+6dve,D,1098,,,,,,
+6dve,D,1099,,,,,,
+6dve,D,1100,,,,,,
+6dve,D,1101,,,,,,
+6dve,D,1102,,,,,,
+6dve,D,1103,,,,,,
+6dve,D,1104,,,,,,
+6dve,D,1105,,,,,,
+6dve,D,1106,,,,,,
+6dve,D,1107,,,,,,
+6dve,D,1108,,,,,,
+6dve,D,1109,,,,,,
+6dve,D,1110,,,,,,
+6dve,D,1111,,,,,,
+6dve,D,1112,,,,,,
+6dve,D,1113,,,,,,
+6dve,D,1114,,,,,,
+6dve,D,1115,,,,,,
+6dve,D,1116,,,,,,
+6dve,D,1117,,,,,,
+6dve,D,1118,,,,,,
+6dve,D,1119,,,,,,
+6dve,D,1120,,,,,,
+6dve,D,1121,,,,,,
+6dve,D,1122,,,,,,
+6dve,D,1123,,,,,,
+6dve,D,1124,,,,,,
+6dve,D,1125,,,,,,
+6dve,D,1126,,,,,,
+6dve,D,1127,,,,,,
+6dve,D,1128,,,,,,
+6dve,D,1129,,,,,,
+6dve,D,1130,,,,,,
+6dve,D,1131,,,,,,
+6dve,D,1132,,,,,,
+6dve,D,1133,,,,,,
+6dve,D,1134,,,,,,
+6dve,D,1135,,,,,,
+6dve,D,1136,,,,,,
+6dve,D,1137,,,,,,
+6dve,D,1138,,,,,,
+6dve,D,1139,,,,,,
+6dve,D,1140,,,,,,
+6dve,D,1141,,,,,,
+6dve,D,1142,,,,,,
+6dve,D,1143,,,,,,
+6dve,D,1144,,,,,,
+6dve,D,1145,,,,,,
+6dve,D,1146,,,,,,
+6dve,D,1147,,,,,,
+6dve,D,1148,,,,,,
+6dve,D,1149,,,,,,
+6dve,D,1150,,,,,,
+6dve,D,1151,,,,,,
+6dve,D,1152,,,,,,
+6dve,D,1153,,,,,,
+6dve,D,1154,,,,,,
+6dve,D,1155,,,,,,
+6dve,D,1156,,,,,,
+6dve,D,1157,,,,,,
+6dve,D,1158,,,,,,
+6dve,D,1159,,,,,,
+6dve,D,1160,,,,,,
+6dve,D,1161,,,,,,
+6dve,D,1162,,,,,,
+6dve,D,1163,,,,,,
+6dve,D,1164,,,,,,
+6dve,D,1165,,,,,,
+6dve,D,1166,,,,,,
+6dve,D,1167,,,,,,
+6dve,D,1168,,,,,,
+6dve,D,1169,,,,,,
+6dve,D,1170,,,,,,
+6dve,D,1171,,,,,,
+6dve,D,1172,,,,,,
+6dve,D,1173,,,,,,
+6dve,D,1174,,,,,,
+6dve,D,1175,,,,,,
+6dve,D,1176,,,,,,
+6dve,D,1177,,,,,,
+6dve,D,1178,,,,,,
+6dve,D,1179,,,,,,
+6dve,D,1180,,,,,,
+6dve,D,1181,,,,,,
+6dve,D,1182,,,,,,
+6dve,D,1183,,,,,,
+6dve,D,1184,,,,,,
+6dve,D,1185,,,,,,
+6dve,D,1186,,,,,,
+6dve,D,1187,,,,,,
+6dve,D,1188,,,,,,
+6dve,D,1189,,,,,,
+6dve,D,1190,,,,,,
+6dve,D,1191,,,,,,
+6dve,D,1192,,,,,,
+6dve,D,1193,,,,,,
+6dve,D,1194,,,,,,
+6dve,D,1195,,,,,,
+6dve,D,1196,,,,,,
+6dve,D,1197,,,,,,
+6dve,D,1198,,,,,,
+6dve,D,1199,,,,,,
+6dve,D,1200,,,,,,
+6dve,D,1201,,,,,,
+6dve,D,1202,,,,,,
+6dve,D,1203,,,,,,
+6dve,D,1204,,,,,,
+6dve,D,1205,,,,,,
+6dve,D,1206,,,,,,
+6dve,D,1207,,,,,,
+6dve,D,1208,,,,,,
+6dve,D,1209,,,,,,
+6dve,D,1210,,,,,,
+6dve,D,1211,,,,,,
+6dve,D,1212,,,,,,
+6dve,D,1213,,,,,,
+6dve,D,1214,,,,,,
+6dve,D,1215,,,,,,
+6dve,D,1216,,,,,,
+6dve,D,1217,,,,,,
+6dve,D,1218,,,,,,
+6dve,D,1219,,,,,,
+6dve,D,1220,,,,,,
+6dve,D,1221,,,,,,
+6dve,D,1222,,,,,,
+6dve,D,1223,,,,,,
+6dve,D,1224,,,,,,
+6dve,D,1225,,,,,,
+6dve,D,1226,,,,,,
+6dve,D,1227,,,,,,
+6dve,D,1228,,,,,,
+6dve,D,1229,,,,,,
+6dve,D,1230,,,,,,
+6dve,D,1231,,,,,,
+6dve,D,1232,,,,,,
+6dve,D,1233,,,,,,
+6dve,D,1234,,,,,,
+6dve,D,1235,,,,,,
+6dve,D,1236,,,,,,
+6dve,D,1237,,,,,,
+6dve,D,1238,,,,,,
+6dve,D,1239,,,,,,
+6dve,D,1240,,,,,,
+6dve,D,1241,,,,,,
+6dve,D,1242,,,,,,
+6dve,D,1243,,,,,,
+6dve,D,1244,,,,,,
+6dve,D,1245,,,,,,
+6dve,D,1246,,,,,,
+6dve,D,1247,,,,,,
+6dve,D,1248,,,,,,
+6dve,D,1249,,,,,,
+6dve,D,1250,,,,,,
+6dve,D,1251,,,,,,
+6dve,D,1252,,,,,,
+6dve,D,1253,,,,,,
+6dve,D,1254,,,,,,
+6dve,D,1255,,,,,,
+6dve,D,1256,,,,,,
+6dve,D,1257,,,,,,
+6dve,D,1258,,,,,,
+6dve,D,1259,,,,,,
+6dve,D,1260,,,,,,
+6dve,D,1261,,,,,,
+6dve,D,1262,,,,,,
+6dve,D,1263,,,,,,
+6dve,D,1264,,,,,,
+6dve,D,1265,,,,,,
+6dve,D,1266,,,,,,
+6dve,D,1267,,,,,,
+6dve,D,1268,,,,,,
+6dve,D,1269,,,,,,
+6dve,D,1270,,,,,,
+6dve,D,1271,,,,,,
+6dve,D,1272,,,,,,
+6dve,D,1273,,,,,,
+6dve,D,1274,,,,,,
+6dve,D,1275,,,,,,
+6dve,D,1276,,,,,,
+6dve,D,1277,,,,,,
+6dve,D,1278,,,,,,
+6dve,D,1279,,,,,,
+6dve,D,1280,,,,,,
+6dve,D,1281,,,,,,
+6dve,E,28,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,29,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,30,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,31,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,32,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,33,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,34,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,35,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,36,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,37,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,38,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,39,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,40,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,41,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,42,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,43,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,44,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,45,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,46,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,47,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,48,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,49,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,50,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,51,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,52,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,53,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,54,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,55,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,56,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,57,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,58,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,59,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,60,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,61,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,62,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,63,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,64,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,65,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,66,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,67,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,68,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,69,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,70,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,71,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,72,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,73,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,74,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,75,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,76,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,77,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,78,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,79,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,80,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,81,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,82,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,83,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,84,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,85,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,86,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,87,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,88,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,89,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,90,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,91,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,92,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,93,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,94,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,95,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,96,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,97,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,98,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,99,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,100,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,101,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,102,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,103,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,104,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,105,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,106,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,107,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,E,108,6dveED01,1.0,e6dveE1,152.1.2.4,RNA polymerase omega subunit,RNA_pol_Rpb6
+6dve,F,4,6dveFD02,1.0,,,,
+6dve,F,5,6dveFD02,1.0,,,,
+6dve,F,6,6dveFD02,1.0,,,,
+6dve,F,7,6dveFD02,1.0,,,,
+6dve,F,8,6dveFD02,1.0,,,,
+6dve,F,9,6dveFD02,1.0,,,,
+6dve,F,10,6dveFD02,1.0,,,,
+6dve,F,11,6dveFD02,1.0,,,,
+6dve,F,12,6dveFD02,1.0,,,,
+6dve,F,13,6dveFD02,1.0,,,,
+6dve,F,14,6dveFD02,1.0,,,,
+6dve,F,15,6dveFD02,1.0,,,,
+6dve,F,16,6dveFD02,1.0,,,,
+6dve,F,17,6dveFD02,1.0,,,,
+6dve,F,18,6dveFD02,1.0,,,,
+6dve,F,19,6dveFD02,1.0,,,,
+6dve,F,20,6dveFD02,1.0,,,,
+6dve,F,21,6dveFD02,1.0,,,,
+6dve,F,22,6dveFD02,1.0,,,,
+6dve,F,23,6dveFD02,1.0,,,,
+6dve,F,24,6dveFD02,1.0,,,,
+6dve,F,25,6dveFD02,1.0,,,,
+6dve,F,26,6dveFD02,1.0,,,,
+6dve,F,27,6dveFD02,1.0,,,,
+6dve,F,28,6dveFD02,1.0,,,,
+6dve,F,29,6dveFD02,1.0,,,,
+6dve,F,30,6dveFD02,1.0,,,,
+6dve,F,31,6dveFD02,1.0,,,,
+6dve,F,32,6dveFD02,1.0,,,,
+6dve,F,33,6dveFD02,1.0,,,,
+6dve,F,34,6dveFD02,1.0,,,,
+6dve,F,35,6dveFD02,1.0,,,,
+6dve,F,36,6dveFD02,1.0,,,,
+6dve,F,37,6dveFD02,1.0,,,,
+6dve,F,38,6dveFD02,1.0,,,,
+6dve,F,39,6dveFD02,1.0,,,,
+6dve,F,40,6dveFD02,1.0,,,,
+6dve,F,41,6dveFD02,1.0,,,,
+6dve,F,42,6dveFD02,1.0,,,,
+6dve,F,43,6dveFD02,1.0,,,,
+6dve,F,44,6dveFD02,1.0,,,,
+6dve,F,45,6dveFD02,1.0,,,,
+6dve,F,46,6dveFD02,1.0,,,,
+6dve,F,47,6dveFD02,1.0,,,,
+6dve,F,48,6dveFD02,1.0,,,,
+6dve,F,49,6dveFD02,1.0,,,,
+6dve,F,50,6dveFD02,1.0,,,,
+6dve,F,51,6dveFD02,1.0,,,,
+6dve,F,52,6dveFD02,1.0,,,,
+6dve,F,53,6dveFD02,1.0,,,,
+6dve,F,54,6dveFD02,1.0,,,,
+6dve,F,55,6dveFD02,1.0,,,,
+6dve,F,56,6dveFD02,1.0,,,,
+6dve,F,57,6dveFD02,1.0,,,,
+6dve,F,58,6dveFD02,1.0,,,,
+6dve,F,59,6dveFD02,1.0,,,,
+6dve,F,60,6dveFD02,1.0,,,,
+6dve,F,61,6dveFD02,1.0,,,,
+6dve,F,62,6dveFD02,1.0,,,,
+6dve,F,63,6dveFD02,1.0,,,,
+6dve,F,64,6dveFD02,1.0,,,,
+6dve,F,65,6dveFD02,1.0,,,,
+6dve,F,66,6dveFD02,1.0,,,,
+6dve,F,67,6dveFD02,1.0,,,,
+6dve,F,68,6dveFD02,1.0,,,,
+6dve,F,69,6dveFD02,1.0,,,,
+6dve,F,70,6dveFD02,1.0,,,,
+6dve,F,71,6dveFD02,1.0,,,,
+6dve,F,72,6dveFD02,1.0,,,,
+6dve,F,73,6dveFD02,1.0,,,,
+6dve,F,74,6dveFD02,1.0,,,,
+6dve,F,75,6dveFD02,1.0,,,,
+6dve,F,76,6dveFD02,1.0,,,,
+6dve,F,77,6dveFD02,1.0,,,,
+6dve,F,78,6dveFD02,1.0,,,,
+6dve,F,79,6dveFD02,1.0,,,,
+6dve,F,80,6dveFD02,1.0,,,,
+6dve,F,81,6dveFD02,1.0,,,,
+6dve,F,82,6dveFD02,1.0,,,,
+6dve,F,83,6dveFD02,1.0,,,,
+6dve,F,84,6dveFD02,1.0,,,,
+6dve,F,85,6dveFD02,1.0,,,,
+6dve,F,86,6dveFD02,1.0,,,,
+6dve,F,87,6dveFD02,1.0,,,,
+6dve,F,88,6dveFD02,1.0,,,,
+6dve,F,89,6dveFD02,1.0,,,,
+6dve,F,90,6dveFD02,1.0,,,,
+6dve,F,91,6dveFD02,1.0,,,,
+6dve,F,92,6dveFD02,1.0,,,,
+6dve,F,93,6dveFD02,1.0,,,,
+6dve,F,94,,,,,,
+6dve,F,95,,,,,,
+6dve,F,96,,,,,,
+6dve,F,97,,,,,,
+6dve,F,98,,,,,,
+6dve,F,99,,,,,,
+6dve,F,100,,,,,,
+6dve,F,101,,,,,,
+6dve,F,102,,,,,,
+6dve,F,103,,,,,,
+6dve,F,104,,,,,,
+6dve,F,105,,,,,,
+6dve,F,106,,,,,,
+6dve,F,107,,,,,,
+6dve,F,108,,,,,,
+6dve,F,109,,,,,,
+6dve,F,110,,,,,,
+6dve,F,111,,,,,,
+6dve,F,112,,,,,,
+6dve,F,113,,,,,,
+6dve,F,114,,,,,,
+6dve,F,115,,,,,,
+6dve,F,116,,,,,,
+6dve,F,117,,,,,,
+6dve,F,118,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,119,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,120,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,121,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,122,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,123,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,124,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,125,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,126,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,127,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,128,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,129,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,130,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,131,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,132,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,133,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,134,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,135,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,136,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,137,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,138,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,139,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,140,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,141,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,142,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,143,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,144,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,145,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,146,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,147,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,148,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,149,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,150,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,151,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,152,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,153,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,154,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,155,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,156,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,157,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,158,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,159,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,160,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,161,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,162,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,163,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,164,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,165,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,166,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,167,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,168,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,169,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,170,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,171,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,172,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,173,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,174,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,175,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,176,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2
+6dve,F,177,,,e6dveF1,101.1.1.358,tri-helical,Sigma70_r4_2

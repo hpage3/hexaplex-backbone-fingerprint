@@ -1,0 +1,332 @@
+pdb,chain,res_i,cath_domain,cath_class,ecod_domain,f_id,h_name,f_name
+1lee,A,-1,,,,,,
+1lee,A,0,,,,,,
+1lee,A,1,1leeAD02,1.0,,,,
+1lee,A,2,1leeAD02,1.0,,,,
+1lee,A,3,1leeAD02,1.0,,,,
+1lee,A,4,1leeAD02,1.0,,,,
+1lee,A,5,1leeAD02,1.0,,,,
+1lee,A,6,1leeAD02,1.0,,,,
+1lee,A,7,1leeAD02,1.0,,,,
+1lee,A,8,1leeAD02,1.0,,,,
+1lee,A,9,1leeAD02,1.0,,,,
+1lee,A,10,1leeAD02,1.0,,,,
+1lee,A,11,1leeAD02,1.0,,,,
+1lee,A,12,1leeAD02,1.0,,,,
+1lee,A,13,1leeAD02,1.0,,,,
+1lee,A,14,1leeAD02,1.0,,,,
+1lee,A,15,1leeAD02,1.0,,,,
+1lee,A,16,1leeAD02,1.0,,,,
+1lee,A,17,1leeAD02,1.0,,,,
+1lee,A,18,1leeAD02,1.0,,,,
+1lee,A,19,1leeAD02,1.0,,,,
+1lee,A,20,1leeAD02,1.0,,,,
+1lee,A,21,1leeAD02,1.0,,,,
+1lee,A,22,1leeAD02,1.0,,,,
+1lee,A,23,1leeAD02,1.0,,,,
+1lee,A,24,1leeAD02,1.0,,,,
+1lee,A,25,1leeAD02,1.0,,,,
+1lee,A,26,1leeAD02,1.0,,,,
+1lee,A,27,1leeAD02,1.0,,,,
+1lee,A,28,1leeAD02,1.0,,,,
+1lee,A,29,1leeAD02,1.0,,,,
+1lee,A,30,1leeAD02,1.0,,,,
+1lee,A,31,1leeAD02,1.0,,,,
+1lee,A,32,1leeAD02,1.0,,,,
+1lee,A,33,1leeAD02,1.0,,,,
+1lee,A,34,1leeAD02,1.0,,,,
+1lee,A,35,1leeAD02,1.0,,,,
+1lee,A,36,1leeAD02,1.0,,,,
+1lee,A,37,1leeAD02,1.0,,,,
+1lee,A,38,1leeAD02,1.0,,,,
+1lee,A,39,1leeAD02,1.0,,,,
+1lee,A,40,1leeAD02,1.0,,,,
+1lee,A,41,1leeAD02,1.0,,,,
+1lee,A,42,1leeAD02,1.0,,,,
+1lee,A,43,1leeAD02,1.0,,,,
+1lee,A,44,1leeAD02,1.0,,,,
+1lee,A,45,1leeAD02,1.0,,,,
+1lee,A,46,1leeAD02,1.0,,,,
+1lee,A,47,1leeAD02,1.0,,,,
+1lee,A,48,1leeAD02,1.0,,,,
+1lee,A,49,1leeAD02,1.0,,,,
+1lee,A,50,1leeAD02,1.0,,,,
+1lee,A,51,1leeAD02,1.0,,,,
+1lee,A,52,1leeAD02,1.0,,,,
+1lee,A,53,1leeAD02,1.0,,,,
+1lee,A,54,1leeAD02,1.0,,,,
+1lee,A,55,1leeAD02,1.0,,,,
+1lee,A,56,1leeAD02,1.0,,,,
+1lee,A,57,1leeAD02,1.0,,,,
+1lee,A,58,1leeAD02,1.0,,,,
+1lee,A,59,1leeAD02,1.0,,,,
+1lee,A,60,1leeAD02,1.0,,,,
+1lee,A,61,1leeAD02,1.0,,,,
+1lee,A,62,1leeAD02,1.0,,,,
+1lee,A,63,1leeAD02,1.0,,,,
+1lee,A,64,1leeAD02,1.0,,,,
+1lee,A,65,1leeAD02,1.0,,,,
+1lee,A,66,1leeAD02,1.0,,,,
+1lee,A,67,1leeAD02,1.0,,,,
+1lee,A,68,1leeAD02,1.0,,,,
+1lee,A,69,1leeAD02,1.0,,,,
+1lee,A,70,1leeAD02,1.0,,,,
+1lee,A,71,1leeAD02,1.0,,,,
+1lee,A,72,1leeAD02,1.0,,,,
+1lee,A,73,1leeAD02,1.0,,,,
+1lee,A,74,1leeAD02,1.0,,,,
+1lee,A,75,1leeAD02,1.0,,,,
+1lee,A,76,1leeAD02,1.0,,,,
+1lee,A,77,1leeAD02,1.0,,,,
+1lee,A,78,1leeAD02,1.0,,,,
+1lee,A,79,1leeAD02,1.0,,,,
+1lee,A,80,1leeAD02,1.0,,,,
+1lee,A,81,1leeAD02,1.0,,,,
+1lee,A,82,1leeAD02,1.0,,,,
+1lee,A,83,1leeAD02,1.0,,,,
+1lee,A,84,1leeAD02,1.0,,,,
+1lee,A,85,1leeAD02,1.0,,,,
+1lee,A,86,1leeAD02,1.0,,,,
+1lee,A,87,1leeAD02,1.0,,,,
+1lee,A,88,1leeAD02,1.0,,,,
+1lee,A,89,1leeAD02,1.0,,,,
+1lee,A,90,1leeAD02,1.0,,,,
+1lee,A,91,1leeAD02,1.0,,,,
+1lee,A,92,1leeAD02,1.0,,,,
+1lee,A,93,1leeAD02,1.0,,,,
+1lee,A,94,1leeAD02,1.0,,,,
+1lee,A,95,1leeAD02,1.0,,,,
+1lee,A,96,1leeAD02,1.0,,,,
+1lee,A,97,1leeAD02,1.0,,,,
+1lee,A,98,1leeAD02,1.0,,,,
+1lee,A,99,1leeAD02,1.0,,,,
+1lee,A,100,1leeAD02,1.0,,,,
+1lee,A,101,1leeAD02,1.0,,,,
+1lee,A,102,1leeAD02,1.0,,,,
+1lee,A,103,1leeAD02,1.0,,,,
+1lee,A,104,1leeAD02,1.0,,,,
+1lee,A,105,1leeAD02,1.0,,,,
+1lee,A,106,1leeAD02,1.0,,,,
+1lee,A,107,1leeAD02,1.0,,,,
+1lee,A,108,1leeAD02,1.0,,,,
+1lee,A,109,1leeAD02,1.0,,,,
+1lee,A,110,1leeAD02,1.0,,,,
+1lee,A,111,1leeAD02,1.0,,,,
+1lee,A,112,1leeAD02,1.0,,,,
+1lee,A,113,1leeAD02,1.0,,,,
+1lee,A,114,1leeAD02,1.0,,,,
+1lee,A,115,1leeAD02,1.0,,,,
+1lee,A,116,1leeAD02,1.0,,,,
+1lee,A,117,1leeAD02,1.0,,,,
+1lee,A,118,1leeAD02,1.0,,,,
+1lee,A,119,1leeAD02,1.0,,,,
+1lee,A,120,1leeAD02,1.0,,,,
+1lee,A,121,1leeAD02,1.0,,,,
+1lee,A,122,1leeAD02,1.0,,,,
+1lee,A,123,1leeAD02,1.0,,,,
+1lee,A,124,1leeAD02,1.0,,,,
+1lee,A,125,1leeAD02,1.0,,,,
+1lee,A,126,1leeAD02,1.0,,,,
+1lee,A,127,1leeAD02,1.0,,,,
+1lee,A,128,1leeAD02,1.0,,,,
+1lee,A,129,1leeAD02,1.0,,,,
+1lee,A,130,1leeAD02,1.0,,,,
+1lee,A,131,1leeAD02,1.0,,,,
+1lee,A,132,1leeAD02,1.0,,,,
+1lee,A,133,1leeAD02,1.0,,,,
+1lee,A,134,1leeAD02,1.0,,,,
+1lee,A,135,1leeAD02,1.0,,,,
+1lee,A,136,1leeAD02,1.0,,,,
+1lee,A,137,1leeAD02,1.0,,,,
+1lee,A,138,1leeAD02,1.0,,,,
+1lee,A,139,1leeAD02,1.0,,,,
+1lee,A,140,1leeAD02,1.0,,,,
+1lee,A,141,1leeAD02,1.0,,,,
+1lee,A,142,1leeAD02,1.0,,,,
+1lee,A,143,1leeAD02,1.0,,,,
+1lee,A,144,1leeAD02,1.0,,,,
+1lee,A,145,1leeAD02,1.0,,,,
+1lee,A,146,1leeAD02,1.0,,,,
+1lee,A,147,1leeAD02,1.0,,,,
+1lee,A,148,1leeAD02,1.0,,,,
+1lee,A,149,1leeAD02,1.0,,,,
+1lee,A,150,1leeAD02,1.0,,,,
+1lee,A,151,1leeAD02,1.0,,,,
+1lee,A,152,1leeAD02,1.0,,,,
+1lee,A,153,1leeAD02,1.0,,,,
+1lee,A,154,1leeAD02,1.0,,,,
+1lee,A,155,1leeAD02,1.0,,,,
+1lee,A,156,1leeAD02,1.0,,,,
+1lee,A,157,1leeAD02,1.0,,,,
+1lee,A,158,1leeAD02,1.0,,,,
+1lee,A,159,1leeAD02,1.0,,,,
+1lee,A,160,1leeAD02,1.0,,,,
+1lee,A,161,1leeAD02,1.0,,,,
+1lee,A,162,1leeAD02,1.0,,,,
+1lee,A,163,1leeAD02,1.0,,,,
+1lee,A,164,1leeAD02,1.0,,,,
+1lee,A,165,1leeAD02,1.0,,,,
+1lee,A,166,1leeAD02,1.0,,,,
+1lee,A,167,1leeAD02,1.0,,,,
+1lee,A,168,1leeAD02,1.0,,,,
+1lee,A,169,1leeAD02,1.0,,,,
+1lee,A,170,1leeAD02,1.0,,,,
+1lee,A,171,1leeAD02,1.0,,,,
+1lee,A,172,1leeAD02,1.0,,,,
+1lee,A,173,1leeAD02,1.0,,,,
+1lee,A,174,1leeAD02,1.0,,,,
+1lee,A,175,1leeAD02,1.0,,,,
+1lee,A,176,,,,,,
+1lee,A,177,,,,,,
+1lee,A,178,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,179,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,180,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,181,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,182,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,183,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,184,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,185,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,186,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,187,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,188,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,189,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,190,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,191,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,192,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,193,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,194,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,195,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,196,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,197,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,198,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,199,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,200,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,201,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,202,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,203,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,204,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,205,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,206,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,207,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,208,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,209,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,210,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,211,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,212,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,213,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,214,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,215,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,216,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,217,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,218,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,219,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,220,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,221,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,222,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,223,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,224,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,225,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,226,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,227,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,228,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,229,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,230,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,231,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,232,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,233,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,234,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,235,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,236,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,237,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,238,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,239,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,240,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,241,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,242,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,243,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,244,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,245,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,246,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,247,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,248,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,249,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,250,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,251,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,252,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,253,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,254,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,255,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,256,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,257,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,258,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,259,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,260,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,261,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,262,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,263,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,264,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,265,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,266,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,267,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,268,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,269,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,270,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,271,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,272,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,273,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,274,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,275,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,276,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,277,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,278,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,279,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,280,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,281,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,282,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,283,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,284,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,285,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,286,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,287,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,288,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,289,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,290,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,291,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,292,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,293,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,294,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,295,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,296,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,297,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,298,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,299,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,300,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,301,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,302,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,303,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,304,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,305,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,306,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,307,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,308,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,309,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,310,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,311,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,312,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,313,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,314,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,315,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,316,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,317,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,318,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,319,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,320,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,321,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,322,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,323,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,324,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,325,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,326,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,327,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,328,,,e1leeA3,1.1.1.30,acid protease,Asp_C
+1lee,A,329,,,e1leeA3,1.1.1.30,acid protease,Asp_C
