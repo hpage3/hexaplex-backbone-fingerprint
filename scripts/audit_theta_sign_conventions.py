@@ -58,6 +58,7 @@ METHOD_COLUMNS = [
     "continuity_signed",
     "backbone_axis_signed",
     "continuity_backbone_signed",
+    "continuity_sign_only_preserve_magnitude",
 ]
 
 
@@ -188,6 +189,18 @@ def signed_about_axis(n1: np.ndarray, n2: np.ndarray, axis: np.ndarray) -> float
     return wrap_angle(float(np.degrees(np.arctan2(sin_component, cos_component))))
 
 
+def sign_only_preserve_magnitude(n1: np.ndarray, n2: np.ndarray, axis: np.ndarray) -> float:
+    """Use the raw 0..180 normal angle magnitude, assigning sign separately."""
+    n1_unit = safe_normalize(n1)
+    n2_unit = safe_normalize(n2)
+    axis_unit = safe_normalize(axis)
+    dot = float(np.clip(np.dot(n1_unit, n2_unit), -1.0, 1.0))
+    magnitude = float(np.degrees(np.arccos(dot)))
+    sign_indicator = float(np.dot(np.cross(n1_unit, n2_unit), axis_unit))
+    sign = -1.0 if sign_indicator < 0 else 1.0
+    return sign * magnitude
+
+
 def wrap_angle(angle: float) -> float:
     wrapped = ((angle + 180.0) % 360.0) - 180.0
     return 180.0 if wrapped == -180.0 and angle > 0 else wrapped
@@ -252,6 +265,7 @@ def audit_model(label: str, pdb_path: Path, outdir: Path) -> dict[str, object]:
                 "continuity_signed": legacy_signed_angle(cn_a, cn_b, plane_a.u_axis),
                 "backbone_axis_signed": signed_about_axis(n_a, n_b, local_axis),
                 "continuity_backbone_signed": signed_about_axis(cn_a, cn_b, local_axis),
+                "continuity_sign_only_preserve_magnitude": sign_only_preserve_magnitude(n_a, n_b, local_axis),
                 "normal_dot_raw": raw_dot,
                 "normal_dot_after_continuity": continuity_dot,
                 "was_normal_flipped_B": plane_b.index in flipped,
@@ -356,7 +370,13 @@ def summarize_rows(label: str, pdb_path: Path, rows: list[dict[str, object]]) ->
 
 
 def recommend_method(method_stats: dict[str, dict[str, float]]) -> str:
-    candidates = ["continuity_backbone_signed", "backbone_axis_signed", "continuity_signed", "current_signed"]
+    candidates = [
+        "continuity_sign_only_preserve_magnitude",
+        "continuity_backbone_signed",
+        "backbone_axis_signed",
+        "continuity_signed",
+        "current_signed",
+    ]
     return min(
         candidates,
         key=lambda method: (
@@ -406,8 +426,14 @@ def plot_model(label: str, rows: list[dict[str, object]], path: Path, gap: int =
         serial_x.append(len(serial_x) + offset)
         last_chain = row["chain"]
 
-    fig, axes = plt.subplots(4, 1, figsize=(14, 10), sharex=True)
-    plot_methods = ["current_signed", "continuity_signed", "backbone_axis_signed", "continuity_backbone_signed"]
+    fig, axes = plt.subplots(5, 1, figsize=(14, 12), sharex=True)
+    plot_methods = [
+        "current_signed",
+        "continuity_signed",
+        "backbone_axis_signed",
+        "continuity_backbone_signed",
+        "continuity_sign_only_preserve_magnitude",
+    ]
     for ax, method in zip(axes, plot_methods):
         ax.plot(serial_x, [float(row[method]) for row in sorted_rows], marker="o", markersize=2.5, linewidth=1.0)
         ax.set_ylabel(method.replace("_", "\n"), fontsize=8)
@@ -449,6 +475,8 @@ def write_overview(outdir: Path, results: list[dict[str, object]], controls_foun
             "- `angle_signed_deg` uses raw adjacent normals and the first plane's `u_axis` as the sign reference.",
             "- The legacy CSV computes a pairwise flipped dot product, but that flipped normal is not used in `angle_signed_deg`.",
             "- No chain-wide normal continuity is enforced before the current signed angle calculation.",
+            "- `continuity_backbone_signed` flips adjacent normals to positive dot products before `atan2`, which removes large jumps but folds obtuse angles into acute complements.",
+            "- `continuity_sign_only_preserve_magnitude` preserves the raw 0..180 degree inter-plane magnitude and assigns sign separately with the local backbone propagation axis.",
         ]
     )
     lines = [
@@ -483,25 +511,39 @@ def write_overview(outdir: Path, results: list[dict[str, object]], controls_foun
         )
         current_jumps = result["method_stats"]["current_signed"]["abrupt_jumps_gt_150"]
         continuity_jumps = result["method_stats"]["continuity_backbone_signed"]["abrupt_jumps_gt_150"]
+        preserve_obtuse = sum(
+            1
+            for value in [
+                result["method_stats"]["continuity_sign_only_preserve_magnitude"]["min"],
+                result["method_stats"]["continuity_sign_only_preserve_magnitude"]["max"],
+            ]
+            if abs(value) > 90.0
+        )
         lines.append(
             f"- Current signed jumps >150 deg: {current_jumps}; continuity-backbone jumps >150 deg: {continuity_jumps}"
         )
+        lines.append(f"- Preserve-magnitude method has obtuse extrema present: {'yes' if preserve_obtuse else 'no'}")
         lines.append("")
 
     current_total_jumps = sum(r["method_stats"]["current_signed"]["abrupt_jumps_gt_150"] for r in results)
     corrected_total_jumps = sum(r["method_stats"]["continuity_backbone_signed"]["abrupt_jumps_gt_150"] for r in results)
+    preserve_total_jumps = sum(
+        r["method_stats"]["continuity_sign_only_preserve_magnitude"]["abrupt_jumps_gt_150"] for r in results
+    )
     lines.extend(
         [
             "## Interpretation",
             f"- Across audited Hexaplex models, current signed abrupt jumps >150 deg: {current_total_jumps}.",
             f"- Across audited Hexaplex models, continuity-backbone abrupt jumps >150 deg: {corrected_total_jumps}.",
+            f"- Across audited Hexaplex models, preserve-magnitude abrupt jumps >150 deg: {preserve_total_jumps}.",
             "- If the current signed plot alternates between positive and negative values where a beta-like segment should remain mostly negative, the absence of chain-wide normal continuity is a plausible contributor.",
-            "- However, continuity/backbone methods reduce abrupt jumps but still require validation against alpha/beta controls before being treated as the real manuscript theta-pp convention.",
+            "- The previous continuity/backbone method reduced abrupt jumps by forcing adjacent dot products positive, but that also collapses real obtuse beta-like angles toward acute complements.",
+            "- The preserve-magnitude method restores obtuse angle magnitudes, but still requires validation against alpha/beta controls before being treated as the real manuscript theta-pp convention.",
             "",
             "## Recommended Next Step",
             "- Do not keep treating the current legacy `angle_signed_deg` as trustworthy without controls.",
             "- Compare these diagnostics against the original Loren/Howard theta-pp implementation if available.",
-            "- For the next diagnostic plot regeneration, include `continuity_backbone_signed` as the leading candidate because it enforces normal continuity and uses local backbone propagation as the sign reference, but label it diagnostic until controls pass.",
+            "- For the next diagnostic plot regeneration, include `continuity_sign_only_preserve_magnitude` as the leading candidate because it preserves obtuse angle magnitude while assigning sign from local backbone propagation, but label it diagnostic until controls pass.",
         ]
     )
     (outdir / "theta_sign_audit_overview.md").write_text("\n".join(lines) + "\n", encoding="utf-8")

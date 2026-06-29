@@ -29,9 +29,18 @@ THETA_SOURCE_COLUMNS = {
     "unsigned": "angle_unsigned_deg",
     "dihedral": "dihedral_deg",
     "continuity_backbone_signed": "continuity_backbone_signed",
+    "continuity_sign_only_preserve_magnitude": "continuity_sign_only_preserve_magnitude",
 }
 
-AUDIT_THETA_SOURCES = {"continuity_backbone_signed"}
+AUDIT_THETA_SOURCES = {"continuity_backbone_signed", "continuity_sign_only_preserve_magnitude"}
+CHAIN_COLORS = {
+    "A": "#1f77b4",
+    "B": "#ff7f0e",
+    "C": "#2ca02c",
+    "D": "#d62728",
+    "E": "#9467bd",
+    "F": "#8c564b",
+}
 
 
 def parse_args() -> argparse.Namespace:
@@ -183,6 +192,7 @@ def build_fingerprint_csv(
         "continuity_signed",
         "backbone_axis_signed",
         "continuity_backbone_signed",
+        "continuity_sign_only_preserve_magnitude",
     ]:
         if column in merged.columns:
             fingerprint_data[column] = merged[column]
@@ -237,20 +247,64 @@ def add_chain_breaks(ax, df: pd.DataFrame, gap: int) -> None:
             )
 
 
+def chain_color(chain: str) -> str:
+    if chain in CHAIN_COLORS:
+        return CHAIN_COLORS[chain]
+    keys = sorted(CHAIN_COLORS)
+    return CHAIN_COLORS[keys[hash(chain) % len(keys)]]
+
+
+def plot_chain_segments(ax, df: pd.DataFrame, y_column: str) -> None:
+    for chain, chain_df in df.groupby("chain", sort=True):
+        ax.plot(
+            chain_df["serial_x"],
+            chain_df[y_column],
+            "-o",
+            linewidth=1.1,
+            markersize=3,
+            color=chain_color(str(chain)),
+            label=f"Chain {chain}",
+        )
+
+
+def add_chain_labels(ax, df: pd.DataFrame) -> None:
+    y_min, y_max = ax.get_ylim()
+    y_text = y_max - 0.08 * (y_max - y_min)
+    for idx, (chain, chain_df) in enumerate(df.groupby("chain", sort=True)):
+        x_min = float(chain_df["serial_x"].min())
+        x_max = float(chain_df["serial_x"].max())
+        color = chain_color(str(chain))
+        if idx % 2 == 0:
+            ax.axvspan(x_min - 0.5, x_max + 0.5, color=color, alpha=0.05, zorder=0)
+        ax.text(
+            (x_min + x_max) / 2.0,
+            y_text,
+            f"Chain {chain}",
+            ha="center",
+            va="top",
+            fontsize=8,
+            fontweight="bold",
+            color=color,
+        )
+
+
 def plot_peptide_angle(csv_path: Path, outdir: Path, gap: int) -> dict[str, object]:
     model_label = csv_path.name.replace("_fingerprint.csv", "")
     df = add_serial_x(pd.read_csv(csv_path), gap)
     theta_source = str(df["theta_source"].iloc[0]) if len(df) else "unknown"
-    diagnostic = theta_source == "continuity_backbone_signed"
+    diagnostic = theta_source in AUDIT_THETA_SOURCES
 
     fig, ax = plt.subplots(figsize=(14, 5))
-    ax.plot(df["serial_x"], df["theta_pp_deg"], "-o", linewidth=1.0, markersize=3)
+    plot_chain_segments(ax, df, "theta_pp_deg")
     ax.set_xticks(df["serial_x"])
     ax.set_xticklabels(df["aa_i"], rotation=90, fontsize=6)
     add_chain_breaks(ax, df, gap)
     ax.axhline(0, color="black", linewidth=0.7, alpha=0.4)
-    if diagnostic:
+    if theta_source == "continuity_backbone_signed":
         title = f"Peptide angle plot for {model_label} (diagnostic continuity-backbone signed theta-pp)"
+        ylabel = "theta-pp diagnostic (deg)"
+    elif theta_source == "continuity_sign_only_preserve_magnitude":
+        title = f"Peptide angle plot for {model_label} (diagnostic preserve-magnitude signed theta-pp)"
         ylabel = "theta-pp diagnostic (deg)"
     else:
         title = f"Peptide angle plot for {model_label} ({theta_source})"
@@ -259,6 +313,8 @@ def plot_peptide_angle(csv_path: Path, outdir: Path, gap: int) -> dict[str, obje
     ax.set_xlabel("Residues (chains laid out serially)")
     ax.set_ylabel(ylabel)
     ax.grid(True, alpha=0.25)
+    add_chain_labels(ax, df)
+    ax.legend(ncol=6, fontsize=8, loc="lower center", bbox_to_anchor=(0.5, 1.01), frameon=False)
     fig.tight_layout()
 
     outdir.mkdir(parents=True, exist_ok=True)
@@ -273,7 +329,7 @@ def plot_torsion(csv_path: Path, outdir: Path, gap: int) -> dict[str, object]:
     df = add_serial_x(pd.read_csv(csv_path), gap)
 
     fig, ax = plt.subplots(figsize=(14, 5))
-    ax.plot(df["serial_x"], df["box_rms"], "-o", color="red", linewidth=1.0, markersize=3)
+    plot_chain_segments(ax, df, "box_rms")
     ax.set_xticks(df["serial_x"])
     ax.set_xticklabels(df["aa_i"], rotation=90, fontsize=6)
     add_chain_breaks(ax, df, gap)
@@ -281,6 +337,8 @@ def plot_torsion(csv_path: Path, outdir: Path, gap: int) -> dict[str, object]:
     ax.set_xlabel("Residues (chains laid out serially)")
     ax.set_ylabel("torsion / backbone strain (RMS)")
     ax.grid(True, alpha=0.25)
+    add_chain_labels(ax, df)
+    ax.legend(ncol=6, fontsize=8, loc="lower center", bbox_to_anchor=(0.5, 1.01), frameon=False)
     fig.tight_layout()
 
     outdir.mkdir(parents=True, exist_ok=True)
@@ -385,6 +443,8 @@ def diagnostic_stats(csv_path: Path) -> dict[str, object]:
         "min_theta": float(theta.min()),
         "median_theta": float(theta.median()),
         "max_theta": float(theta.max()),
+        "count_gt_90_abs": int((theta.abs() > 90.0).sum()),
+        "count_90_130_abs": int(((theta.abs() >= 90.0) & (theta.abs() <= 130.0)).sum()),
         "before_jumps": before_jumps,
         "after_jumps": after_jumps,
         "before_sign_changes": before_sign_changes,
@@ -399,9 +459,9 @@ def write_report(
     theta_source: str,
 ) -> None:
     plot_by_label = {row["model_label"]: row for row in plot_results}
-    diagnostic = theta_source == "continuity_backbone_signed"
+    diagnostic = theta_source in AUDIT_THETA_SOURCES
     title = (
-        "# Diagnostic continuity-backbone theta report"
+        "# Diagnostic theta report"
         if diagnostic
         else "# Old-style peptide angle/torsion fingerprint report"
     )
@@ -416,6 +476,14 @@ def write_report(
                 "- This is a diagnostic corrected theta source pending controls and/or comparison to the original Howard/Loren implementation.",
                 "- It should not yet be described as final manuscript theta-pp.",
             ]
+        )
+    if theta_source == "continuity_backbone_signed":
+        lines.append(
+            "- Note: this source flips adjacent normals to positive dot products before angle calculation; it removes large jumps but folds obtuse beta-like angles toward acute complements."
+        )
+    elif theta_source == "continuity_sign_only_preserve_magnitude":
+        lines.append(
+            "- Note: this source preserves the raw 0..180 degree inter-plane magnitude and assigns sign separately using the local backbone propagation axis."
         )
     lines.extend(
         [
@@ -433,8 +501,8 @@ def write_report(
             [
                 "## Before/After Diagnostics",
                 "",
-                "| model | rows | current jumps >150 deg | corrected jumps >150 deg | current sign changes | corrected sign changes | min theta | median theta | max theta |",
-                "|---|---:|---:|---:|---:|---:|---:|---:|---:|",
+                "| model | rows | current jumps >150 deg | corrected jumps >150 deg | current sign changes | corrected sign changes | min theta | median theta | max theta | |theta| > 90 | |theta| 90-130 |",
+                "|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|",
             ]
         )
         for result in build_results:
@@ -442,15 +510,25 @@ def write_report(
             lines.append(
                 f"| `{stats['model_label']}` | {stats['rows']} | {stats['before_jumps']} | {stats['after_jumps']} | "
                 f"{stats['before_sign_changes']} | {stats['after_sign_changes']} | "
-                f"{stats['min_theta']:.3f} | {stats['median_theta']:.3f} | {stats['max_theta']:.3f} |"
+                f"{stats['min_theta']:.3f} | {stats['median_theta']:.3f} | {stats['max_theta']:.3f} | "
+                f"{stats['count_gt_90_abs']} | {stats['count_90_130_abs']} |"
             )
-        lines.extend(
-            [
-                "",
-                "The corrected diagnostic plots reduce the artificial >150 degree alternating jumps to zero for these three models.",
-                "",
-            ]
-        )
+        if theta_source == "continuity_backbone_signed":
+            lines.extend(
+                [
+                    "",
+                    "The continuity-backbone diagnostic reduces artificial >150 degree jumps, but folds obtuse beta-like angle magnitudes into acute complements.",
+                    "",
+                ]
+            )
+        elif theta_source == "continuity_sign_only_preserve_magnitude":
+            lines.extend(
+                [
+                    "",
+                    "The preserve-magnitude diagnostic restores obtuse beta-like angle magnitudes while assigning sign separately. It remains diagnostic pending controls.",
+                    "",
+                ]
+            )
 
     for result in build_results:
         label = result["model_label"]
