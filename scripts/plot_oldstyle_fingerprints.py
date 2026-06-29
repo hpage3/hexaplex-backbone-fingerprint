@@ -22,6 +22,12 @@ DEFAULT_MODELS = [
     "pnab_hexaplex_twist30_rise3p38",
 ]
 
+THETA_SOURCE_COLUMNS = {
+    "signed": "angle_signed_deg",
+    "unsigned": "angle_unsigned_deg",
+    "dihedral": "dihedral_deg",
+}
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
@@ -42,20 +48,26 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--fingerprint-dir",
         type=Path,
-        default=Path("outputs/six_strand_first_panel_oldstyle_fingerprints/fingerprints"),
+        default=Path("outputs/six_strand_first_panel_oldstyle_fingerprints_signed/fingerprints"),
         help="Output directory for *_fingerprint.csv files.",
     )
     parser.add_argument(
         "--outdir",
         type=Path,
-        default=Path("outputs/six_strand_first_panel_oldstyle_fingerprints/plots"),
+        default=Path("outputs/six_strand_first_panel_oldstyle_fingerprints_signed/plots"),
         help="Output directory for old-style fingerprint PNGs.",
     )
     parser.add_argument(
         "--report",
         type=Path,
-        default=Path("outputs/six_strand_first_panel_oldstyle_fingerprints/oldstyle_fingerprint_report.md"),
+        default=Path("outputs/six_strand_first_panel_oldstyle_fingerprints_signed/oldstyle_fingerprint_report.md"),
         help="Markdown report path.",
+    )
+    parser.add_argument(
+        "--theta-source",
+        choices=sorted(THETA_SOURCE_COLUMNS),
+        default="signed",
+        help="Theta-like adjacent-plane column to plot as theta_pp_deg. Defaults to signed theta-pp.",
     )
     parser.add_argument(
         "--models",
@@ -81,6 +93,7 @@ def build_fingerprint_csv(
     numeric_root: Path,
     visual_root: Path,
     fingerprint_dir: Path,
+    theta_source: str,
 ) -> dict[str, object]:
     plane_path = numeric_root / model_label / "plane_features.csv"
     angle_path = visual_root / model_label / f"{model_label}_boxes_adjacent_angles.csv"
@@ -91,6 +104,9 @@ def build_fingerprint_csv(
 
     planes = pd.read_csv(plane_path)
     angles = pd.read_csv(angle_path)
+    theta_column = THETA_SOURCE_COLUMNS[theta_source]
+    if theta_column not in angles.columns:
+        raise ValueError(f"Missing theta source column {theta_column!r} in {angle_path}")
 
     planes["plane_index"] = planes["plane_index"].astype(int)
     angles["plane_index_A"] = angles["plane_index_A"].astype(int)
@@ -111,14 +127,16 @@ def build_fingerprint_csv(
             "chain": merged["chain"],
             "res_i": merged["res_i_A"].astype(int),
             "aa_i": merged["resname_i"].astype(str) + merged["res_i_A"].astype(int).astype(str),
-            "theta_pp_deg": merged["angle_unsigned_deg"],
+            "theta_pp_deg": merged[theta_column],
+            "theta_source": theta_source,
+            "angle_unsigned_deg": merged["angle_unsigned_deg"],
+            "angle_signed_deg": merged["angle_signed_deg"],
+            "dihedral_deg": merged["dihedral_deg"],
             "box_rms": merged["rms"],
             "plane_index": merged["plane_index_A"].astype(int),
             "res_j": merged["res_j_A"].astype(int),
             "cno_to_peptide_normal_angle_deg": merged["cno_to_peptide_normal_angle_deg"],
             "omega_deviation_from_trans_deg": merged["omega_deviation_from_trans_deg"],
-            "theta_signed_deg": merged["angle_signed_deg"],
-            "dihedral_deg": merged["dihedral_deg"],
             "source_model": model_label,
         }
     )
@@ -144,6 +162,8 @@ def build_fingerprint_csv(
         "input_angle_rows": len(angles),
         "output_rows": len(fingerprint),
         "dropped_rows": dropped_rows,
+        "theta_source": theta_source,
+        "theta_column": theta_column,
         "join_method": "aggregate adjacent plane_index_A + chain -> plane_features plane_index + chain",
     }
 
@@ -163,6 +183,7 @@ def plot_fingerprint(csv_path: Path, outdir: Path, gap: int, rms_as_yerr: str) -
     model_label = csv_path.name.replace("_fingerprint.csv", "")
     df = pd.read_csv(csv_path)
     df = df.sort_values(["chain", "res_i"]).reset_index(drop=True)
+    theta_source = str(df["theta_source"].iloc[0]) if "theta_source" in df.columns and len(df) else "unknown"
 
     serial_x: list[int] = []
     offset = 0
@@ -200,9 +221,10 @@ def plot_fingerprint(csv_path: Path, outdir: Path, gap: int, rms_as_yerr: str) -
                 alpha=0.5,
             )
 
-    ax.set_title(f"Theta/RMS fingerprint for {model_label}")
+    source_note = "signed theta-pp" if theta_source == "signed" else f"{theta_source} control"
+    ax.set_title(f"Theta/RMS fingerprint for {model_label} ({source_note})")
     ax.set_xlabel("Residues (chains laid out serially)")
-    ax.set_ylabel("theta_pp (deg)")
+    ax.set_ylabel(f"theta_pp (deg), source={theta_source}")
     if auto_scale:
         ax.text(
             0.01,
@@ -219,7 +241,12 @@ def plot_fingerprint(csv_path: Path, outdir: Path, gap: int, rms_as_yerr: str) -
     out_png = outdir / f"{model_label}_fingerprint.png"
     fig.savefig(out_png, dpi=300)
     plt.close(fig)
-    return {"model_label": model_label, "plot_path": out_png, "rms_scale": rms_scale}
+    return {
+        "model_label": model_label,
+        "plot_path": out_png,
+        "rms_scale": rms_scale,
+        "theta_source": theta_source,
+    }
 
 
 def write_report(report_path: Path, build_results: list[dict[str, object]], plot_results: list[dict[str, object]]) -> None:
@@ -233,12 +260,19 @@ def write_report(report_path: Path, build_results: list[dict[str, object]], plot
         "- `chain`: from both source tables; join requires it to match.",
         "- `res_i`: `res_i_A` from the legacy aggregate adjacent-angle CSV.",
         "- `aa_i`: `resname_i + res_i_A` from `plane_features.csv` after joining.",
-        "- `theta_pp_deg`: `angle_unsigned_deg` from the legacy aggregate adjacent-angle CSV.",
+        "- `theta_pp_deg`: selected with `--theta-source`; signed theta is the default manuscript-style fingerprint.",
+        "- `theta_source`: selected source label, one of `signed`, `unsigned`, or `dihedral`.",
+        "- `angle_unsigned_deg`, `angle_signed_deg`, `dihedral_deg`: retained for audit/comparison.",
         "- `box_rms`: `rms` from `plane_features.csv`.",
-        "- Optional columns: `plane_index`, `res_j`, CNO angle, omega deviation, signed theta, dihedral, and source model.",
+        "- Optional columns: `plane_index`, `res_j`, CNO angle, omega deviation, and source model.",
         "",
         "## Join Method",
         "The aggregate `*_boxes_adjacent_angles.csv` files use zero-based `plane_index_A`, which matches `plane_features.csv:plane_index`. The per-chain adjacent-angle CSV files use one-based chain-local indices, so they were inspected but not used for row alignment.",
+        "",
+        "## Theta Source",
+        f"- Source label: `{build_results[0]['theta_source']}`",
+        f"- Source column: `{build_results[0]['theta_column']}`",
+        "- Note: `unsigned` is a control and should not be silently treated as the manuscript θ-pp fingerprint.",
         "",
     ]
 
@@ -255,6 +289,7 @@ def write_report(report_path: Path, build_results: list[dict[str, object]], plot
                 f"- Plane feature columns: `{', '.join(result['plane_columns'])}`",
                 f"- Adjacent-angle columns: `{', '.join(result['angle_columns'])}`",
                 f"- Per-chain adjacent-angle columns inspected: `{', '.join(result['per_chain_columns'])}`",
+                f"- Theta source used: `{result['theta_source']}` -> `{result['theta_column']}`",
                 f"- Input adjacent rows: {result['input_angle_rows']}",
                 f"- Output fingerprint rows: {result['output_rows']}",
                 f"- Rows dropped during join: {result['dropped_rows']}",
@@ -271,7 +306,13 @@ def write_report(report_path: Path, build_results: list[dict[str, object]], plot
 def main() -> None:
     args = parse_args()
     build_results = [
-        build_fingerprint_csv(model, args.numeric_root, args.visual_root, args.fingerprint_dir)
+        build_fingerprint_csv(
+            model,
+            args.numeric_root,
+            args.visual_root,
+            args.fingerprint_dir,
+            args.theta_source,
+        )
         for model in args.models
     ]
     plot_results = [
