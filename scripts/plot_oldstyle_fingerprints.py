@@ -30,9 +30,14 @@ THETA_SOURCE_COLUMNS = {
     "dihedral": "dihedral_deg",
     "continuity_backbone_signed": "continuity_backbone_signed",
     "continuity_sign_only_preserve_magnitude": "continuity_sign_only_preserve_magnitude",
+    "preserve_magnitude_sign_stabilized": "preserve_magnitude_sign_stabilized",
 }
 
-AUDIT_THETA_SOURCES = {"continuity_backbone_signed", "continuity_sign_only_preserve_magnitude"}
+AUDIT_THETA_SOURCES = {
+    "continuity_backbone_signed",
+    "continuity_sign_only_preserve_magnitude",
+    "preserve_magnitude_sign_stabilized",
+}
 CHAIN_COLORS = {
     "A": "#1f77b4",
     "B": "#ff7f0e",
@@ -193,6 +198,7 @@ def build_fingerprint_csv(
         "backbone_axis_signed",
         "continuity_backbone_signed",
         "continuity_sign_only_preserve_magnitude",
+        "preserve_magnitude_sign_stabilized",
     ]:
         if column in merged.columns:
             fingerprint_data[column] = merged[column]
@@ -305,6 +311,9 @@ def plot_peptide_angle(csv_path: Path, outdir: Path, gap: int) -> dict[str, obje
         ylabel = "theta-pp diagnostic (deg)"
     elif theta_source == "continuity_sign_only_preserve_magnitude":
         title = f"Peptide angle plot for {model_label} (diagnostic preserve-magnitude signed theta-pp)"
+        ylabel = "theta-pp diagnostic (deg)"
+    elif theta_source == "preserve_magnitude_sign_stabilized":
+        title = f"Peptide angle plot for {model_label} (diagnostic sign-stabilized preserve-magnitude theta-pp)"
         ylabel = "theta-pp diagnostic (deg)"
     else:
         title = f"Peptide angle plot for {model_label} ({theta_source})"
@@ -485,6 +494,10 @@ def write_report(
         lines.append(
             "- Note: this source preserves the raw 0..180 degree inter-plane magnitude and assigns sign separately using the local backbone propagation axis."
         )
+    elif theta_source == "preserve_magnitude_sign_stabilized":
+        lines.append(
+            "- Note: this source preserves the raw 0..180 degree inter-plane magnitude and stabilizes signs chain-by-chain by choosing +magnitude or -magnitude closest to the previous accepted theta."
+        )
     lines.extend(
         [
             "",
@@ -526,6 +539,14 @@ def write_report(
                 [
                     "",
                     "The preserve-magnitude diagnostic restores obtuse beta-like angle magnitudes while assigning sign separately. It remains diagnostic pending controls.",
+                    "",
+                ]
+            )
+        elif theta_source == "preserve_magnitude_sign_stabilized":
+            lines.extend(
+                [
+                    "",
+                    "The sign-stabilized preserve-magnitude diagnostic keeps obtuse beta-like magnitudes and suppresses every-other-residue sign alternation. It remains diagnostic pending controls.",
                     "",
                 ]
             )

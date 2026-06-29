@@ -59,6 +59,7 @@ METHOD_COLUMNS = [
     "backbone_axis_signed",
     "continuity_backbone_signed",
     "continuity_sign_only_preserve_magnitude",
+    "preserve_magnitude_sign_stabilized",
 ]
 
 
@@ -85,6 +86,12 @@ def parse_args() -> argparse.Namespace:
         help="Additional or replacement model to audit. May be repeated.",
     )
     parser.add_argument("--skip-defaults", action="store_true", help="Only audit --pdb inputs.")
+    parser.add_argument(
+        "--sign-stabilization-threshold",
+        type=float,
+        default=90.0,
+        help="Traceability parameter for the sign-stabilization heuristic.",
+    )
     return parser.parse_args()
 
 
@@ -201,6 +208,35 @@ def sign_only_preserve_magnitude(n1: np.ndarray, n2: np.ndarray, axis: np.ndarra
     return sign * magnitude
 
 
+def stabilize_preserve_magnitude_signs(rows: list[dict[str, object]]) -> None:
+    """Stabilize signs chain-wise while preserving each theta magnitude."""
+    by_chain: dict[str, list[dict[str, object]]] = defaultdict(list)
+    for row in rows:
+        by_chain[str(row["chain"])].append(row)
+
+    for chain_rows in by_chain.values():
+        ordered = sorted(chain_rows, key=lambda r: (int(r["res_i_A"]), int(r["plane_index_A"])))
+        initial = np.array([float(row["continuity_sign_only_preserve_magnitude"]) for row in ordered], dtype=float)
+        finite_initial = initial[np.isfinite(initial)]
+        median_initial = float(np.median(finite_initial)) if len(finite_initial) else 0.0
+        seed_sign = -1.0 if median_initial <= 0.0 else 1.0
+        previous: float | None = None
+        for row in ordered:
+            raw_value = float(row["continuity_sign_only_preserve_magnitude"])
+            if not math.isfinite(raw_value):
+                row["preserve_magnitude_sign_stabilized"] = math.nan
+                continue
+            magnitude = abs(raw_value)
+            if previous is None:
+                accepted = seed_sign * magnitude
+            else:
+                positive = magnitude
+                negative = -magnitude
+                accepted = positive if abs(positive - previous) < abs(negative - previous) else negative
+            row["preserve_magnitude_sign_stabilized"] = accepted
+            previous = accepted
+
+
 def wrap_angle(angle: float) -> float:
     wrapped = ((angle + 180.0) % 360.0) - 180.0
     return 180.0 if wrapped == -180.0 and angle > 0 else wrapped
@@ -274,6 +310,8 @@ def audit_model(label: str, pdb_path: Path, outdir: Path) -> dict[str, object]:
                 "local_axis_z": float(local_axis[2]),
             }
         )
+
+    stabilize_preserve_magnitude_signs(rows)
 
     outdir.mkdir(parents=True, exist_ok=True)
     csv_path = outdir / f"{label}_theta_sign_audit.csv"
@@ -371,6 +409,7 @@ def summarize_rows(label: str, pdb_path: Path, rows: list[dict[str, object]]) ->
 
 def recommend_method(method_stats: dict[str, dict[str, float]]) -> str:
     candidates = [
+        "preserve_magnitude_sign_stabilized",
         "continuity_sign_only_preserve_magnitude",
         "continuity_backbone_signed",
         "backbone_axis_signed",
@@ -426,13 +465,14 @@ def plot_model(label: str, rows: list[dict[str, object]], path: Path, gap: int =
         serial_x.append(len(serial_x) + offset)
         last_chain = row["chain"]
 
-    fig, axes = plt.subplots(5, 1, figsize=(14, 12), sharex=True)
+    fig, axes = plt.subplots(6, 1, figsize=(14, 14), sharex=True)
     plot_methods = [
         "current_signed",
         "continuity_signed",
         "backbone_axis_signed",
         "continuity_backbone_signed",
         "continuity_sign_only_preserve_magnitude",
+        "preserve_magnitude_sign_stabilized",
     ]
     for ax, method in zip(axes, plot_methods):
         ax.plot(serial_x, [float(row[method]) for row in sorted_rows], marker="o", markersize=2.5, linewidth=1.0)
@@ -477,6 +517,7 @@ def write_overview(outdir: Path, results: list[dict[str, object]], controls_foun
             "- No chain-wide normal continuity is enforced before the current signed angle calculation.",
             "- `continuity_backbone_signed` flips adjacent normals to positive dot products before `atan2`, which removes large jumps but folds obtuse angles into acute complements.",
             "- `continuity_sign_only_preserve_magnitude` preserves the raw 0..180 degree inter-plane magnitude and assigns sign separately with the local backbone propagation axis.",
+            "- `preserve_magnitude_sign_stabilized` keeps the same raw magnitude but stabilizes signs chain-by-chain by choosing +magnitude or -magnitude closest to the previous accepted theta.",
         ]
     )
     lines = [
@@ -523,6 +564,11 @@ def write_overview(outdir: Path, results: list[dict[str, object]], controls_foun
             f"- Current signed jumps >150 deg: {current_jumps}; continuity-backbone jumps >150 deg: {continuity_jumps}"
         )
         lines.append(f"- Preserve-magnitude method has obtuse extrema present: {'yes' if preserve_obtuse else 'no'}")
+        stabilized_jumps = result["method_stats"]["preserve_magnitude_sign_stabilized"]["abrupt_jumps_gt_150"]
+        stabilized_sign_changes = result["method_stats"]["preserve_magnitude_sign_stabilized"]["sign_changes"]
+        lines.append(
+            f"- Sign-stabilized preserve-magnitude jumps >150 deg: {stabilized_jumps}; sign changes: {stabilized_sign_changes}"
+        )
         lines.append("")
 
     current_total_jumps = sum(r["method_stats"]["current_signed"]["abrupt_jumps_gt_150"] for r in results)
@@ -530,20 +576,25 @@ def write_overview(outdir: Path, results: list[dict[str, object]], controls_foun
     preserve_total_jumps = sum(
         r["method_stats"]["continuity_sign_only_preserve_magnitude"]["abrupt_jumps_gt_150"] for r in results
     )
+    stabilized_total_jumps = sum(
+        r["method_stats"]["preserve_magnitude_sign_stabilized"]["abrupt_jumps_gt_150"] for r in results
+    )
     lines.extend(
         [
             "## Interpretation",
             f"- Across audited Hexaplex models, current signed abrupt jumps >150 deg: {current_total_jumps}.",
             f"- Across audited Hexaplex models, continuity-backbone abrupt jumps >150 deg: {corrected_total_jumps}.",
             f"- Across audited Hexaplex models, preserve-magnitude abrupt jumps >150 deg: {preserve_total_jumps}.",
+            f"- Across audited Hexaplex models, sign-stabilized preserve-magnitude abrupt jumps >150 deg: {stabilized_total_jumps}.",
             "- If the current signed plot alternates between positive and negative values where a beta-like segment should remain mostly negative, the absence of chain-wide normal continuity is a plausible contributor.",
             "- The previous continuity/backbone method reduced abrupt jumps by forcing adjacent dot products positive, but that also collapses real obtuse beta-like angles toward acute complements.",
             "- The preserve-magnitude method restores obtuse angle magnitudes, but still requires validation against alpha/beta controls before being treated as the real manuscript theta-pp convention.",
+            "- The sign-stabilized preserve-magnitude method keeps obtuse magnitudes while suppressing the local sign-reference alternation.",
             "",
             "## Recommended Next Step",
             "- Do not keep treating the current legacy `angle_signed_deg` as trustworthy without controls.",
             "- Compare these diagnostics against the original Loren/Howard theta-pp implementation if available.",
-            "- For the next diagnostic plot regeneration, include `continuity_sign_only_preserve_magnitude` as the leading candidate because it preserves obtuse angle magnitude while assigning sign from local backbone propagation, but label it diagnostic until controls pass.",
+            "- For the next diagnostic plot regeneration, include `preserve_magnitude_sign_stabilized` as the leading candidate because it preserves obtuse angle magnitude and avoids every-other-residue sign alternation, but label it diagnostic until controls pass.",
         ]
     )
     (outdir / "theta_sign_audit_overview.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
