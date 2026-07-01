@@ -13,7 +13,8 @@ helix of radius ``helix_radius_A``.  The peptide-plane normal is defined by two
 angles: ``plane_normal_to_axis_deg`` is the angle from +Z, and
 ``plane_azimuth_deg`` sets the direction of the normal projection in the local
 radial/tangential plane.  ``in_plane_spin_deg`` rotates the motif within the
-plane after the normal is chosen.
+plane after the normal is chosen.  ``uniform_adjacent_z_offset_A`` adds an
+axial strand-register stagger: strand ``s`` receives ``s * offset`` along +Z.
 """
 
 from __future__ import annotations
@@ -68,12 +69,27 @@ class ModelParameters:
     plane_azimuth_deg: float = 0.0
     in_plane_spin_deg: float = 0.0
     handedness: str = "right"
-    strand_z_offset_A: float = 0.0
+    uniform_adjacent_z_offset_A: float = 0.0
+    z_offset_mode: str = "uniform_adjacent"
+    strand_z_offset_A: float | None = None
     strand_phase_offset_deg: float = 0.0
+
+    def __post_init__(self) -> None:
+        """Keep the older strand_z_offset_A name as an alias for uniform z-offset."""
+        if self.z_offset_mode not in {"uniform_adjacent", "alternating"}:
+            raise ValueError("z_offset_mode must be 'uniform_adjacent' or 'alternating'.")
+        if self.strand_z_offset_A is not None:
+            object.__setattr__(self, "uniform_adjacent_z_offset_A", float(self.strand_z_offset_A))
+        object.__setattr__(self, "strand_z_offset_A", float(self.uniform_adjacent_z_offset_A))
 
     @property
     def model_label(self) -> str:
         """Return a filename-safe label encoding the key parameters."""
+        z_part = ""
+        if self.uniform_adjacent_z_offset_A != 0.0 or self.z_offset_mode != "uniform_adjacent":
+            z_part = f"_zoff{format_param(self.uniform_adjacent_z_offset_A)}"
+            if self.z_offset_mode != "uniform_adjacent":
+                z_part += f"_{self.z_offset_mode}"
         return (
             f"{self.n_strands}strand_tw{format_param(self.twist_deg)}"
             f"_rise{format_param(self.rise_A)}"
@@ -81,6 +97,7 @@ class ModelParameters:
             f"_norm{format_param(self.plane_normal_to_axis_deg)}"
             f"_az{format_param(self.plane_azimuth_deg)}"
             f"_spin{format_param(self.in_plane_spin_deg)}"
+            f"{z_part}"
             f"_rep{self.repeats_per_strand}_{self.handedness}"
         )
 
@@ -127,10 +144,19 @@ def repeat_center(params: ModelParameters, strand_index: int, repeat_index: int)
         [
             params.helix_radius_A * np.cos(azimuth),
             params.helix_radius_A * np.sin(azimuth),
-            repeat_index * params.rise_A + strand_index * params.strand_z_offset_A,
+            repeat_index * params.rise_A + strand_z_offset(params, strand_index),
         ],
         dtype=float,
     )
+
+
+def strand_z_offset(params: ModelParameters, strand_index: int) -> float:
+    """Return the axial offset assigned to one strand."""
+    if params.z_offset_mode == "uniform_adjacent":
+        return strand_index * params.uniform_adjacent_z_offset_A
+    if params.z_offset_mode == "alternating":
+        return (strand_index % 2) * params.uniform_adjacent_z_offset_A
+    raise ValueError("z_offset_mode must be 'uniform_adjacent' or 'alternating'.")
 
 
 def local_radial_tangential(params: ModelParameters, strand_index: int, repeat_index: int) -> tuple[np.ndarray, np.ndarray]:
@@ -214,6 +240,8 @@ def write_pdb(atoms: list[PlacedAtom], path: str | Path, params: ModelParameters
         f"REMARK plane_normal_to_axis_deg {params.plane_normal_to_axis_deg:.3f}",
         f"REMARK plane_azimuth_deg {params.plane_azimuth_deg:.3f}",
         f"REMARK in_plane_spin_deg {params.in_plane_spin_deg:.3f}",
+        f"REMARK uniform_adjacent_z_offset_A {params.uniform_adjacent_z_offset_A:.3f}",
+        f"REMARK z_offset_mode {params.z_offset_mode}",
         f"REMARK handedness {params.handedness}",
     ]
     previous_chain = None
@@ -266,6 +294,8 @@ def manifest_row(params: ModelParameters, pdb_path: Path, xyz_path: Path | None,
         "plane_normal_to_axis_deg": params.plane_normal_to_axis_deg,
         "plane_azimuth_deg": params.plane_azimuth_deg,
         "in_plane_spin_deg": params.in_plane_spin_deg,
+        "uniform_adjacent_z_offset_A": params.uniform_adjacent_z_offset_A,
+        "z_offset_mode": params.z_offset_mode,
         "handedness": params.handedness,
         "strand_z_offset_A": params.strand_z_offset_A,
         "strand_phase_offset_deg": params.strand_phase_offset_deg,

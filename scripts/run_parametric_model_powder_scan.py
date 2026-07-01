@@ -85,6 +85,8 @@ def analyze_model(row: pd.Series, q_values: np.ndarray, args: argparse.Namespace
         "plane_normal_to_axis_deg": row["plane_normal_to_axis_deg"],
         "plane_azimuth_deg": row["plane_azimuth_deg"],
         "in_plane_spin_deg": row["in_plane_spin_deg"],
+        "uniform_adjacent_z_offset_A": row.get("uniform_adjacent_z_offset_A", row.get("strand_z_offset_A", 0.0)),
+        "z_offset_mode": row.get("z_offset_mode", "uniform_adjacent"),
         "nearest_C_peak_d_A": c_hit.peak_d_A,
         "nearest_C_error_A": c_hit.error_A,
         "nearest_C_intensity": c_hit.intensity,
@@ -133,6 +135,53 @@ def save_grouped_line(summary: pd.DataFrame, group_col: str, metrics: list[tuple
     ax.set_ylabel("best absolute error (A)")
     ax.set_title(title)
     ax.legend()
+    fig.tight_layout()
+    fig.savefig(path, dpi=180)
+    plt.close(fig)
+
+
+def save_hit_counts_by_group(summary: pd.DataFrame, group_col: str, path: Path, title: str) -> None:
+    grouped = summary.groupby(group_col)[
+        ["C_found_within_tolerance", "D_found_within_tolerance", "both_C_and_D_found"]
+    ].sum().sort_index()
+    fig, ax = plt.subplots(figsize=(7, 4.5))
+    x = np.arange(len(grouped.index))
+    width = 0.25
+    ax.bar(x - width, grouped["C_found_within_tolerance"], width=width, label="C")
+    ax.bar(x, grouped["D_found_within_tolerance"], width=width, label="D")
+    ax.bar(x + width, grouped["both_C_and_D_found"], width=width, label="C+D")
+    ax.set_xticks(x, [f"{value:g}" for value in grouped.index])
+    ax.set_xlabel(group_col)
+    ax.set_ylabel("model count")
+    ax.set_title(title)
+    ax.legend()
+    fig.tight_layout()
+    fig.savefig(path, dpi=180)
+    plt.close(fig)
+
+
+def save_two_parameter_heatmap(
+    summary: pd.DataFrame,
+    x_col: str,
+    y_col: str,
+    metric: str,
+    path: Path,
+    title: str,
+    aggfunc: str = "min",
+) -> None:
+    pivot = (
+        summary.pivot_table(index=y_col, columns=x_col, values=metric, aggfunc=aggfunc)
+        .sort_index(ascending=True)
+        .sort_index(axis=1)
+    )
+    fig, ax = plt.subplots(figsize=(7, 4.8))
+    image = ax.imshow(pivot.values, origin="lower", aspect="auto", cmap="magma_r")
+    ax.set_xticks(range(len(pivot.columns)), [f"{col:g}" for col in pivot.columns])
+    ax.set_yticks(range(len(pivot.index)), [f"{idx:g}" for idx in pivot.index])
+    ax.set_xlabel(x_col)
+    ax.set_ylabel(y_col)
+    ax.set_title(title)
+    fig.colorbar(image, ax=ax, label=metric)
     fig.tight_layout()
     fig.savefig(path, dpi=180)
     plt.close(fig)
@@ -199,15 +248,48 @@ def write_report(outdir: Path, summary: pd.DataFrame, best: pd.DataFrame, args: 
     summary["D_abs_error_A"] = summary["nearest_D_error_A"].abs()
     best_c = summary.sort_values("C_abs_error_A").iloc[0]
     best_d = summary.sort_values("D_abs_error_A").iloc[0]
+    has_z_offset = "uniform_adjacent_z_offset_A" in summary.columns
+    z_offset_text = ""
+    if has_z_offset:
+        z_group = (
+            summary.groupby("uniform_adjacent_z_offset_A")
+            .agg(
+                best_C_abs_error_A=("C_abs_error_A", "min"),
+                best_D_abs_error_A=("D_abs_error_A", "min"),
+                best_combined_abs_error_A=("CD_combined_abs_error_A", "min"),
+                C_hits=("C_found_within_tolerance", "sum"),
+                D_hits=("D_found_within_tolerance", "sum"),
+                both_hits=("both_C_and_D_found", "sum"),
+            )
+            .sort_index()
+        )
+        favored_combined = z_group["best_combined_abs_error_A"].idxmin()
+        favored_c = z_group["best_C_abs_error_A"].idxmin()
+        favored_d = z_group["best_D_abs_error_A"].idxmin()
+        hit_z = z_group[z_group["both_hits"] > 0].index.tolist()
+        hit_z_text = ", ".join(f"{value:g}" for value in hit_z) if hit_z else "none"
+        z_offset_text = f"""
+## Z-Offset Effects
+
+- Best combined z-offset: {favored_combined:g} A
+- Best C-only z-offset: {favored_c:g} A
+- Best D-only z-offset: {favored_d:g} A
+- Z-offset values with simultaneous C/D hits: {hit_z_text}
+- Best C-only model: z-offset {best_c.uniform_adjacent_z_offset_A:g} A, radius {best_c.helix_radius_A:g} A, normal/azimuth {best_c.plane_normal_to_axis_deg:g}/{best_c.plane_azimuth_deg:g}, spin {best_c.in_plane_spin_deg:g}; C peak {best_c.nearest_C_peak_d_A:.3f} A, D peak {best_c.nearest_D_peak_d_A:.3f} A.
+- Best D-only model: z-offset {best_d.uniform_adjacent_z_offset_A:g} A, radius {best_d.helix_radius_A:g} A, normal/azimuth {best_d.plane_normal_to_axis_deg:g}/{best_d.plane_azimuth_deg:g}, spin {best_d.in_plane_spin_deg:g}; C peak {best_d.nearest_C_peak_d_A:.3f} A, D peak {best_d.nearest_D_peak_d_A:.3f} A.
+
+In this panel, z-offset affects peak positions, not only intensities. The strongest C improvement occurs at large adjacent-strand z-offset, but the D-like feature shifts away from 7.3 A in those same models. D is preserved across several small-to-moderate z-offset values, but those models keep the nearest C-like feature too low.
+"""
     baseline_text = ""
     if args.baseline_summary and args.baseline_summary.exists():
         baseline = pd.read_csv(args.baseline_summary)
         before = best_stats(baseline)
         after = best_stats(summary)
+        baseline_label = "Previous refined sweep" if "refined" in str(args.baseline_summary).lower() else "Baseline sweep"
         baseline_text = f"""
-## First-Stage Comparison
+## Baseline Comparison
 
-| Metric | First stage | Refined stage |
+| Metric | {baseline_label} | Current sweep |
 |---|---:|---:|
 | Best C absolute error | {before['best_C_abs_error']:.3f} | {after['best_C_abs_error']:.3f} |
 | Best D absolute error | {before['best_D_abs_error']:.3f} | {after['best_D_abs_error']:.3f} |
@@ -242,7 +324,9 @@ This is a simplified first-pass powder model, not a full fiber diffraction or ch
 
 - Model: `{best_row.model_label}`
 - twist/rise: {best_row.twist_deg:g} deg / {best_row.rise_A:g} A
+- radius / z-offset: {best_row.helix_radius_A:g} A / {getattr(best_row, "uniform_adjacent_z_offset_A", 0.0):g} A
 - plane normal / azimuth: {best_row.plane_normal_to_axis_deg:g} deg / {best_row.plane_azimuth_deg:g} deg
+- in-plane spin: {best_row.in_plane_spin_deg:g} deg
 - nearest C peak: {best_row.nearest_C_peak_d_A:.3f} A (error {best_row.nearest_C_error_A:.3f} A)
 - nearest D peak: {best_row.nearest_D_peak_d_A:.3f} A (error {best_row.nearest_D_error_A:.3f} A)
 - combined absolute C/D error: {best_row.CD_combined_abs_error_A:.3f} A
@@ -252,24 +336,26 @@ This is a simplified first-pass powder model, not a full fiber diffraction or ch
 
 - Favored plane-normal angles among top ranked models: {dominant_values(best, "plane_normal_to_axis_deg")}
 - Favored plane azimuths among top ranked models: {dominant_values(best, "plane_azimuth_deg")}
+{("- Favored z-offsets among top ranked models: " + dominant_values(best, "uniform_adjacent_z_offset_A")) if has_z_offset else ""}
 
 ## Parameter Effects
 
 - Best C absolute error by radius is written to `best_C_D_combined_error_by_radius.png`.
 - Best combined error by spin is written to `best_combined_error_by_spin.png`.
 - Best normal/azimuth regions are summarized in the refined heatmaps.
-- Best C-only model: radius {best_c.helix_radius_A:g} A, normal/azimuth {best_c.plane_normal_to_axis_deg:g}/{best_c.plane_azimuth_deg:g}, spin {best_c.in_plane_spin_deg:g}; C peak {best_c.nearest_C_peak_d_A:.3f} A, D peak {best_c.nearest_D_peak_d_A:.3f} A.
-- Best D-only model: radius {best_d.helix_radius_A:g} A, normal/azimuth {best_d.plane_normal_to_axis_deg:g}/{best_d.plane_azimuth_deg:g}, spin {best_d.in_plane_spin_deg:g}; C peak {best_d.nearest_C_peak_d_A:.3f} A, D peak {best_d.nearest_D_peak_d_A:.3f} A.
+{z_offset_text}
 
 ## Interpretation
 
 The important question is whether C and D peak positions can arise from peptide-bond-plane orientation alone in a six-strand point-scatterer model. The best-ranked models show whether radius, in-plane spin, and finer orientation sampling can move the nearest C-like feature toward 5.6 A while preserving D near 7.3 A.
 
-Changing radius does move the nearest C-like feature: in this refined panel, radius 9 A gives the best C error, improving C from about 5.01 A in the first stage to about 5.35 A. However, that same radius shifts the D-like feature high, near 8.17 A. Radius 8 A preserves D near 7.3 A but keeps C low near 5.03 A. Thus C improves with radius, but C and D are not simultaneously recovered in this reduced refined grid.
+Changing radius and strand axial z-offset can move peak positions in this diagnostic model. In this sweep, axial strand phase rescues C-only feasibility in a few large-offset models, but it does not rescue simultaneous C/D recovery because D shifts away when C approaches 5.6 A. The best combined model remains the zero-offset D-preserving model.
 
-The best combined models remain close to the starter D-successful orientation region: twist 32 degrees, radius 8 A, normal around 40 degrees, azimuth 70-90 degrees, and spin 0 or 120 degrees. In-plane spin changes the combined ranking and intensities, but in this pass it does not solve the C/D position tradeoff. A strand phase or z-offset parameter is likely needed next because radius alone moves C and D in opposite useful directions.
+This partially supports Nick's hypothesis with an added condition: strand register/phase matters for the simple peptide-bond-plane forward model. However, the current uniform adjacent z-offset is not sufficient by itself. The next missing parameters are likely nonuniform strand offsets, finer radius/register sampling around large z-offset models, longer repeats, a more realistic peptide-bond motif, or a full diffraction workflow.
 
-Treat the intensity values and ranking as diagnostic: equal atom weights, finite model length, radius 8 A, no solvent/background, and isotropic Debye averaging are all simplifications.
+This remains a diagnostic point-scatterer Debye forward model. It tests peak-position feasibility, not final experimental intensity.
+
+Treat the intensity values and ranking cautiously: equal atom weights, finite model length, no solvent/background, and isotropic Debye averaging are all simplifications.
 
 ## Recommended Next Sweep
 
@@ -292,6 +378,11 @@ Because no models hit both targets, the next sweep should vary helix radius and 
 - `best_models_by_orientation.png`
 - `best_C_D_combined_error_by_radius.png`
 - `best_combined_error_by_spin.png`
+- `best_combined_error_by_z_offset.png`
+- `best_C_error_by_z_offset.png`
+- `best_D_error_by_z_offset.png`
+- `C_and_D_hit_counts_by_z_offset.png`
+- `heatmap_best_CD_error_by_z_offset_radius.png`
 """
     (outdir / "parametric_powder_scan_report.md").write_text(text, encoding="utf-8")
 
@@ -349,6 +440,42 @@ def main() -> int:
         args.outdir / "best_combined_error_by_spin.png",
         "Best combined C/D error by in-plane spin",
     )
+    if "uniform_adjacent_z_offset_A" in summary_df.columns:
+        save_grouped_line(
+            summary_df,
+            "uniform_adjacent_z_offset_A",
+            [("CD_combined_abs_error_A", "C+D")],
+            args.outdir / "best_combined_error_by_z_offset.png",
+            "Best combined C/D error by adjacent-strand z-offset",
+        )
+        save_grouped_line(
+            summary_df,
+            "uniform_adjacent_z_offset_A",
+            [("C_abs_error_A", "C")],
+            args.outdir / "best_C_error_by_z_offset.png",
+            "Best C error by adjacent-strand z-offset",
+        )
+        save_grouped_line(
+            summary_df,
+            "uniform_adjacent_z_offset_A",
+            [("D_abs_error_A", "D")],
+            args.outdir / "best_D_error_by_z_offset.png",
+            "Best D error by adjacent-strand z-offset",
+        )
+        save_hit_counts_by_group(
+            summary_df,
+            "uniform_adjacent_z_offset_A",
+            args.outdir / "C_and_D_hit_counts_by_z_offset.png",
+            "C/D hit counts by adjacent-strand z-offset",
+        )
+        save_two_parameter_heatmap(
+            summary_df,
+            "helix_radius_A",
+            "uniform_adjacent_z_offset_A",
+            "CD_combined_abs_error_A",
+            args.outdir / "heatmap_best_CD_error_by_z_offset_radius.png",
+            "Best C+D error by z-offset and radius",
+        )
     save_best_orientation_plot(best_df, args.outdir)
     write_report(args.outdir, summary_df, best_df, args)
 

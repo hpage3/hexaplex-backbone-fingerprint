@@ -41,6 +41,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--plane-normal-to-axis-deg", nargs="*", type=float, default=[0.0, 30.0, 60.0, 90.0])
     parser.add_argument("--plane-azimuth-deg", nargs="*", type=float, default=[0.0, 30.0, 60.0, 90.0])
     parser.add_argument("--in-plane-spin-deg", nargs="*", type=float, default=[0.0])
+    parser.add_argument("--uniform-adjacent-z-offset-A", nargs="*", type=float, default=[0.0])
+    parser.add_argument("--z-offset-mode", choices=["uniform_adjacent", "alternating"], default="uniform_adjacent")
     parser.add_argument("--handedness", choices=["right", "left"], default="right")
     parser.add_argument("--write-xyz", action="store_true", default=True)
     return parser.parse_args()
@@ -53,17 +55,20 @@ def iter_parameter_sweep(args: argparse.Namespace):
                 for normal_angle in args.plane_normal_to_axis_deg:
                     for azimuth in args.plane_azimuth_deg:
                         for spin in args.in_plane_spin_deg:
-                            yield ModelParameters(
-                                n_strands=args.n_strands,
-                                repeats_per_strand=args.repeats_per_strand,
-                                helix_radius_A=radius,
-                                twist_deg=twist,
-                                rise_A=rise,
-                                plane_normal_to_axis_deg=normal_angle,
-                                plane_azimuth_deg=azimuth,
-                                in_plane_spin_deg=spin,
-                                handedness=args.handedness,
-                            )
+                            for z_offset in args.uniform_adjacent_z_offset_A:
+                                yield ModelParameters(
+                                    n_strands=args.n_strands,
+                                    repeats_per_strand=args.repeats_per_strand,
+                                    helix_radius_A=radius,
+                                    twist_deg=twist,
+                                    rise_A=rise,
+                                    plane_normal_to_axis_deg=normal_angle,
+                                    plane_azimuth_deg=azimuth,
+                                    in_plane_spin_deg=spin,
+                                    uniform_adjacent_z_offset_A=z_offset,
+                                    z_offset_mode=args.z_offset_mode,
+                                    handedness=args.handedness,
+                                )
 
 
 def write_readme(outdir: Path, manifest: pd.DataFrame) -> None:
@@ -88,6 +93,7 @@ The C-N distance is peptide-like, so the existing peptide-plane parser can recov
 - Six strands are equally spaced around the axis at 60 degree azimuthal offsets.
 - Repeat centers lie on helices of radius `helix_radius_A`.
 - Moving one repeat forward on a strand advances by `twist_deg` around the axis and `rise_A` along z.
+- `uniform_adjacent_z_offset_A` staggers strand register axially: strand `s` receives `s * uniform_adjacent_z_offset_A` along z when `z_offset_mode` is `uniform_adjacent`.
 - Right-handed models use positive azimuthal advance with increasing z. Left-handed models reverse that sign.
 
 ## Peptide-Plane Orientation Parameters
@@ -100,7 +106,7 @@ The normal orientation and in-plane spin are distinct: the first controls how th
 
 ## Starter Sweep
 
-This run generated {len(manifest)} models. The helix radius values in this run are: {', '.join(f'{value:.2f}' for value in sorted(manifest['helix_radius_A'].unique()))} Angstrom. Radius is a modeling assumption and should be revisited before quantitative diffraction testing.
+This run generated {len(manifest)} models. The helix radius values in this run are: {', '.join(f'{value:.2f}' for value in sorted(manifest['helix_radius_A'].unique()))} Angstrom. The adjacent-strand z-offset values are: {', '.join(f'{value:.2f}' for value in sorted(manifest['uniform_adjacent_z_offset_A'].unique()))} Angstrom. Radius and strand register are modeling assumptions and should be revisited before quantitative diffraction testing.
 
 Example models:
 
