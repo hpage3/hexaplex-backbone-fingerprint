@@ -86,6 +86,8 @@ def analyze_model(row: pd.Series, q_values: np.ndarray, args: argparse.Namespace
         "plane_azimuth_deg": row["plane_azimuth_deg"],
         "in_plane_spin_deg": row["in_plane_spin_deg"],
         "uniform_adjacent_z_offset_A": row.get("uniform_adjacent_z_offset_A", row.get("strand_z_offset_A", 0.0)),
+        "alternating_z_offset_A": row.get("alternating_z_offset_A", row.get("uniform_adjacent_z_offset_A", row.get("strand_z_offset_A", 0.0))),
+        "active_z_offset_A": row.get("active_z_offset_A", row.get("uniform_adjacent_z_offset_A", row.get("strand_z_offset_A", 0.0))),
         "z_offset_mode": row.get("z_offset_mode", "uniform_adjacent"),
         "nearest_C_peak_d_A": c_hit.peak_d_A,
         "nearest_C_error_A": c_hit.error_A,
@@ -248,11 +250,15 @@ def write_report(outdir: Path, summary: pd.DataFrame, best: pd.DataFrame, args: 
     summary["D_abs_error_A"] = summary["nearest_D_error_A"].abs()
     best_c = summary.sort_values("C_abs_error_A").iloc[0]
     best_d = summary.sort_values("D_abs_error_A").iloc[0]
-    has_z_offset = "uniform_adjacent_z_offset_A" in summary.columns
+    z_group_col = "active_z_offset_A" if "active_z_offset_A" in summary.columns else "uniform_adjacent_z_offset_A"
+    mode_values = summary["z_offset_mode"].dropna().unique().tolist() if "z_offset_mode" in summary.columns else ["uniform_adjacent"]
+    z_mode = mode_values[0] if len(mode_values) == 1 else "mixed"
+    z_label = "alternating z-offset" if z_mode == "alternating" else "adjacent-strand z-offset"
+    has_z_offset = z_group_col in summary.columns
     z_offset_text = ""
     if has_z_offset:
         z_group = (
-            summary.groupby("uniform_adjacent_z_offset_A")
+            summary.groupby(z_group_col)
             .agg(
                 best_C_abs_error_A=("C_abs_error_A", "min"),
                 best_D_abs_error_A=("D_abs_error_A", "min"),
@@ -275,17 +281,25 @@ def write_report(outdir: Path, summary: pd.DataFrame, best: pd.DataFrame, args: 
 - Best C-only z-offset: {favored_c:g} A
 - Best D-only z-offset: {favored_d:g} A
 - Z-offset values with simultaneous C/D hits: {hit_z_text}
-- Best C-only model: z-offset {best_c.uniform_adjacent_z_offset_A:g} A, radius {best_c.helix_radius_A:g} A, normal/azimuth {best_c.plane_normal_to_axis_deg:g}/{best_c.plane_azimuth_deg:g}, spin {best_c.in_plane_spin_deg:g}; C peak {best_c.nearest_C_peak_d_A:.3f} A, D peak {best_c.nearest_D_peak_d_A:.3f} A.
-- Best D-only model: z-offset {best_d.uniform_adjacent_z_offset_A:g} A, radius {best_d.helix_radius_A:g} A, normal/azimuth {best_d.plane_normal_to_axis_deg:g}/{best_d.plane_azimuth_deg:g}, spin {best_d.in_plane_spin_deg:g}; C peak {best_d.nearest_C_peak_d_A:.3f} A, D peak {best_d.nearest_D_peak_d_A:.3f} A.
+- Best C-only model: z-offset {getattr(best_c, z_group_col):g} A, radius {best_c.helix_radius_A:g} A, normal/azimuth {best_c.plane_normal_to_axis_deg:g}/{best_c.plane_azimuth_deg:g}, spin {best_c.in_plane_spin_deg:g}; C peak {best_c.nearest_C_peak_d_A:.3f} A, D peak {best_c.nearest_D_peak_d_A:.3f} A.
+- Best D-only model: z-offset {getattr(best_d, z_group_col):g} A, radius {best_d.helix_radius_A:g} A, normal/azimuth {best_d.plane_normal_to_axis_deg:g}/{best_d.plane_azimuth_deg:g}, spin {best_d.in_plane_spin_deg:g}; C peak {best_d.nearest_C_peak_d_A:.3f} A, D peak {best_d.nearest_D_peak_d_A:.3f} A.
 
-In this panel, z-offset affects peak positions, not only intensities. The strongest C improvement occurs at large adjacent-strand z-offset, but the D-like feature shifts away from 7.3 A in those same models. D is preserved across several small-to-moderate z-offset values, but those models keep the nearest C-like feature too low.
+In this panel, {z_label} affects peak positions, not only intensities. The key question is whether the two-register phase pattern allows C near 5.6 A while preserving D near 7.3 A.
 """
     baseline_text = ""
     if args.baseline_summary and args.baseline_summary.exists():
         baseline = pd.read_csv(args.baseline_summary)
         before = best_stats(baseline)
         after = best_stats(summary)
-        baseline_label = "Previous refined sweep" if "refined" in str(args.baseline_summary).lower() else "Baseline sweep"
+        baseline_path_text = str(args.baseline_summary).lower()
+        if "alternating" in baseline_path_text:
+            baseline_label = "Alternating z-offset sweep"
+        elif "zoffset" in baseline_path_text:
+            baseline_label = "Uniform z-offset sweep"
+        elif "refined" in baseline_path_text:
+            baseline_label = "Previous refined sweep"
+        else:
+            baseline_label = "Baseline sweep"
         baseline_text = f"""
 ## Baseline Comparison
 
@@ -298,6 +312,17 @@ In this panel, z-offset affects peak positions, not only intensities. The strong
 | D hits within tolerance | {before['D_hits']} | {after['D_hits']} |
 | Both C and D hits | {before['both_hits']} | {after['both_hits']} |
 """
+    if both_count:
+        interpretation_result = (
+            "This sweep finds simultaneous C/D hits, supporting the idea that complementary "
+            "interface/register families can coexist in a simple six-strand peptide-bond-plane model."
+        )
+    else:
+        interpretation_result = (
+            "This sweep does not find simultaneous C/D hits. Alternating/register phase improves "
+            "C-only feasibility and preserves many D-only solutions, but the best C-improving models "
+            "still shift D away from 7.3 A."
+        )
     text = f"""# Parametric Six-Strand Peptide-Bond-Plane Powder Scan
 
 This is a direct forward-modeling test of Nick's hypothesis: simple six-stranded assemblies made only from peptide-bond-plane atoms may generate C and D powder features depending on peptide-plane orientation relative to the helical axis.
@@ -324,7 +349,8 @@ This is a simplified first-pass powder model, not a full fiber diffraction or ch
 
 - Model: `{best_row.model_label}`
 - twist/rise: {best_row.twist_deg:g} deg / {best_row.rise_A:g} A
-- radius / z-offset: {best_row.helix_radius_A:g} A / {getattr(best_row, "uniform_adjacent_z_offset_A", 0.0):g} A
+- radius / z-offset: {best_row.helix_radius_A:g} A / {getattr(best_row, z_group_col, 0.0):g} A
+- z-offset mode: {z_mode}
 - plane normal / azimuth: {best_row.plane_normal_to_axis_deg:g} deg / {best_row.plane_azimuth_deg:g} deg
 - in-plane spin: {best_row.in_plane_spin_deg:g} deg
 - nearest C peak: {best_row.nearest_C_peak_d_A:.3f} A (error {best_row.nearest_C_error_A:.3f} A)
@@ -336,7 +362,7 @@ This is a simplified first-pass powder model, not a full fiber diffraction or ch
 
 - Favored plane-normal angles among top ranked models: {dominant_values(best, "plane_normal_to_axis_deg")}
 - Favored plane azimuths among top ranked models: {dominant_values(best, "plane_azimuth_deg")}
-{("- Favored z-offsets among top ranked models: " + dominant_values(best, "uniform_adjacent_z_offset_A")) if has_z_offset else ""}
+{("- Favored z-offsets among top ranked models: " + dominant_values(best, z_group_col)) if has_z_offset else ""}
 
 ## Parameter Effects
 
@@ -349,9 +375,9 @@ This is a simplified first-pass powder model, not a full fiber diffraction or ch
 
 The important question is whether C and D peak positions can arise from peptide-bond-plane orientation alone in a six-strand point-scatterer model. The best-ranked models show whether radius, in-plane spin, and finer orientation sampling can move the nearest C-like feature toward 5.6 A while preserving D near 7.3 A.
 
-Changing radius and strand axial z-offset can move peak positions in this diagnostic model. In this sweep, axial strand phase rescues C-only feasibility in a few large-offset models, but it does not rescue simultaneous C/D recovery because D shifts away when C approaches 5.6 A. The best combined model remains the zero-offset D-preserving model.
+Changing radius and strand axial z-offset can move peak positions in this diagnostic model. {interpretation_result}
 
-This partially supports Nick's hypothesis with an added condition: strand register/phase matters for the simple peptide-bond-plane forward model. However, the current uniform adjacent z-offset is not sufficient by itself. The next missing parameters are likely nonuniform strand offsets, finer radius/register sampling around large z-offset models, longer repeats, a more realistic peptide-bond motif, or a full diffraction workflow.
+The result is therefore consistent with the broader idea that strand register matters, but it does not yet support the stronger claim that a simple alternating two-register pattern is enough to generate C and D simultaneously. The next missing parameters are likely a custom six-strand offset pattern, unequal radii, finer radius/register sampling, longer repeats, a more realistic peptide-bond motif, or a full diffraction workflow.
 
 This remains a diagnostic point-scatterer Debye forward model. It tests peak-position feasibility, not final experimental intensity.
 
@@ -383,6 +409,7 @@ Because no models hit both targets, the next sweep should vary helix radius and 
 - `best_D_error_by_z_offset.png`
 - `C_and_D_hit_counts_by_z_offset.png`
 - `heatmap_best_CD_error_by_z_offset_radius.png`
+- Alternating-mode scans write the corresponding `*_by_alternating_z_offset.png` files and `heatmap_best_CD_error_by_offset_radius.png`.
 """
     (outdir / "parametric_powder_scan_report.md").write_text(text, encoding="utf-8")
 
@@ -440,41 +467,46 @@ def main() -> int:
         args.outdir / "best_combined_error_by_spin.png",
         "Best combined C/D error by in-plane spin",
     )
-    if "uniform_adjacent_z_offset_A" in summary_df.columns:
+    z_group_col = "active_z_offset_A" if "active_z_offset_A" in summary_df.columns else "uniform_adjacent_z_offset_A"
+    if z_group_col in summary_df.columns:
+        z_modes = summary_df["z_offset_mode"].dropna().unique().tolist() if "z_offset_mode" in summary_df.columns else []
+        is_alternating = len(z_modes) == 1 and z_modes[0] == "alternating"
+        z_suffix = "alternating_z_offset" if is_alternating else "z_offset"
+        z_label = "alternating z-offset" if is_alternating else "adjacent-strand z-offset"
         save_grouped_line(
             summary_df,
-            "uniform_adjacent_z_offset_A",
+            z_group_col,
             [("CD_combined_abs_error_A", "C+D")],
-            args.outdir / "best_combined_error_by_z_offset.png",
-            "Best combined C/D error by adjacent-strand z-offset",
+            args.outdir / f"best_combined_error_by_{z_suffix}.png",
+            f"Best combined C/D error by {z_label}",
         )
         save_grouped_line(
             summary_df,
-            "uniform_adjacent_z_offset_A",
+            z_group_col,
             [("C_abs_error_A", "C")],
-            args.outdir / "best_C_error_by_z_offset.png",
-            "Best C error by adjacent-strand z-offset",
+            args.outdir / f"best_C_error_by_{z_suffix}.png",
+            f"Best C error by {z_label}",
         )
         save_grouped_line(
             summary_df,
-            "uniform_adjacent_z_offset_A",
+            z_group_col,
             [("D_abs_error_A", "D")],
-            args.outdir / "best_D_error_by_z_offset.png",
-            "Best D error by adjacent-strand z-offset",
+            args.outdir / f"best_D_error_by_{z_suffix}.png",
+            f"Best D error by {z_label}",
         )
         save_hit_counts_by_group(
             summary_df,
-            "uniform_adjacent_z_offset_A",
-            args.outdir / "C_and_D_hit_counts_by_z_offset.png",
-            "C/D hit counts by adjacent-strand z-offset",
+            z_group_col,
+            args.outdir / f"C_and_D_hit_counts_by_{z_suffix}.png",
+            f"C/D hit counts by {z_label}",
         )
         save_two_parameter_heatmap(
             summary_df,
             "helix_radius_A",
-            "uniform_adjacent_z_offset_A",
+            z_group_col,
             "CD_combined_abs_error_A",
-            args.outdir / "heatmap_best_CD_error_by_z_offset_radius.png",
-            "Best C+D error by z-offset and radius",
+            args.outdir / "heatmap_best_CD_error_by_offset_radius.png" if is_alternating else args.outdir / "heatmap_best_CD_error_by_z_offset_radius.png",
+            f"Best C+D error by {z_label} and radius",
         )
     save_best_orientation_plot(best_df, args.outdir)
     write_report(args.outdir, summary_df, best_df, args)

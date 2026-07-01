@@ -15,6 +15,8 @@ angles: ``plane_normal_to_axis_deg`` is the angle from +Z, and
 radial/tangential plane.  ``in_plane_spin_deg`` rotates the motif within the
 plane after the normal is chosen.  ``uniform_adjacent_z_offset_A`` adds an
 axial strand-register stagger: strand ``s`` receives ``s * offset`` along +Z.
+In ``alternating`` mode, strands A/C/E receive zero offset and B/D/F receive
+``alternating_z_offset_A``.
 """
 
 from __future__ import annotations
@@ -70,6 +72,7 @@ class ModelParameters:
     in_plane_spin_deg: float = 0.0
     handedness: str = "right"
     uniform_adjacent_z_offset_A: float = 0.0
+    alternating_z_offset_A: float | None = None
     z_offset_mode: str = "uniform_adjacent"
     strand_z_offset_A: float | None = None
     strand_phase_offset_deg: float = 0.0
@@ -80,14 +83,19 @@ class ModelParameters:
             raise ValueError("z_offset_mode must be 'uniform_adjacent' or 'alternating'.")
         if self.strand_z_offset_A is not None:
             object.__setattr__(self, "uniform_adjacent_z_offset_A", float(self.strand_z_offset_A))
+        if self.alternating_z_offset_A is None:
+            object.__setattr__(self, "alternating_z_offset_A", float(self.uniform_adjacent_z_offset_A))
+        elif self.z_offset_mode == "alternating":
+            object.__setattr__(self, "uniform_adjacent_z_offset_A", float(self.alternating_z_offset_A))
         object.__setattr__(self, "strand_z_offset_A", float(self.uniform_adjacent_z_offset_A))
 
     @property
     def model_label(self) -> str:
         """Return a filename-safe label encoding the key parameters."""
         z_part = ""
-        if self.uniform_adjacent_z_offset_A != 0.0 or self.z_offset_mode != "uniform_adjacent":
-            z_part = f"_zoff{format_param(self.uniform_adjacent_z_offset_A)}"
+        z_label_value = self.alternating_z_offset_A if self.z_offset_mode == "alternating" else self.uniform_adjacent_z_offset_A
+        if z_label_value != 0.0 or self.z_offset_mode != "uniform_adjacent":
+            z_part = f"_zoff{format_param(z_label_value)}"
             if self.z_offset_mode != "uniform_adjacent":
                 z_part += f"_{self.z_offset_mode}"
         return (
@@ -155,7 +163,7 @@ def strand_z_offset(params: ModelParameters, strand_index: int) -> float:
     if params.z_offset_mode == "uniform_adjacent":
         return strand_index * params.uniform_adjacent_z_offset_A
     if params.z_offset_mode == "alternating":
-        return (strand_index % 2) * params.uniform_adjacent_z_offset_A
+        return (strand_index % 2) * (params.alternating_z_offset_A or 0.0)
     raise ValueError("z_offset_mode must be 'uniform_adjacent' or 'alternating'.")
 
 
@@ -241,6 +249,7 @@ def write_pdb(atoms: list[PlacedAtom], path: str | Path, params: ModelParameters
         f"REMARK plane_azimuth_deg {params.plane_azimuth_deg:.3f}",
         f"REMARK in_plane_spin_deg {params.in_plane_spin_deg:.3f}",
         f"REMARK uniform_adjacent_z_offset_A {params.uniform_adjacent_z_offset_A:.3f}",
+        f"REMARK alternating_z_offset_A {(params.alternating_z_offset_A or 0.0):.3f}",
         f"REMARK z_offset_mode {params.z_offset_mode}",
         f"REMARK handedness {params.handedness}",
     ]
@@ -295,6 +304,8 @@ def manifest_row(params: ModelParameters, pdb_path: Path, xyz_path: Path | None,
         "plane_azimuth_deg": params.plane_azimuth_deg,
         "in_plane_spin_deg": params.in_plane_spin_deg,
         "uniform_adjacent_z_offset_A": params.uniform_adjacent_z_offset_A,
+        "alternating_z_offset_A": params.alternating_z_offset_A,
+        "active_z_offset_A": params.alternating_z_offset_A if params.z_offset_mode == "alternating" else params.uniform_adjacent_z_offset_A,
         "z_offset_mode": params.z_offset_mode,
         "handedness": params.handedness,
         "strand_z_offset_A": params.strand_z_offset_A,

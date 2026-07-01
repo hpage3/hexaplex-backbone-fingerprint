@@ -71,6 +71,22 @@ def test_zero_z_offset_reproduces_synchronized_register():
     assert strand_z_values == [0.0] * 6
 
 
+def test_alternating_z_offset_staggers_odd_strands():
+    params = ModelParameters(n_strands=6, z_offset_mode="alternating", alternating_z_offset_A=1.25)
+
+    strand_z_values = [repeat_center(params, strand_index=i, repeat_index=0)[2] for i in range(6)]
+
+    assert strand_z_values == [0.0, 1.25, 0.0, 1.25, 0.0, 1.25]
+
+
+def test_zero_alternating_z_offset_reproduces_synchronized_register():
+    params = ModelParameters(n_strands=6, z_offset_mode="alternating", alternating_z_offset_A=0.0)
+
+    strand_z_values = [repeat_center(params, strand_index=i, repeat_index=0)[2] for i in range(6)]
+
+    assert strand_z_values == [0.0] * 6
+
+
 def test_legacy_strand_z_offset_alias_records_uniform_offset():
     params = ModelParameters(strand_z_offset_A=0.25)
     row = manifest_row(params, "model.pdb", "model.xyz", atom_count=1)
@@ -78,3 +94,12 @@ def test_legacy_strand_z_offset_alias_records_uniform_offset():
     assert params.uniform_adjacent_z_offset_A == 0.25
     assert row["uniform_adjacent_z_offset_A"] == 0.25
     assert row["strand_z_offset_A"] == 0.25
+
+
+def test_manifest_records_alternating_z_offset():
+    params = ModelParameters(z_offset_mode="alternating", alternating_z_offset_A=0.75)
+    row = manifest_row(params, "model.pdb", "model.xyz", atom_count=1)
+
+    assert row["z_offset_mode"] == "alternating"
+    assert row["alternating_z_offset_A"] == 0.75
+    assert row["active_z_offset_A"] == 0.75
