@@ -42,6 +42,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--d-min", type=float, default=2.5)
     parser.add_argument("--d-max", type=float, default=12.0)
     parser.add_argument("--write-profiles", action="store_true", help="Write every per-model radial profile CSV.")
+    parser.add_argument("--baseline-summary", type=Path, help="Optional first-stage summary CSV for before/after comparison.")
     return parser.parse_args()
 
 
@@ -98,17 +99,17 @@ def analyze_model(row: pd.Series, q_values: np.ndarray, args: argparse.Namespace
     return summary, profile.assign(model_label=model_label), pd.DataFrame(peak_rows)
 
 
-def pivot_metric(df: pd.DataFrame, metric: str) -> pd.DataFrame:
+def pivot_metric(df: pd.DataFrame, metric: str, aggfunc: str = "mean") -> pd.DataFrame:
     return df.pivot_table(
         index="plane_normal_to_axis_deg",
         columns="plane_azimuth_deg",
         values=metric,
-        aggfunc="mean",
+        aggfunc=aggfunc,
     ).sort_index(ascending=True).sort_index(axis=1)
 
 
-def save_heatmap(df: pd.DataFrame, metric: str, path: Path, title: str, cmap: str = "viridis") -> None:
-    pivot = pivot_metric(df, metric)
+def save_heatmap(df: pd.DataFrame, metric: str, path: Path, title: str, cmap: str = "viridis", aggfunc: str = "mean") -> None:
+    pivot = pivot_metric(df, metric, aggfunc=aggfunc)
     fig, ax = plt.subplots(figsize=(6, 4.8))
     image = ax.imshow(pivot.values, origin="lower", aspect="auto", cmap=cmap)
     ax.set_xticks(range(len(pivot.columns)), [f"{col:g}" for col in pivot.columns])
@@ -117,6 +118,21 @@ def save_heatmap(df: pd.DataFrame, metric: str, path: Path, title: str, cmap: st
     ax.set_ylabel("plane_normal_to_axis_deg")
     ax.set_title(title)
     fig.colorbar(image, ax=ax, label=metric)
+    fig.tight_layout()
+    fig.savefig(path, dpi=180)
+    plt.close(fig)
+
+
+def save_grouped_line(summary: pd.DataFrame, group_col: str, metrics: list[tuple[str, str]], path: Path, title: str) -> None:
+    fig, ax = plt.subplots(figsize=(7, 4.5))
+    grouped = summary.groupby(group_col)
+    for metric, label in metrics:
+        values = grouped[metric].min().sort_index()
+        ax.plot(values.index, values.values, marker="o", label=label)
+    ax.set_xlabel(group_col)
+    ax.set_ylabel("best absolute error (A)")
+    ax.set_title(title)
+    ax.legend()
     fig.tight_layout()
     fig.savefig(path, dpi=180)
     plt.close(fig)
@@ -155,6 +171,18 @@ def save_best_orientation_plot(best: pd.DataFrame, outdir: Path) -> None:
     plt.close(fig)
 
 
+def best_stats(summary: pd.DataFrame) -> dict[str, float]:
+    ranked = rank_powder_summary(summary)
+    return {
+        "best_C_abs_error": float(summary["nearest_C_error_A"].abs().min()),
+        "best_D_abs_error": float(summary["nearest_D_error_A"].abs().min()),
+        "best_combined_abs_error": float(ranked.iloc[0]["CD_combined_abs_error_A"]),
+        "C_hits": int(summary["C_found_within_tolerance"].sum()),
+        "D_hits": int(summary["D_found_within_tolerance"].sum()),
+        "both_hits": int(summary["both_C_and_D_found"].sum()),
+    }
+
+
 def dominant_values(best: pd.DataFrame, column: str, n: int = 12) -> str:
     subset = best.head(n)
     counts = subset[column].value_counts()
@@ -166,6 +194,28 @@ def write_report(outdir: Path, summary: pd.DataFrame, best: pd.DataFrame, args: 
     c_count = int(summary["C_found_within_tolerance"].sum())
     d_count = int(summary["D_found_within_tolerance"].sum())
     best_row = best.iloc[0]
+    summary = summary.copy()
+    summary["C_abs_error_A"] = summary["nearest_C_error_A"].abs()
+    summary["D_abs_error_A"] = summary["nearest_D_error_A"].abs()
+    best_c = summary.sort_values("C_abs_error_A").iloc[0]
+    best_d = summary.sort_values("D_abs_error_A").iloc[0]
+    baseline_text = ""
+    if args.baseline_summary and args.baseline_summary.exists():
+        baseline = pd.read_csv(args.baseline_summary)
+        before = best_stats(baseline)
+        after = best_stats(summary)
+        baseline_text = f"""
+## First-Stage Comparison
+
+| Metric | First stage | Refined stage |
+|---|---:|---:|
+| Best C absolute error | {before['best_C_abs_error']:.3f} | {after['best_C_abs_error']:.3f} |
+| Best D absolute error | {before['best_D_abs_error']:.3f} | {after['best_D_abs_error']:.3f} |
+| Best combined C/D absolute error | {before['best_combined_abs_error']:.3f} | {after['best_combined_abs_error']:.3f} |
+| C hits within tolerance | {before['C_hits']} | {after['C_hits']} |
+| D hits within tolerance | {before['D_hits']} | {after['D_hits']} |
+| Both C and D hits | {before['both_hits']} | {after['both_hits']} |
+"""
     text = f"""# Parametric Six-Strand Peptide-Bond-Plane Powder Scan
 
 This is a direct forward-modeling test of Nick's hypothesis: simple six-stranded assemblies made only from peptide-bond-plane atoms may generate C and D powder features depending on peptide-plane orientation relative to the helical axis.
@@ -196,15 +246,28 @@ This is a simplified first-pass powder model, not a full fiber diffraction or ch
 - nearest C peak: {best_row.nearest_C_peak_d_A:.3f} A (error {best_row.nearest_C_error_A:.3f} A)
 - nearest D peak: {best_row.nearest_D_peak_d_A:.3f} A (error {best_row.nearest_D_error_A:.3f} A)
 - combined absolute C/D error: {best_row.CD_combined_abs_error_A:.3f} A
+{baseline_text}
 
 ## Orientation Trends
 
 - Favored plane-normal angles among top ranked models: {dominant_values(best, "plane_normal_to_axis_deg")}
 - Favored plane azimuths among top ranked models: {dominant_values(best, "plane_azimuth_deg")}
 
+## Parameter Effects
+
+- Best C absolute error by radius is written to `best_C_D_combined_error_by_radius.png`.
+- Best combined error by spin is written to `best_combined_error_by_spin.png`.
+- Best normal/azimuth regions are summarized in the refined heatmaps.
+- Best C-only model: radius {best_c.helix_radius_A:g} A, normal/azimuth {best_c.plane_normal_to_axis_deg:g}/{best_c.plane_azimuth_deg:g}, spin {best_c.in_plane_spin_deg:g}; C peak {best_c.nearest_C_peak_d_A:.3f} A, D peak {best_c.nearest_D_peak_d_A:.3f} A.
+- Best D-only model: radius {best_d.helix_radius_A:g} A, normal/azimuth {best_d.plane_normal_to_axis_deg:g}/{best_d.plane_azimuth_deg:g}, spin {best_d.in_plane_spin_deg:g}; C peak {best_d.nearest_C_peak_d_A:.3f} A, D peak {best_d.nearest_D_peak_d_A:.3f} A.
+
 ## Interpretation
 
-The important first-pass question is whether C and D peak positions can arise from peptide-bond-plane orientation alone in a six-strand point-scatterer model. In this starter sweep, no model placed both C and D within the requested tolerance. The best-ranked models place D close to the 7.3 A target but place the nearest C-like local maximum low, near 5.0 A rather than 5.6 A. This does not falsify Nick's hypothesis, but it says the first coarse orientation sweep at radius 8 A is not sufficient by itself.
+The important question is whether C and D peak positions can arise from peptide-bond-plane orientation alone in a six-strand point-scatterer model. The best-ranked models show whether radius, in-plane spin, and finer orientation sampling can move the nearest C-like feature toward 5.6 A while preserving D near 7.3 A.
+
+Changing radius does move the nearest C-like feature: in this refined panel, radius 9 A gives the best C error, improving C from about 5.01 A in the first stage to about 5.35 A. However, that same radius shifts the D-like feature high, near 8.17 A. Radius 8 A preserves D near 7.3 A but keeps C low near 5.03 A. Thus C improves with radius, but C and D are not simultaneously recovered in this reduced refined grid.
+
+The best combined models remain close to the starter D-successful orientation region: twist 32 degrees, radius 8 A, normal around 40 degrees, azimuth 70-90 degrees, and spin 0 or 120 degrees. In-plane spin changes the combined ranking and intensities, but in this pass it does not solve the C/D position tradeoff. A strand phase or z-offset parameter is likely needed next because radius alone moves C and D in opposite useful directions.
 
 Treat the intensity values and ranking as diagnostic: equal atom weights, finite model length, radius 8 A, no solvent/background, and isotropic Debye averaging are all simplifications.
 
@@ -219,11 +282,16 @@ Because no models hit both targets, the next sweep should vary helix radius and 
 - `best_parametric_powder_models.csv`
 - `best_model_radial_profiles.png`
 - `heatmap_CD_error_by_normal_azimuth.png`
+- `heatmap_best_CD_error_by_normal_azimuth.png`
 - `heatmap_C_error_by_normal_azimuth.png`
+- `heatmap_best_C_error_by_normal_azimuth.png`
 - `heatmap_D_error_by_normal_azimuth.png`
+- `heatmap_best_D_error_by_normal_azimuth.png`
 - `heatmap_C_intensity_by_normal_azimuth.png`
 - `heatmap_D_intensity_by_normal_azimuth.png`
 - `best_models_by_orientation.png`
+- `best_C_D_combined_error_by_radius.png`
+- `best_combined_error_by_spin.png`
 """
     (outdir / "parametric_powder_scan_report.md").write_text(text, encoding="utf-8")
 
@@ -257,11 +325,30 @@ def main() -> int:
     best_df.to_csv(args.outdir / "best_parametric_powder_models.csv", index=False)
 
     save_best_profiles(profiles_by_label, best_df, args.outdir, args.target_c, args.target_d)
+    summary_df["C_abs_error_A"] = summary_df["nearest_C_error_A"].abs()
+    summary_df["D_abs_error_A"] = summary_df["nearest_D_error_A"].abs()
     save_heatmap(summary_df, "CD_combined_abs_error_A", args.outdir / "heatmap_CD_error_by_normal_azimuth.png", "Mean C+D absolute error by orientation", cmap="magma_r")
+    save_heatmap(summary_df, "CD_combined_abs_error_A", args.outdir / "heatmap_best_CD_error_by_normal_azimuth.png", "Best C+D absolute error by orientation", cmap="magma_r", aggfunc="min")
     save_heatmap(summary_df, "nearest_C_error_A", args.outdir / "heatmap_C_error_by_normal_azimuth.png", "Mean signed C error by orientation", cmap="coolwarm")
+    save_heatmap(summary_df, "C_abs_error_A", args.outdir / "heatmap_best_C_error_by_normal_azimuth.png", "Best C absolute error by orientation", cmap="magma_r", aggfunc="min")
     save_heatmap(summary_df, "nearest_D_error_A", args.outdir / "heatmap_D_error_by_normal_azimuth.png", "Mean signed D error by orientation", cmap="coolwarm")
+    save_heatmap(summary_df, "D_abs_error_A", args.outdir / "heatmap_best_D_error_by_normal_azimuth.png", "Best D absolute error by orientation", cmap="magma_r", aggfunc="min")
     save_heatmap(summary_df, "nearest_C_intensity", args.outdir / "heatmap_C_intensity_by_normal_azimuth.png", "Mean C peak intensity by orientation")
     save_heatmap(summary_df, "nearest_D_intensity", args.outdir / "heatmap_D_intensity_by_normal_azimuth.png", "Mean D peak intensity by orientation")
+    save_grouped_line(
+        summary_df,
+        "helix_radius_A",
+        [("C_abs_error_A", "C"), ("D_abs_error_A", "D"), ("CD_combined_abs_error_A", "C+D")],
+        args.outdir / "best_C_D_combined_error_by_radius.png",
+        "Best C/D error by helix radius",
+    )
+    save_grouped_line(
+        summary_df,
+        "in_plane_spin_deg",
+        [("CD_combined_abs_error_A", "C+D")],
+        args.outdir / "best_combined_error_by_spin.png",
+        "Best combined C/D error by in-plane spin",
+    )
     save_best_orientation_plot(best_df, args.outdir)
     write_report(args.outdir, summary_df, best_df, args)
 

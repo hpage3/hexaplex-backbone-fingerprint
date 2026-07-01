@@ -35,12 +35,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--outdir", type=Path, default=DEFAULT_OUTDIR)
     parser.add_argument("--n-strands", type=int, default=6)
     parser.add_argument("--repeats-per-strand", type=int, default=16)
-    parser.add_argument("--helix-radius-A", type=float, default=8.0)
+    parser.add_argument("--helix-radius-A", nargs="*", type=float, default=[8.0])
     parser.add_argument("--twist-deg", nargs="*", type=float, default=[28.0, 30.0, 32.0])
     parser.add_argument("--rise-A", nargs="*", type=float, default=[3.38, 3.40])
     parser.add_argument("--plane-normal-to-axis-deg", nargs="*", type=float, default=[0.0, 30.0, 60.0, 90.0])
     parser.add_argument("--plane-azimuth-deg", nargs="*", type=float, default=[0.0, 30.0, 60.0, 90.0])
-    parser.add_argument("--in-plane-spin-deg", type=float, default=0.0)
+    parser.add_argument("--in-plane-spin-deg", nargs="*", type=float, default=[0.0])
     parser.add_argument("--handedness", choices=["right", "left"], default="right")
     parser.add_argument("--write-xyz", action="store_true", default=True)
     return parser.parse_args()
@@ -49,19 +49,21 @@ def parse_args() -> argparse.Namespace:
 def iter_parameter_sweep(args: argparse.Namespace):
     for twist in args.twist_deg:
         for rise in args.rise_A:
-            for normal_angle in args.plane_normal_to_axis_deg:
-                for azimuth in args.plane_azimuth_deg:
-                    yield ModelParameters(
-                        n_strands=args.n_strands,
-                        repeats_per_strand=args.repeats_per_strand,
-                        helix_radius_A=args.helix_radius_A,
-                        twist_deg=twist,
-                        rise_A=rise,
-                        plane_normal_to_axis_deg=normal_angle,
-                        plane_azimuth_deg=azimuth,
-                        in_plane_spin_deg=args.in_plane_spin_deg,
-                        handedness=args.handedness,
-                    )
+            for radius in args.helix_radius_A:
+                for normal_angle in args.plane_normal_to_axis_deg:
+                    for azimuth in args.plane_azimuth_deg:
+                        for spin in args.in_plane_spin_deg:
+                            yield ModelParameters(
+                                n_strands=args.n_strands,
+                                repeats_per_strand=args.repeats_per_strand,
+                                helix_radius_A=radius,
+                                twist_deg=twist,
+                                rise_A=rise,
+                                plane_normal_to_axis_deg=normal_angle,
+                                plane_azimuth_deg=azimuth,
+                                in_plane_spin_deg=spin,
+                                handedness=args.handedness,
+                            )
 
 
 def write_readme(outdir: Path, manifest: pd.DataFrame) -> None:
@@ -98,7 +100,7 @@ The normal orientation and in-plane spin are distinct: the first controls how th
 
 ## Starter Sweep
 
-This run generated {len(manifest)} models. The helix radius is fixed at {manifest['helix_radius_A'].iloc[0]:.2f} Angstrom as a first modeling assumption. It is configurable and should be revisited before quantitative diffraction testing.
+This run generated {len(manifest)} models. The helix radius values in this run are: {', '.join(f'{value:.2f}' for value in sorted(manifest['helix_radius_A'].unique()))} Angstrom. Radius is a modeling assumption and should be revisited before quantitative diffraction testing.
 
 Example models:
 
