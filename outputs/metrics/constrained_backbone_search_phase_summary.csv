@@ -1,0 +1,6 @@
+﻿"branch","omega_mode","repeat_type","generated_count","geometry_safe_count","scored_count","safe_deltas","C_peak_A","D_peak_A","C_trend","D_trend","intensity_summary","interpretation"
+"local_candidates","fixed_180","mixed","10","7","7","local safe set","5.7454","7.2756","flat","flat","not emphasized; local edits too diluted","single local perturbations did not move global C/D peaks"
+"repeated_CYP_GLU","fixed_180","CYP->GLU","6","3","3","-1,0,+1","5.7454","7.2756","flat","flat","C span 0.3147%; D span 0.0290%","narrow +/-1 degree geometry-safe basin; no C/D peak-position movement"
+"GLU_MEP_fixed_180_refinement","fixed_180","GLU->MEP","21","0","0","none","","","not scored","not scored","not scored","strict omega=180 overconstrains GLU->MEP; endpoint closure alone was insufficient"
+"GLU_MEP_omega_mode_comparison","fixed_180 vs baseline_parent","GLU->MEP","42","fixed_180 0/21; baseline_parent 8/21","0","baseline_parent rescued nonzero attempts","","","not scored","not scored","not scored","baseline_parent omega rescues GLU->MEP feasibility; fixed_180 is too restrictive"
+"repeated_GLU_MEP_baseline_parent","baseline_parent","GLU->MEP","5","2","2","-1,0","5.7454","7.2756","flat","flat","delta -1 vs 0: C -0.30%; D +0.22%","baseline_parent omega gives a small safe GLU->MEP basin; C/D positions still flat"
