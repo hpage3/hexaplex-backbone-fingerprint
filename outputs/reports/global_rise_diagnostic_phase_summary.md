@@ -34,9 +34,25 @@ This branch was run because the generic rise_like branch was useful but still us
 
 The best parameterized result was `parameterized_rise_0p9750`: C 5.6422 A, D 7.2756 A, combined error 0.0667 A. It ties the generic `rise_like_0p9700` C/D score, but is more interpretable because the same improvement appears in a layer/repeat-aware model rather than only uniform z-scaling. C still moves toward 5.6 A with compression. D remains stable at 7.2756 A from 0.9750 through 1.0000, but drops to 7.1923 A at 0.9600, 0.9650, and 0.9700. Preserving within-layer z offsets changes the D threshold behavior slightly. Parameterized profile shifts versus baseline were C: centroid 0.0103134 A, parabolic 0.155171 A; D: centroid 0.00118915 A, parabolic 0.062937 A.
 
+## Register-defined layer model audit
+
+This audit was run to validate whether the 45 z-slice layers used by the parameterized rise branch are chemically/register meaningful. It compared five models: `z_slice_layer`, `residue_index_layer`, `ca_register_layer`, `repeat_pair_layer`, and `peptide_plane_layer`.
+
+Main contrast: z-slice layers are geometrically regular but split most residues; register-defined layers avoid residue splitting and are chemically cleaner but geometrically diffuse in this antiparallel/offset parent structure.
+
+- `z_slice_layer`: 45 layers, 174/180 split residues, median spacing about 1.1768 A.
+- `residue_index_layer`: 30 layers, 0 split residues, median thickness about 27.0555 A.
+- `ca_register_layer`: 30 layers, 0 split residues, median thickness about 26.0625 A.
+- `repeat_pair_layer`: 15 layers, 0 split residues, median thickness about 27.2300 A.
+- `peptide_plane_layer`: 30 layers, 0 split residues, median thickness about 24.8489 A.
+
+Mean z-slice overlap counts were: residue_index_layer 5.73, ca_register_layer 1.97, repeat_pair_layer 7.60, and peptide_plane_layer 5.73.
+
+Conservative conclusion: the z-slice model is useful as a computational deformation coordinate; register-defined layers are chemically cleaner but geometrically diffuse. Do not call the 45 z-slices physical hexad layers yet.
+
 ## 8. Overall Interpretation
 
-C is mainly axial/rise-like sensitive; in the layer-aware branch, C remains primarily axial/rise-sensitive. D is mainly radial/inter-strand-distance sensitive; in the layer-aware branch, D remains primarily radial/inter-strand-distance sensitive. The best parameterized rise scale is 0.9750, corresponding to about 2.5% effective layer-rise compression. Generic `rise_like_0p9700` and `parameterized_rise_0p9750` produce the same best C/D peaks. Stronger compression still improves C, but begins to damage D. Local torsion perturbations did not change the larger structural length scales enough to move C/D.
+Local C-alpha anchored torsion basin did not move C/D. Global/rise diagnostics did move C/D. D is mainly radial/inter-strand-distance sensitive. C is mainly axial/rise-like sensitive. The best current diagnostic result is `parameterized_rise_0p9750`: C 5.6422 A, D 7.2756 A, combined absolute error 0.0667 A. It corresponds to about 2.5% effective layer-rise compression in the diagnostic layer model. The register-defined audit shows the current layer model should be described as effective computational z-layer compression, pending mapping to a chemically/register-defined structural model; it is not chemically definitive. Stronger compression still improves C, but begins to damage D.
 
 ## 9. What Not To Overclaim
 
@@ -45,20 +61,21 @@ C is mainly axial/rise-like sensitive; in the layer-aware branch, C remains prim
 - Treat the layer-aware parameterized rise model as not fully physical or minimized.
 - Do not claim the inferred 45 layers are uniquely defined structural layers without further validation.
 - Do not claim the optimal scale is exact; peak-picking/binning discretization still matters.
+- Do not claim the 45 z-slices are physical hexad layers.
+- Do not claim `parameterized_rise_0p9750` is a validated physical rise-per-hexad model.
+- Do not claim register-defined residue/peptide-plane layers reproduce the z-slice rise result.
+- Do not claim the model is chemically minimized.
 - Do not claim backbone is irrelevant.
 - Do not claim C/D sensitivity is fully solved.
 - Do not treat loose global geometry gates as chemical validation.
 
 ## 10. Recommended Next Scientific Branches
 
-- Option A: physically parameterized rise/rise-per-repeat model. Build or regenerate coordinates by changing helical rise/repeat spacing rather than globally scaling z.
-- Option B: combined rise + radial compensation. Test whether mild radial adjustment can preserve D while stronger rise compression targets C.
-- Option C: validate layer assignment and the physical meaning of the 45 inferred layers.
-- Option D: map the 0.975 parameterized rise scale into helical rise/repeat parameters. Ask what backbone/stack parameters produce about 2.5% effective layer-rise compression.
-- Option E: test a physically rebuilt helical model with adjusted rise rather than transformed parent coordinates.
-- Option F: consider a small rise + radial compensation branch only after this report update.
-- Option D: minimized/refined structural candidates. Use an external minimizer or physically constrained coordinate builder to relax the best diagnostic variants.
-- Option G: prepare concise Nick/team update. Summarize the local torsion negative result plus the global/rise positive result.
+- Option A: chemically annotated register model. Use known/validated hexad or repeat-register annotations rather than purely z-derived layers.
+- Option B: physically rebuilt helical/rise model. Generate coordinates from helical/rise parameters instead of transforming the parent coordinates.
+- Option C: repeat-pair or peptide-plane constrained rise model. Even though diffuse, these are chemically cleaner and may be useful if paired with additional structural constraints.
+- Option D: rise + radial compensation. Only after a more physical rise model is defined, test whether radial compensation can preserve D while targeting C.
+- Option E: external minimization/refinement. Relax diagnostic candidates under structural restraints to test whether the effective rise compression is chemically feasible.
 
 ## 11. Current Best Diagnostic Result
 
@@ -66,7 +83,7 @@ C is mainly axial/rise-like sensitive; in the layer-aware branch, C remains prim
 - C peak: 5.6422 A
 - D peak: 7.2756 A
 - Combined absolute error: 0.0667 A
-- Diagnostic interpretation: `parameterized_rise_0p9750` ties the generic `rise_like_0p9700` C/D score but is more interpretable because it preserves within-layer z offsets while changing layer spacing.
+- Diagnostic interpretation: `parameterized_rise_0p9750` is the best current diagnostic result, but after the register-defined layer audit it should be described as effective computational z-layer compression, pending mapping to a chemically/register-defined structural model.
 
 ## Summary Table
 
@@ -80,6 +97,8 @@ C is mainly axial/rise-like sensitive; in the layer-aware branch, C remains prim
 | rise_like_diagnostic | 9 | 9 | 9 | rise_like_0p9700 | 5.64223 | 7.27558 | 0.0666505 |
 | parameterized_rise_diagnostic | 9 | 9 | 9 | parameterized_rise_0p9750 | 5.64223 | 7.27558 | 0.0666505 |
 | updated_overall_best | 9 | 9 | 9 | parameterized_rise_0p9750 | 5.64223 | 7.27558 | 0.0666505 |
+| register_defined_layer_audit | 0 | not applicable | 0 | not applicable |  |  |  |
+| final_current_interpretation | 9 | 9 | 9 | parameterized_rise_0p9750 | 5.6422 | 7.2756 | 0.0667 |
 
 ## Missing Optional Inputs
 

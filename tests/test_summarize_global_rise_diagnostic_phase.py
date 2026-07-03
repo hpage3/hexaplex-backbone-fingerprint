@@ -74,7 +74,8 @@ def test_construct_summary_rows_contains_expected_phases() -> None:
     assert "global_deformation" in phases
     assert "rise_like_diagnostic" in phases
     assert "parameterized_rise_diagnostic" in phases
-    assert phases[-1] == "updated_overall_best"
+    assert "register_defined_layer_audit" in phases
+    assert phases[-1] == "final_current_interpretation"
 
 
 def test_overall_best_prefers_parameterized_branch_on_tie() -> None:
@@ -103,11 +104,18 @@ def test_overall_best_prefers_parameterized_branch_on_tie() -> None:
     assert row["best_variant"] == "parameterized_rise_0p9750"
 
 
+def test_construct_summary_rows_includes_register_and_final_rows() -> None:
+    rows = construct_summary_rows()
+    phases = {row["phase"] for row in rows}
+    assert "register_defined_layer_audit" in phases
+    assert "final_current_interpretation" in phases
+
+
 def test_report_text_contains_required_phrases() -> None:
     summary = pd.DataFrame(
         [
             {
-                "phase": "updated_overall_best",
+                "phase": "final_current_interpretation",
                 "branch": "overall best diagnostic",
                 "variants_generated": 9,
                 "geometry_interpretable": 9,
@@ -136,3 +144,8 @@ def test_report_text_contains_required_phrases() -> None:
     assert "2.5% effective layer-rise compression" in text
     assert "not fully physical or minimized" in text
     assert "inferred 45 layers are uniquely defined" in text
+    assert "Register-defined layer model audit" in text
+    assert "computational z-layer compression" in text
+    assert "not chemically definitive" in text
+    assert "Do not claim the 45 z-slices are physical hexad layers" in text
+    assert "register-defined layers are chemically cleaner but geometrically diffuse" in text

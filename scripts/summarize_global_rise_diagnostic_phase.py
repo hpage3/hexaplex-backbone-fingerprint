@@ -49,6 +49,9 @@ INPUT_PATHS = [
     Path("outputs/reports/parameterized_rise_variant_cd_scores.md"),
     Path("outputs/metrics/parameterized_rise_cd_profile_diagnostics.csv"),
     Path("outputs/reports/parameterized_rise_cd_profile_diagnostics.md"),
+    Path("outputs/metrics/register_defined_layer_model_summary.csv"),
+    Path("outputs/metrics/register_to_zslice_layer_mapping.csv"),
+    Path("outputs/reports/register_defined_layer_model_audit.md"),
 ]
 
 
@@ -178,6 +181,16 @@ def trend_strings_for_phase(phase: str) -> tuple[str, str, str]:
             "best current diagnostic D preservation remains near 7.2756 A",
             "moderate parameterized rise compression is the current best diagnostic result",
         ),
+        "register_defined_layer_audit": (
+            "not applicable",
+            "not applicable",
+            "z-slice layers are computationally regular but chemically non-unique; register-defined layers are chemically cleaner but geometrically diffuse",
+        ),
+        "final_current_interpretation": (
+            "C is axial/rise-like sensitive, but the current layer model is computational rather than chemically definitive",
+            "D is radial/inter-strand-distance sensitive and remains preserved in the best diagnostic result",
+            "best current result is effective computational z-layer compression, pending chemically/register-defined physical model",
+        ),
     }
     return trends.get(phase, ("", "", ""))
 
@@ -248,12 +261,14 @@ def overall_best_row(rows: Iterable[dict[str, object]]) -> dict[str, object]:
         "rise_like_diagnostic": 4,
         "parameterized_rise_diagnostic": 5,
     }
-    scored_rows = [
-        row
-        for row in rows
-        if row["phase"] != "constrained_backbone_context" and safe_float(row["best_combined_abs_error_A"]) is not None
-    ]
-    scored_rows = [row for row in scored_rows if not math.isnan(float(row["best_combined_abs_error_A"]))]
+    scored_rows = []
+    for row in rows:
+        if row["phase"] == "constrained_backbone_context":
+            continue
+        value = safe_float(row.get("best_combined_abs_error_A"))
+        if value is None or math.isnan(float(value)):
+            continue
+        scored_rows.append(row)
     if not scored_rows:
         row = constrained_context_row()
         row["phase"] = "updated_overall_best"
@@ -277,6 +292,48 @@ def overall_best_row(rows: Iterable[dict[str, object]]) -> dict[str, object]:
     }
 
 
+def register_defined_layer_audit_row(root: Path = Path(".")) -> dict[str, object]:
+    """Return summary row for the register-defined layer model audit."""
+    summary = read_csv_if_present(root / "outputs/metrics/register_defined_layer_model_summary.csv")
+    c_trend, d_trend, interpretation = trend_strings_for_phase("register_defined_layer_audit")
+    return {
+        "phase": "register_defined_layer_audit",
+        "branch": "register-defined layer model audit",
+        "variants_generated": "" if summary is None else 0,
+        "geometry_interpretable": "not applicable",
+        "variants_scored": 0,
+        "best_variant": "not applicable",
+        "best_C_peak_A": "",
+        "best_D_peak_A": "",
+        "best_C_error_A": "",
+        "best_D_error_A": "",
+        "best_combined_abs_error_A": "",
+        "primary_C_trend": c_trend,
+        "primary_D_trend": d_trend,
+        "interpretation": interpretation,
+    }
+
+
+def final_current_interpretation_row(rows: Iterable[dict[str, object]]) -> dict[str, object]:
+    """Return final current interpretation row after the register-defined layer audit."""
+    best = overall_best_row(rows)
+    c_trend, d_trend, interpretation = trend_strings_for_phase("final_current_interpretation")
+    return {
+        **best,
+        "phase": "final_current_interpretation",
+        "branch": "final current interpretation after register-defined layer audit",
+        "best_variant": "parameterized_rise_0p9750",
+        "best_C_peak_A": 5.6422,
+        "best_D_peak_A": 7.2756,
+        "best_C_error_A": 0.0422,
+        "best_D_error_A": -0.0244,
+        "best_combined_abs_error_A": 0.0667,
+        "primary_C_trend": c_trend,
+        "primary_D_trend": d_trend,
+        "interpretation": interpretation,
+    }
+
+
 def construct_summary_rows(root: Path = Path(".")) -> list[dict[str, object]]:
     """Build all summary rows from available output files."""
     rows = [constrained_context_row()]
@@ -285,6 +342,8 @@ def construct_summary_rows(root: Path = Path(".")) -> list[dict[str, object]]:
         geometry = read_csv_if_present(root / info["geometry"])
         rows.append(summary_row_from_inputs(phase, str(info["branch"]), scores, geometry))
     rows.append(overall_best_row(rows))
+    rows.append(register_defined_layer_audit_row(root))
+    rows.append(final_current_interpretation_row(rows))
     return rows
 
 
@@ -306,12 +365,52 @@ def profile_shift_text(diag: pd.DataFrame | None, centroid_col: str, parabola_co
     return pieces[0], pieces[1]
 
 
+def register_audit_section(register_summary: pd.DataFrame | None, register_mapping: pd.DataFrame | None) -> str:
+    """Return register-defined layer audit markdown section text."""
+    if register_summary is None:
+        return "Register-defined layer model audit outputs were not available."
+    rows = {row["model_name"]: row for _, row in register_summary.iterrows()}
+
+    def metric(model: str, column: str, default: str = "not available") -> object:
+        row = rows.get(model)
+        if row is None:
+            return default
+        value = row.get(column, default)
+        if pd.isna(value):
+            return default
+        return value
+
+    overlap = {}
+    if register_mapping is not None and not register_mapping.empty:
+        overlap = register_mapping.groupby("model_name")["zslice_layer_count"].mean().to_dict()
+
+    def overlap_text(model: str) -> str:
+        value = overlap.get(model)
+        return "not available" if value is None else f"{float(value):.2f}"
+
+    return f"""This audit was run to validate whether the 45 z-slice layers used by the parameterized rise branch are chemically/register meaningful. It compared five models: `z_slice_layer`, `residue_index_layer`, `ca_register_layer`, `repeat_pair_layer`, and `peptide_plane_layer`.
+
+Main contrast: z-slice layers are geometrically regular but split most residues; register-defined layers avoid residue splitting and are chemically cleaner but geometrically diffuse in this antiparallel/offset parent structure.
+
+- `z_slice_layer`: {int(metric('z_slice_layer', 'layer_count'))} layers, {int(metric('z_slice_layer', 'split_residue_count'))}/180 split residues, median spacing about {float(metric('z_slice_layer', 'median_layer_to_layer_delta_z_A')):.4f} A.
+- `residue_index_layer`: {int(metric('residue_index_layer', 'layer_count'))} layers, {int(metric('residue_index_layer', 'split_residue_count'))} split residues, median thickness about {float(metric('residue_index_layer', 'median_layer_thickness_A')):.4f} A.
+- `ca_register_layer`: {int(metric('ca_register_layer', 'layer_count'))} layers, {int(metric('ca_register_layer', 'split_residue_count'))} split residues, median thickness about {float(metric('ca_register_layer', 'median_layer_thickness_A')):.4f} A.
+- `repeat_pair_layer`: {int(metric('repeat_pair_layer', 'layer_count'))} layers, {int(metric('repeat_pair_layer', 'split_residue_count'))} split residues, median thickness about {float(metric('repeat_pair_layer', 'median_layer_thickness_A')):.4f} A.
+- `peptide_plane_layer`: {int(metric('peptide_plane_layer', 'layer_count'))} layers, {int(metric('peptide_plane_layer', 'split_residue_count'))} split residues, median thickness about {float(metric('peptide_plane_layer', 'median_layer_thickness_A')):.4f} A.
+
+Mean z-slice overlap counts were: residue_index_layer {overlap_text('residue_index_layer')}, ca_register_layer {overlap_text('ca_register_layer')}, repeat_pair_layer {overlap_text('repeat_pair_layer')}, and peptide_plane_layer {overlap_text('peptide_plane_layer')}.
+
+Conservative conclusion: the z-slice model is useful as a computational deformation coordinate; register-defined layers are chemically cleaner but geometrically diffuse. Do not call the 45 z-slices physical hexad layers yet."""
+
+
 def build_report_text(summary: pd.DataFrame, missing: list[Path], root: Path = Path(".")) -> str:
     """Build consolidated markdown report."""
     fine_diag = read_csv_if_present(root / "outputs/metrics/fine_axial_profile_cd_profile_diagnostics.csv")
     rise_diag = read_csv_if_present(root / "outputs/metrics/rise_like_cd_profile_diagnostics.csv")
     parameterized_diag = read_csv_if_present(root / "outputs/metrics/parameterized_rise_cd_profile_diagnostics.csv")
     layer_audit = read_csv_if_present(root / "outputs/metrics/parent_axial_layer_audit.csv")
+    register_summary = read_csv_if_present(root / "outputs/metrics/register_defined_layer_model_summary.csv")
+    register_mapping = read_csv_if_present(root / "outputs/metrics/register_to_zslice_layer_mapping.csv")
     fine_c, fine_d = profile_shift_text(fine_diag, "centroid_shift_vs_0p9700_A", "parabolic_shift_vs_0p9700_A")
     rise_c, rise_d = profile_shift_text(rise_diag, "centroid_shift_vs_baseline_A", "parabolic_shift_vs_baseline_A")
     parameterized_c, parameterized_d = profile_shift_text(
@@ -323,7 +422,8 @@ def build_report_text(summary: pd.DataFrame, missing: list[Path], root: Path = P
         if layer_audit is not None and "layer_center_z_A" in layer_audit.columns
         else float("nan")
     )
-    overall = summary[summary["phase"] == "updated_overall_best"].iloc[0]
+    overall = summary[summary["phase"] == "final_current_interpretation"].iloc[0]
+    register_section = register_audit_section(register_summary, register_mapping)
     missing_text = "\n".join(f"- `{path}`" for path in missing) if missing else "_None._"
     table_cols = [
         "phase",
@@ -371,9 +471,13 @@ This branch was run because the generic rise_like branch was useful but still us
 
 The best parameterized result was `parameterized_rise_0p9750`: C 5.6422 A, D 7.2756 A, combined error 0.0667 A. It ties the generic `rise_like_0p9700` C/D score, but is more interpretable because the same improvement appears in a layer/repeat-aware model rather than only uniform z-scaling. C still moves toward 5.6 A with compression. D remains stable at 7.2756 A from 0.9750 through 1.0000, but drops to 7.1923 A at 0.9600, 0.9650, and 0.9700. Preserving within-layer z offsets changes the D threshold behavior slightly. Parameterized profile shifts versus baseline were {parameterized_c}; {parameterized_d}.
 
+## Register-defined layer model audit
+
+{register_section}
+
 ## 8. Overall Interpretation
 
-C is mainly axial/rise-like sensitive; in the layer-aware branch, C remains primarily axial/rise-sensitive. D is mainly radial/inter-strand-distance sensitive; in the layer-aware branch, D remains primarily radial/inter-strand-distance sensitive. The best parameterized rise scale is 0.9750, corresponding to about 2.5% effective layer-rise compression. Generic `rise_like_0p9700` and `parameterized_rise_0p9750` produce the same best C/D peaks. Stronger compression still improves C, but begins to damage D. Local torsion perturbations did not change the larger structural length scales enough to move C/D.
+Local C-alpha anchored torsion basin did not move C/D. Global/rise diagnostics did move C/D. D is mainly radial/inter-strand-distance sensitive. C is mainly axial/rise-like sensitive. The best current diagnostic result is `parameterized_rise_0p9750`: C 5.6422 A, D 7.2756 A, combined absolute error 0.0667 A. It corresponds to about 2.5% effective layer-rise compression in the diagnostic layer model. The register-defined audit shows the current layer model should be described as effective computational z-layer compression, pending mapping to a chemically/register-defined structural model; it is not chemically definitive. Stronger compression still improves C, but begins to damage D.
 
 ## 9. What Not To Overclaim
 
@@ -382,20 +486,21 @@ C is mainly axial/rise-like sensitive; in the layer-aware branch, C remains prim
 - Treat the layer-aware parameterized rise model as not fully physical or minimized.
 - Do not claim the inferred 45 layers are uniquely defined structural layers without further validation.
 - Do not claim the optimal scale is exact; peak-picking/binning discretization still matters.
+- Do not claim the 45 z-slices are physical hexad layers.
+- Do not claim `parameterized_rise_0p9750` is a validated physical rise-per-hexad model.
+- Do not claim register-defined residue/peptide-plane layers reproduce the z-slice rise result.
+- Do not claim the model is chemically minimized.
 - Do not claim backbone is irrelevant.
 - Do not claim C/D sensitivity is fully solved.
 - Do not treat loose global geometry gates as chemical validation.
 
 ## 10. Recommended Next Scientific Branches
 
-- Option A: physically parameterized rise/rise-per-repeat model. Build or regenerate coordinates by changing helical rise/repeat spacing rather than globally scaling z.
-- Option B: combined rise + radial compensation. Test whether mild radial adjustment can preserve D while stronger rise compression targets C.
-- Option C: validate layer assignment and the physical meaning of the {layer_count} inferred layers.
-- Option D: map the 0.975 parameterized rise scale into helical rise/repeat parameters. Ask what backbone/stack parameters produce about 2.5% effective layer-rise compression.
-- Option E: test a physically rebuilt helical model with adjusted rise rather than transformed parent coordinates.
-- Option F: consider a small rise + radial compensation branch only after this report update.
-- Option D: minimized/refined structural candidates. Use an external minimizer or physically constrained coordinate builder to relax the best diagnostic variants.
-- Option G: prepare concise Nick/team update. Summarize the local torsion negative result plus the global/rise positive result.
+- Option A: chemically annotated register model. Use known/validated hexad or repeat-register annotations rather than purely z-derived layers.
+- Option B: physically rebuilt helical/rise model. Generate coordinates from helical/rise parameters instead of transforming the parent coordinates.
+- Option C: repeat-pair or peptide-plane constrained rise model. Even though diffuse, these are chemically cleaner and may be useful if paired with additional structural constraints.
+- Option D: rise + radial compensation. Only after a more physical rise model is defined, test whether radial compensation can preserve D while targeting C.
+- Option E: external minimization/refinement. Relax diagnostic candidates under structural restraints to test whether the effective rise compression is chemically feasible.
 
 ## 11. Current Best Diagnostic Result
 
@@ -403,7 +508,7 @@ C is mainly axial/rise-like sensitive; in the layer-aware branch, C remains prim
 - C peak: {safe_float(overall['best_C_peak_A']):.4f} A
 - D peak: {safe_float(overall['best_D_peak_A']):.4f} A
 - Combined absolute error: {safe_float(overall['best_combined_abs_error_A']):.4f} A
-- Diagnostic interpretation: `parameterized_rise_0p9750` ties the generic `rise_like_0p9700` C/D score but is more interpretable because it preserves within-layer z offsets while changing layer spacing.
+- Diagnostic interpretation: `parameterized_rise_0p9750` is the best current diagnostic result, but after the register-defined layer audit it should be described as effective computational z-layer compression, pending mapping to a chemically/register-defined structural model.
 
 ## Summary Table
 
