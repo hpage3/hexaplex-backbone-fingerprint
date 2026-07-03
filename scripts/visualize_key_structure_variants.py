@@ -302,30 +302,73 @@ def plot_displacements(atoms_by_id: dict[str, list[PdbAtomLine]], outdir: Path) 
     save_figure(fig, outdir / "key_structure_variant_displacements.png", outdir / "key_structure_variant_displacements.svg")
 
 
-def mean_z_profile(atoms: list[PdbAtomLine]) -> pd.DataFrame:
-    """Return mean z by per-chain C-alpha order index."""
+def ca_z_by_chain_order(atoms: list[PdbAtomLine]) -> pd.DataFrame:
+    """Return C-alpha z coordinates by chain and per-chain coordinate order."""
     rows = []
     for chain in sorted({atom.chain for atom in ca_atoms(atoms)}):
-        chain_cas = sorted([atom for atom in ca_atoms(atoms) if atom.chain == chain], key=lambda atom: atom.index)
+        chain_cas = sorted(
+            [atom for atom in ca_atoms(atoms) if atom.chain == chain],
+            key=lambda atom: atom.index,
+        )
         for order, atom in enumerate(chain_cas, start=1):
             rows.append({"chain": chain, "order": order, "z": atom.z})
-    frame = pd.DataFrame(rows)
-    return frame.groupby("order", as_index=False)["z"].mean()
+    return pd.DataFrame(rows)
+
+
+def parent_relative_ca_displacement(
+    parent_atoms: list[PdbAtomLine],
+    variant_atoms: list[PdbAtomLine],
+) -> pd.DataFrame:
+    """Return C-alpha delta-z versus parent-centered parent z."""
+    parent = ca_z_by_chain_order(parent_atoms).rename(columns={"z": "parent_z"})
+    variant = ca_z_by_chain_order(variant_atoms).rename(columns={"z": "variant_z"})
+    merged = parent.merge(variant, on=["chain", "order"], how="inner")
+    parent_center = float(parent["parent_z"].mean())
+    merged["parent_z_centered_A"] = merged["parent_z"] - parent_center
+    merged["delta_z_A"] = merged["variant_z"] - merged["parent_z"]
+    return merged.sort_values("parent_z_centered_A")
 
 
 def plot_axial_profiles(specs: list[StructureSpec], atoms_by_id: dict[str, list[PdbAtomLine]], outdir: Path) -> None:
-    """Plot mean C-alpha z profile by per-chain coordinate order."""
+    """Plot parent-relative C-alpha axial displacement against parent z position."""
+    parent_id = "parent_baseline"
+    if parent_id not in atoms_by_id:
+        raise ValueError("parent_baseline is required for parent-relative axial displacement plotting")
+
     fig, ax = plt.subplots(figsize=(9.5, 5.5), constrained_layout=True)
+    parent_atoms = atoms_by_id[parent_id]
+
     for spec in specs:
-        profile = mean_z_profile(atoms_by_id[spec.structure_id])
-        ax.plot(profile["order"], profile["z"], marker="o", ms=3, lw=1.4, label=spec.structure_label)
-    ax.set_title("Axial C-alpha profile by chain-order index")
-    ax.set_xlabel("Per-chain C-alpha order index")
-    ax.set_ylabel("Mean z coordinate (A)")
+        if spec.structure_id == parent_id:
+            continue
+
+        displacement = parent_relative_ca_displacement(parent_atoms, atoms_by_id[spec.structure_id])
+
+        ax.scatter(
+            displacement["parent_z_centered_A"],
+            displacement["delta_z_A"],
+            s=12,
+            alpha=0.8,
+            label=spec.structure_label,
+        )
+
+        # Add a simple least-squares trend line to make compression direction visible.
+        x = displacement["parent_z_centered_A"].to_numpy()
+        y = displacement["delta_z_A"].to_numpy()
+        if len(x) >= 2:
+            slope, intercept = np.polyfit(x, y, 1)
+            x_line = np.array([x.min(), x.max()])
+            y_line = slope * x_line + intercept
+            ax.plot(x_line, y_line, linewidth=1.4, alpha=0.9)
+
+    ax.axhline(0.0, color="black", linestyle="--", linewidth=0.8)
+    ax.axvline(0.0, color="black", linestyle=":", linewidth=0.8)
+    ax.set_title("Axial C-alpha displacement relative to parent")
+    ax.set_xlabel("Parent-centered C-alpha z position (A)")
+    ax.set_ylabel("Variant delta z vs parent (A)")
     ax.legend(fontsize=8)
     ax.grid(alpha=0.25)
     save_figure(fig, outdir / "key_structure_variant_axial_profiles.png", outdir / "key_structure_variant_axial_profiles.svg")
-
 
 def plot_geometry_summary(summary: pd.DataFrame, outdir: Path) -> None:
     """Plot compact geometry metrics across structures."""
@@ -483,5 +526,7 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+
 
 
