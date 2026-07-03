@@ -39,6 +39,16 @@ INPUT_PATHS = [
     Path("outputs/metrics/rise_like_cd_profile_diagnostics.csv"),
     Path("outputs/reports/rise_like_variant_cd_scores.md"),
     Path("outputs/reports/rise_like_cd_profile_diagnostics.md"),
+    Path("outputs/metrics/parent_axial_layer_audit.csv"),
+    Path("outputs/reports/parent_axial_layer_audit.md"),
+    Path("outputs/metrics/parameterized_rise_variant_manifest.csv"),
+    Path("outputs/reports/parameterized_rise_variant_generation.md"),
+    Path("outputs/metrics/parameterized_rise_variant_geometry_audit.csv"),
+    Path("outputs/reports/parameterized_rise_variant_geometry_audit.md"),
+    Path("outputs/metrics/parameterized_rise_variant_cd_scores.csv"),
+    Path("outputs/reports/parameterized_rise_variant_cd_scores.md"),
+    Path("outputs/metrics/parameterized_rise_cd_profile_diagnostics.csv"),
+    Path("outputs/reports/parameterized_rise_cd_profile_diagnostics.md"),
 ]
 
 
@@ -67,6 +77,11 @@ PHASE_INPUTS = {
         "scores": Path("outputs/metrics/rise_like_variant_cd_scores.csv"),
         "geometry": Path("outputs/metrics/rise_like_variant_geometry_audit.csv"),
         "branch": "rise-like diagnostic",
+    },
+    "parameterized_rise_diagnostic": {
+        "scores": Path("outputs/metrics/parameterized_rise_variant_cd_scores.csv"),
+        "geometry": Path("outputs/metrics/parameterized_rise_variant_geometry_audit.csv"),
+        "branch": "layer-aware parameterized rise diagnostic",
     },
 }
 
@@ -153,10 +168,15 @@ def trend_strings_for_phase(phase: str) -> tuple[str, str, str]:
             "D remains stable from 0.9700 to 1.0000 but drops at 0.9600/0.9650",
             "0.9700 is the best combined diagnostic compromise",
         ),
-        "overall_best": (
-            "best current diagnostic C improvement is at about 3% effective rise compression",
+        "parameterized_rise_diagnostic": (
+            "C moves toward 5.6 A with layer/repeat-aware rise compression",
+            "D remains stable from 0.9750 to 1.0000 but drops at 0.9600 through 0.9700",
+            "0.9750 ties the generic rise_like best score while using a more interpretable layer-aware transform",
+        ),
+        "updated_overall_best": (
+            "best current diagnostic C improvement is at about 2.5% effective layer-rise compression",
             "best current diagnostic D preservation remains near 7.2756 A",
-            "moderate rise-like compression is the current best diagnostic result",
+            "moderate parameterized rise compression is the current best diagnostic result",
         ),
     }
     return trends.get(phase, ("", "", ""))
@@ -226,6 +246,7 @@ def overall_best_row(rows: Iterable[dict[str, object]]) -> dict[str, object]:
         "axial_only_extension": 2,
         "fine_axial_profile_diagnostic": 3,
         "rise_like_diagnostic": 4,
+        "parameterized_rise_diagnostic": 5,
     }
     scored_rows = [
         row
@@ -235,8 +256,8 @@ def overall_best_row(rows: Iterable[dict[str, object]]) -> dict[str, object]:
     scored_rows = [row for row in scored_rows if not math.isnan(float(row["best_combined_abs_error_A"]))]
     if not scored_rows:
         row = constrained_context_row()
-        row["phase"] = "overall_best"
-        row["branch"] = "overall best diagnostic"
+        row["phase"] = "updated_overall_best"
+        row["branch"] = "updated overall best diagnostic"
         return row
     best = min(
         scored_rows,
@@ -245,11 +266,11 @@ def overall_best_row(rows: Iterable[dict[str, object]]) -> dict[str, object]:
             -phase_priority.get(str(row["phase"]), -1),
         ),
     )
-    c_trend, d_trend, interpretation = trend_strings_for_phase("overall_best")
+    c_trend, d_trend, interpretation = trend_strings_for_phase("updated_overall_best")
     return {
         **best,
-        "phase": "overall_best",
-        "branch": "overall best diagnostic",
+        "phase": "updated_overall_best",
+        "branch": "updated overall best diagnostic",
         "primary_C_trend": c_trend,
         "primary_D_trend": d_trend,
         "interpretation": interpretation,
@@ -289,9 +310,20 @@ def build_report_text(summary: pd.DataFrame, missing: list[Path], root: Path = P
     """Build consolidated markdown report."""
     fine_diag = read_csv_if_present(root / "outputs/metrics/fine_axial_profile_cd_profile_diagnostics.csv")
     rise_diag = read_csv_if_present(root / "outputs/metrics/rise_like_cd_profile_diagnostics.csv")
+    parameterized_diag = read_csv_if_present(root / "outputs/metrics/parameterized_rise_cd_profile_diagnostics.csv")
+    layer_audit = read_csv_if_present(root / "outputs/metrics/parent_axial_layer_audit.csv")
     fine_c, fine_d = profile_shift_text(fine_diag, "centroid_shift_vs_0p9700_A", "parabolic_shift_vs_0p9700_A")
     rise_c, rise_d = profile_shift_text(rise_diag, "centroid_shift_vs_baseline_A", "parabolic_shift_vs_baseline_A")
-    overall = summary[summary["phase"] == "overall_best"].iloc[0]
+    parameterized_c, parameterized_d = profile_shift_text(
+        parameterized_diag, "centroid_shift_vs_baseline_A", "parabolic_shift_vs_baseline_A"
+    )
+    layer_count = len(layer_audit) if layer_audit is not None else "not available"
+    mean_layer_rise = (
+        pd.to_numeric(layer_audit["layer_center_z_A"], errors="coerce").diff().dropna().mean()
+        if layer_audit is not None and "layer_center_z_A" in layer_audit.columns
+        else float("nan")
+    )
+    overall = summary[summary["phase"] == "updated_overall_best"].iloc[0]
     missing_text = "\n".join(f"- `{path}`" for path in missing) if missing else "_None._"
     table_cols = [
         "phase",
@@ -333,14 +365,23 @@ Fine axial diagnostics showed that the C profile moves smoothly underneath discr
 
 The rise-like branch tested axial_rise_scale from 0.9600 to 1.0000. The best combined result was `rise_like_0p9700`: C 5.6422 A, D 7.2756 A, combined error 0.0667 A. C reaches about 5.5920 A at 0.9600/0.9650, but D drops to about 7.1923 A there. Thus 0.9700 is the best combined diagnostic compromise: it improves C while preserving D. Rise-like profile shifts versus baseline were {rise_c}; {rise_d}.
 
+## Parameterized rise diagnostic branch
+
+This branch was run because the generic rise_like branch was useful but still used continuous global z-scaling. The parameterized branch inferred 45 axial layers from C-alpha z positions, estimated a mean parent layer rise of about {mean_layer_rise:.4f} A, preserved each atom's local offset from its assigned layer center, and then moved only the layer centers according to the rise scale.
+
+The best parameterized result was `parameterized_rise_0p9750`: C 5.6422 A, D 7.2756 A, combined error 0.0667 A. It ties the generic `rise_like_0p9700` C/D score, but is more interpretable because the same improvement appears in a layer/repeat-aware model rather than only uniform z-scaling. C still moves toward 5.6 A with compression. D remains stable at 7.2756 A from 0.9750 through 1.0000, but drops to 7.1923 A at 0.9600, 0.9650, and 0.9700. Preserving within-layer z offsets changes the D threshold behavior slightly. Parameterized profile shifts versus baseline were {parameterized_c}; {parameterized_d}.
+
 ## 8. Overall Interpretation
 
-C is mainly axial/rise-like sensitive. D is mainly radial/inter-strand-distance sensitive. Moderate rise-like compression improves C while preserving D. Stronger rise compression reaches the C target more closely but worsens D. Local torsion perturbations did not change the larger structural length scales enough to move C/D. The best diagnostic scale is around 0.9700, corresponding to about 3% effective rise compression.
+C is mainly axial/rise-like sensitive; in the layer-aware branch, C remains primarily axial/rise-sensitive. D is mainly radial/inter-strand-distance sensitive; in the layer-aware branch, D remains primarily radial/inter-strand-distance sensitive. The best parameterized rise scale is 0.9750, corresponding to about 2.5% effective layer-rise compression. Generic `rise_like_0p9700` and `parameterized_rise_0p9750` produce the same best C/D peaks. Stronger compression still improves C, but begins to damage D. Local torsion perturbations did not change the larger structural length scales enough to move C/D.
 
 ## 9. What Not To Overclaim
 
 - Treat these as diagnostic variants, not minimized physical structures.
 - do not claim the final structure requires literal uniform 3% z-scaling.
+- Treat the layer-aware parameterized rise model as not fully physical or minimized.
+- Do not claim the inferred 45 layers are uniquely defined structural layers without further validation.
+- Do not claim the optimal scale is exact; peak-picking/binning discretization still matters.
 - Do not claim backbone is irrelevant.
 - Do not claim C/D sensitivity is fully solved.
 - Do not treat loose global geometry gates as chemical validation.
@@ -349,9 +390,12 @@ C is mainly axial/rise-like sensitive. D is mainly radial/inter-strand-distance 
 
 - Option A: physically parameterized rise/rise-per-repeat model. Build or regenerate coordinates by changing helical rise/repeat spacing rather than globally scaling z.
 - Option B: combined rise + radial compensation. Test whether mild radial adjustment can preserve D while stronger rise compression targets C.
-- Option C: map diagnostic deformation back to backbone/hexad parameters. Ask what backbone/stack parameters produce an effective 3% rise compression.
+- Option C: validate layer assignment and the physical meaning of the {layer_count} inferred layers.
+- Option D: map the 0.975 parameterized rise scale into helical rise/repeat parameters. Ask what backbone/stack parameters produce about 2.5% effective layer-rise compression.
+- Option E: test a physically rebuilt helical model with adjusted rise rather than transformed parent coordinates.
+- Option F: consider a small rise + radial compensation branch only after this report update.
 - Option D: minimized/refined structural candidates. Use an external minimizer or physically constrained coordinate builder to relax the best diagnostic variants.
-- Option E: prepare concise Nick/team update. Summarize the local torsion negative result plus the global/rise positive result.
+- Option G: prepare concise Nick/team update. Summarize the local torsion negative result plus the global/rise positive result.
 
 ## 11. Current Best Diagnostic Result
 
@@ -359,7 +403,7 @@ C is mainly axial/rise-like sensitive. D is mainly radial/inter-strand-distance 
 - C peak: {safe_float(overall['best_C_peak_A']):.4f} A
 - D peak: {safe_float(overall['best_D_peak_A']):.4f} A
 - Combined absolute error: {safe_float(overall['best_combined_abs_error_A']):.4f} A
-- Diagnostic interpretation: moderate effective rise compression improves C while preserving D.
+- Diagnostic interpretation: `parameterized_rise_0p9750` ties the generic `rise_like_0p9700` C/D score but is more interpretable because it preserves within-layer z offsets while changing layer spacing.
 
 ## Summary Table
 

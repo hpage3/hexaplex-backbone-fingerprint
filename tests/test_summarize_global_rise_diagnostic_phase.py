@@ -73,10 +73,11 @@ def test_construct_summary_rows_contains_expected_phases() -> None:
     assert "constrained_backbone_context" in phases
     assert "global_deformation" in phases
     assert "rise_like_diagnostic" in phases
-    assert phases[-1] == "overall_best"
+    assert "parameterized_rise_diagnostic" in phases
+    assert phases[-1] == "updated_overall_best"
 
 
-def test_overall_best_prefers_current_rise_like_branch_on_tie() -> None:
+def test_overall_best_prefers_parameterized_branch_on_tie() -> None:
     rows = [
         {
             "phase": "axial_only_extension",
@@ -90,20 +91,28 @@ def test_overall_best_prefers_current_rise_like_branch_on_tie() -> None:
             "best_variant": "rise_like_0p9700",
             "best_combined_abs_error_A": 0.0667,
         },
+        {
+            "phase": "parameterized_rise_diagnostic",
+            "branch": "parameterized",
+            "best_variant": "parameterized_rise_0p9750",
+            "best_combined_abs_error_A": 0.0667,
+        },
     ]
-    assert overall_best_row(rows)["best_variant"] == "rise_like_0p9700"
+    row = overall_best_row(rows)
+    assert row["phase"] == "updated_overall_best"
+    assert row["best_variant"] == "parameterized_rise_0p9750"
 
 
 def test_report_text_contains_required_phrases() -> None:
     summary = pd.DataFrame(
         [
             {
-                "phase": "overall_best",
+                "phase": "updated_overall_best",
                 "branch": "overall best diagnostic",
                 "variants_generated": 9,
                 "geometry_interpretable": 9,
                 "variants_scored": 9,
-                "best_variant": "rise_like_0p9700",
+                "best_variant": "parameterized_rise_0p9750",
                 "best_C_peak_A": 5.6422,
                 "best_D_peak_A": 7.2756,
                 "best_C_error_A": 0.0422,
@@ -121,3 +130,9 @@ def test_report_text_contains_required_phrases() -> None:
     assert "D is mainly radial/inter-strand-distance sensitive" in text
     assert "not minimized physical structures" in text
     assert "do not claim the final structure requires literal uniform 3% z-scaling" in text
+    assert "Parameterized rise diagnostic branch" in text
+    assert "45 axial layers" in text
+    assert "parameterized_rise_0p9750" in text
+    assert "2.5% effective layer-rise compression" in text
+    assert "not fully physical or minimized" in text
+    assert "inferred 45 layers are uniquely defined" in text
