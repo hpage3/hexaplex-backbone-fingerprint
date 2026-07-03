@@ -28,7 +28,6 @@ from scripts.run_parent_derived_rise_bridge import (
     REFERENCE_TOLERANCE_A,
     TARGETS_A,
     ParentDerivedRiseSpec,
-    bridge_recommendation as _bridge_recommendation,
     geometry_summary_row,
     markdown_table,
     reference_reproduces_parent,
@@ -125,16 +124,46 @@ def fine_scan_recommendation(scores: pd.DataFrame) -> str:
     return "fine_scan_failure"
 
 
+def best_score_rows(scores: pd.DataFrame, tolerance: float = 1e-9) -> pd.DataFrame:
+    """Return all rows tied for lowest combined C/D error, preserving scan order."""
+    values = pd.to_numeric(scores["combined_CD_abs_error_A"], errors="coerce")
+    best_value = values.min()
+    return scores[values.sub(best_value).abs() <= tolerance].copy()
+
+
 def best_score_row(scores: pd.DataFrame) -> pd.Series:
-    """Return best row by combined C/D error."""
-    return scores.loc[pd.to_numeric(scores["combined_CD_abs_error_A"], errors="coerce").idxmin()]
+    """Return the first scan-order row among tied lowest combined C/D error rows."""
+    return best_score_rows(scores).iloc[0]
+
+
+def plateau_text(rows: pd.DataFrame) -> str:
+    """Return compact text for a single-row or multi-row plateau."""
+    if rows.empty:
+        return "not observed"
+    if len(rows) == 1:
+        return str(rows.iloc[0]["variant_id"])
+    return f"{rows.iloc[0]['variant_id']} through {rows.iloc[-1]['variant_id']}"
 
 
 def build_report_text(scores: pd.DataFrame, geometry: pd.DataFrame, parent_pdb: Path, layer_count: int, parent_reference_rise_metric_A: float) -> str:
     """Build fine scan report."""
     recommendation = fine_scan_recommendation(scores)
     reference = scores[scores["variant_id"] == "parent_derived_scale_1p0000"].iloc[0]
+    best_rows = best_score_rows(scores)
     best = best_score_row(scores)
+    plateau = scores[
+        (pd.to_numeric(scores["observed_C_d_A"], errors="coerce").sub(DIAGNOSTIC_BEST_C_A).abs() <= 0.001)
+        & (pd.to_numeric(scores["observed_D_d_A"], errors="coerce").sub(DIAGNOSTIC_BEST_D_A).abs() <= 0.001)
+    ]
+    diagnostic_plateau_text = plateau_text(plateau)
+    best_plateau_text = plateau_text(best_rows)
+    overshoot = scores[scores["variant_id"] == "parent_derived_scale_0p9700"]
+    overshoot_text = (
+        f"0.9700 keeps C at {float(overshoot.iloc[0]['observed_C_d_A']):.4f} A but shifts D to "
+        f"{float(overshoot.iloc[0]['observed_D_d_A']):.4f} A."
+        if not overshoot.empty
+        else "0.9700 was not included."
+    )
     score_table = markdown_table(
         scores,
         [
@@ -181,6 +210,25 @@ This fine scan tests whether a parent-derived axial/rise-like scale near `0.9750
 - Expected parent C/D: about {EXPECTED_PARENT_C_A:.4f} / {EXPECTED_PARENT_D_A:.4f} A
 - Reference reproduces parent: `{bool(reference['reference_reproduces_parent'])}`
 
+## Result Summary
+
+- The parent-derived fine scan reproduces parent C/D at scale 1.0000.
+- The best combined-error plateau is `{best_plateau_text}`.
+- The diagnostic C/D-matching plateau is `{diagnostic_plateau_text}`.
+- The best C/D result matches the diagnostic `parameterized_rise_0p9750` result within the current peak-picking resolution.
+- {overshoot_text}
+- This is a success for the parent-derived fine-scan question, but it is not proof of exact original pNAB/YAML provenance.
+
+## Model Scope / Asem Symmetry Caution
+
+- This fine-scan success is limited to the existing six-fold-symmetric parent-derived coordinate family.
+- It should not be interpreted as pNAB determining the physical twist/rise geometry.
+- The pNAB-derived construction imposed a six-fold backbone-symmetry assumption because pNAB could not build two independent backbone types for two different strand classes.
+- Asem flagged that the melamine/triamino and cyanuric/triketo backbone exit vectors may not be chemically equivalent. In the Builder construction, the melamine/triamino monomer required manual adjustment of an external torsion so cyanuric acid and melamine had the same exit vector; that torsion appears strained/cis-like.
+- Combined with the peptide-planarity issue, this means the Builder-derived parent should not be emphasized as determining possible twist angles.
+- A better next modeling hypothesis is separate three-fold backbone symmetry for the melamine/triamino and cyanuric/triketo strand classes.
+- This motivates a new peptide-plane model track, not another one-dimensional parent-derived rise scan.
+
 ## Fine Scan Scores
 
 {score_table}
@@ -189,11 +237,13 @@ This fine scan tests whether a parent-derived axial/rise-like scale near `0.9750
 
 {geometry_table}
 
-## Best Candidate
+## Best Plateau
 
-- Best scale: `{best['variant_id']}`
+- Best combined-error plateau: `{best_plateau_text}`
+- Representative tie-break member: `{best['variant_id']}`
 - C/D: {float(best['observed_C_d_A']):.4f} / {float(best['observed_D_d_A']):.4f} A
 - Combined C/D error: {float(best['combined_CD_abs_error_A']):.4f} A
+- Tie-breaking note: when one row is required programmatically, the first plateau member in scan order is used. This does not imply a unique optimum.
 
 ## Comparison
 
@@ -204,7 +254,7 @@ This fine scan tests whether a parent-derived axial/rise-like scale near `0.9750
 
 `{recommendation}`
 
-Preserve the distinction between diagnostic coordinate transforms, the failed pseudo reconstructed bridge, the validated parent-derived bridge, and this fine parent-derived refinement scan. These are still controlled coordinate transforms, not minimized physical structures.
+Preserve the distinction between diagnostic coordinate transforms, the failed pseudo reconstructed bridge, the validated parent-derived bridge, and this fine parent-derived refinement scan. These are still controlled coordinate transforms, not minimized physical structures, and they do not recover original model-generation provenance by themselves.
 """
 
 
@@ -264,10 +314,11 @@ def main() -> int:
     args = parse_args()
     scores, _geometry = run_scan(args.parent_pdb, args.outdir, args.score_csv, args.geometry_csv, args.report)
     reference = scores[scores["variant_id"] == "parent_derived_scale_1p0000"].iloc[0]
+    best_rows = best_score_rows(scores)
     best = best_score_row(scores)
     print(f"Generated and scored {len(scores)} parent-derived fine-scan variants")
     print(f"Reference reproduces parent: {bool(reference['reference_reproduces_parent'])}")
-    print(f"Best scale: {best['variant_id']} C={float(best['observed_C_d_A']):.4f} D={float(best['observed_D_d_A']):.4f}")
+    print(f"Best plateau: {plateau_text(best_rows)} C={float(best['observed_C_d_A']):.4f} D={float(best['observed_D_d_A']):.4f}")
     print(f"Recommendation: {fine_scan_recommendation(scores)}")
     print(f"CSV: {args.score_csv}")
     print(f"Geometry CSV: {args.geometry_csv}")

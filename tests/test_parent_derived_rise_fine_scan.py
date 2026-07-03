@@ -10,11 +10,13 @@ from scripts.generate_global_deformation_variants import parse_pdb_atom_lines
 from scripts.run_parent_derived_rise_bridge import ParentDerivedRiseSpec, identity_preserved, write_parent_derived_variant
 from scripts.run_parent_derived_rise_fine_scan import (
     best_score_row,
+    best_score_rows,
     fine_scan_recommendation,
     fine_scan_specs,
     format_scale,
     nominal_rise_equiv,
     output_path,
+    plateau_text,
     required_score_columns,
     run_scan,
     variant_id_for_scale,
@@ -143,7 +145,35 @@ def test_best_score_and_recommendation_success() -> None:
                 "combined_CD_abs_error_A": 0.17,
             },
             {
+                "variant_id": "parent_derived_scale_0p9825",
+                "reference_reproduces_parent": True,
+                "observed_C_d_A": 5.6422,
+                "observed_D_d_A": 7.2756,
+                "combined_CD_abs_error_A": 0.0667,
+            },
+            {
+                "variant_id": "parent_derived_scale_0p9800",
+                "reference_reproduces_parent": True,
+                "observed_C_d_A": 5.6422,
+                "observed_D_d_A": 7.2756,
+                "combined_CD_abs_error_A": 0.0667,
+            },
+            {
+                "variant_id": "parent_derived_scale_0p9775",
+                "reference_reproduces_parent": True,
+                "observed_C_d_A": 5.6422,
+                "observed_D_d_A": 7.2756,
+                "combined_CD_abs_error_A": 0.0667,
+            },
+            {
                 "variant_id": "parent_derived_scale_0p9750",
+                "reference_reproduces_parent": True,
+                "observed_C_d_A": 5.6422,
+                "observed_D_d_A": 7.2756,
+                "combined_CD_abs_error_A": 0.0667,
+            },
+            {
+                "variant_id": "parent_derived_scale_0p9725",
                 "reference_reproduces_parent": True,
                 "observed_C_d_A": 5.6422,
                 "observed_D_d_A": 7.2756,
@@ -152,5 +182,99 @@ def test_best_score_and_recommendation_success() -> None:
         ]
     )
 
-    assert best_score_row(scores)["variant_id"] == "parent_derived_scale_0p9750"
+    best_rows = best_score_rows(scores)
+    assert best_score_row(scores)["variant_id"] == "parent_derived_scale_0p9825"
+    assert best_rows["variant_id"].tolist() == [
+        "parent_derived_scale_0p9825",
+        "parent_derived_scale_0p9800",
+        "parent_derived_scale_0p9775",
+        "parent_derived_scale_0p9750",
+        "parent_derived_scale_0p9725",
+    ]
+    assert plateau_text(best_rows) == "parent_derived_scale_0p9825 through parent_derived_scale_0p9725"
     assert fine_scan_recommendation(scores) == "fine_scan_success"
+
+
+def test_report_wording_distinguishes_provenance_and_plateau(tmp_path: Path) -> None:
+    from scripts.run_parent_derived_rise_fine_scan import build_report_text
+
+    parent = tmp_path / "parent.pdb"
+    write_parent_fixture(parent)
+    scores = pd.DataFrame(
+        [
+            {
+                "variant_id": "parent_derived_scale_1p0000",
+                "axial_scale": 1.0,
+                "nominal_rise_equiv_A": 3.4,
+                "realized_rise_metric_A": 1.18,
+                "observed_C_d_A": 5.7454,
+                "observed_D_d_A": 7.2756,
+                "combined_CD_abs_error_A": 0.1698,
+                "reference_reproduces_parent": True,
+                "status": "scored",
+            },
+            {
+                "variant_id": "parent_derived_scale_0p9825",
+                "axial_scale": 0.9825,
+                "nominal_rise_equiv_A": 3.3405,
+                "realized_rise_metric_A": 1.16,
+                "observed_C_d_A": 5.6422,
+                "observed_D_d_A": 7.2756,
+                "combined_CD_abs_error_A": 0.0667,
+                "reference_reproduces_parent": True,
+                "status": "scored",
+            },
+            {
+                "variant_id": "parent_derived_scale_0p9750",
+                "axial_scale": 0.975,
+                "nominal_rise_equiv_A": 3.315,
+                "realized_rise_metric_A": 1.15,
+                "observed_C_d_A": 5.6422,
+                "observed_D_d_A": 7.2756,
+                "combined_CD_abs_error_A": 0.0667,
+                "reference_reproduces_parent": True,
+                "status": "scored",
+            },
+            {
+                "variant_id": "parent_derived_scale_0p9700",
+                "axial_scale": 0.97,
+                "nominal_rise_equiv_A": 3.298,
+                "realized_rise_metric_A": 1.14,
+                "observed_C_d_A": 5.6422,
+                "observed_D_d_A": 7.1923,
+                "combined_CD_abs_error_A": 0.1499,
+                "reference_reproduces_parent": True,
+                "status": "scored",
+            },
+        ]
+    )
+    geometry = pd.DataFrame(
+        [
+            {
+                "variant_id": row["variant_id"],
+                "z_span_A": 1.0,
+                "mean_ca_radius_A": 1.0,
+                "median_interstrand_nn_ca_distance_A": 1.0,
+                "median_ca_rise_A": 1.0,
+                "atom_count": 1,
+                "carboxylate_present": True,
+            }
+            for _, row in scores.iterrows()
+        ]
+    )
+
+    text = build_report_text(scores, geometry, parent, layer_count=3, parent_reference_rise_metric_A=1.18)
+
+    assert "best combined-error plateau" in text
+    assert "Best combined-error plateau: `parent_derived_scale_0p9825 through parent_derived_scale_0p9750`" in text
+    assert "does not imply a unique optimum" in text
+    assert "0.9700 keeps C" in text
+    assert "not proof of exact original pNAB/YAML provenance" in text
+    assert "failed pseudo reconstructed bridge" in text
+    assert "Model Scope / Asem Symmetry Caution" in text
+    assert "six-fold-symmetric parent-derived coordinate family" in text
+    assert "should not be interpreted as pNAB determining the physical twist/rise geometry" in text
+    assert "pNAB-derived construction imposed a six-fold backbone-symmetry assumption" in text
+    assert "melamine/triamino and cyanuric/triketo backbone exit vectors may not be chemically equivalent" in text
+    assert "separate three-fold backbone symmetry" in text
+    assert "new peptide-plane model track, not another one-dimensional parent-derived rise scan" in text
