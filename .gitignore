@@ -2,6 +2,9 @@ __pycache__/
 .pytest_cache/
 .venv/
 outputs/*
+!outputs/manuscript/
+outputs/manuscript/*
+!outputs/manuscript/README.md
 !outputs/.gitkeep
 *.pyc
 .DS_Store
