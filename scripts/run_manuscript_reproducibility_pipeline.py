@@ -31,6 +31,8 @@ MANUSCRIPT_README = MANUSCRIPT_ROOT / "README.md"
 ITEM_STATUS_CSV = MANUSCRIPT_METRICS / "manuscript_item_status.csv"
 SURVIVING_FAMILY_CSV = MANUSCRIPT_METRICS / "manuscript_surviving_family_summary.csv"
 SUMMARY_REPORT = MANUSCRIPT_REPORTS / "manuscript_reproducibility_summary.md"
+COVERAGE_CSV = MANUSCRIPT_METRICS / "manuscript_pipeline_coverage.csv"
+COVERAGE_REPORT = MANUSCRIPT_REPORTS / "manuscript_pipeline_coverage_report.md"
 
 
 @dataclass(frozen=True)
@@ -404,6 +406,29 @@ def run_pipeline() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     item_status.to_csv(ITEM_STATUS_CSV, index=False)
     survivor.to_csv(SURVIVING_FAMILY_CSV, index=False)
     write_manuscript_readme()
+    SUMMARY_REPORT.write_text(build_summary_report(item_status, survivor, step_status), encoding="utf-8")
+    from scripts.audit_manuscript_pipeline_coverage import run as run_coverage
+
+    coverage = run_coverage(COVERAGE_CSV, COVERAGE_REPORT)
+    step_status = pd.concat(
+        [
+            step_status,
+            pd.DataFrame(
+                [
+                    {
+                        "pipeline_step": "F",
+                        "pipeline_name": "manuscript pipeline coverage audit",
+                        "primary_script": "scripts/audit_manuscript_pipeline_coverage.py",
+                        "script_status": "reran_script",
+                        "output_status": "generated_and_copied",
+                        "copied_output_count": len(coverage),
+                        "missing_output_count": int((coverage["status"] == "missing_expected_report").sum()) if not coverage.empty else 0,
+                    }
+                ]
+            ),
+        ],
+        ignore_index=True,
+    )
     SUMMARY_REPORT.write_text(build_summary_report(item_status, survivor, step_status), encoding="utf-8")
     return item_status, survivor, step_status
 

@@ -50,6 +50,19 @@ Expected manuscript-track outputs:
 
 The pipeline also copies selected stable reports and metrics into `outputs/manuscript/`.
 
+As a final validation step, the pipeline runs:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\audit_manuscript_pipeline_coverage.py
+```
+
+This writes:
+
+- `outputs/manuscript/metrics/manuscript_pipeline_coverage.csv`
+- `outputs/manuscript/reports/manuscript_pipeline_coverage_report.md`
+
+The coverage audit checks whether manuscript-supporting analysis documents have a reproducible pipeline path, a reusable existing output, or a clear `missing_data` / review status.
+
 ## What Publication Track Means
 
 The publication track is a documented, additive path through the current repo that identifies which code/data/outputs support manuscript-facing computational claims. It does not delete, move, rename, or hide exploratory scripts and outputs.
